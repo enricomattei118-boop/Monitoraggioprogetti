@@ -1,0 +1,48 @@
+name: Monitoraggio progetti VIA
+
+on:
+  schedule:
+    # Ora italiana 12:00 e 18:00, coprendo sia CET (UTC+1) che CEST (UTC+2)
+    - cron: "0 11 * * *"  # 12:00 CET (inverno)
+    - cron: "0 10 * * *"  # 12:00 CEST (estate)
+    - cron: "0 17 * * *"  # 18:00 CET (inverno)
+    - cron: "0 16 * * *"  # 18:00 CEST (estate)
+  workflow_dispatch: {}   # permette anche l'avvio manuale da GitHub
+
+permissions:
+  contents: write   # necessario per committare lo stato aggiornato
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installa dipendenze
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Esegui monitoraggio
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          REPORT_TO_EMAIL: ${{ secrets.REPORT_TO_EMAIL }}
+        run: python main.py
+
+      - name: Commit nuovo stato
+        run: |
+          git config user.name "via-monitor-bot"
+          git config user.email "actions@github.com"
+          git add state/
+          git diff --quiet --cached || git commit -m "Aggiorna stato progetti [skip ci]"
+          git push
