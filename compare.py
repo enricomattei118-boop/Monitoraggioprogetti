@@ -1,19 +1,14 @@
 """
-compare.py
+compare.py (versione gratuita, senza API esterne)
 Confronta lo snapshot corrente di un progetto con quello salvato al giro
-precedente, usando Claude per produrre un riassunto leggibile delle
-variazioni (non solo un diff riga per riga).
+precedente usando difflib (libreria standard Python, nessun costo).
 """
 
-import os
-from anthropic import Anthropic
-
-client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-MODEL = "claude-sonnet-4-6"
+import difflib
 
 
 def confronta_testi(id_vip: str, sezione: str, testo_precedente: str | None, testo_attuale: str) -> str:
-    """Ritorna una sintesi in italiano delle differenze tra due versioni di testo.
+    """Ritorna una descrizione testuale delle differenze tra due versioni di testo.
     Se non esiste una versione precedente, segnala che è la prima rilevazione."""
     if not testo_precedente:
         return (
@@ -24,30 +19,47 @@ def confronta_testi(id_vip: str, sezione: str, testo_precedente: str | None, tes
     if testo_precedente.strip() == testo_attuale.strip():
         return f"Nessuna variazione rilevata in '{sezione}'."
 
-    prompt = f"""Confronta queste due versioni del contenuto "{sezione}" relativo al progetto VIA con codice {id_vip}.
+    righe_precedenti = testo_precedente.splitlines()
+    righe_attuali = testo_attuale.splitlines()
 
-VERSIONE PRECEDENTE:
----
-{testo_precedente[:8000]}
----
-
-VERSIONE ATTUALE:
----
-{testo_attuale[:8000]}
----
-
-Elenca in modo sintetico e puntuale (bullet points) SOLO le variazioni sostanziali
-(nuovi documenti, cambio di stato/fase della procedura, nuove date, nuovi pareri,
-modifiche a scadenze). Ignora differenze puramente di formattazione o spazi.
-Se non ci sono variazioni sostanziali, scrivi semplicemente "Nessuna variazione sostanziale."
-Rispondi in italiano, in modo conciso."""
-
-    response = client.messages.create(
-        model=MODEL,
-        max_tokens=1000,
-        messages=[{"role": "user", "content": prompt}],
+    diff = difflib.unified_diff(
+        righe_precedenti, righe_attuali,
+        lineterm="", n=0
     )
-    return response.content[0].text
+
+    aggiunte = []
+    rimosse = []
+    for riga in diff:
+        if riga.startswith("+++") or riga.startswith("---") or riga.startswith("@@"):
+            continue
+        if riga.startswith("+"):
+            testo_pulito = riga[1:].strip()
+            if testo_pulito:
+                aggiunte.append(testo_pulito)
+        elif riga.startswith("-"):
+            testo_pulito = riga[1:].strip()
+            if testo_pulito:
+                rimosse.append(testo_pulito)
+
+    if not aggiunte and not rimosse:
+        return f"Nessuna variazione sostanziale rilevata in '{sezione}' (solo differenze di spaziatura/formattazione)."
+
+    parti = [f"Variazioni rilevate in '{sezione}':"]
+    if aggiunte:
+        parti.append("\nContenuto AGGIUNTO/MODIFICATO:")
+        for riga in aggiunte[:30]:
+            parti.append(f"  + {riga}")
+        if len(aggiunte) > 30:
+            parti.append(f"  ... e altre {len(aggiunte) - 30} righe aggiunte")
+
+    if rimosse:
+        parti.append("\nContenuto RIMOSSO/SOSTITUITO:")
+        for riga in rimosse[:30]:
+            parti.append(f"  - {riga}")
+        if len(rimosse) > 30:
+            parti.append(f"  ... e altre {len(rimosse) - 30} righe rimosse")
+
+    return "\n".join(parti)
 
 
 def genera_riassunto_progetto(id_vip: str, dati_precedenti: dict | None, dati_attuali: dict) -> dict:
