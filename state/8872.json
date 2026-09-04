@@ -1,6 +1,6 @@
 {
   "id_vip": "8872",
   "trovato": true,
-  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/10673",
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/12154",
   "errore": "Errore durante scraping: Locator.click: Timeout 30000ms exceeded.\nCall log:\nwaiting for locator(\"button[aria-label*='menu' i], .dropdown-toggle, [class*='ellipsis']\").first\n"
 }
