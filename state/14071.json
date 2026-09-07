@@ -5,5 +5,241 @@
   "nome_progetto": "Conversione HDC2 - Ecofining Sannazzaro (PV).",
   "dettagli_procedura": "Codice istanza online\tVIAVIA100000112",
   "hash_dettagli": "7af4d8d79342409f98d26524b1df8183d01396deaa37c625ebcd8f36fc38b799",
-  "errore": "Errore durante scraping: Locator.click: Timeout 30000ms exceeded.\nCall log:\nwaiting for locator(\"span.leaf[data-raggruppamentoid='132']\").first\n  -   locator resolved to <span class=\"leaf \" data-raggruppamentoid=\"132\">Documentazione integrativa/Documentazione integra…</span>\n  - attempting click action\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #1\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #2\n  -   waiting 20ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #3\n  -   waiting 100ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #4\n  -   waiting 100ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #5\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #6\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #7\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #8\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #9\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #10\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #11\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #12\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #13\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #14\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #15\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #16\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #17\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #18\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #19\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #20\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #21\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #22\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #23\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #24\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #25\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #26\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #27\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #28\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #29\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #30\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #31\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #32\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #33\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #34\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #35\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #36\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #37\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #38\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #39\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #40\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #41\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #42\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #43\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #44\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #45\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #46\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #47\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #48\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #49\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #50\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #51\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #52\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #53\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #54\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #55\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #56\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #57\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #58\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #59\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #60\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #61\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #62\n  -   waiting 500ms\n"
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elenchi Elaborati",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Relazione di incidenza",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Valutazione di Impatto Sanitario",
+      "Piano di utilizzo dei materiali di scavo",
+      "Pareri/Osservazioni Enti",
+      "Richiesta integrazioni della documentazione",
+      "Documentazione integrativa/Documentazione integrativa volontaria",
+      "Pareri/Osservazioni Enti (I)"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Parere della Regione Lombardia Direzione generale ambiente e clima sviluppo sostenibile e tutela risorse dell'ambiente Natura e Biodiversità , in data 28/11/2025",
+        "nome_file": "MASE-2025-0225405.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2025-0225405",
+        "data": "03/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1329934",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2026 - Integrazioni del 04/08/2026 - Integrazioni Volontarie in risposta alle valutazioni espresse dalla Commissione provinciale per la VIA (Parere 4/2026)",
+        "nome_file": "IntegrazioniVolontarie-ProvPavia__Rev00_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "8cce057d-6f23-4f1d-ae62-0ef77d5581ee",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423414",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2026 - Integrazioni del 04/08/2026 - Integrazioni Volontarie in risposta alle valutazioni espresse, dalla Commissione provinciale per la VIA (Parere 4/2026) - Allegato 1 Analisi dei criteri previsti dal D.D.S. Regione Lombardia del 13/05/2016",
+        "nome_file": "IntegrazioniVolontarie-ProvPavia_All._1-_AnalisiCriteri-DSS-RegioneLombardia_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "597a861e-a6e4-4d6a-b509-d7beaea69a65",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423415",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2026 - Integrazioni del 04/08/2026 - Integrazioni Volontarie in risposta alle valutazioni espresse dalla Commissione provinciale per la VIA (Parere 4/2026) - Allegato M Revisione al Piano di Monitoraggio Ambientale (Cap. 6 dello SIA)",
+        "nome_file": "IntegrazioniVolontarie-ProvPavia-AllegatoM_Cap_06_PMARev.02_030826.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "63ef0ada-a4e5-4e6d-ba6b-9271a17d73ba",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423416",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2026 - Integrazioni del 04/08/2026 - Lettera di trasmissione integrazioni volontarie",
+        "nome_file": "RAFSNZ_DIR_PCL_MM_523.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "02730e81-db0b-482f-bf14-eec883ae5962",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423417",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2026 - Integrazioni del 04/08/2026 - Studio Modellistico Ricadute in Atmosfera per lo Scenario Reale (Allegato 1 alla VIS Annesso 1)",
+        "nome_file": "VISInt.Vol_All1.Annesso1-Mappe.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b7eca8e5-8edc-4777-9d4d-19bfd61de077",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423418",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2026 - Integrazioni del 04/08/2026 - Integrazioni Volontarie allo SIA - Allegato D Annesso 1",
+        "nome_file": "VISInt.Vol_AllD-Annesso1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f8f5cebb-8ef7-4390-a09c-53ff58b19a9a",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423419",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2026 - Integrazioni del 04/08/2026 - Integrazioni Volontarie allo SIA - Allegato D Revisione dello Studio Modellistico Ricadute in Atmosfera",
+        "nome_file": "VISInt.Vol_AllegatoD_StudioModellisticoRicaduteinAtmosfera-Rev01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a366657c-22c0-40e6-a219-25556487add8",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423420",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2026 - Integrazioni del 04/08/2026 - Sviluppo del modello idrogeologico 3d",
+        "nome_file": "VISInt.Vol_Modello_Idrogeologico_3d.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "aee6fe17-9144-4b08-9200-fc742ece99b0",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423421",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2026 - Integrazioni del 04/08/2026 - Sviluppo del Modello Idrogeologico",
+        "nome_file": "VISInt.Vol_RelazioneFinaleModIdrogeologico.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "8031a581-b35c-45db-b656-f180a3417a41",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423422",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2026 - Integrazioni del 04/08/2026 - Studio Modellistico Ricadute in Atmosfera per lo Scenario Reale (Allegato 1 alla VIS)",
+        "nome_file": "VISInt.Vol_VAll1.Stud.Modell.Atm_ScenarioReale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e4c12c91-9d47-46ee-85b3-77196b904e67",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423423",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2026 - Integrazioni del 04/08/2026 - Integrazioni Volontarie alla Valutazione di Impatto Sanitario",
+        "nome_file": "VIS-IntegrazioniVolontarie_Rev.1_290726FIRME_1__c.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "0852c205-5750-4f9e-b4b8-81deb6ee7456",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423424",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2026 - Integrazioni del 04/08/2026 - Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260804_200821.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a0e811fe-5382-4129-9c94-d0ff4e7ac925",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423425",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Parere della provincia di Pavia, in data 07/04/2026",
+        "nome_file": "MASE-2026-0074632.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2026-0074632",
+        "data": "09/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1378878",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere del Comune di Sannazzaro de' Burgondi, in data 30/03/2026",
+        "nome_file": "MASE-2026-0069453.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2026-0069453",
+        "data": "01/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1376845",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al pubblico del 18/09/2025",
+        "nome_file": "Avviso_al_pubblico.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MASE-2025-0170814",
+        "data": "18/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1303051"
+      },
+      {
+        "titolo": "Studio di Impatto Ambientale - Introduzione",
+        "nome_file": "Cap_01_Introduzione_00_signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "7ebdfeea-af99-4dff-b3bf-ce6c69ff8f8f",
+        "data": "18/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1303011"
+      },
+      {
+        "titolo": "Studio di impatto ambientale",
+        "nome_file": "Cap_02_Verifica_Coerenza_Programm_Pianific_00_signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "7914ed27-325d-469f-aec9-98336e30491d",
+        "data": "18/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1303012"
+      },
+      {
+        "titolo": "Conversione HDC2 - Ecofining Sannazzaro",
+        "nome_file": "Cap_03_AnalisiCompatibilitaopera_00_SECRETATO_signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "48cd9db5-0439-40fb-afca-3fb4e104ab4e",
+        "data": "18/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1303013"
+      },
+      {
+        "titolo": "Analisi dello Stato di Fatto e dell'Ambiente",
+        "nome_file": "Cap_04_AnalisidelloStatodiFattoedellAmbiente_00_signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "96de725f-bea8-444d-a059-42a68b86338e",
+        "data": "18/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1303014"
+      },
+      {
+        "titolo": "Analisi della Compatibilità dell'Opera: Interazione Opera - Ambiente",
+        "nome_file": "Cap_05_Analisidellacompatibilitadellopera_impatti_00_signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "db87f5f9-c4e3-4071-b356-912e0f3ab65d",
+        "data": "18/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1303015"
+      },
+      {
+        "titolo": "Studio di impatto ambientale (Capitolo 7)",
+        "nome_file": "Cap_07_Valutazionegestionedeirischi_00_signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "b306261e-4217-409b-892b-81469268dc4e",
+        "data": "18/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1303016"
+      },
+      {
+        "titolo": "Elenco Elaborati della documentazione tecnica",
+        "nome_file": "VIAVIA100000112-ElencoElaborati.pdf",
+        "sezione": "Elenchi Elaborati",
+        "codice_elaborato": "e3e4fa63-9e66-4593-8593-7b8f2e944d0a",
+        "data": "18/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1303004"
+      },
+      {
+        "titolo": "Richiesta integrazione dall'ISS.",
+        "nome_file": "MASE_2025-0217603.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2025-0217603",
+        "data": "26/11/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1328027"
+      },
+      {
+        "titolo": "Richiesta integrazioni dalla regione Lombardia",
+        "nome_file": "MASE_2025-0209512.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2025-0209512",
+        "data": "11/11/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1323504"
+      }
+    ]
+  }
 }

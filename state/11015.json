@@ -5,5 +5,523 @@
   "nome_progetto": "Impianto solare fotovoltaico, in regime agro-fotovoltaico, di potenza di generazione (DC) pari a 58,90 MWp e potenza nominale e in immissione (AC) di 56,1 MWp, localizzato nei comuni di Cavarzere (VE) e Adria (RO)",
   "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM)\t11015",
   "hash_dettagli": "077bcace7c03912e8a40f50f76a0b6b6ec51e3b04909c3973ec76b374bd74508",
-  "errore": "Errore durante scraping: Locator.click: Timeout 30000ms exceeded.\nCall log:\nwaiting for locator(\"span.leaf[data-raggruppamentoid='304']\").first\n  -   locator resolved to <span class=\"leaf \" data-raggruppamentoid=\"304\">Documentazione integrativa/Documentazione integra…</span>\n  - attempting click action\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #1\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #2\n  -   waiting 20ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #3\n  -   waiting 100ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #4\n  -   waiting 100ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #5\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #6\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #7\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #8\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #9\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #10\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #11\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #12\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #13\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #14\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #15\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #16\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #17\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #18\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #19\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #20\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #21\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #22\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #23\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #24\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #25\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #26\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #27\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #28\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #29\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #30\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #31\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #32\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #33\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #34\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #35\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #36\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #37\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #38\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #39\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #40\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #41\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #42\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #43\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #44\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #45\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #46\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #47\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #48\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #49\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #50\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #51\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #52\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #53\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #54\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #55\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #56\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #57\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #58\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #59\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #60\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #61\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #62\n  -   waiting 500ms\n"
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elenchi Elaborati",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Relazione di incidenza",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Piano di utilizzo dei materiali di scavo",
+      "Osservazioni del Pubblico",
+      "Osservazioni del Pubblico inviate oltre i termini",
+      "Richiesta integrazioni della documentazione",
+      "Documentazione integrativa/Documentazione integrativa volontaria",
+      "Osservazioni del Pubblico (I)",
+      "Pareri/Osservazioni Enti (II)",
+      "Pareri/Osservazioni Enti (III)",
+      "Decreto VIA"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Ministero dell'Interno DIPARTIMENTO DEI VIGILI DEL FUOCO, DEL SOCCORSO PUBBLICO E DELLA DIFESA CIVILE COMANDO DEI VIGILI DEL FUOCO DI ROVIGO - UFFICIO PREVENZIONE INCENDI -, in data 02/04/2024",
+        "nome_file": "MASE-2024-0061386.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0061386",
+        "data": "08/04/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1016799",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Città Metropolitana di Venezia - Area Tutela Ambientale - Servizio valutazioni preliminari sostenibilità ambientale, in data 18/04/2024",
+        "nome_file": "MASE-2024-0072917.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2024-0072917",
+        "data": "22/04/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1047832",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - EL_Elaborati",
+        "nome_file": "10722AD02-DE0-00-2_El_Elaborati_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-00-2-El-Elaborati",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353258",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Relazione tecnica generale",
+        "nome_file": "10722AD02-DE0-01-2_Relazione_tecnica_generale_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-01-2-Relazione-tecnica-generale",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353259",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Inq IGM",
+        "nome_file": "10722AD02-DE0-02-2-Inq_IGM_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-02-2 - Inq-IGM",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353260",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Plan CTR Orto Catast",
+        "nome_file": "10722AD02-DE0-03-2-Plan_CTR_Orto_Catast_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-03-2 - Plan-CTR-Orto-Catast",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353261",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Plan SdF",
+        "nome_file": "10722AD02-DE0-04-0-Plan_SdF_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-04-0 - Plan-SdF",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353262",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Relazione tecnica illustrativa",
+        "nome_file": "10722AD02-DE0-05-2_Relazione_tecnica_illustrativa_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-05-2-Relazione-tecnica-illustrativa",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353263",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Plan inq CTR",
+        "nome_file": "10722AD02-DE0-06-2-Plan_inq_CTR_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-06-2 - Plan-inq-CTR",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353264",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Plan inq Orto",
+        "nome_file": "10722AD02-DE0-07-2-Plan_inq_Orto_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-07-2 - Plan-inq-Orto",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353265",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Plan EM Acque",
+        "nome_file": "10722AD02-DE0-08-0-Plan_EM_Acque_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-08-0 - Plan-EM-Acque",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353266",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Unifilare",
+        "nome_file": "10722AD02-DE0-09-2-Unifilare_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-09-2 - Unifilare",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353267",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Plan EM.paf",
+        "nome_file": "10722AD02-DE0-10-2-Plan_EM_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-10-2 - Plan-EM",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353268",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Sezioni Elettromeccaniche SdF",
+        "nome_file": "10722AD02-DE0-11-2-Sezioni_Elettromeccaniche_SdF_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-11-2 - Sezioni Elettromeccaniche SdF",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353269",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Sezioni Elettromeccaniche SdP",
+        "nome_file": "10722AD02-DE0-12-2-Sezioni_Elettromeccaniche_SdP_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-12-2- Sezioni Elettromeccaniche SdP",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353270",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Ed Integrato",
+        "nome_file": "10722AD02-DE0-13-1-Ed_Integrato_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-13-1 - Ed-Integrato",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353271",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Torre Farro.paf",
+        "nome_file": "10722AD02-DE0-14-0-Torre_Farro_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-14-0 - Torre-Farro",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353272",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Recinzione",
+        "nome_file": "10722AD02-DE0-15-0-Recinzione_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-15-0 - Recinzione",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353273",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - GE",
+        "nome_file": "10722AD02-DE0-16-0-GE_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-16-0 - GE",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353274",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Val interferenza al volo",
+        "nome_file": "10722AD02-DE0-17-1-Val_interferenza_al_volo_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-17-1 - Val-interferenza-al-volo",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353275",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Sezioni SdF e SdP nuove opere civili",
+        "nome_file": "10722AD02-DE0-18-2-Sezioni_SdF_e_SdP_nuove_opere_civili_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-18-2 - Sezioni SdF e SdP nuove opere civili",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353276",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - El componenti Carat componenti",
+        "nome_file": "10722AD02-DE0-19-0-El_componenti_Carat_componenti_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-19-0 - El-componenti-Carat-componenti",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353277",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Plan Catast APl",
+        "nome_file": "10722AD02-DE0-20-2-Plan_Catast_API_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-20-2 - Plan-Catast-API",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353278",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - El esproprio asservimento",
+        "nome_file": "10722AD02-DE0-21-0-El_esproprio_asservimento_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-21-0 - El-esproprio-asservimento",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353279",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Plan PRG",
+        "nome_file": "10722AD02-DE0-22-1-Plan_PRG_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-22-1 - Plan-PRG",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353280",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Allegato A",
+        "nome_file": "10722AD02-DE0-23-1-Allegato_A_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-23-1 - Allegato A",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353281",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Plan Catast piste Cantiere",
+        "nome_file": "10722AD02-DE0-24-2-Plan_Catast_piste_Cantiere_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-24-2 - Plan-Catast-piste-Cantiere",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353282",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - El Oc Temporanea",
+        "nome_file": "10722AD02-DE0-25-1-El_Oc_Temporanea_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-25-1 - El-Oc-Temporanea",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353283",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Rel Geologica Prelim",
+        "nome_file": "10722AD02-DE0-26-0-Rel_Geologica_Prelim_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-26-0 - Rel-Geologica-Prelim",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353284",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Rel Inv Idraulica",
+        "nome_file": "10722AD02-DE0-27-1-Rel_Inv_Idraulica_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-27-1 - Rel-Inv-Idraulica",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353285",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Rel TRS",
+        "nome_file": "10722AD02-DE0-28-1-Rel_TRS_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-28-1 - Rel-TRS",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353286",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Rel VVF",
+        "nome_file": "10722AD02-DE0-29-2_Rel_VVF_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-29 - 2-Rel-VVF",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353287",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Val Int Archeologico",
+        "nome_file": "10722AD02-DE0-30-0-Val_Int_Archeologico_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-30-0 - Val-Int-Archeologico",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353288",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - NO VINCA",
+        "nome_file": "10722AD02-DE0-31-0-NO_VINCA_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-31-0 - NO-VINCA",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353289",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Container",
+        "nome_file": "10722AD02-DE0-32-0-Container_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10722AD02-DE0-32 - 0 - Container",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353290",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Benestare PTO",
+        "nome_file": "23-00178-IT-CVZ_AM-R128_0-Benestare_PTO_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "23-00178-IT-CVZ-AM-R128-0 - Benestare PTO",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353291",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Modulo Trasmissione Integrazioni VIA",
+        "nome_file": "23-00178-IT-CVZ_AM-R190_0-Modulo_Trasmissione_Integrazioni_VIA_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "23-00178-IT-CVZ-AM-R190-0 - Modulo Trasmissione Integrazioni VIA",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353292",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Campi Elettromagnetici Cavidotto",
+        "nome_file": "23-00178-IT-CVZ_PC-R49_0_Campi_Elettromagnetici_Cavidotto_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "23-00178-IT-CVZ-PC-R49-0-Campi Elettromagnetici Cavidotto",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353293",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Trasmissione validazione PTO e sollecito conclusione del procedimento",
+        "nome_file": "23-00178-IT-L-0014-Trasmissione_validazione_PTO_e_sollecito_conclusione_del_procedimento_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "23-00178-IT-L-0014 - Trasmissione validazione PTO e sollecito conclusione del procedimento",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353294",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/12/2025 - Attraversamento cavalcaferrovia",
+        "nome_file": "DJ230012-ADR_T-ICF0-00B_Attraversamento_cavalcaferrovia_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "DJ230012-ADR T-ICF0-00B Attraversamento cavalcaferrovia",
+        "data": "03/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1353295",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Osservazioni della Società Agricola Salvagnini ss in data 02/12/2024",
+        "nome_file": "MASE-2024-0219818.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2024-0219818",
+        "data": "09/12/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1183548",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Parere della Regione Veneto - Area Tutela e Sicurezza del Territorio, in data 21/05/2025",
+        "nome_file": "MASE-2025-0097427.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2025-0097427",
+        "data": "22/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1255706",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Parere della Provincia di Rovigo - Provincia di Rovigo, in data 17/04/2025",
+        "nome_file": "MASE-2025-0073558.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2025-0073558",
+        "data": "18/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1246176",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Parere del Comune di Cavarzere in data 14/05/2025",
+        "nome_file": "MASE-2025-0091255.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2025-0091255",
+        "data": "15/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1253088",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Parere del Ministero della Cultura - Soprintendenza Speciale per il PNRR, in data 14/07/2026",
+        "nome_file": "MASE-2026-0149663.pdf",
+        "sezione": "Pareri/Osservazioni Enti (III)",
+        "codice_elaborato": "MASE-2026-0149663",
+        "data": "14/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411419",
+        "sezione_menu": "Pareri/Osservazioni Enti (III)"
+      },
+      {
+        "titolo": "Parere della Città Metropolitana di Venezia, in data 17/02/2026",
+        "nome_file": "MASE-2026-0034054.pdf",
+        "sezione": "Pareri/Osservazioni Enti (III)",
+        "codice_elaborato": "MASE-2026-0034054",
+        "data": "18/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1365548",
+        "sezione_menu": "Pareri/Osservazioni Enti (III)"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al pubblico del 18/03/2024",
+        "nome_file": "23-00178-IT-CVZ_AM-R19_0-signed.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MASE-2024-0050761",
+        "data": "18/03/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1004962"
+      },
+      {
+        "titolo": "DM MASE DM_2026-0000537",
+        "nome_file": "DM_2026-0000537.pdf",
+        "sezione": "Decreto VIA",
+        "codice_elaborato": "DM-2026-0000537",
+        "data": "20/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1421217"
+      },
+      {
+        "titolo": "Allegato al Decreto DM_2026-0000537 - Impianto solare fotovoltaico, in regime agro-fotovoltaico, di potenza di generazione (DC) pari a 58,90 MWp e potenza nominale e in immissione (AC) di 56,1 MWp, localizzato nei comuni di Cavarzere (VE) e Adria (RO) - Parere Commissione Tecnica PNRR - PNIEC n. 998 del 26 febbraio 2026",
+        "nome_file": "m_amte_MASE_REGISTRO_UFFICIALE_E_0047114_03-03-2026.pdf",
+        "sezione": "Decreto VIA",
+        "codice_elaborato": "m-amte-MASE-REGISTRO-UFFICIALE-E-0047114-03-03-2026",
+        "data": "20/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1421216"
+      },
+      {
+        "titolo": "Allegato al Decreto DM_2026-0000537 - Impianto solare fotovoltaico, in regime agro-fotovoltaico, di potenza di generazione (DC) pari a 58,90 MWp e potenza nominale e in immissione (AC) di 56,1 MWp, localizzato nei comuni di Cavarzere (VE) e Adria (RO) - Parere tecnico della Soprintendenza speciale per il PNRR.",
+        "nome_file": "MASE_2026-0149663.pdf",
+        "sezione": "Decreto VIA",
+        "codice_elaborato": "MASE-2026-0149663",
+        "data": "20/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1421215"
+      },
+      {
+        "titolo": "Studio di Impatto Ambientale",
+        "nome_file": "23-00178-IT-CVZ_SA-R04_0.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "23-00178-IT-CVZ-SA-R04-0",
+        "data": "18/03/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1004955"
+      },
+      {
+        "titolo": "Elenco Elaborati della documentazione tecnica",
+        "nome_file": "23-00178-IT-CVZ_PG-R00_0.pdf",
+        "sezione": "Elenchi Elaborati",
+        "codice_elaborato": "23-00178-IT-CVZ-PG-R00-0",
+        "data": "18/03/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1004894"
+      },
+      {
+        "titolo": "Richiesta integrazioni della Regione Veneto",
+        "nome_file": "MASE_2024-0082462.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2024-0082462",
+        "data": "13/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1055206"
+      },
+      {
+        "titolo": "Richiesta integrazioni della documentazione della SS PNRR",
+        "nome_file": "MASE_2024-0074838.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2024-0074838",
+        "data": "22/04/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1048969"
+      },
+      {
+        "titolo": "Allegato alla richiesta integrazioni della Regione Veneto - Consorzio di bonifica Adige Po",
+        "nome_file": "II-24_TEP_CB_Adige_Po_prot_4307_16_Apr_2024.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "II-24-TEP-CB-Adige-Po-prot-4307-16-Apr-2024",
+        "data": "13/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1055207"
+      },
+      {
+        "titolo": "Integrazioni del 07/08/2024 - 23-00178-IT-CVZ_PG T42_0_Documentazione_fotografica_dell_area_di_intervento-signed",
+        "nome_file": "23-00178-IT-CVZ_PG-T42_0_Documentazione_fotografica_dell_area_di_intervento-signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "All-1",
+        "data": "13/08/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1123102"
+      }
+    ]
+  }
 }

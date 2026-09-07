@@ -5,5 +5,1535 @@
   "nome_progetto": "\"RAVENNA CCS FASE 2\" per lo stoccaggio geologico di anidride carbonica nei campi gas esauriti \"Porto Corsini mare ovest\" e \"Porto Garibaldi-Agostino\"",
   "dettagli_procedura": "Codice istanza online\tWEB-VIA - VIAVIA100000155",
   "hash_dettagli": "d770f744b594f8a163fba81cea7baa8ba6c80d3628aeb760526056e7d33b05cb",
-  "errore": "Errore durante scraping: Locator.get_attribute: Error: strict mode violation: locator(\"a.icona-documentazione-tecnico-amm\") resolved to 2 elements:\n    1) <a title=\"Documentazione \" class=\"icona-documentazione-tecnico-amm\" href=\"https://va.mite.gov.it/it-IT/Oggetti/Documentazione/11069/16591\">↵                                Documentazione ↵…</a> aka get_by_title(\"Documentazione \")\n    2) <a title=\"Documentazione\" class=\"icona-documentazione-tecnico-amm\" href=\"/it-IT/Oggetti/Documentazione/12097/19111\">Documentazione</a> aka get_by_role(\"link\", name=\"Documentazione\")\n\nCall log:\nwaiting for locator(\"a.icona-documentazione-tecnico-amm\")\n"
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elenchi Elaborati",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Relazione di incidenza",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Piano di utilizzo dei materiali di scavo",
+      "Osservazioni del Pubblico",
+      "Osservazioni del Pubblico inviate oltre i termini",
+      "Pareri/Osservazioni Enti",
+      "Richiesta integrazioni della documentazione",
+      "Documentazione integrativa/Documentazione integrativa volontaria",
+      "Osservazioni del Pubblico (I)",
+      "Osservazioni del Pubblico inviate oltre i termini (I)",
+      "Pareri/Osservazioni Enti (I)",
+      "Osservazioni del Pubblico (II)",
+      "Osservazioni del Pubblico inviate oltre i termini (II)",
+      "Pareri/Osservazioni Enti (II)",
+      "Decreto VIA"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni della PROVINCIA DI FERRARA, SETTORE LAVORI PUBBLICI, PIANIFICAZIONE TERRITORIALE E MOBILITÀ, SERVIZIO PIANIFICAZIONE TERRITORIALE E URBANISTICA, in data 07/04/2025",
+        "nome_file": "MASE-2025-0065241.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0065241",
+        "data": "14/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1243220",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Comune di Ravenna - Area Infrastrutture Civili - Servizio Tutela Ambiente e Territorio in data 13/10/2025",
+        "nome_file": "MASE-2025-0188269.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0188269",
+        "data": "16/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1315656",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Rebecca Rovoletto , in qualità di legale rappresentante della Associazione ReCommon ETS, in data 27/09/2024",
+        "nome_file": "MASE-2024-0175791.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0175791",
+        "data": "01/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1153068",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Giuseppe Onofrio, in qualità di legale rappresentante della Associazione Greenpeace Onlus, in data 27/09/2024",
+        "nome_file": "MASE-2024-0175822.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0175822",
+        "data": "01/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1152925",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni dell' Unione dei Comuni Valli e Delizie - Argenta - Argenta - Ostellato - Portomaggiore - Provincia di Ferrara - Settore Programmazione Territoriale, in data 27/09/2024",
+        "nome_file": "MASE-2024-0175636.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0175636",
+        "data": "01/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1152922",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del COMUNE DI FERRARA - SETTORE AMBIENTE E AGRICOLTURA - Servizio Ambiente e Agricoltura, in data 27/09/2024",
+        "nome_file": "MASE-2024-_0175603.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024- 0175603",
+        "data": "01/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1152508",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della PROVINCIA DI FERRARA - SETTORE LAVORI PUBBLICI, PIANIFICAZIONE TERRITORIALE E MOBILITÀ, in data 27/09/2024",
+        "nome_file": "MASE-2024-0175390.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0175390",
+        "data": "01/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1152506",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Consorzio di Bonifica Pianura di Ferrara, in data 26/09/2024",
+        "nome_file": "MASE-2024-0174569.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0174569",
+        "data": "01/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1152505",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Servizio Sanitario Regionale Emilia Romagna, in data 24/09/2024",
+        "nome_file": "MASE-2024-0173247.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0173247",
+        "data": "01/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1152503",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Regione Emilia Romagna - Area Valutazione Impatto Ambientale e Autorizzazioni, in data 27/01/2025",
+        "nome_file": "MASE-2025-0013909.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2024-0013909",
+        "data": "29/01/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1207623",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni dei Prof. Michele Carducci e Prof. Angelo Gagliani per conto di - ReteLegalità per il Clima - MovimentoNoTAP/SNAM di Brindisi - CampagnaPer il Clima Fuori dal Fossile - ForumAmbientalista - Redazionedi emergenza climatica.it - CoordinamentoNazionale NoTriv, in data 30/09/2024",
+        "nome_file": "MASE-2024-0176762.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2024-0176762",
+        "data": "02/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1153329",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni della Provincia di Ravenna, in data 30/09/2024",
+        "nome_file": "MASE-2024-0176227.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2024-0176227",
+        "data": "01/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1153065",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Parere dell'ARPA Emilia Romagna, in data 27/09/2024",
+        "nome_file": "MASE-2024-0175879.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2024-0175879",
+        "data": "30/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1152481",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Parere della Provincia di Ravenna - SETTORE VIABILITA' U.O. Trasporti, Concessioni, Trasporti Eccezionali e Viabilità, in data 24/09/2024",
+        "nome_file": "MASE-2024-0173194.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2024-0173194",
+        "data": "30/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1152470",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Parere del Ministero della Cultura - SOPRINTENDENZA ARCHEOLOGIA BELLE ARTI E PAESAGGIO PER LE PROVINCE DI RAVENNA FORLÌ-CESENA E RIMINI in data 20/09/2024",
+        "nome_file": "MASE-2024-0171192.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2024-012808",
+        "data": "23/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1149589",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Parere del Comune di Ravenna in data 23/09/2024",
+        "nome_file": "MASE-2024-0171964.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2024-0171964",
+        "data": "23/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1149590",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Parere dell'Ente di gestione per i Parchi e la Biodiversità -Delta del Po in data 11/02/2025",
+        "nome_file": "MASE-2025-0025286.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2025-0025286",
+        "data": "13/02/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1215001",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CT_PNIEC_Allegato2_GCR23007-DIS-COR-C-35120_r0",
+        "nome_file": "CT_PNIEC_Allegato2_GCR23007-DIS-COR-C-35120_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "fe231049-d230-47ab-9a26-a9b4623f0abf",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234528",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Nota Integrativa sulle Motivazioni dell'Opera",
+        "nome_file": "Allegato1_GCR23007-REL-PERM-E-35049_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "78dd21a4-8544-4b67-b70a-f07ef6d87a9b",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297849",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Integrazioni Volontarie CCS Pianura Padana",
+        "nome_file": "Allegato2_GCR23007-REL-GEO-E-35017_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "829efb69-9df2-4cbf-9874-277f49bcb639",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297850",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CONS_BON_PIANURA_FE_Allegato1_GCR23007-DIS-AT-21E-36033_r1",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato1_GCR23007-DIS-AT-21E-36033_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "639520ba-f75d-4807-bcfb-6751587b88aa",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234529",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "COM_RAVENNA_Allegato4_GCR23007-PG-CI-E-35417_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "2818f174-5bf9-45fa-8fb6-0986bb05932f",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234530",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Approfondimenti su Sismologia e Liquefazione",
+        "nome_file": "Allegato3_GCR23007-REL-GEO-E-35018_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "20ca783a-63b2-4777-808b-ea3286869573",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297851",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Dichiarazione di non interferenza con attività minerarie",
+        "nome_file": "Allegato4_Dichiarazione_CCS_UNMIG.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "68cbef5b-0ad2-4854-8049-bb1961619faa",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297852",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CCS Pianura Padana - Rete di Trasporto CO2",
+        "nome_file": "REGIONEER_GCR23007-REL-PERM-E-35122_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ef120c0b-199c-4508-8b43-e85b9d658ac7",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234531",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Rischio di gravi incidenti o calamità",
+        "nome_file": "CT_PNIEC_GCR23007-REL-PERM-E-35124_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "4615a51f-e4bd-4237-a39e-baa9395a98f8",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234532",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Analisi Interferenza PDC Hub Ravenna con Siti Contaminati",
+        "nome_file": "Allegato5_GCR23007-REL-AMB-E-35019_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "65512eb9-2097-454d-8c0c-69664946927f",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297853",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Approfondimento sulle profondità di falda e gestione acque di aggottamento",
+        "nome_file": "Allegato6_GCR23007-REL-GEO-E-35026_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "13172aeb-b496-4f44-bd56-f3cfae92f2fb",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297854",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CCS Pianura Padana - Rete di Trasporto CO2",
+        "nome_file": "COM_FERRARA_GCR23007-REL-PERM-E-35112_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "39caa837-1e37-42f2-b6a2-5171fe7714b0",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234533",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Report indagini geofisiche e geognostiche",
+        "nome_file": "CT_PNIEC_Allegato1_GCR23007-REL-GEO-E-35023_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "df5f76d2-dab8-4956-bc00-0376f936e9e3",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234534",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Relazione Illustrativa Modifiche e Ottimizzazioni Progettuali",
+        "nome_file": "Allegato7_GCR23007-REL-PERM-E-35127_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6663ff90-f16c-4103-b8fa-b8eb4d121b5a",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297855",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Risultati analitici pericolosità sismica",
+        "nome_file": "Annesso1-RisultatiAnaliticiPericolositasismicadibase.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "1469177a-8331-482d-a0ae-a9be813fcb79",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297856",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "ARPAE_Allegato3_GCR23007-DIS-AMB-D-35501_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "0002e903-b0f5-462b-a545-a1339c18bd48",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234535",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -PROV_FERRARA_Allegato1_GCR23007-DIS-AT-13E-11010_r1",
+        "nome_file": "PROV_FERRARA_Allegato1_GCR23007-DIS-AT-13E-11010_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "4b01f293-ed1c-49b6-ab60-09334bc70229",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234536",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Verifica scuotimento sismico",
+        "nome_file": "Annesso2-Verificascuotimentosismico-Risultatidicalcolo.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "0a3f63be-1155-4899-9270-db4ededb8c95",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297857",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - CC SPITTuraP ama - R ded Trasporto CO2 Ist in zaper I rilascio dd prowad mento di MA PNRR- PNEC a sensi def art. 23 d d D.Lgs 022006 INTEGRAZIONI VOLONTARIE - Nio do 7",
+        "nome_file": "ElencoElaborati.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "3eb10cde-f2c9-4160-a4aa-c220ecb08cac",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297858",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CCS Pianura Padana - Rete di Trasporto CO2",
+        "nome_file": "PARCO_PO_GCR23007-REL-PERM-E-35123_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "36054ddb-a7a1-46ee-a084-0b05702c87f5",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234537",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -PROV_RAVENNA_Allegato1_GCR23007-DIS-AT-12E-11334_r0",
+        "nome_file": "PROV_FERRARA_Allegato1_GCR23007-DIS-AT-13E-11010_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "d7cda9b2-c43d-4456-9ea6-bd34b047166f",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234538",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Corografia",
+        "nome_file": "GCR23007-DIS-I-C-25042_r2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "bd663423-c231-4e87-b83d-27061cd59c04",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297859",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Corografia",
+        "nome_file": "GCR23007-DIS-I-D-25039_r2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "7a678b40-c666-4d6d-afb9-3422a4812f7e",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297860",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia del Gasdotto Ferrara-Ravenna",
+        "nome_file": "COM_RAVENNA_Allegato1_GCR23007-PG-VPE-D-35278_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6679a5ac-d33b-4127-843a-7b11e8fab2d9",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234539",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CONS_BON_PIANURA_FE_Allegato1_GCR23007-DIS-AT-28E-36028_r0",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato1_GCR23007-DIS-AT-28E-36028_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "4ae586e8-0d16-4441-a06f-685a2c5cd4c0",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234540",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Corografia",
+        "nome_file": "GCR23007-DIS-I-D-25040_r2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "17c4781f-acce-4994-a519-2a24e8fe680b",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297861",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Corografia",
+        "nome_file": "GCR23007-PG-TP-D-35508_r2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e7fa8cbb-9a5f-491f-a1f8-4a3422d9ad9a",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297862",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato2_GCR23007-DIS-I-D-25038_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "9befd8d4-0b3e-41c4-9117-0f73a292684b",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234541",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Richiesta di integrazioni per VIA PNRR-PNIEC",
+        "nome_file": "CONS_BON_ROM_OCC_GCR23007-REL-PERM-E-35116_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "462a95d5-8c8a-4b2f-b3e3-2f761d7c42be",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234542",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Corografia Ferrara Ovest",
+        "nome_file": "GCR23007-PG-TP-D-35529_r2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b02a710f-618c-4edc-ab97-2e79cf0da0a7",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297863",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Gasdotto Ferrara - Ravenna Casalborsetti DN 900",
+        "nome_file": "GCR23007-PG-VPE-D-35276_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "7849bd54-445c-427b-9fc1-e49f04445c78",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297864",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "PROV_FERRARA_Allegato3_GCR23007-MI-AMB-D-35542_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e7fb61e4-3e60-4999-8219-05d6bcdeb4c2",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234543",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia Scala 1:300.000",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato2_GCR23007-DIS-I-D-25034_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "299d6e0f-7a77-4fcb-9816-0765684257aa",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234544",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - COROGRAFIA",
+        "nome_file": "GCR23007-PG-VPE-D-35277_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "2cdae354-0824-4f99-8294-6bf2d6c08810",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297865",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - GASDOTTO Ferrara Ravenna Casalborsetti",
+        "nome_file": "GCR23007-PG-VPE-D-35278_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "5a382719-480c-486b-98b0-b75917e4ef65",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297866",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Gasdotto Ferrara-Ravenna Casalborsetti",
+        "nome_file": "PROV_RAVENNA_Allegato1_GCR23007-DIS-COR-B-35130_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f734f65a-b5b5-4edb-a6b8-3172e53244a3",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234545",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia Ferrara-Ravenna",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato2_GCR23007-DIS-I-D-25036_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ecf292a6-b771-443f-8855-304ebd6c3a39",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234546",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Corografia",
+        "nome_file": "GCR23007-PG-VPE-D-35279_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "45a0fba9-2b93-46a2-a06a-ff9bd3e8a558",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297867",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Corografia",
+        "nome_file": "GCR23007-PG-VPE-D-35280_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f58ba62f-6097-432e-9da9-60b2c28cf4df",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297868",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "CONS_BON_ROM_OCC_Allegato2_GCR23007-DIS-I-D-25041_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "33f7034c-f73d-47ca-88d9-81bc0580c9ae",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234547",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato2_GCR23007-DIS-I-D-25033_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ba00a1a8-2359-43cb-a40f-75d94958b9bf",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234548",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Corografia e CCS Pianura Padana",
+        "nome_file": "GCR23007-PG-VPE-D-35281_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b4534fe2-38d0-45eb-a490-9c5215a9d1b2",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297869",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Integrazioni volontarie per provvedimento VIA PNRR-PNIEC",
+        "nome_file": "GCR23007-REL-PERM-E-35098_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "1bd641c9-27ee-49ec-ba3d-c2b00c6bf89a",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297870",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia Ferrara-Ravenna Casalborsetti",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato2_GCR23007-DIS-I-D-25035_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "5570ed8b-0385-4ff7-a8ad-6791658270f2",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234549",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato2_GCR23007-DIS-I-D-25037_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "cd82de8c-269a-4137-83fa-f5c1efe00eb0",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234550",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Corografia",
+        "nome_file": "NZC23062-PG-TP-D-35200_r3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "95b63471-1042-4929-8516-c9afec509cef",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297871",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Risposte del Proponente alle Osservazioni",
+        "nome_file": "REL-VDO-E-35126_RispostealleOSSERVAZIONIdelPUBBLICO_Luglio2025.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f6e10a3b-7c9d-4295-ad7e-901d64a5ac40",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297872",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "CONS_BON_ROM_OCC_Allegato2_GCR23007-DIS-I-D-25040_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "55d89ef3-355b-4fe8-982c-c1a41046e0e5",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234551",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Relazione illustrativa delle risposte alle richieste di integrazione",
+        "nome_file": "GCR23007-REL-PERM-E-35068_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "99e1a572-b787-4e72-a450-c7e93aafec3e",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234552",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Elenco Elaborati della documentazione tecnica",
+        "nome_file": "VIAVIA100000019_68099-ElencoElaborati.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "770f880b-da50-4b10-9fc1-3dcfce92b239",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297873",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "PROV_FERRARA_Allegato3_GCR23007-PG-OM-D-35534_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "afb689e9-3d45-45d1-a853-4c06933d2fd7",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234553",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -COM_RAVENNA_Allegato5_GCR23007-DIS-AT-9C-11036_r1",
+        "nome_file": "COM_RAVENNA_Allegato5_GCR23007-DIS-AT-9C-11036_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "28ea0b39-4ea2-4b7c-a2a5-d010fbb96e56",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234554",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -PROV_FERRARA_Allegato1_GCR23007-DIS-AT-12E-11327_r0",
+        "nome_file": "PROV_FERRARA_Allegato1_GCR23007-DIS-AT-12E-11327_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "05d24c2d-926a-4a55-bc0b-62769a131036",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234555",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -/PROV_FERRARA_Allegato1_GCR23007-DIS-AT-22E-11044_r1",
+        "nome_file": "/PROV_FERRARA_Allegato1_GCR23007-DIS-AT-22E-11044_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6c4117fb-a9c3-44f3-8c42-45615bc276f1",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234556",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Report Indagini Geognostiche Gasdotto Porto Corsini",
+        "nome_file": "CT_PNIEC_GCR23007-REL-GEO-E-35023_r0-Annesso3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "cdcd7ff7-0e1f-40eb-bbe1-033193b2c92f",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234557",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Istanza per il rilascio del provvedimento di VIA",
+        "nome_file": "PROV_RAVENNA_GCR23007-REL-PERM-E-35108_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "2bc4280c-8dc4-44f9-8b4b-b9035f60f82b",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234558",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Richiesta di Integrazioni VIA PNRR-PNIEC",
+        "nome_file": "PROV_RAVENNA_GCR23007-REL-PERM-E-35115_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "0f38b762-4771-47ff-aaf2-7ff6879922e1",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234559",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -COM_RAVENNA_Allegato6_GCR23007-DIS-AT-11E-12002_r1",
+        "nome_file": "COM_RAVENNA_Allegato6_GCR23007-DIS-AT-11E-12002_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "328d9de6-6c99-48bb-97ae-aface159cf8c",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234560",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CONS_BON_PIANURA_FE_Allegato1_GCR23007-DIS-AT-16E-36049_r0",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato1_GCR23007-DIS-AT-16E-36049_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "46d17cfb-9b96-4f2c-88cd-646d6b081441",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234561",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato2_GCR23007-DIS-I-D-25066_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "7d93e754-9b12-4788-b20d-095e7aa2dcc6",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234562",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CONS_BON_PIANURA_FE_Allegato1_GCR23007-DIS-AT-7E-36036_r1",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato1_GCR23007-DIS-AT-7E-36036_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "468dc0dd-42c2-430f-895a-b5dbd3420421",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234563",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -ARPAE_Allegato2_COM_RAVENNA_Allegato5_GCR23007-DIS-AT-5C-12001_r1",
+        "nome_file": "ARPAE_Allegato2_COM_RAVENNA_Allegato5_GCR23007-DIS-AT-5C-12001_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a2a9b360-3a8e-4317-b980-59c1db7d164c",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234564",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "GCR23007-PG-TP-D-35248_r2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e5901cdd-2c6b-4751-97cb-2a82ca5ab436",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234565",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -PROV_RAVENNA_Allegato1_GCR23007-DIS-AT-10E-11333_r0",
+        "nome_file": "PROV_RAVENNA_Allegato1_GCR23007-DIS-AT-10E-11333_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a641c376-be1b-4c04-bfa9-f7fdd826e7f6",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234566",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Richiesta di integrazioni per progetto CCS Pianura Padana",
+        "nome_file": "ARPAE_GCR23007-REL-PERM-E-35114_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "cbb16c0d-7ed9-4999-afdc-e506336ddeaa",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234567",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -PROV_RAVENNA_Allegato1_GCR23007-DIS-AT-10E-11335_r0",
+        "nome_file": "PROV_RAVENNA_Allegato1_GCR23007-DIS-AT-10E-11335_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "7153ead2-bb8c-4c5c-907a-d75fcfd35007",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234568",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CONS_BON_PIANURA_FE_Allegato1_GCR23007-DIS-AT-7E-36074_r",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato1_GCR23007-DIS-AT-7E-36074_r.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6bbe401a-c216-4a00-8972-e74c3cbd9dd2",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234569",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Istanza per il rilascio del provvedimento di VIA",
+        "nome_file": "COM_RAVENNA_GCR23007-REL-PERM-E-35107_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "202cf431-f262-4389-ab9c-ad3c615166f6",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234570",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -PROV_FERRARA_Allegato1_GCR23007-DIS-AT-15E-11328_r0",
+        "nome_file": "PROV_FERRARA_Allegato1_GCR23007-DIS-AT-15E-11328_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "4d1afa25-bb72-4262-b27d-38a2c406019d",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234571",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CONS_BON_PIANURA_FE_Allegato1_GCR23007-DIS-AT-5E-36075_r0",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato1_GCR23007-DIS-AT-5E-36075_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "3bbc6162-2257-495e-9e41-49796197b8ee",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234572",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Tavola di Invarianza Idraulica",
+        "nome_file": "CONS_BON_ROM_OCC_Allegato3_GCR23007-MI-I-C-35718_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "524b5a8d-efe5-47e3-8303-aa33879dc29b",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234573",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Richiesta di Integrazioni",
+        "nome_file": "CT_PNIEC_GCR23007-REL-PERM-E-35117_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "812cbb54-e8ef-43bd-8795-41fa279a55de",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234574",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "COM_RAVENNA_Allegato4_GCR23007-PG-CI-E-35257_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "29abb55c-09ef-484d-9a81-16555c60960b",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234575",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia della Pianura Padana",
+        "nome_file": "GCR23007-PG-ARC-D-35236_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "38cdb54b-5adc-4958-82d1-2dfb029a47fc",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234576",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Richiesta di Integrazioni",
+        "nome_file": "MIC_GCR23007-REL-PERM-E-35106_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "dba785c1-a4ac-4b46-907d-73e179327731",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234577",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Simulazione del rumore nel Gasdotto Ferrara Ovest",
+        "nome_file": "ARPAE_Allegato1_GCR23007-PG-AMB-D-35528_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "93b38eab-0bbc-4f27-a7b2-a00714b5498f",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234578",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Cronoprogramma delle attività",
+        "nome_file": "UNIONE_COMUNI_Allegato3_GCR23007-MI-PD-E-09004_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "79f06c7b-cf94-4bcf-a98c-ac877c1ee5bb",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234579",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Richiesta di integrazioni VIA",
+        "nome_file": "UNIONE_COMUNI_GCR23007-REL-PERM-E-35111_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "05ac87ca-1d04-4980-8e7e-eb8ee5124992",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234580",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "ARPAE_Allegato1_GCR23007-PG-AMB-D-35249_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "1c2df3a1-65f4-4386-bc29-409da413faf2",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234581",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Relazione di Compatibilità Idrologico-Idraulica",
+        "nome_file": "COM_RAVENNA_Allegato3_GCR23007-REL-CI-E-35051_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "776555c8-122a-4f8c-a4fe-1bc7240ea4b4",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234582",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia della Pianura Padana",
+        "nome_file": "ARPAE_Allegato1_GCR23007-PG-AMB-D-35507_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "cae183c3-4c32-4ed3-8d75-77fc7524b8ad",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234583",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Integrazioni - Emissione per permessi",
+        "nome_file": "CONS_BON_PIANURA_FE_GCR23007-REL-PERM-E-35110_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6f07ca1b-d1a0-419d-9bda-e1dba55279cd",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234584",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -GCR23007-PG-TP-D-35508_r1",
+        "nome_file": "GCR23007-PG-TP-D-35508_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "264f8651-37f8-469b-b883-6f4a56ce2951",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234585",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato2_GCR23007-DIS-I-D-25063_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "4628c026-c7f3-43c5-aa55-241c2c598615",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234586",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "CONS_BON_ROM_OCC_Allegato2_GCR23007-DIS-I-C-25042_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6bca3c58-4871-44a0-8943-c29cbbc83420",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234587",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -PROV_FERRARA_Allegato1_GCR23007-DIS-AT-16E-11014_r1",
+        "nome_file": "PROV_FERRARA_Allegato1_GCR23007-DIS-AT-16E-11014_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "22cc49de-838f-4f26-b8dc-a25417b04dca",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234588",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "UNIONE_COMUNI_Allegato2_GCR23007-MI-AMB-D-35520_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "2b7b1316-3a41-43a8-b347-e256deab05a4",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234589",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia Parco del Delta del Po",
+        "nome_file": "MIC_Allegato1_GCR23007-PG-ARC-D-35212_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b7c1e75a-f55e-499c-8741-955c71b01226",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234590",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia del Delta del Po",
+        "nome_file": "COM_RAVENNA_Allegato1_NZC23062-PG-VPE-D-35216_r2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "3dff6c20-d2c9-4012-a30a-0e7c52604a64",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234591",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Report Indagini Geognostiche Gasdotto Ravenna Hub",
+        "nome_file": "CT_PNIEC_GCR23007-REL-GEO-E-35023_r0-Annesso2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "0a1dfe06-aa6d-4737-a546-fc0305164f3f",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234592",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -ARPAE_Allegato2_COM_RAVENNA_Allegato5_GCR23007-DIS-AT-9C-11036_r1",
+        "nome_file": "ARPAE_Allegato2_COM_RAVENNA_Allegato5_GCR23007-DIS-AT-9C-11036_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f389daaf-f27d-4e9a-9db4-c2e020f3e661",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234593",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "COM_RAVENNA_Allegato1_GCR23007-PG-VPE-D-35228_r3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "38487022-31b1-4e27-927c-9d3e0e3a1a06",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234594",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "CONS_BON_ROM_OCC_Allegato2_GCR23007-DIS-I-D-25039_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a5b82518-fa92-4204-8cb2-5a2da336daae",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234595",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Istanza di VIA e Richiesta di Integrazioni",
+        "nome_file": "PROV_FERRARA_GCR23007-REL-PERM-E-35113_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "78a5b4d4-b86a-468b-9b82-d0dc92d6475e",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234596",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato2_GCR23007-DIS-I-C-25032_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e2d25b44-c304-47bf-9153-a0c6ddbaa4c2",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234597",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia Ferrara Ovest",
+        "nome_file": "GCR23007-PG-TP-D-35529_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "fb883156-8400-42ec-9a58-05d52df9a21e",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234598",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -PROV_FERRARA_Allegato1_GCR23007-DIS-AT-16E-11331_r0",
+        "nome_file": "PROV_FERRARA_Allegato1_GCR23007-DIS-AT-16E-11331_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "8cc74603-7e29-4243-86c6-b3738f9534cc",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234599",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CONS_BON_PIANURA_FE_Allegato1_GCR23007-DIS-AT-18E-36022_r0",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato1_GCR23007-DIS-AT-18E-36022_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "620fe023-acea-4506-a192-de89876e4977",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234600",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CONS_BON_ROM_OCC_Allegato1_GCR23007-DIS-AT-18E-36004_r0",
+        "nome_file": "CONS_BON_ROM_OCC_Allegato1_GCR23007-DIS-AT-18E-36004_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "06b185db-7c86-4231-bfbe-66fbee0922d1",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234601",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -PROV_FERRARA_Allegato1_GCR23007-DIS-AT-14E-11326_r0",
+        "nome_file": "PROV_FERRARA_Allegato1_GCR23007-DIS-AT-14E-11326_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b15fbf39-9a48-4df9-ac82-2f532560309f",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234602",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Studio Previsionale di Impatto Acustico",
+        "nome_file": "ARPAE_Allegato1_GCR23007-REL-AMB-E-35061_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "97833c47-cfbc-4423-99a5-e3354e5e5ff5",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234603",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Richiesta di integrazioni per provvedimento VIA",
+        "nome_file": "SERVIZIO_SANITARIO_GCR23007-REL-PERM-E-35109_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b205e20e-b7ba-45f8-bc9a-c50ed113e521",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234604",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "ARPAE_Allegato1_NZC23062-PG-AMB-D-35050_r2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "9786c6a7-8e57-4cde-92ea-6e93c15abb41",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234605",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia Ferrara-Ravenna",
+        "nome_file": "PROV_FERRARA_Allegato2_GCR23007-DIS-I-D-25037_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "4556005c-b683-47a1-932a-8aa595e16e2a",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234606",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -PROV_FERRARA_Allegato1_GCR23007-DIS-AT-14E-11372_r0",
+        "nome_file": "PROV_FERRARA_Allegato1_GCR23007-DIS-AT-14E-11372_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "67af943e-dfbb-42f0-98a2-4da750777da2",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234607",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato2_GCR23007-DIS-I-D-25067_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "4c02900d-fc77-4636-af6f-b92cdfae8d5b",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234608",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "CONS_BON_PIANURA_FE_Allegato2_GCR23007-DIS-I-C-25065_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c3a0b8e0-c4ea-48fe-b853-54ed7f60547a",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234609",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Relazione Tecnica Illustrativa",
+        "nome_file": "CONS_BON_ROM_OCC_Allegato3_GCR23007-REL-COMP-E-35119_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "67bfa23c-4388-40ab-b5e5-dc89095290b9",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234610",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CCS Pianura Padana - Osservazioni VIA PNRR-PNIEC",
+        "nome_file": "REL-VDO-E-35118_RispostealleOSSERVAZIONIdelPUBBLICO.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "fc8b0853-aceb-484c-80a0-bb609728a1d4",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234611",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Integrazioni alla VIA per il progetto CCS Pianura Padana",
+        "nome_file": "ModuloDomanda_230592_9ACEDCBE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ec7ec3b2-f1fe-4467-b1dd-cbe90d6ebd96",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234612",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CCS Pianura Padana - Piano Trasporto CO2 Gasdotto",
+        "nome_file": "PROV_FERRARA_Allegato2_GCR23007-DIS-I-D-25033_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "10e5df4d-e252-4b3a-ad58-2cea9f2cbdfe",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234613",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Report Indagini Geognostiche Gasdotto Ferrara",
+        "nome_file": "CT_PNIEC_GCR23007-REL-GEO-E-35023_r0-Annesso1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "5aad8efd-3b14-45f8-a61b-87ce65579fc9",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234614",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Asseverazione compatibilità idraulica e idrogeologica",
+        "nome_file": "CONS_BON_ROM_OCC_Allegato4_AsseverazioneIdraulica.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f787441e-d216-4081-a6f8-404f50d257a1",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234615",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Piano di Monitoraggio Ambientale CCS Pianura Padana",
+        "nome_file": "ARPAE_Allegato3_GCR23007-REL-AMB-E-35046_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "cda7ecca-1db8-4679-ad77-4504c4db0056",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234616",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CT_PNIEC_Allegato3_GCR23007-DIS-COR-C-35121_r0",
+        "nome_file": "CT_PNIEC_Allegato3_GCR23007-DIS-COR-C-35121_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "3fe339e0-78ef-4451-94b2-514d1998d830",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234617",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -MASE_2024-0210508",
+        "nome_file": "MASE_2024-0210508.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "26857998-ff01-4fe5-b921-e2d86f1464df",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234618",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -PROV_FERRARA_Allegato1_GCR23007-DIS-AT-14E-11370_r0",
+        "nome_file": "PROV_FERRARA_Allegato1_GCR23007-DIS-AT-14E-11370_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "0d0e6345-b939-45b6-adda-24430e2cc593",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234619",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia",
+        "nome_file": "UNIONE_COMUNI_Allegato2_GCR23007-PG-OM-D-35513_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "806875ee-7e5f-476b-818f-73835c2447f8",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234620",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -COM_RAVENNA_Allegato5_GCR23007-DIS-AT-5C-12001_r1",
+        "nome_file": "COM_RAVENNA_Allegato5_GCR23007-DIS-AT-5C-12001_r1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "9486d9b4-2bae-411b-96a9-95ff43a4b5c9",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234621",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -PROV_FERRARA_Allegato1_GCR23007-DIS-AT-15E-11332_r0",
+        "nome_file": "VIAVIA100000019_40386-ElencoElaborati.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "8faf94d0-0bcd-4a2a-a031-34feffbc84ca",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234622",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Corografia e Carta dei Sondaggi Archeologici",
+        "nome_file": "GCR23007-PG-ARC-D-35229_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "bf9da338-837f-4e5b-b90d-6eb06567a854",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234623",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -Elenco Elaborati della documentazione tecnica",
+        "nome_file": "VIAVIA100000019_40386-ElencoElaborati.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "82150c3d-bcd9-4dc3-a025-8151bd9f3649",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234624",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Osservazioni delle Associazioni ReCommon ETS e Greenpeace Onlus, in data 8/04/2025",
+        "nome_file": "MASE-2025-0066969.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0066969",
+        "data": "10/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1242422",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni dell'Associazione ReCommon ETS, in data 08/04/2025",
+        "nome_file": "MASE-2025-0067004.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0067004",
+        "data": "10/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1242375",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Comune di Ravenna - Area Infrastrutture Civili Servizio Tutela Ambiente e Territorio, in data 18/04/2025",
+        "nome_file": "MASE-2025-0075204.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (I)",
+        "codice_elaborato": "MASE-2025-0075204",
+        "data": "08/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1250268",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (I)"
+      },
+      {
+        "titolo": "Osservazioni della Regione Emilia Romagna - Area Valutazioni Impatto Ambientale e Autorizzazioni in data 21/07/2025",
+        "nome_file": "MASE-2025-0137215.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (I)",
+        "codice_elaborato": "MASE-2025-0137215",
+        "data": "19/11/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1326406",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (I)"
+      },
+      {
+        "titolo": "Parere del Ministero della cultura Soprintendenza Speciale per il PNRR, in data 12/01/2025",
+        "nome_file": "MASE-2026-0003646.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2026-0003646",
+        "data": "15/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1342860",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere della Regione Emilia Romagna - SETTORE SICUREZZA TERRITORIALE E PROTEZIONE CIVILE - DISTRETTO RENO - UFFICIO TERRITORIALE DI FERRARA, in data 11/07/2025",
+        "nome_file": "MASE-2025-0131964.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2025-0131964",
+        "data": "17/07/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1274788",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere della PROVINCIA di RAVENNA - SETTORE VIABILITA, in data 26/06/2025",
+        "nome_file": "MASE-2025-0121725.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2025-0121725",
+        "data": "27/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1268090",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere del Comune di Ferrara, in data 25/06/2025",
+        "nome_file": "MASE-2025-0120816.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2025-0120816",
+        "data": "26/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1267748",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere dell'Ente di gestione per i Parchi e la Biodiversità -Delta del Po in data 03/04/2025",
+        "nome_file": "MASE-2025-0063017.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2025-0063017",
+        "data": "03/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1239668",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere del Consorzio di Bonifica Pianura di Ferrara in data 04/04/2025",
+        "nome_file": "MASE-2025-0064092.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2025-0064092",
+        "data": "07/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1240679",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere dell'Ente ARPA Emilia - Romagna in data 10/04/2025",
+        "nome_file": "MASE-2025-0068152.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2025-0068152",
+        "data": "10/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1242443",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere dell' Ente di gestione per i Parchi e la Biodiversità -Delta del Po del 06/05/2025",
+        "nome_file": "MASE-2025-0084495.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2025-0084495",
+        "data": "08/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1250254",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere dell'Ente ASL di Ferrara in data 08/05/2025",
+        "nome_file": "MASE-2025-0086522.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2025-0086522",
+        "data": "09/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1250723",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Osservazioni dell'ARPA Emilia Romagna - Area Prevenzione Ambientale - Area Est, (Ravenna, Forlì-Cesena, Rimini) in data 19/09/2025",
+        "nome_file": "MASE-2025-0172540.pdf",
+        "sezione": "Osservazioni del Pubblico (II)",
+        "codice_elaborato": "MASE-2025-0172540",
+        "data": "02/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1309772",
+        "sezione_menu": "Osservazioni del Pubblico (II)"
+      },
+      {
+        "titolo": "Osservazioni dell' Associazione ReCommon ETS, in data 19/09/2025",
+        "nome_file": "MASE-2025-0175399.pdf",
+        "sezione": "Osservazioni del Pubblico (II)",
+        "codice_elaborato": "MASE-2025-0175399",
+        "data": "01/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1308968",
+        "sezione_menu": "Osservazioni del Pubblico (II)"
+      },
+      {
+        "titolo": "Osservazioni dell'Associazione Greenpeace Ente del Terzo Settore in data 24/09/2025",
+        "nome_file": "MASE-2025-0174444.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (II)",
+        "codice_elaborato": "MASE-2025-0174444",
+        "data": "01/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1308972",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (II)"
+      },
+      {
+        "titolo": "Parere del Consorzio di Bonifica della Romagna Occidentale in data 18/11/2025",
+        "nome_file": "MASE-2025-0217015.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2025-0217015",
+        "data": "20/11/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1326596",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Pare e del CONSORZIO DI BONIFICA DELLA ROMAGNA - SETTORE T6 CONCESSIONI E PARERI TECNICI in data 6/10/2025",
+        "nome_file": "MASE-2025-0183212.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2025-0183212",
+        "data": "07/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1311281",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Parere dell'Ente di gestione per i Parchi e la Biodiversità -Delta del Po , in data 03/10/2025",
+        "nome_file": "MASE-2025-0182403.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2025-0182403",
+        "data": "06/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1310077",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al pubblico del 29/08/2024",
+        "nome_file": "Modulo_Avviso_Pubblico_rev_01.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MASE-2024-0156879",
+        "data": "29/08/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1133895"
+      },
+      {
+        "titolo": "Decreto del Ministero dell'Ambiente - CCS Pianura Padana - Rete di Trasporto CO2, Gasdotti Ferrara-Casalborsetti e Ravenna-Casalborsetti",
+        "nome_file": "DM_2026-0000039.pdf",
+        "sezione": "Decreto VIA",
+        "codice_elaborato": "DM-2026-0000039",
+        "data": "02/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1350166"
+      },
+      {
+        "titolo": "Alllegato al Decreto del Ministero dell'Ambiente - Parere della CT PNRR-PNIEC del 20 novembre 2025",
+        "nome_file": "Parere_n_890-ID_VIP_12808.pdf",
+        "sezione": "Decreto VIA",
+        "codice_elaborato": "PRR 890",
+        "data": "02/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1350169"
+      },
+      {
+        "titolo": "Allegato al Decreto del Ministero dell'Ambiente - Parere del Ministero della cultura Soprintendenza Speciale per il PNRR, in data 12/01/2025",
+        "nome_file": "MASE-2026-0003646.pdf",
+        "sezione": "Decreto VIA",
+        "codice_elaborato": "MASE-2026-0003646",
+        "data": "02/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1350172"
+      },
+      {
+        "titolo": "VALUTAZIONE DELLA CONFORMITÀ AL PRINCIPIO DNSH (Do Not Significant Harm)",
+        "nome_file": "SIA_ANNESSOQ_DNSH_GCR23007-REL-AMB-E-35015_r0-signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "9213126a-ced1-43ca-b390-0a0056b33fc7",
+        "data": "29/08/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1133861"
+      },
+      {
+        "titolo": "Studio di Impatto Ambientale",
+        "nome_file": "SIA_GCR23007-REL-AMB-E-35043_r0.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "9457aba0-eac3-4780-ab73-2d42077e6106",
+        "data": "29/08/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1133862"
+      },
+      {
+        "titolo": "Richiesta Integrazioni della CTPNRR-PNIEC",
+        "nome_file": "MASE_2024-0210508.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2024-0210508",
+        "data": "19/11/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1171849"
+      },
+      {
+        "titolo": "Elenco elaborati",
+        "nome_file": "VIAVIA100000019-ElencoElaborati.pdf",
+        "sezione": "Elenchi Elaborati",
+        "codice_elaborato": "EE",
+        "data": "29/08/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1133894"
+      },
+      {
+        "titolo": "Integrazioni del 04/08/2025 - Nota Integrativa sulle Motivazioni dell'Opera",
+        "nome_file": "Allegato1_GCR23007-REL-PERM-E-35049_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "78dd21a4-8544-4b67-b70a-f07ef6d87a9b",
+        "data": "04/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1297849"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2025 -CT_PNIEC_Allegato2_GCR23007-DIS-COR-C-35120_r0",
+        "nome_file": "CT_PNIEC_Allegato2_GCR23007-DIS-COR-C-35120_r0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "fe231049-d230-47ab-9a26-a9b4623f0abf",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234528"
+      }
+    ]
+  }
 }

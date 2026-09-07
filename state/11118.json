@@ -3,5 +3,133 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/8802",
   "nome_progetto": "Istanza per l'avvio del procedimento di Valutazione di Impatto Ambientale ai sensi dell'art. 23 del D.Lgs. 152/2006 relativo al progetto \"Steam Reforming\" di Eni s.p.a. - BioRaffineria di Venezia",
-  "errore": "Errore durante scraping: Locator.click: Error: strict mode violation: locator(\"a.icona-dettaglio-procedura\") resolved to 2 elements:\n    1) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").first\n    2) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(1)\n\nCall log:\nwaiting for locator(\"a.icona-dettaglio-procedura\")\n"
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM)\t11118",
+  "hash_dettagli": "a07b165426b9cf83a08732682f1f7928d528ee5c7afdec47c0c93939f7044b40",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Lista di controllo",
+      "Documentazione integrativa",
+      "Comunicazione esito valutazione"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Nota di riscontro",
+        "nome_file": "Nota_di_riscontro.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "Nota-di-riscontro",
+        "data": "21/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1316411",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Studio Atmosfera",
+        "nome_file": "All_1_Studio_Atmosfera.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "All.1-Studio-Atmosfera",
+        "data": "21/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1316412",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Studio previsionale d'Impatto acustico",
+        "nome_file": "All_2_VIAc_Rumore.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "All.2-VIAc-Rumore",
+        "data": "21/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1316414",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Piano di monitoraggio ambientale",
+        "nome_file": "All_3_PMA.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "All.3-PMA",
+        "data": "21/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1316415",
+        "sezione_menu": "Documentazione integrativa"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Nota di riscontro",
+        "nome_file": "Nota_di_riscontro.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "Nota-di-riscontro",
+        "data": "21/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1316411"
+      },
+      {
+        "titolo": "Integrazione_volontaria_rev1-signed",
+        "nome_file": "Integrazione_volontaria_rev1-signed.pdf",
+        "sezione": "Lista di controllo",
+        "codice_elaborato": "Integrazione-volontaria-rev1-signed",
+        "data": "25/07/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1280394"
+      },
+      {
+        "titolo": "Lista di controllo",
+        "nome_file": "VP_BioRaVe_Lista_di_controllo.pdf",
+        "sezione": "Lista di controllo",
+        "codice_elaborato": "VP-BioRaVe",
+        "data": "20/01/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1202936"
+      },
+      {
+        "titolo": "Studio Atmosfera",
+        "nome_file": "All_1_Studio_Atmosfera.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "All.1-Studio-Atmosfera",
+        "data": "21/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1316412"
+      },
+      {
+        "titolo": "Studio previsionale d'Impatto acustico",
+        "nome_file": "All_2_VIAc_Rumore.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "All.2-VIAc-Rumore",
+        "data": "21/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1316414"
+      },
+      {
+        "titolo": "Inquadramento territoriale",
+        "nome_file": "VP_BioRaVe_Tavola_1.pdf",
+        "sezione": "Lista di controllo",
+        "codice_elaborato": "Tavola 1",
+        "data": "20/01/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1202937"
+      },
+      {
+        "titolo": "Rete Natura 2000",
+        "nome_file": "VP_BioRaVe_Tavola_2.pdf",
+        "sezione": "Lista di controllo",
+        "codice_elaborato": "Tavola 2",
+        "data": "20/01/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1202939"
+      },
+      {
+        "titolo": "Piano di monitoraggio ambientale",
+        "nome_file": "All_3_PMA.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "All.3-PMA",
+        "data": "21/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1316415"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione",
+        "nome_file": "MASE_2025-0216106.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2025-0216106",
+        "data": "18/11/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1325858"
+      },
+      {
+        "titolo": "Allegato alla Comunicazione VA esito valutazione",
+        "nome_file": "Parere_n_87_SC_PNIEC_del_6_11_25-ID_VIP_13556.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "All.1",
+        "data": "18/11/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1325859"
+      }
+    ]
+  }
 }

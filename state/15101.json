@@ -3,5 +3,55 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/10259",
   "nome_progetto": "Istanza per l'avvio del procedimento di Verifica di assoggettabilità a VIA ai sensi dell'art.19 del D.Lgs. 152/2006 relativa al progetto \"Introduzione di UCO\" nella Raffineria di Venezia - Eni Sustainable Mobility",
-  "errore": "Errore durante scraping: Locator.click: Error: strict mode violation: locator(\"a.icona-dettaglio-procedura\") resolved to 3 elements:\n    1) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").first\n    2) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(1)\n    3) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(2)\n\nCall log:\nwaiting for locator(\"a.icona-dettaglio-procedura\")\n"
+  "dettagli_procedura": "Codice istanza online\tWEB-VALPREL - PVPVP00000157",
+  "hash_dettagli": "45ebf9fcd24bfb19d860899007a44f374b4919ec3db4924ea55cfd6b1fe6e13c",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Elenchi Elaborati",
+      "Lista di controllo"
+    ],
+    "documenti_di_interesse": [],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260709_211337.pdf",
+        "sezione": "Elenchi Elaborati",
+        "codice_elaborato": "863e140f-199e-44c6-92e6-8424fd704317",
+        "data": "12/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419900"
+      },
+      {
+        "titolo": "VALUTAZIONE PRELIMINARE - Lista di controllo",
+        "nome_file": "VP_variante_UCO_Listadicontrollo.pdf",
+        "sezione": "Lista di controllo",
+        "codice_elaborato": "546f7d7c-b980-4abf-a505-c065a422ed69",
+        "data": "12/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419896"
+      },
+      {
+        "titolo": "VALUTAZIONE PRELIMINARE - Relazione tecnica",
+        "nome_file": "VP_variante_UCO_Rel.tec.pdf",
+        "sezione": "Lista di controllo",
+        "codice_elaborato": "5886bc07-4a37-423d-b2fb-d8ef95fd51de",
+        "data": "12/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419897"
+      },
+      {
+        "titolo": "Valutazione preliminare (art. 6, comma 9-bis, D.lgs. 152/2006) - Inquadramento territoriale su ortofoto",
+        "nome_file": "VP_variante_UCO_Tav1.pdf",
+        "sezione": "Lista di controllo",
+        "codice_elaborato": "dc7c711f-213b-4351-b72b-a1e78545f7e8",
+        "data": "12/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419898"
+      },
+      {
+        "titolo": "Valutazione preliminare (art. 6, comma 9-bis, D.lgs. 152/2006) - Carta della Rete Natura 2000",
+        "nome_file": "VP_variante_UCO_Tav2.pdf",
+        "sezione": "Lista di controllo",
+        "codice_elaborato": "c61d4dd1-846b-4c9f-843b-3aba5a580c07",
+        "data": "12/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419899"
+      }
+    ]
+  }
 }

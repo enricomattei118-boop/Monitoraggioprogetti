@@ -3,5 +3,39 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/8601",
   "nome_progetto": "Progetto parco eolico denominato \"Borgia\" da 38,7 MW nei comuni di Borgia, Maida, San Floro, Squillace, Girifalco e Caraffa di Catanzaro (CZ) autorizzato con DDG n. 9361 del 16.06.2010 ed in ultimo con D.M. n. 151 del 12 aprile 2022 fino a giugno 2023. Richiesta di ulteriore proroga di 24 mesi del provvedimento di compatibilità ambientale.",
-  "errore": "Errore durante scraping: Locator.click: Error: strict mode violation: locator(\"a.icona-dettaglio-procedura\") resolved to 5 elements:\n    1) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").first\n    2) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(1)\n    3) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(2)\n    4) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(3)\n    5) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(4)\n\nCall log:\nwaiting for locator(\"a.icona-dettaglio-procedura\")\n"
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM)\t12834",
+  "hash_dettagli": "82cb671b78dd3b2418d7a731a33b21cbe42fd3475f183c1f80a9028f20b5bf5c",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Documentazione di ottemperanza",
+      "Pareri Enti"
+    ],
+    "documenti_di_interesse": [],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Condizione 8_Sopr_signed",
+        "nome_file": "Condizione_8_Sopr_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "Condizione 8-Sopr-signed",
+        "data": "29/07/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1112095"
+      },
+      {
+        "titolo": "Condizione 9_Sopr_signed",
+        "nome_file": "Condizione_9_Sopr_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "Condizione 9-Sopr-signed",
+        "data": "29/07/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1112096"
+      },
+      {
+        "titolo": "Parere del MIC - SOPRINTENDENZA ARCHEOLOGIA BELLE ARTI E PAESAGGIO PER LE PROVINCE DI CATANZARO E CROTONE, in data 29/08/2024",
+        "nome_file": "MASE-2024-0157085.pdf",
+        "sezione": "Pareri Enti",
+        "codice_elaborato": "MASE-2024-0157085",
+        "data": "25/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1150758"
+      }
+    ]
+  }
 }

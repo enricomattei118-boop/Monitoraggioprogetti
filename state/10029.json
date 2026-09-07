@@ -3,5 +3,39 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/8235",
   "nome_progetto": "Progetto HOOP® \"IMPIANTO PILOTA PER LA PIROLISI DI PLASTICHE MISTE\"",
-  "errore": "Errore durante scraping: Locator.click: Error: strict mode violation: locator(\"a.icona-dettaglio-procedura\") resolved to 7 elements:\n    1) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 14659 30/01/2026 Conclusa Dettagli procedura\").locator(\"a\").first\n    2) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 11272 29/08/2023 Conclusa Dettagli procedura\").locator(\"a\").first\n    3) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 10032 30/06/2023 Conclusa Dettagli procedura\").locator(\"a\").first\n    4) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 10027 23/06/2023 Istruttoria tecnica CTVIA Dettagli\").locator(\"a\").first\n    5) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 10031 16/06/2023 Conclusa Dettagli procedura\").locator(\"a\").first\n    6) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 10029 09/06/2023 In attesa parere altra\").locator(\"a\").first\n    7) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Valutazione Impatto\").locator(\"a\").first\n\nCall log:\nwaiting for locator(\"a.icona-dettaglio-procedura\")\n"
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM)\t14659",
+  "hash_dettagli": "ccb57c3f81e02813a839652491f1908159bdbb4ca14c37696cfd7e8ba109f1eb",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Documentazione di ottemperanza",
+      "Comunicazione esito valutazione"
+    ],
+    "documenti_di_interesse": [],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Progetto Hoop - Condizione Ambientale 4 - Rendicontazione emissioni anno 2025",
+        "nome_file": "Progetto_Hoop_-_Condizione_Ambientale_4_-_Rendicontazione_emissioni_anno_2025.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "Progetto Hoop - Condizione Ambientale 4 - Rendicontazione emissioni anno 2025",
+        "data": "10/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363818"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione MASE_2026-0083388",
+        "nome_file": "MASE_2026-0083388.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2026-0083388",
+        "data": "20/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1383656"
+      },
+      {
+        "titolo": "Allegato alla Comunicazione VA esito valutazione MASE_2026-0083388 - par_n_795_VO_14659_rev_signed-PROT",
+        "nome_file": "par_n_795_VO_14659_rev_signed-PROT.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "par-n-795-VO-14659-rev-signed-PROT",
+        "data": "20/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1383657"
+      }
+    ]
+  }
 }

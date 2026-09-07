@@ -5,5 +5,497 @@
   "nome_progetto": "Progetto per la realizzazione di un parco eolico offshore flottante denominato \"Atis\", di potenza pari a 864 NW da realizzare nel Mar Ligure, al largo delle coste della Toscana.",
   "dettagli_procedura": "Codice istanza online\tWEB-VIA FER-VIAVIAF00000520",
   "hash_dettagli": "f766bf19ae4064017ae6fc506d3bd197f22a69e50575150d552c09574eb54010",
-  "errore": "Errore durante scraping: Locator.click: Timeout 30000ms exceeded.\nCall log:\nwaiting for locator(\"span.leaf[data-raggruppamentoid='281']\").first\n  -   locator resolved to <span class=\"leaf \" data-raggruppamentoid=\"281\">Documentazione integrativa/Documentazione integra…</span>\n  - attempting click action\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #1\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #2\n  -   waiting 20ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #3\n  -   waiting 100ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #4\n  -   waiting 100ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #5\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #6\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #7\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #8\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #9\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #10\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #11\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #12\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #13\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #14\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #15\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #16\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #17\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #18\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #19\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #20\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #21\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #22\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #23\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #24\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #25\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #26\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #27\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #28\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #29\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #30\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #31\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #32\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #33\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #34\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #35\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #36\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #37\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #38\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #39\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #40\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #41\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #42\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #43\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #44\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #45\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #46\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #47\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #48\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #49\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #50\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #51\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #52\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #53\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #54\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #55\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #56\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #57\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #58\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #59\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #60\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #61\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #62\n  -   waiting 500ms\n"
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elenchi Elaborati",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Relazione di incidenza",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Piano di utilizzo dei materiali di scavo",
+      "Immersione in mare di materiale derivante da attività di escavo e da attività di posa in mare di cavi e condotte",
+      "Consultazioni transfrontaliere",
+      "Osservazioni del Pubblico",
+      "Osservazioni del Pubblico inviate oltre i termini",
+      "Pareri/Osservazioni Enti",
+      "Richiesta integrazioni della documentazione",
+      "Documentazione integrativa/Documentazione integrativa volontaria",
+      "Pareri/Osservazioni Enti (I)",
+      "Osservazioni del Pubblico inviate oltre i termini (II)"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni del Signor Francesco Miyakawa, in data 28/01/2026",
+        "nome_file": "MASE-2026-0018205.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2026-0018205",
+        "data": "29/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1349696",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Alessio Albertoni, in data 28/01/2026",
+        "nome_file": "MASE-2026-0017817.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2026-0017817",
+        "data": "30/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1349908",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Camilla Villata in data 28/01/2026",
+        "nome_file": "MASE-2026-0018203.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2026-0018203",
+        "data": "29/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1349642",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Maria Giulia Miyakawa in data 28/01/2026",
+        "nome_file": "MASE-2026-0018202.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2026-0018202",
+        "data": "29/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1349641",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della dottoressa Agronoma Sara Camerini in data 28/01/2026",
+        "nome_file": "MASE-2026-0018184.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2026-0018184",
+        "data": "29/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1349640",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Nicolò MIYAKAWA in data 28/01/2026",
+        "nome_file": "MASE-2026-_0018181.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2026-.0018181",
+        "data": "29/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1349639",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Jacopo Villata in data 28/01/2026",
+        "nome_file": "MASE-2026-0018198.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2026-0018198",
+        "data": "29/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1349638",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Luca Vacchero in data 28/01/2026",
+        "nome_file": "MASE-2026-0018204.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2026-0018204",
+        "data": "29/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1349637",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Giulia Scalzini in qualità di Legale rappresentante dell'azienda agricola Poggio al Grillo in data 26/01/2026",
+        "nome_file": "MASE-2026-0015991.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2026-0015991",
+        "data": "28/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1349632",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor ROSSANO PAZZAGLI, in data 27/01/2026",
+        "nome_file": "MASE-2026-0017058.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2026-0017058",
+        "data": "28/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1349557",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Dott.ssa Agronoma Giulia Scalzini in data 26/01/2026",
+        "nome_file": "MASE-2026-0015994.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2026-0015994",
+        "data": "27/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1349555",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Luca Govi in qualità di legale rappresentante della Società Agricola L & Fam. di Govi Luca s.s.a. in data 26/01/2026",
+        "nome_file": "MASE-2026-0015993.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2026-0015993",
+        "data": "27/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1349385",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Sig. Davod Govi in data 26/01/2026",
+        "nome_file": "MASE-2026-0015990.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2026-0015990",
+        "data": "27/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1349319",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Michele Conticini in data 10/02/2026",
+        "nome_file": "MASE-2026-0027657.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2026-0027657",
+        "data": "16/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1365264",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni della Regione Toscana - Direzione Tutela dell'Ambiente ed Energia in data 04/03/2026",
+        "nome_file": "MASE-2026-0048559.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2026-0048559",
+        "data": "20/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1383742",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Parere da ARPA Toscana del 17/02/2026",
+        "nome_file": "MASE_2026-0034068.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2026-0034068",
+        "data": "17/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1365524",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Osservazioni dell' Autorità di Bacino Distrettuale dell'Appennino Settentrionale , in data 21/01/2026",
+        "nome_file": "MASE-2026-0016211.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2026-0016211",
+        "data": "28/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1349584",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Studio di impatto ambientale - Parco eolico offshore Atis",
+        "nome_file": "ATI-AMB-VIA-RELSIA-R01c_Part1-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ff4c2bdc-907d-4865-bbf2-fe505c643149",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364618",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Relazione sulle attività di costruzione - Parco eolico offshore Atis",
+        "nome_file": "ATI-ING-VIA-RELCOS-R14-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "86cf2da0-a13f-4600-86d9-34c1af33586b",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364619",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Studio di impatto ambientale - Progetto di fattibilità tecnica ed economica del parco eolico offshore Atis",
+        "nome_file": "ATI-AMB-VIA-RELSIA-R01a-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "d3189999-ee6c-41a2-880c-542fde5dfa62",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364620",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Piano di manutenzione - Parco eolico offshore Atis",
+        "nome_file": "ATI-ING-VIA-RELMAN-R18-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "5390075b-8149-444a-9594-06cfce4293e9",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364621",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Relazione tecnica - Progetto di fattibilità del parco eolico offshore « Atis »",
+        "nome_file": "ATI-ING-VIA-RELGEN-R01-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "20d72a0f-e928-494b-8c6b-338bb6295862",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364622",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - STUDIO DI IMPATTO AMBIENTALE - Interferenze con le zone di riproduzione per la pesca",
+        "nome_file": "ATI-AMB-VIA-INTPES-D57-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ad5bc9f3-849e-4bbf-83bc-27872e6c282e",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364623",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Studio di impatto ambientale - Progetto di fattibilità tecnica ed economica del parco eolico offshore flottante « Atis »",
+        "nome_file": "ATI-AMB-VIA-RELSIA-R01b-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "eb0edb4b-ff15-4e65-a42c-b49004225f76",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364624",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Valutazione di impatto ambientale - Parco eolico offshore flottante « Atis »",
+        "nome_file": "ATI-AMB-VIA-VALINC-R24-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "85f13762-87cd-48b4-b19f-effc3b5458db",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364625",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Studio di Fattibilità Tecnica ed Economica - Parco Eolico Offshore 'Atis'",
+        "nome_file": "ATI-ING-VIA-TORASS-D21-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "1645618d-bf6a-4a95-8911-d7585753bb3a",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364626",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Relazione tecnica - Configurazione preliminare della sottostazione offshore del parco eolico Atis",
+        "nome_file": "ATI-ING-VIA-SSEOFF-R11-00-omissis-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "95ecd6f7-11c9-40a0-beaf-bf744a465e41",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364627",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Analisi di portata massima - Parco eolico offshore Atis",
+        "nome_file": "ATI-ING-VIA-GITMAS-R09-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "595a08c9-bc52-4019-acee-19d736a7da64",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364628",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Disegno complessivo - Sottostazione elettrica offshore",
+        "nome_file": "ATI-ING-VIA-OFFASS-D22-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a33d086f-fa03-4060-82e2-4bfdfe480927",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364629",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Relazione Geologica - Parco Eolico Offshore Flottante « Atis »",
+        "nome_file": "ATI-ING-VIA-RELGEO-R02-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "4e5465d6-9682-4d3f-8b64-b6daf29fb31e",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364630",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Valutazione degli impatti transfrontalieri - Progetto di parco eolico offshore « Atis »",
+        "nome_file": "ATI-AMB-VIA-TRANSF-R60a-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6296fc09-0753-462e-ae2c-07a6846c1a6f",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364631",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Verifica preventiva di interesse archeologico - Valutazione impatti su patrimonio culturale",
+        "nome_file": "ATI-AMB-VIA-RELSIA-R01c_Part2-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a4e7ec12-0fdc-469a-b431-36b7b3bedd9d",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364632",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Analisi tecnica - Productibilità del parco eolico offshore Atis",
+        "nome_file": "ATI-ING-VIA-RELPRO-R04-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "72599864-50ff-4107-bba3-90b4f7df9dd8",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364633",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Studio di fattibilità tecnica - Parco eolico offshore flottante « Atis »",
+        "nome_file": "ATI-AMB-VIA-TRANSF-R60b-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "3baacdfe-374e-4f7d-90d7-74587cc72b9c",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364634",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Progetto di Fattibilità Tecnica - Parco Eolico Offshore Flottante 864 MW",
+        "nome_file": "ATI-ING-VIA-SCHCON-D19-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "33349244-41f3-41da-b183-546ab609b831",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364635",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Calendario dei lavori - Parco eolico offshore Atis",
+        "nome_file": "ATI-ING-VIA-CRNLAV-R16-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a9c14fc1-e5b0-46c1-87b8-0aab8fbd9c76",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364636",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Studio di impatto ambientale - Parco eolico offshore Atis",
+        "nome_file": "ATI-AMB-VIA-RELSNT-R22-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "7a851190-7ea5-4199-a24e-a4249d171035",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364637",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Studio di Fattibilità - Parco Eolico Offshore Flottante « Atis »",
+        "nome_file": "ATI-AMB-VIA-TRANSF-R60c-00-FR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e0a99d71-e7e7-4c0d-bfeb-487b32b3e827",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364638",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/02/2026 - Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260210_212749.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ad7856e4-c4fc-40dc-865f-994665ce157d",
+        "data": "12/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1364639",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 06/02/2026 in risposta a SNAM",
+        "nome_file": "interf_gas.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "MASE-2026-0025680",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363987",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Parere del Comando Militare Esercito Toscana, in data 17/02/2026",
+        "nome_file": "MASE-2026-0034622.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2026-0034622",
+        "data": "19/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1366375",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Osservazioni della Regione Toscana con allegati del 26/02/2026 - Proposta di richiesta d i integrazioni e chiarimenti",
+        "nome_file": "MASE_2026-0044107.pdf.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2026-0044107",
+        "data": "04/03/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1370165",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Osservazioni del Consorzio della Tutela dei Vini doc Bolgheri e Bolgheri , in data 10/06/2026",
+        "nome_file": "MASE-2026-0122036.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (II)",
+        "codice_elaborato": "MASE-2026-0122036",
+        "data": "11/06/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1399667",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (II)"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al pubblico del 29/12/2025",
+        "nome_file": "avviso_al_pubblico.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MASE-2025-0241887",
+        "data": "29/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1338817"
+      },
+      {
+        "titolo": "Verifica dell'Interesse Archeologico Offshore",
+        "nome_file": "ATI-AMB-VIA-ARCMAR-R21-00_1.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "699246f7-ce17-4036-a97c-27118c32f2ce",
+        "data": "29/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1338711"
+      },
+      {
+        "titolo": "Risposte alle osservazioni",
+        "nome_file": "ATI-AMB-VIA-SCORES-R62-00.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "dff01abb-c9ff-40de-88c2-221340d7efdc",
+        "data": "29/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1338713"
+      },
+      {
+        "titolo": "Inquadramento Progetto su IGM",
+        "nome_file": "ATI-AMB-VIA-INQIGM-D31-00.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "4bb8f44f-d06c-48a4-8498-95474f57f83c",
+        "data": "29/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1338715"
+      },
+      {
+        "titolo": "Carta Posidonia oceanica",
+        "nome_file": "ATI-AMB-VIA-POSOCE-D53-00.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "65fa051c-7c22-4fd3-8575-dbc71caa8580",
+        "data": "29/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1338716"
+      },
+      {
+        "titolo": "Carta interferenze con aree di nursery per la pesca",
+        "nome_file": "ATI-AMB-VIA-INTPES-D57-00.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "8abd6dc5-6acd-426e-8f1e-5c2b4bb5bf1b",
+        "data": "29/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1338718"
+      },
+      {
+        "titolo": "Studio di Impatto Ambientale - Parco Eolico Offshore Flottante Atis",
+        "nome_file": "ATI-AMB-VIA-PIACOM-D37-00.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "b08bcf2f-905f-496a-9a24-0e2a220d79a3",
+        "data": "29/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1338721"
+      },
+      {
+        "titolo": "Parco Eolico Offshore Flottante Atis - Stato Ecologico Acque Superficiali",
+        "nome_file": "ATI-AMB-VIA-PACQUE-D45-00.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "33a30415-1caf-4470-9b73-7cd0e29ab1e7",
+        "data": "29/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1338722"
+      },
+      {
+        "titolo": "Carta dei Beni archeologici e architettonici",
+        "nome_file": "ATI-AMB-VIA-PIAPAE-D41-00.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "6f217c70-669e-4bdc-a884-6eb749ebff3f",
+        "data": "29/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1338723"
+      },
+      {
+        "titolo": "ATI-AMB-VIA-RILOFF-R17-00_allegato6_1",
+        "nome_file": "ATI-AMB-VIA-RILOFF-R17-00_allegato6_1.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "c815fbe5-f565-43dc-9a70-5557525257a8",
+        "data": "29/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1338724"
+      }
+    ]
+  }
 }

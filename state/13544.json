@@ -5,5 +5,1252 @@
   "nome_progetto": "Progetto di un parco eolico off-shore flottante per la produzione di energia elettrica da fonte eolica nel Mar Ionio, denominato \"Messapia\", costituito da 73 aerogeneratori di potenza unitaria di 18 MW, per una potenza complessiva d'impianto pari a 1.314 MW, da realizzarsi al largo delle coste pugliesi, nelle acque comprese tra Tricase e l'area marina a sud est di Capo Santa Maria di Leuca, in Provincia di Lecce, con opere di connessione on-shore alla RTN ricadenti nei comuni di Santa Cesarea Terme (LE), Otranto (LE), Minervino di Lecce (LE), Giuggianello (LE), Sanarica (LE), Muro Leccese (LE), Maglie (LE), Melpignano (LE), Corigliano d'Otranto (LE), Soleto (LE), Sternatia (LE), Lequile (LE) e Copertino (LE) (cod. MYTERNA n. 202203695).",
   "dettagli_procedura": "Codice istanza online\tWEB-VIA FER - VIAVIAF00000367",
   "hash_dettagli": "fcec09a067c0603f3d67b003e428276d9545b574625806456946130ff6df4e6a",
-  "errore": "Errore durante scraping: Locator.click: Timeout 30000ms exceeded.\nCall log:\nwaiting for locator(\"span.leaf[data-raggruppamentoid='281']\").first\n  -   locator resolved to <span class=\"leaf \" data-raggruppamentoid=\"281\">Documentazione integrativa/Documentazione integra…</span>\n  - attempting click action\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #1\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #2\n  -   waiting 20ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #3\n  -   waiting 100ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #4\n  -   waiting 100ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #5\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #6\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #7\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #8\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #9\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #10\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #11\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #12\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #13\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #14\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #15\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #16\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #17\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #18\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #19\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #20\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #21\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #22\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #23\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #24\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #25\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #26\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #27\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #28\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #29\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #30\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #31\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #32\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #33\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #34\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #35\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #36\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #37\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #38\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #39\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #40\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #41\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #42\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #43\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #44\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #45\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #46\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #47\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #48\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #49\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #50\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #51\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #52\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #53\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #54\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #55\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #56\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #57\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #58\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #59\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #60\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #61\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #62\n  -   waiting 500ms\n"
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elenchi Elaborati",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Relazione di incidenza",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Piano di utilizzo dei materiali di scavo",
+      "Immersione in mare di materiale derivante da attività di escavo e da attività di posa in mare di cavi e condotte",
+      "Consultazioni transfrontaliere",
+      "Osservazioni del Pubblico",
+      "Osservazioni del Pubblico inviate oltre i termini",
+      "Pareri/Osservazioni Enti",
+      "Richiesta integrazioni della documentazione",
+      "Documentazione integrativa/Documentazione integrativa volontaria",
+      "Osservazioni del Pubblico (I)"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni del COMUNE DI SANTA CESAREA TERME, in data 17/04/2025",
+        "nome_file": "MASE-2025-0074264.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0074264",
+        "data": "08/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1250223",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni dell'Associazione Italia Nostra APS Sezione del Sud Salento, in data 22/04/2025",
+        "nome_file": "MASE-2025-0075841.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0075841",
+        "data": "08/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1250221",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Comune di Copertino, in data 18/04/2025",
+        "nome_file": "MASE-2025-0075079.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0075079",
+        "data": "05/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1249300",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Donato Pranzo, in data 22/04/2025",
+        "nome_file": "MASE-2025-0076561.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0076561",
+        "data": "05/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1249298",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Antonio Raffaele Santo, in data 16/04/2025",
+        "nome_file": "MASE-2025-0073157.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0073157",
+        "data": "17/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1245923",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Comune di LEQUILE - Settore Ambiente, in data 16/04/2025",
+        "nome_file": "MASE-2025-0072580.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0072580",
+        "data": "16/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1244393",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Luigi Monaco, in data 16/4/2025",
+        "nome_file": "MASE-2025-0072552.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0072552",
+        "data": "16/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1244391",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Domenico Serrone, in data 15/04/2025",
+        "nome_file": "MASE-20_25-0072030.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0072030",
+        "data": "15/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1244145",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni presentate dal Signor Amministratore del Complesso Residenziale La Fraula, in data 15/04/2025",
+        "nome_file": "MASE-2025-0071916.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0071916",
+        "data": "15/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1244144",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Consorzio di Gestione del Parco Regionale Costa Otranto - Santa Maria di Leuca e Bosco di Tricase, in data 15/04/2025",
+        "nome_file": "MASE-2025-0071627.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0071627",
+        "data": "15/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1243962",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Sig. Donato Pranzo in data 18/04/2025",
+        "nome_file": "MASE-2025-0074572.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0074572",
+        "data": "08/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1250382",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Sig. Ing. Daniele Merico in data 22/04/2025",
+        "nome_file": "MASE-2025-0075751.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0075743",
+        "data": "12/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1251340",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del sig. Donato Pranzo, in data 03/04/2026.",
+        "nome_file": "MASE-2026-0074042.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2026-0074042",
+        "data": "04/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1385955",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni della Grecia, a seguito attivazione consultazione transfrontaliera ai sensi dell'art. 32 del D.Lgs. 152/2006 del 22/12/2025, in data 5/03/2026",
+        "nome_file": "MASE-2026-0049757.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2026-0049757",
+        "data": "09/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1378885",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Studio Impatto Acustico Sottomarino",
+        "nome_file": "MES-AMB-VIA-ACUMAR-R03-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "8f64d797-2cbf-474e-9f5d-aafe039d8643",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419554",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione di impatto acustico onshore in fase di esercizio",
+        "nome_file": "MES-AMB-VIA-ACUONS-R64-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ec46f306-76ce-4892-9413-7c59d2f6eca6",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419555",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Analisi Costi Benefici",
+        "nome_file": "MES-AMB-VIA-ANLSOC-R15-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "7a970325-ec40-47ee-8ec4-eb3950865d5e",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419556",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Carta delle Aree Protette e Rete Natura 2000",
+        "nome_file": "MES-AMB-VIA-APRNAT-D37-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f17c5537-0a66-4a67-b2c0-5f1b068f91b7",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419557",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Verifica Preventiva dell'Interesse Archeologico - offshore",
+        "nome_file": "MES-AMB-VIA-ARCMAR-R21-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "0db92a28-34a8-4f03-a406-76d6f3eddcd9",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419558",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Verifica Preventiva dell'Interesse Archeologico - onshore",
+        "nome_file": "MES-AMB-VIA-ARCTER-R20-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "53d9d6d3-1afc-4004-b81d-fce57d03e1f0",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419559",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Beni Paesaggistici D.lgs 42/04 (Foglio 1 di 7)",
+        "nome_file": "MES-AMB-VIA-BENPAE-D38-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "9773a650-2090-414f-853d-3c7b020b5ece",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419560",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Carta geologica",
+        "nome_file": "MES-AMB-VIA-CARGEO-D36-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "67d7f384-c6a7-4dc7-8c52-d142de7922ce",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419561",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Inquadramento Progetto su carta nautica",
+        "nome_file": "MES-AMB-VIA-CARNAU-D30-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b600f3e4-7bd1-4db6-a0b6-b2d2509641b7",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419562",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Carta uso del suolo",
+        "nome_file": "MES-AMB-VIA-CARUDS-D47-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "9852026c-d8ee-4a1d-b00a-1b9780c430fb",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419563",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Cartografia dei ricettori acustici (Foglio 1 di 31)",
+        "nome_file": "MES-AMB-VIA-CNSACU-D58-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "2e0714e7-75ed-4ed4-bc1e-b247a74a7d3c",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419564",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Inquadramento su Carta ENAV",
+        "nome_file": "MES-AMB-VIA-CRTENV-D53-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "3d155a9b-acaf-4e97-b0c9-a1e62ee88793",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419565",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Carta inerente altri progetti per valutazione effetto cumulato",
+        "nome_file": "MES-AMB-VIA-EFFCUM-D50-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "cccaa5db-acdf-446b-881e-4cefab048b41",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419566",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Elenco elaborati integrativi predisposti in riscontro alle richieste della CTVIA",
+        "nome_file": "MES-AMB-VIA-ELEELA-R72-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e7de5bf0-e01a-4e6b-bdfc-4dae383d6901",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419567",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Report tecnico per la valutazione delle interferenze dei campi elettromagnetici sulla fauna marina",
+        "nome_file": "MES-AMB-VIA-EMFMAR-R10-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "edc4ef9c-870f-468f-a844-60d5281b8eab",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419568",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - CARTA DEGLI HABITAT MARINI - AREA CORRIDOIO CAVI MARINI",
+        "nome_file": "MES-AMB-VIA-HABEXC-D56-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "92bcde87-b9b7-4efe-bf3c-caf699221950",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419569",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - STUDIO DI IMPATTO AMBIENTALE - CARTA DEGLI HABITAT MARINI AREA PARCO EOLICO OFFSHORE",
+        "nome_file": "MES-AMB-VIA-HABOFS-D55-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "22a0aabd-f565-4f19-a06c-f708236f9ba1",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419570",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - CARTA DEGLI HABITAT MARINI - AREA APPRODO",
+        "nome_file": "MES-AMB-VIA-HABTOC-D57-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "3bbd4ab8-5702-41b7-853d-d6092979c94f",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419571",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione sui possibili impatti del campo eolico su moto ondoso, vento e idrodinamica",
+        "nome_file": "MES-AMB-VIA-IMPMAR-R07-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "fa500306-7dff-4bb3-9dcd-dfb04beb743d",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419572",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Inquadramento Progetto su linee batimetriche",
+        "nome_file": "MES-AMB-VIA-INQBAT-D34-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6612b459-4b1c-4c91-9d79-b00c22999b73",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419573",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Inquadramento Progetto su CTR (Foglio 1 di 19)",
+        "nome_file": "MES-AMB-VIA-INQCTR-D28-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6c64fa1a-9d5d-4ba8-8c99-4d5b55580767",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419574",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Inquadramento Progetto su IGM",
+        "nome_file": "MES-AMB-VIA-INQIGM-D29-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "dc8d4d44-6f30-498f-87d4-25bf392e650c",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419575",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Inquadramento Progetto su Ortofoto",
+        "nome_file": "MES-AMB-VIA-INQORT-D27-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "5e5ea4e7-8e1d-4757-b9bd-384a0dbc6468",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419576",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Progetto di inserimento paesaggistico",
+        "nome_file": "MES-AMB-VIA-INSPAE-D59-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "028cf356-77b8-4c46-96df-b22e206a6632",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419577",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Progetto di inserimento paesaggistico",
+        "nome_file": "MES-AMB-VIA-INSPAE-D60-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "82c29112-11ca-4f8a-9d4b-9aeb97b32f9e",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419578",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Progetto di inserimento paesaggistico",
+        "nome_file": "MES-AMB-VIA-INSPAE-D61-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b142d0f4-7b81-439e-b3a2-fd6caec4be66",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419579",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Inserimento Paesaggistico - Parco Eolico Offshore Flottante Messapia",
+        "nome_file": "MES-AMB-VIA-INSPAE-R65-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ca3fc9f4-b677-43bb-8ae9-33ef535f476f",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419580",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - ADDENDUM - Relazione sulle possibili interferenze con la flora e la fauna marina",
+        "nome_file": "MES-AMB-VIA-INTFLO-R70-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b4f68fdd-d623-445c-bf32-21185381f436",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419581",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Carta interferenze con attività di pesca",
+        "nome_file": "MES-AMB-VIA-INTPES-D52-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "2bfbd28a-a2be-4bad-94ed-c81c009cae83",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419582",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Analisi di intervisibilità",
+        "nome_file": "MES-AMB-VIA-INTVIS-R66-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "1b4ab154-ceeb-419a-a30b-a9900776ad00",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419583",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Layout di progetto",
+        "nome_file": "MES-AMB-VIA-LAYOUT-D31-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "1d85d368-a17e-43a7-97cf-384abbaca666",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419584",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Piano di Monitoraggio Ambientale (PMA)",
+        "nome_file": "MES-AMB-VIA-MONAMB-R22-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "9cb786da-efcf-4242-92cb-c782f3c3f2c9",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419585",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Nuovi Fotoinserimenti del Progetto Messapia",
+        "nome_file": "MES-AMB-VIA-NEWFOT-R68-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "17dd59fb-8d64-42be-8945-9dbc33f1100e",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419586",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Carta PAI geomorfologica",
+        "nome_file": "MES-AMB-VIA-PAIGEO-D41-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "66eba7e9-2bc2-47f0-8e85-77d6ccb2d29f",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419587",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Carta PAI idrogeologica",
+        "nome_file": "MES-AMB-VIA-PAIIDR-D42-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e0f89490-86eb-4cfd-a945-a1d314b3e513",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419588",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Pianificazione comunale (vincoli e tutele)",
+        "nome_file": "MES-AMB-VIA-PIACOM-D35-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "8cc2168c-e1cb-40cb-9539-eae9e2b0454f",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419589",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Piano Paesaggistico Territoriale Regionale - Struttura Antropica e Socioculturale (Foglio 1 di 7)",
+        "nome_file": "MES-AMB-VIA-PIAPAE-D39-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f6ac6d1d-741f-44d8-a1b2-01b19c929fc9",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419590",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione tecnica movimentazione dei fondali marini - Art. 109 D.lgs.152/2006",
+        "nome_file": "MES-AMB-VIA-POSCAV-R25-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ba101b23-de8a-40e9-be93-84107813ab17",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419591",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Carta Posidonia oceanica",
+        "nome_file": "MES-AMB-VIA-POSOCE-D49-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "da336129-6eff-4fc3-9a9b-1b1624b7a90f",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419592",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Piano preliminare di utilizzo in sito delle Terre e Rocce da Scavo",
+        "nome_file": "MES-AMB-VIA-PPUTRS-R24-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "554e5d28-8891-43c2-8a99-20d046746417",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419593",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione tecnica sulle rotte migratorie dell'avifauna",
+        "nome_file": "MES-AMB-VIA-RELAVI-R12-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "56a19604-0c49-4196-b0a8-fb3d438da21f",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419594",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Nota tecnica - erosione del fondale ad opera delle correnti sottomarine",
+        "nome_file": "MES-AMB-VIA-RELERO-R61-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "61ffb146-4280-4faf-9514-0863a205cd39",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419595",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione Meteomarina",
+        "nome_file": "MES-AMB-VIA-RELMET-R06-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "8503b51f-bf8d-49e9-b808-6912c1d06b9a",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419596",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione di approfondimento sulla marginalità degli effetti del parco eolico sul microclima locale",
+        "nome_file": "MES-AMB-VIA-RELMIC-R59-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "886f26ee-7a65-4a3a-87a0-f2a580fe86be",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419597",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione sul consumo/occupazione di fondale marino",
+        "nome_file": "MES-AMB-VIA-RELOCC-R62-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c3ff0927-540a-4309-b3ff-5af90e1cdca0",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419598",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione Paesaggistica",
+        "nome_file": "MES-AMB-VIA-RELPAE-R26-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a21aaa65-2697-4770-9371-40ffc2cc3df5",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419599",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione sul comparto pesca",
+        "nome_file": "MES-AMB-VIA-RELPES-R09-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ef8b7869-0a47-4202-be23-eb5208b91ba2",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419600",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Nota tecnica sul censimento dei ricettori acustici",
+        "nome_file": "MES-AMB-VIA-RELRIC-R63-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "4a6d9aac-0359-45ac-bf3a-87f16c894afb",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419601",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Documento di risposta alle richieste di integrazione delle Autorità competenti",
+        "nome_file": "MES-AMB-VIA-RELRIS-R71a-00_S.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "570e3fd4-ee10-4d10-bdd0-73b2faf8e2f4",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419602",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Documento di risposta alle osservazioni del pubblico",
+        "nome_file": "MES-AMB-VIA-RELRIS-R71b-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "5d9593e6-5229-4365-9633-8ce2acb30c01",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419603",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione sulla dispersione dei sedimenti",
+        "nome_file": "MES-AMB-VIA-RELSED-R14-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "0b936e13-0762-4b15-8917-36f32582ffe0",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419604",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Studio di Impatto Ambientale",
+        "nome_file": "MES-AMB-VIA-RELSIA-R01a-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "2643dc32-72e4-4331-8dda-db3c81543ddf",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419605",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Studio di Impatto Ambientale - Volume 2",
+        "nome_file": "MES-AMB-VIA-RELSIA-R01b-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "89325606-f4dc-4083-bfb7-b2f158524933",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419606",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Studio di Impatto Ambientale - Volume 3",
+        "nome_file": "MES-AMB-VIA-RELSIA-R01c-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "36d6e995-424e-4f80-9796-b290517bba1a",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419607",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Sintesi Non Tecnica",
+        "nome_file": "MES-AMB-VIA-RELSNT-R57-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "2eddd4e5-a418-4626-a7dd-73296550fe83",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419608",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Risposte alle richieste 5.1, 5.2 - Impatti cumulativi",
+        "nome_file": "MES-AMB-VIA-RISCUM-R67-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "178879d3-d2fe-4d64-9687-2b4732f2e1a4",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419609",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Piano Gestione Rischio Alluvione (Foglio 1 di 7)",
+        "nome_file": "MES-AMB-VIA-RISIDR-D40-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "03388212-2f5d-4211-a6b3-d6581d9a8fcf",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419610",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Risposte alle osservazioni contenute nel Parere di Scoping nr. 55, 8 Agosto 2024",
+        "nome_file": "MES-AMB-VIA-SCORES-R58-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "3c20998e-528b-44a8-ba11-bfd3b8461053",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419611",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Sedimenti marini",
+        "nome_file": "MES-AMB-VIA-SEDMAR-D46-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ac7efdce-fe81-4c6c-9835-eace0d5e498a",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419612",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Carta sensibilità delle coste",
+        "nome_file": "MES-AMB-VIA-SENCOS-D45-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "2f3184fd-166b-4750-b324-7e7605a87700",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419613",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Carta traffico marino",
+        "nome_file": "MES-AMB-VIA-TRAMAR-D54-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "3ceb65e9-2e73-4d04-98a3-11ee04b8cabb",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419614",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Valutazione di Incidenza Ambientale",
+        "nome_file": "MES-AMB-VIA-VALINC-R23-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f1b5044e-36ba-48e9-9dfa-f9277a48a9e5",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419615",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Vulnerabilità del Progetto ai Cambiamenti Climatici",
+        "nome_file": "MES-AMB-VIA-VULCLI-R69-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "3e8f7543-5efe-4124-9d1e-93ba009ebf65",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419616",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - PIANO TECNICO DELLE OPERE DI UTENZA - Elenco beni soggetti all'apposizione del vincolo preordinato all'esproprio e all'asservimento - Comune Santa Cesarea Terme",
+        "nome_file": "MES-ING-PTO-ELEBEN-R38-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "4cf094d6-bccc-4331-a569-c20951d57d49",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419617",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Nuova Stazione Elettrica di utenza 380/220kV e collegamento alla RTN - Planimetria su Catastale con Area Potenzialmente Impegnata",
+        "nome_file": "MES-ING-PTO-PLACAT-D27-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "1a985ec7-1d29-45a4-8c4f-974972db05d1",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419618",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione Geologica Preliminare",
+        "nome_file": "MES-ING-PTO-RELGEO-R19-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "5c5c8b78-71ea-4c54-bda4-a3e1ce115376",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419619",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione tecnica su approdo dei cavi export",
+        "nome_file": "MES-ING-VIA-APPROD-R40-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c301bbf0-b7c6-418a-b43d-e9f27ed248a9",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419620",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione tecnica su fondazioni, ormeggi, ancoraggi e risoluzione delle interferenze",
+        "nome_file": "MES-ING-VIA-ASPGEN-R37-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "2b23aa5d-a4af-493c-81d5-5245c25e0e5d",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419621",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione tecnica sul sistema di collegamento elettrico inter-array",
+        "nome_file": "MES-ING-VIA-CAVELE-R38-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6c9c5d60-2594-46e4-bd5a-530e5009c2e7",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419622",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - CAVIDOTTO MARINO - TRACCIATO",
+        "nome_file": "MES-ING-VIA-CAVMAR-D20-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f60a5ea4-0c84-4a8a-8e62-a3b68ff9c3b9",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419623",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione tecnica, descrizione e posa del Cavidotto Marino",
+        "nome_file": "MES-ING-VIA-CAVMAR-R12-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "93f87674-9e97-4553-b042-f8cd79e66a12",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419624",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione tecnica valutazione CEM e calcolo fascia di rispetto",
+        "nome_file": "MES-ING-VIA-CEMOUT-R35-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "d4bb1b0a-cb2f-40f7-b0e1-2bc2a4726569",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419625",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione Campi Elettromagnetici CEM SE \"Salento\"",
+        "nome_file": "MES-ING-VIA-CEMRTN-R36-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "0732f8f4-7410-4cbd-b07a-301b3b81e367",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419626",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Nuova SE RTN di Smistamento a 380kV \"Salento\" - Planimetria di inquadramento su CTR",
+        "nome_file": "MES-ING-VIA-CTRGIS-D29-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "12ca9f6c-3fe1-42af-9d96-c3c5f4b8ecee",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419627",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Sicurezza fisica e informatica dell'Operation Technology",
+        "nome_file": "MES-ING-VIA-CYBSEC-R28-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b42d8286-13b2-4065-9114-fd6094142436",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419628",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - SCHEMA DEI FLUSSI DI POTENZA",
+        "nome_file": "MES-ING-VIA-FLUPOT-D27-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b75e3397-bced-4e73-a7d6-1f7a03e635c6",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419629",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione Geologica/Geotecnica - Nota integrativa",
+        "nome_file": "MES-ING-VIA-GEOGTC-R31-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "0852d62f-1857-452b-9e85-ba204619e506",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419630",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione Geologica",
+        "nome_file": "MES-ING-VIA-GEOOFF-R39-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "3db26cd7-abe6-40be-b42d-8aace29959ab",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419631",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Approfondimento tecnico - Shore Approach mediante Trivellazione Orizzontale Controllata (TOC) - Cavi di export parco eolico offshore Messapia",
+        "nome_file": "MES-ING-VIA-HDDFEA-R41-00_S.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "aa74b654-d900-4ef9-b07a-ea4e56954cfd",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419632",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - SOTTOSTAZIONE ELETTRICA OFF-SHORE DISEGNO DI ASSIEME",
+        "nome_file": "MES-ING-VIA-OFFASS-D22-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "30aa8d03-53ce-4753-be36-ceb828e20162",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419633",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - OPERA 1 - Planimetria di inquadramento su Ortofoto",
+        "nome_file": "MES-ING-VIA-ORTGIS-D31-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "17ae8bfd-fa21-4986-8459-daca4cd02749",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419634",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Planimetria elettromeccanica",
+        "nome_file": "MES-ING-VIA-PEMGIS-D28-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c651ef68-1d6a-4d61-a64f-53c147298387",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419635",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Nuova Stazione Elettrica di utenza 380/220kV e collegamento alla RTN Planimetria Cartografia Catastale con DPA",
+        "nome_file": "MES-ING-VIA-PLADPA-D37-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "299c90bd-5f08-40f3-a5c6-81cc65a637b6",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419636",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Nuova SE RTN di Smistamento a 380kV \"Salento\" - Planimetria e sezioni delle opere civili GIS",
+        "nome_file": "MES-ING-VIA-PLAOCI-D36-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "986737ef-a7eb-4d3f-98c1-39f0547e603b",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419637",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Planimetria aree di cantiere",
+        "nome_file": "MES-ING-VIA-PLCRTN-D33-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6c7ba4ba-d9ec-4a1f-8b3e-5800d0f076ec",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419638",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Nuova Stazione Elettrica di Utenza 220/380kV e collegamento alla RTN - Planimetria aree di cantiere",
+        "nome_file": "MES-ING-VIA-PLCSEU-D34-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "8f3da06e-2f99-4d66-92ec-45677f66b532",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419639",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Nuova SE RTN di Smistamento a 380kV \"Salento\" - Planimetria Catastale con area soggetta al vincolo preordinato all'esproprio",
+        "nome_file": "MES-ING-VIA-PMCGIS-D30-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "590fe8be-d302-4d05-9308-930f3b51e0e7",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419640",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione sulle attività di costruzione, installazione e commissioning delle opere",
+        "nome_file": "MES-ING-VIA-RELCOS-R14-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "5c0be986-88d1-4cb6-a17c-94d8d520b237",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419641",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione tecnica sul dimensionamento della fondazione galleggiante e delle strutture di ancoraggio e ormeggio",
+        "nome_file": "MES-ING-VIA-RELDIM-R05-01_S.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f26193a2-d9d1-40a1-a5f6-db4134841048",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419642",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Piano di dismissione",
+        "nome_file": "MES-ING-VIA-RELDIS-R15-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "5bca788c-3f9f-4920-82c3-5111264750bb",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419643",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione tecnica elettrica generale",
+        "nome_file": "MES-ING-VIA-RELELE-R10-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "556489f5-a352-4121-9736-072f586bce8d",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419644",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione impatto elettromagnetico",
+        "nome_file": "MES-ING-VIA-RELEMF-R13-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "cad0ae3c-3271-4dfe-b457-b87e73591edd",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419645",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione Tecnica Generale",
+        "nome_file": "MES-ING-VIA-RELGEN-R01-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a1ad6735-da51-4030-adc9-c2d5d3a15935",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419646",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione tecnica-descrittiva - Soluzione in GIS SE \"SALENTO\"",
+        "nome_file": "MES-ING-VIA-RELGIS-R34-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "04e05e14-16b1-44a7-ad8b-ff3feed01ee4",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419647",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione Idrologica e Idraulica",
+        "nome_file": "MES-ING-VIA-RELIDR-R03-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "d9380f13-80d6-44d2-af63-28ab0b9cc67f",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419648",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione sul censimento e risoluzione delle interferenze offshore",
+        "nome_file": "MES-ING-VIA-RELINT-R06-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a9b2ae68-e8ee-4165-b06c-bdb7594abf89",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419649",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Piano preliminare di manutenzione",
+        "nome_file": "MES-ING-VIA-RELMAN-R18-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "46ad0abd-346d-4313-88b0-87c0f47dacfc",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419650",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione tecnica analisi di producibilità",
+        "nome_file": "MES-ING-VIA-RELPRO-R04-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "2a270898-1c34-4589-981b-28ad619990f0",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419651",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - PARCO EOLICO - SCHEMA DI CONNESSIONE E DETTAGLIO TIPICO CAVO",
+        "nome_file": "MES-ING-VIA-SCHCON-D19-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "4173931f-73db-4b85-bcf6-dfbed5a88ce7",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419652",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - SCHEMA INTERCONNESSIONI E CONSEGNA UTENTE ON-SHORE",
+        "nome_file": "MES-ING-VIA-SCHINT-D25-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "12f3decf-2448-48b4-95b7-4c39f312ac83",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419653",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Sezioni elettromeccaniche",
+        "nome_file": "MES-ING-VIA-SEMGIS-D32-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "d7d1ab27-52dd-4630-a9d8-1604eba80c2f",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419654",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione tecnica - sottostazione offshore",
+        "nome_file": "MES-ING-VIA-SSEOFF-R11-01_S.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b3172579-ed5f-4801-b492-6a5e6c8508f6",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419655",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Relazione sullo stato dei luoghi",
+        "nome_file": "MES-ING-VIA-STALUO-R32-00.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "9ec8cba2-3583-4e83-8d41-0e8e21fc5fb5",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419656",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - TORRE EOLICA GALLEGGIANTE - DISEGNO DI ASSIEME",
+        "nome_file": "MES-ING-VIA-TORASS-D21-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "9f217b36-2822-4f78-a4b3-f3eea0b73d2b",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419657",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - SCHEMA ELETTRICO UNIFILARE SSE OFFSHORE",
+        "nome_file": "MES-ING-VIA-UNIMAR-D26-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "7ac38f70-d036-4fee-bb4b-17ce0cc9e65e",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419658",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - SCHEMA ELETTRICO UNIFILARE",
+        "nome_file": "MES-ING-VIA-UNITER-D24-01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "548db5ac-caae-4545-9e59-e24fbf4c03a3",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419659",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/07/2026 - Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260724_213904.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "90f1184b-aef2-412d-a195-5b56167f9264",
+        "data": "11/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419660",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Osservazioni del Signor Arcangelo Viceconte in qualità di legale rappresentante del Comitato di Salvaguardia e Tutela di Porto Badisco, in data 27/08/2026",
+        "nome_file": "MASE-2026-0178203.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2026-0178203",
+        "data": "02/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1425253",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Signor Donato Pranzo, in qualità di rappresentante di altri soggetti- in data 26/08/2026",
+        "nome_file": "MASE-2026-0178000.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2026-0178000",
+        "data": "02/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1425248",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Signor Fabrizio Mattana , in qualità di legale rappresentante Società IGI Poseidon SA, in data 26/08/2026",
+        "nome_file": "MASE-2026-0177638.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2026-0177638",
+        "data": "02/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1425026",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni della Associazione Costa Otranto Santa Maria di Leuca, in data 26/08/2026",
+        "nome_file": "MASE-2026-0177624.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2026-0177624",
+        "data": "02/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1424758",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Signor Donato Pranzo, in data 26/08/2026",
+        "nome_file": "MASE-2026-0177979.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2026-0177979",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423071",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del COMITATO SALVAGUARDIA E TUTELA PORTO BADISCO, in data 25/08/2026",
+        "nome_file": "MASE-2026-0177007.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2026-0177007",
+        "data": "31/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1422734",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al pubblico del 21/03/2024",
+        "nome_file": "Avviso_al_pubblico.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MASE-2025-0054042",
+        "data": "21/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1232409"
+      },
+      {
+        "titolo": "Verifica Preventiva dell'Interesse Archeologico Offshore",
+        "nome_file": "MES-AMB-VIA-ARCMAR-R21-00_1.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "273e0452-c64d-4c70-b599-a9646e78a05f",
+        "data": "21/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1232368"
+      },
+      {
+        "titolo": "Relitto Tardo Imperiale",
+        "nome_file": "MES-AMB-VIA-ARCMAR-R21-00_CATALOGOMOSI_1.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "6572e092-87ee-475c-bf35-91626cf38f1c",
+        "data": "21/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1232369"
+      },
+      {
+        "titolo": "Sintesi geomorfologica dell'area parco offshore",
+        "nome_file": "MES-AMB-VIA-ARCMAR-R21-00_SCHEDEUR_1.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "5617834b-a532-496e-b708-40a71835fc7c",
+        "data": "21/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1232370"
+      },
+      {
+        "titolo": "Verifica Preventiva di Interesse Archeologico Onshore",
+        "nome_file": "MES-AMB-VIA-ARCTER-R20-00.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "acf134aa-0833-4d6a-a493-d1e5ccd38ada",
+        "data": "21/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1232371"
+      },
+      {
+        "titolo": "Via Calabro Sallentina - Infrastruttura Viaria Antica",
+        "nome_file": "MES-AMB-VIA-ARCTER-R20-00_CATALOGO_MOSI.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "5286ef3a-41f8-4caa-b713-4dc84c7107b5",
+        "data": "21/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1232372"
+      },
+      {
+        "titolo": "Ricognizione Unità 01 - 10",
+        "nome_file": "MES-AMB-VIA-ARCTER-R20-00_SCHEDE_UR.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "ab6ff057-3557-4c53-a8be-a1061ed19c30",
+        "data": "21/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1232373"
+      },
+      {
+        "titolo": "Carta biocenosi marine",
+        "nome_file": "MES-AMB-VIA-HABMAR-D48-00.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "35504115-7133-4514-bb4b-7e3a26e244c2",
+        "data": "21/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1232374"
+      },
+      {
+        "titolo": "Report Indagini Ambientali",
+        "nome_file": "MES-AMB-VIA-INDAMB-R19-00_1.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "3988b174-611a-4b32-b7aa-b1abfe78eb5f",
+        "data": "21/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1232375"
+      },
+      {
+        "titolo": "Caratterizzazione Sedimenti",
+        "nome_file": "MES-AMB-VIA-POSCAV-R25-00.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "899111d6-5a71-49a6-83a3-e4109dc5eb4e",
+        "data": "21/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1232376"
+      }
+    ]
+  }
 }

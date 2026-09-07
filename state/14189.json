@@ -3,5 +3,289 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/11668",
   "nome_progetto": "Bioraffineria di Gela - Riduzione dei quantitativi di rifiuti da smaltire",
-  "errore": "Errore durante scraping: Locator.click: Error: strict mode violation: locator(\"a.icona-dettaglio-procedura\") resolved to 3 elements:\n    1) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").first\n    2) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(1)\n    3) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(2)\n\nCall log:\nwaiting for locator(\"a.icona-dettaglio-procedura\")\n"
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM)\t15072",
+  "hash_dettagli": "3d2c3ebc8049742e5708bfe7a3b943aae4e481451e9152699062f06088d576cf",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Documentazione generale",
+      "Sintesi non Tecnica",
+      "Richiesta integrazioni della documentazione",
+      "Documentazione integrativa/Documentazione integrativa volontaria",
+      "Decreto VIA"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Integrazioni pervenute il 27/12/2006 in risposta alla richiesta del 6/12/2006",
+        "nome_file": "Integ_DSA-2006-0031718.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT1-REL",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2748",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 27/12/2006 - Allegato 4A: Natura 2000 Formulario Standard - Biviere e Macconi di Gela",
+        "nome_file": "All_4A_ITA050001.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT1-All-4A",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2749",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 27/12/2006 - Allegato 4B: Natura 2000 Formulario Standard - Torre Manfria",
+        "nome_file": "All_4B_ITA050011.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT1-All-4B",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2750",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Indagini integrative Pratica VIA",
+        "nome_file": "Rel_VIA.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-REL",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2751",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Fig.1: Inquadramento dell'area",
+        "nome_file": "Figura01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-Fig-1",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2752",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Fig.2: Ubicazione stazioni di campionamento ed aree di indagine visiva",
+        "nome_file": "Figura02.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-Fig-2",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2753",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Fig.3: Carta delle bi ocenosi di fondo",
+        "nome_file": "Figura03.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-Fig-3",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2754",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Appendice 1: Indagini Archeologiche",
+        "nome_file": "Rel_archeologica.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-App-1",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2755",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Appendice 1: allegato 1 - Richiesta Soprintendenza del Mare",
+        "nome_file": "All1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-App1-All1",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2756",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Appendice 1: allegato 2 - Lettera Soprintendenza Beni Culturali ed Ambientali",
+        "nome_file": "All2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-App1-All2",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2757",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Appendice 1: allegato 3 -Nulla Osta Soprintendenza del Mare",
+        "nome_file": "All3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-App1-All3",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2758",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Appendice 1: allegato 4 -Schede tecniche attrezzature",
+        "nome_file": "All4.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-App1-All4",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2759",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Appendice 1: Fig.1 - Inquadramento",
+        "nome_file": "Fig_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-App1-Fig-1",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2760",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Appendice 1: Fig.2 - Piano Navigazione",
+        "nome_file": "Fig_2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-App1-Fig-2",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2761",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Appendice 1: Fig.3 - Batimetria",
+        "nome_file": "Fig_3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-App1-Fig-3",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2762",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Appendice 1: Fig.4 - Mosaico SSS",
+        "nome_file": "Fig_4.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-App1-Fig-4",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2763",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Appendice 1: Fig.5a - Record SPB",
+        "nome_file": "Fig_5a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-App1-Fig-5a",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2764",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Appendice 1: Fig.5b - Record SPB",
+        "nome_file": "Fig_5b.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-App1-Fig-5b",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2765",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Appendice 2: Strumentazioni",
+        "nome_file": "Appendice2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-App-2",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2766",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Appendice 3: Analisi Sedimenti",
+        "nome_file": "Appendice3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-App-3",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2767",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni pervenute il 26/03/2007 - Appendice 4: Certificati Analisi",
+        "nome_file": "Appendice4.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT2-App-4",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2768",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al Pubblico su \"La Sicilia\" del 16 Giugno 2006",
+        "nome_file": "PBB_QT_LC.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "PBB-QT-LC",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2724"
+      },
+      {
+        "titolo": "Avviso al Pubblico su \"La Repubblica\" del 16 Giugno 2006",
+        "nome_file": "PBB_QT_NZ.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "PBB-QT-NZ",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2725"
+      },
+      {
+        "titolo": "Allegato H: Superficie di occupazione di suolo marino",
+        "nome_file": "Allegato_H.jpg",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Allegato-H",
+        "data": "23/10/2007",
+        "download_url": null
+      },
+      {
+        "titolo": "Studio d' Impatto Ambientale",
+        "nome_file": "SIA.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "SIA",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2726"
+      },
+      {
+        "titolo": "Allegato A: Autorizzazione all’esecuzione dei lavori",
+        "nome_file": "Allegato_A.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Allegato-A",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2727"
+      },
+      {
+        "titolo": "Allegato B: Concessione demaniale marittima",
+        "nome_file": "Allegato_B.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Allegato-B",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2728"
+      },
+      {
+        "titolo": "Allegato C: Nota della Prefettura",
+        "nome_file": "Allegato_C.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Allegato-C",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2729"
+      },
+      {
+        "titolo": "Allegato D: Schema di Interconnessione esistente",
+        "nome_file": "Allegato_D.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Allegato-D",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2730"
+      },
+      {
+        "titolo": "Allegato E: Ordinanza n. 19/97",
+        "nome_file": "Allegato_E.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Allegato-E",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2731"
+      },
+      {
+        "titolo": "Allegato F: Ipotesi incidentali prevedibili",
+        "nome_file": "Allegato_F.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Allegato-F",
+        "data": "23/10/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2732"
+      }
+    ]
+  }
 }

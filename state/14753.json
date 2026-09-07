@@ -3,5 +3,163 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/9500",
   "nome_progetto": "Aggiornamento Progetto Bioraffineria Livorno",
-  "errore": "Errore durante scraping: Locator.click: Error: strict mode violation: locator(\"a.icona-dettaglio-procedura\") resolved to 3 elements:\n    1) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").first\n    2) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(1)\n    3) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(2)\n\nCall log:\nwaiting for locator(\"a.icona-dettaglio-procedura\")\n"
+  "dettagli_procedura": "Codice istanza online\tASVASV100000063",
+  "hash_dettagli": "b65aed8f00eb43dabff194fcbc93f000711eba1fced9c372b141565e4763c867",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Elenchi Elaborati",
+      "Studio Preliminare Ambientale",
+      "Relazione di incidenza",
+      "Piano di utilizzo dei materiali di scavo",
+      "Documentazione Integrativa",
+      "Pareri/Osservazioni Enti"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Aggiornamento progetto INTEGRAZIONI VOLONTARIE ALL'ISTANZA DI VERIFICA DI ASSOGGETTABILITÀ A VIA",
+        "nome_file": "SPA_BioRaLi_int_volontarie.pdf",
+        "sezione": "Documentazione Integrativa",
+        "codice_elaborato": "SPA-BioRaLi-int.volontarie",
+        "data": "28/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1414750",
+        "sezione_menu": "Documentazione Integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Screening VincA",
+        "nome_file": "All_1_Screening_VINCA.pdf",
+        "sezione": "Documentazione Integrativa",
+        "codice_elaborato": "All.1-Screening-VINCA",
+        "data": "28/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1414745",
+        "sezione_menu": "Documentazione Integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - STUDIO PRELIMINARE AMBIENTALE Appendice B - Valutazione Previsionale di Impatto Acustico - Aggiornamento",
+        "nome_file": "All_2_VIAc_Aggiornamento_signed.pdf",
+        "sezione": "Documentazione Integrativa",
+        "codice_elaborato": "All.2-VIAc-Aggiornamento-signed",
+        "data": "28/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1414746",
+        "sezione_menu": "Documentazione Integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Rapporto Preliminare di Sicurezza Bioraffineria",
+        "nome_file": "All_3_Estratto_RPdS.pdf",
+        "sezione": "Documentazione Integrativa",
+        "codice_elaborato": "All.3-Estratto-RPdS",
+        "data": "28/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1414747",
+        "sezione_menu": "Documentazione Integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Vigili del Fuoco Toscana - Trasmissione esiti.",
+        "nome_file": "All_4_NOF.pdf",
+        "sezione": "Documentazione Integrativa",
+        "codice_elaborato": "All.4-NOF",
+        "data": "28/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1414748",
+        "sezione_menu": "Documentazione Integrativa"
+      },
+      {
+        "titolo": "Parere del Comune di Livorno in data 25/08/2026",
+        "nome_file": "MASE_2026-0177387.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2026-0177387",
+        "data": "26/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1422370",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Parere del Ministero della cultura Soprintendenza Speciale per il PNRR, in data 10/07/2026",
+        "nome_file": "MASE-2026-0147479.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2026-0147479",
+        "data": "28/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1414754",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Aggiornamento progetto INTEGRAZIONI VOLONTARIE ALL'ISTANZA DI VERIFICA DI ASSOGGETTABILITÀ A VIA",
+        "nome_file": "SPA_BioRaLi_int_volontarie.pdf",
+        "sezione": "Documentazione Integrativa",
+        "codice_elaborato": "SPA-BioRaLi-int.volontarie",
+        "data": "28/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1414750"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Screening VincA",
+        "nome_file": "All_1_Screening_VINCA.pdf",
+        "sezione": "Documentazione Integrativa",
+        "codice_elaborato": "All.1-Screening-VINCA",
+        "data": "28/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1414745"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - STUDIO PRELIMINARE AMBIENTALE Appendice B - Valutazione Previsionale di Impatto Acustico - Aggiornamento",
+        "nome_file": "All_2_VIAc_Aggiornamento_signed.pdf",
+        "sezione": "Documentazione Integrativa",
+        "codice_elaborato": "All.2-VIAc-Aggiornamento-signed",
+        "data": "28/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1414746"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Rapporto Preliminare di Sicurezza Bioraffineria",
+        "nome_file": "All_3_Estratto_RPdS.pdf",
+        "sezione": "Documentazione Integrativa",
+        "codice_elaborato": "All.3-Estratto-RPdS",
+        "data": "28/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1414747"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Vigili del Fuoco Toscana - Trasmissione esiti.",
+        "nome_file": "All_4_NOF.pdf",
+        "sezione": "Documentazione Integrativa",
+        "codice_elaborato": "All.4-NOF",
+        "data": "28/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1414748"
+      },
+      {
+        "titolo": "Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260317_214138.pdf",
+        "sezione": "Elenchi Elaborati",
+        "codice_elaborato": "90534814-921f-40ca-b63e-01c114cf44d3",
+        "data": "17/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1383216"
+      },
+      {
+        "titolo": "Studio Preliminare Ambientale - Aggiornamento progetto Bioraffineria Livorno",
+        "nome_file": "SPA_BioRaLi.pdf",
+        "sezione": "Studio Preliminare Ambientale",
+        "codice_elaborato": "8f6e1a11-b474-4812-99b3-8019de3c2d6c",
+        "data": "17/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1383213"
+      },
+      {
+        "titolo": "Valutazione Previsionale di Impatto Acustico - Progetto Bioraffineria Livorno",
+        "nome_file": "SPA_BioRaLi_App.B.pdf",
+        "sezione": "Studio Preliminare Ambientale",
+        "codice_elaborato": "6c0f7609-9f09-48b0-a4a5-25c0fe333f31",
+        "data": "17/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1383214"
+      },
+      {
+        "titolo": "Studio Preliminare Ambientale - Modello di dispersione degli inquinanti atmosferici",
+        "nome_file": "SPA_BioRaLi_App.A.pdf",
+        "sezione": "Studio Preliminare Ambientale",
+        "codice_elaborato": "720e0f71-ddb4-4b98-8c54-f068df2848ed",
+        "data": "17/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1383215"
+      },
+      {
+        "titolo": "Modifica Progetto Biorefineria - Introduzione di una seconda unità AGTU",
+        "nome_file": "SPA_BioRaLi_App.C.pdf",
+        "sezione": "Relazione di incidenza",
+        "codice_elaborato": "bc6763a2-4aa3-4cca-9715-79b5f874fbdb",
+        "data": "17/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1383211"
+      }
+    ]
+  }
 }

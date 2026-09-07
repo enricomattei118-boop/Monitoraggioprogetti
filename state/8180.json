@@ -3,5 +3,1648 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/292",
   "nome_progetto": "Progetto di adeguamento delle strutture della raffineria di Taranto per lo stoccaggio e la movimentazione del greggio proveniente dal giacimento denominato \"Tempa Rossa\"",
-  "errore": "Errore durante scraping: Locator.click: Error: strict mode violation: locator(\"a.icona-dettaglio-procedura\") resolved to 23 elements:\n    1) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 14709 16/02/2026 Istruttoria tecnica CTVIA Dettagli\").locator(\"a\").first\n    2) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Valutazione Impatto Ambientale 14440 13/11/2025 In predisposizione\").locator(\"a\").first\n    3) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 13812 31/10/2025 Conclusa Dettagli procedura\").locator(\"a\").first\n    4) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 13578 10/01/2025 Conclusa Dettagli procedura\").locator(\"a\").first\n    5) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 13446 13/11/2024 Conclusa Dettagli procedura\").locator(\"a\").first\n    6) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 12643 10/06/2024 Archiviata Dettagli procedura\").locator(\"a\").first\n    7) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 10965 06/12/2023 Conclusa Dettagli procedura\").locator(\"a\").first\n    8) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 9632\").locator(\"a\").first\n    9) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 8678\").locator(\"a\").first\n    10) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 8677\").locator(\"a\").first\n    ...\n\nCall log:\nwaiting for locator(\"a.icona-dettaglio-procedura\")\n"
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM)\t14709",
+  "hash_dettagli": "e91e6e25441be74958afcec9f28848f89ad6497d337ad5aaa36468a23ac72c87",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Sintesi non Tecnica",
+      "Documentazione integrativa/Documentazione integrativa volontaria",
+      "Decreto VIA"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Relazione Paesaggistica",
+        "nome_file": "Relazione_paesaggistica.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-REL-01",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12734",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Area d'Intervento - Stato di Fatto",
+        "nome_file": "p01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p01",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12735",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Area d'Intervento - Progetto Presentato",
+        "nome_file": "p02.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p02",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12736",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Area d'Intervento - Nuova Proposta Progettuale",
+        "nome_file": "p03.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p03",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12737",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Area d'Intervento - Confronto",
+        "nome_file": "p04.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p04",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12738",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Complessi di Torre Montello e S.Maria della Giustizia - Misure di Compensazione, Nuova Proposta 1/2",
+        "nome_file": "p05.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p05",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12739",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Complessi di Torre Montello e S.Maria della Giustizia -Misure di Compensazione, Nuova Proposta 2/2",
+        "nome_file": "p06.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p06",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12740",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Complesso di Torre Montello - Stato di Fatto",
+        "nome_file": "p07.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p07",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12741",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Complesso di Torre Montello - Piante",
+        "nome_file": "p08.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p08",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12742",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Complesso di Torre Montello - Prospetti e Sezioni",
+        "nome_file": "p09.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p09",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12743",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Complesso di Torre Montello - Interventi di Consolidamento e Manutenzione",
+        "nome_file": "p10.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p10",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12744",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Masseria Montello - Stato di Fatto",
+        "nome_file": "p11.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p11",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12745",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Masseria Montello - Randering degli effetti prodotti dall'intervento",
+        "nome_file": "p12.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p12",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12746",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Masseria Montello - Pianta Piano Terra",
+        "nome_file": "p13.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p13",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12747",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Masseria Montello - Pianta Ammezzato e Primo Piano",
+        "nome_file": "p14.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p14",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12748",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Masseria Montello - Sezioni",
+        "nome_file": "p15.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p15",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12749",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Masseria Montello - Prospetti Nord-Est, Nord-Ovest",
+        "nome_file": "p16.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p16",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12750",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Masseria Montello - Prospetti Sud-Est, Sud-Ovest",
+        "nome_file": "p17.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p17",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12751",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Masseria Montello - Interventi Primo Presidio Statico",
+        "nome_file": "p18.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p18",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12752",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Masseria Montello - Randering fotorealistico nella nuova proposta progettuale",
+        "nome_file": "p19.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p19",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12753",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - area S.Maria della Giustizia - Randering fotorealistico nella nuova proposta progettuale",
+        "nome_file": "p20.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p20",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12754",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Vista Aerea dell'area d'Intervento - Stato di Fatto",
+        "nome_file": "p21.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p21",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12755",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Vista Aerea dell'area d'Intervento - Randering Fotorealistico del progetto presentato",
+        "nome_file": "p22.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p22",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12756",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Vista Aerea dell'area d'Intervento -Randering Fotorealistico della nuova proposta di progetto",
+        "nome_file": "p23.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p23",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12757",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Vista Aerea dell'area d'Intervento -Interventi previsti dalla nuova proposta di progetto",
+        "nome_file": "p24.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p24",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12758",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Ambito costituito da Torre Montello e S.Maria della Giustizia - P.to di osservazione S.S.106 - Stato di fatto",
+        "nome_file": "p25.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p25",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12759",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Ambito costituito da Torre Montello e S.Maria della Giustizia - P.to di osservazione S.S.106 - Nuova Proposta progettuale",
+        "nome_file": "p26.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p26",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12760",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Complesso S.Maria della Giustizia - P.to di osservazione S.S.106 - Confronto",
+        "nome_file": "p27.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p27",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12761",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Area di localizzazione Centrale Enipower - P.to di osservazione S.Maria della Giustizia - Confronto 1/2",
+        "nome_file": "p28.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p28",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12762",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Area di localizzazione Centrale Enipower - P.to di osservazione S.Maria della Giustizia - Confronto 2/2",
+        "nome_file": "p29.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p29",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12763",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Area in prossimità di Torre Montello - P.to di osservazione S.S.106 - Confronto 1/2",
+        "nome_file": "p30.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p30",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12764",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica - Area in prossimità di Torre Montello - P.to di osservazione S.S.106 - Confronto 2/2",
+        "nome_file": "p31.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p31",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12765",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica -Area Serbatoi - P.to di osservazione Copertura S.Maria della Giustizia - Confronto 1/2",
+        "nome_file": "p32.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p32",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12766",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica -Area Serbatoi - P.to di osservazione Copertura S.Maria della Giustizia - Confronto 2/2",
+        "nome_file": "p33.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p33",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12767",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica -Area Serbatoi - P.to di osservazione Copertura S.Maria della Giustizia - particolare 1",
+        "nome_file": "p34.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p34",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12768",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27 Dicembre 2007: progetto di compatibilizzazione paesaggistica -Area Serbatoi - P.to di osservazione Copertura S.Maria della Giustizia - particolare 2",
+        "nome_file": "p35.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-02-p35",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12769",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Relazione",
+        "nome_file": "Rapporto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-REL-01",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12614",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Fig.2.18a - Carta delle aree soggette a rischio idrogeologico",
+        "nome_file": "Figura_2_18.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-FG-2-18",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12615",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Fig.2.27.5.1a - Scenario Attuale. SO2 -concentrazioni medie annue",
+        "nome_file": "Figura_2_27_5_1a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-FG-2-27-5-1a",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12616",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Fig.2.27.5.1b - Scenario Futuro. SO2 -concentrazioni medie annue",
+        "nome_file": "Figura_2_27_5_1b.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-FG-2-27-5-1b",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12617",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Fig.2.27.5.1c - Scenario Attuale. SO2 -99,7° Percentile delle concentrazioni medie orarie (mg/m3)",
+        "nome_file": "Figura_2_27_5_1c.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-FG-2-27-5-1c",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12618",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Fig.2.27.5.1d - Scenario Futuro. SO2 -99,7° Percentile delle concentrazioni medie orarie",
+        "nome_file": "Figura_2_27_5_1d.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-FG-2-27-5-1d",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12619",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Fig.2.27.5.2a - Scenario Attuale. NOx -concentrazioni medie annue",
+        "nome_file": "Figura_2_27_5_2a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-FG-2-27-5-2a",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12620",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Fig.2.27.5.2b - Scenario Futuro. NOx - concentrazioni medie annue",
+        "nome_file": "Figura_2_27_5_2b.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-FG-2-27-5-2b",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12621",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Fig.2.27.5.2c - Scenario Attuale. NOx - 99,8° Percentile delle concentrazioni medie orarie",
+        "nome_file": "Figura_2_27_5_2c.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-FG-2-27-5-2c",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12622",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Fig.2.27.5.2d - Scenario Futuro. NOx - 99,8° Percentile delle concentrazioni medie orarie",
+        "nome_file": "Figura_2_27_5_2d.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-FG-2-27-5-2d",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12623",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Fig.2.27.5.3a - Scenario Attuale. PTS - concentrazioni medie annue",
+        "nome_file": "Figura_2_27_5_3a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-FG-2-27-5-3a",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12624",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Fig.2.27.5.3b - Scenario Futuro. PTS - concentrazioni medie annue",
+        "nome_file": "Figura_2_27_5_3b.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-FG-2-27-5-3b",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12625",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Fig.2.27.5.3c - Scenario Attuale.PTS - 90,4° Percentile delle concentrazioni medie giornaliere",
+        "nome_file": "Figura_2_27_5_3c.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-FG-2-27-5-3c",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12626",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Fig.2.27.5.3d - Scenario Futuro.PTS - 90,4° Percentile delle concentrazioni medie giornaliere",
+        "nome_file": "Figura_2_27_5_3d.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-FG-2-27-5-3d",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12627",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Fig.3,1a - Ciclo delle acque del sito di Taranto",
+        "nome_file": "figura_3_1a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-FG-3-1a",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12628",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 1 - Calcolo delle Emissioni di GHG",
+        "nome_file": "Allegato_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-01",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12629",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 2 - Rifiuti Prodotti dalla Raffineria negli Anni 2001-2006",
+        "nome_file": "Allegato_2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-02",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12630",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 3 - Autorizzazione degli Smaltitori ai Sensi dell’articolo 15 Legge 443/01 Relativa al Cambio di Classificazione dei Rifiuti",
+        "nome_file": "Allegato_3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-03",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12631",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 4 - Selezione del Naviglio Cisterniero - Criteri Minimi di Sicurezza",
+        "nome_file": "Allegato_4.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-04",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12632",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 5 - Relazione Annuale per le Operazioni di Carico/Scarico delle Merci Pericolose Ricevute e Spedite su Strada Mediante Veicoli-Cisterna",
+        "nome_file": "Allegato_5.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-05",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12633",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 6 - Analisi Preliminare Magnitudo per il Progetto Taranto Plus della Raffineria di Taranto",
+        "nome_file": "Allegato_6.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-06",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12634",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 7 - Approfondimenti sulla Vegetazione e sulla Fauna. Punti 21 - 23 - 24 - 25 - 26",
+        "nome_file": "Allegato_7.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-07",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12635",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8 - Chiarimenti allo Studio di Impatto Ambientale Richiesti dal MATTM - Agosto 2007",
+        "nome_file": "Allegato_8.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12636",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.1 - Progetto Esecutivo dell'Opera",
+        "nome_file": "la-e-80022_progetto_esecutivo_R_M.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-80022",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12637",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.2 - Profilo Altimetrico",
+        "nome_file": "81101_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81101-0",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12638",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.3 - Planimetria Generale 1/5",
+        "nome_file": "81003A.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81003-A",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12639",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.3 - Planimetria Generale 2/5",
+        "nome_file": "81003B.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81003-B",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12640",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.3 - Planimetria Generale 3/5",
+        "nome_file": "81003C.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81003-C",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12641",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.3 - Planimetria Generale 4/5",
+        "nome_file": "81003D.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81003-D",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12642",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.3 - Planimetria Generale 5/5",
+        "nome_file": "81003E.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81003-E",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12643",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.5 - Allacciamento Impianto ENI (attr.to Metanodotto Palagiano-Taranto 24bar)",
+        "nome_file": "81110_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81110",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12644",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.5 - Allacciamento Impianto ENI (attr.to Stazione Bellavista e Ferrovia Bari-Taranto progr. Km 106+862)",
+        "nome_file": "81111_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81111",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12645",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.5 - Allacciamento Impianto ENI (attr.to Strada A.S.I. in viadotto-in costruzione- strada Bellavista e Strada Comunale)",
+        "nome_file": "81112_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81112",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12646",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.5 - Allacciamento Impianto ENI (attr.to con T.O.C. 2° canale di scarico ILVA, Oleodotto Monte Alpi-Taranto e Ferrovia dismessa)",
+        "nome_file": "81113_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81113",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12647",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.5 - Allacciamento Impianto ENI (attr.to Strada dei Moli, Ferrovia TA-RC prog. Km 6+760 Fosso in terra, strada di accesso ILVA)",
+        "nome_file": "81114_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81114",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12648",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.5 - Allacciamento Impianto ENI (attr.to Ferrovia ILVA -V185-V190)",
+        "nome_file": "81115_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81115",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12649",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.5 - Allacciamento Impianto ENI (attr.to 1° Canale di Scarico ILVA con T.O.C.)",
+        "nome_file": "81116_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81116",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12650",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.5 - Allacciamento Impianto ENI (attr.to Svincolo in Progetto -Strada dei Moli -SS106 )",
+        "nome_file": "81117_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81117",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12651",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.5 - Allacciamento Impianto ENI (attr.to N°2 Fognature PRFV DN600)",
+        "nome_file": "81118_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81118",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12652",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.5 - Allacciamento Impianto ENI (attr.to SS 106 Jonica prog. Km 488+860)",
+        "nome_file": "81119_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81119",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12653",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.5 - Allacciamento Impianto ENI (attr.to Collettore acque reflue calde DN710 -in progetto-)",
+        "nome_file": "81120_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81120",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12654",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.5 - Allacciamento Impianto ENI (attr.to Ferrrovia Bari-Taranto prog. Km 109+060)",
+        "nome_file": "81121_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81121",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12655",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di deriv. Importante -P.I.D.I.- N°1)",
+        "nome_file": "81180_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81180",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12656",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di deriv. Importante -P.I.D.I.-n°1) 1/8",
+        "nome_file": "81181A_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81181-A",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12657",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di deriv. Importante -P.I.D.I.-n°1) 2/8",
+        "nome_file": "81181B_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81181-B",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12658",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di deriv. Importante -P.I.D.I.-n°1) 3/8",
+        "nome_file": "81181C_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81181-C",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12659",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di deriv. Importante -P.I.D.I.-n°1) 4/8",
+        "nome_file": "81181D_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81181-D",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12660",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di deriv. Importante -P.I.D.I.-n°1) 5/8",
+        "nome_file": "81181E_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81181-E",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12661",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di deriv. Importante -P.I.D.I.-n°1) 6/8",
+        "nome_file": "81181F_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81181-F",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12662",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di deriv. Importante -P.I.D.I.-n°1) 7/8",
+        "nome_file": "81181G_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81181-G",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12663",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di deriv. Importante -P.I.D.I.-n°1) 8/8",
+        "nome_file": "81181H_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81181-H",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12664",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°2)",
+        "nome_file": "81182_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81182",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12665",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°2) 1/7",
+        "nome_file": "81183A_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81183-A",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12666",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°2) 2/7",
+        "nome_file": "81183B_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81183-B",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12667",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°2) 3/7",
+        "nome_file": "81183C_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81183-C",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12668",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°2) 4/7",
+        "nome_file": "81183D_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81183-D",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12669",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°2) 5/7",
+        "nome_file": "81183E_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81183-E",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12670",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°2) 6/7",
+        "nome_file": "81183F_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81183-F",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12671",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°2) 7/7",
+        "nome_file": "81183G_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81183-G",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12672",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°3)",
+        "nome_file": "81184_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81184",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12673",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°3) 1/7",
+        "nome_file": "81185a_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81185-A",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12674",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°3) 2/7",
+        "nome_file": "81185B_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81185-B",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12675",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°3) 3/7",
+        "nome_file": "81185C_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81185-C",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12676",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°3) 4/7",
+        "nome_file": "81185D_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81185-D",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12677",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°3) 5/7",
+        "nome_file": "81185E_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81185-E",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12678",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°3) 6/7",
+        "nome_file": "81185F_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81185-F",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12679",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°3) 7/7",
+        "nome_file": "81185G_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81185-G",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12680",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°4)",
+        "nome_file": "81186_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81186",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12681",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°4) 1/7",
+        "nome_file": "81187A_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81187-A",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12682",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°4) 2/7",
+        "nome_file": "81187B_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81187-B",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12683",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°4) 3/7",
+        "nome_file": "81187C_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81187-C",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12684",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°4) 4/7",
+        "nome_file": "81187D_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81187-D",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12685",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°4) 5/7",
+        "nome_file": "81187E_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81187-E",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12686",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°4) 6/7",
+        "nome_file": "81187F_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81187-F",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12687",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°4) 7/7",
+        "nome_file": "81187G_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81187-G",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12688",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°5)",
+        "nome_file": "81188_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81188",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12689",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°5) 1/7",
+        "nome_file": "81189A_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81189-A",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12690",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°5) 2/7",
+        "nome_file": "81189B_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81189-B",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12691",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°5) 3/7",
+        "nome_file": "81189C_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81189-C",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12692",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°5) 4/7",
+        "nome_file": "81189D_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81189-D",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12693",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°5) 5/7",
+        "nome_file": "81189E_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81189-E",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12694",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°5) 6/7",
+        "nome_file": "81189F_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81189-F",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12695",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.L.- n°5) 7/7",
+        "nome_file": "81189G_0.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81189-G",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12696",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.I.- n°6)",
+        "nome_file": "81190_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81190",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12697",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.I.- n°6) 1/7",
+        "nome_file": "81191A_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81191-A",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12698",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.I.- n°6) 2/7",
+        "nome_file": "81191B_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81191-B",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12699",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.I.- n°6) 3/7",
+        "nome_file": "81191C_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81191-C",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12700",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.I.- n°6) 4/7",
+        "nome_file": "81191D_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81191-D",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12701",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.I.- n°6) 5/7",
+        "nome_file": "81191E_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81191-E",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12702",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.I.- n°6) 6/7",
+        "nome_file": "81191F_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81191-F",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12703",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.I.- n°6) 7/7",
+        "nome_file": "81191_1G.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81191-G",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12704",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.A.- n°7)",
+        "nome_file": "81192_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81192",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12705",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.A.- n°7) 1/7",
+        "nome_file": "81193A_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81193-A",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12706",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.A.- n°7) 2/7",
+        "nome_file": "81193B_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81193-B",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12707",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.A.- n°7) 3/7",
+        "nome_file": "81193C_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81193-C",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12708",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.A.- n°7) 4/7",
+        "nome_file": "81193D_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81193-D",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12709",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.A.- n°7) 5/7",
+        "nome_file": "81193E_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81193-E",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12710",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.A.- n°7) 6/7",
+        "nome_file": "81193F_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81193-F",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12711",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.6 - Allacciamento Impianto ENI (Punto d'intercettazione di linea -P.I.D.A.- n°7) 7/7",
+        "nome_file": "81193G_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-81193-G",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12712",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Fascia di Servitù)",
+        "nome_file": "83300.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83300",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12713",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Fascia di Lavoro e sezioni di scavo)",
+        "nome_file": "83301.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83301",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12714",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Attraversamento interrato Tipo per Ferroviae di stato ed in concessione)",
+        "nome_file": "83320.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83320",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12715",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Attraversamento interrato Tipo perstrade Statali e Provinciali a traffico intenso)",
+        "nome_file": "83322.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83322",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12716",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Attraversamento interrato Tipo perstrade Comunali a traffico intenso)",
+        "nome_file": "83323.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83323",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12717",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Attraversamento interrato Tipo corsi d'acqua minori)",
+        "nome_file": "83326.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83326",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12718",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Sfiato DN 80)",
+        "nome_file": "83335.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83335",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12719",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Cunicolo in calcestruzzo con armatura su canaletta sagomata in plastica 1/3)",
+        "nome_file": "83336A.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83336A",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12720",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Cunicolo in calcestruzzo con armatura su canaletta sagomata in plastica 2/3)",
+        "nome_file": "83336B.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83336B",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12721",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Cunicolo in calcestruzzo con armatura su canaletta sagomata in plastica 3/3)",
+        "nome_file": "83336C.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83336C",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12722",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Sezione Tipo per strade di accesso)",
+        "nome_file": "83356.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83356",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12723",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Armadio di controllo in vetroresina)",
+        "nome_file": "83357.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83357",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12724",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Supporto armadio in vetroresina)",
+        "nome_file": "83358.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83358",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12725",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Cartello Segnalatore 1/3)",
+        "nome_file": "83359A.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83359-A",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12726",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Cartello Segnalatore 2/3)",
+        "nome_file": "83359B.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83359-B",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12727",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 8.7 - Standard (Cartello Segnalatore 3/3)",
+        "nome_file": "83359C.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-08-83359-C",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12728",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 9 - Effetti sull’Uomo di Ossidi di Azoto, Ossidi di Zolfo e Polveri",
+        "nome_file": "Allegato_9.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-09",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12729",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 10 - Progetto di Inserimento Paesaggistico delle Nuove Opere",
+        "nome_file": "Allegato_10.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-10",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12730",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 11 - Descrizione del Ciclo delle Acque all’Interno della Raffineria di Taranto",
+        "nome_file": "Allegato_11.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-11",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12731",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 12 - Chiarimenti allo Studio di Impatto Ambientale - Riunione della Cabina di Regia del 12 Marzo 2007",
+        "nome_file": "Allegato_12.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-12",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12732",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 28 Novembre 2007: Allegato 13 - Chiarimenti allo Studio di Impatto Ambientale relativo alla Ristrutturazione della Centrale EniPower",
+        "nome_file": "Allegato_13.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "INT-01-ALL-13",
+        "data": "18/04/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/12733",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Incremento della capacità produttiva della raffineria di Taranto - Copertina",
+        "nome_file": "Cover_page_Chiarimenti_SIA.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Chiarimenti-SIA",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16082",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Descrizione del sistema di modelli CALPUFF e impostazioni di calcolo utilizzate",
+        "nome_file": "Allegato_1A.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Allegato-1A",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16083",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Risultati delle modellazioni relative ai giorni critici con il sistema di modelli CALPUFF",
+        "nome_file": "Allegato_2A.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Allegato-2A",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16084",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Ubicazione delle centraline della Qualità dell'Aria",
+        "nome_file": "Figura_3_1_2a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Figura-3-1-2a",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16085",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Scenario ante operam SO2: Concentrazioni Medie Annue",
+        "nome_file": "Figura_3_1_2_1a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Figura-3-1-2-1a",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16086",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Scenario post operam SO2: Concentrazioni Medie Annue",
+        "nome_file": "Figura_3_1_2_1b.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Figura-3-1-2-1b",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16087",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Scenario ante operam SO2: 99.7° Percentile delle concentrazioni medie orarie",
+        "nome_file": "Figura_3_1_2_1c.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Figura-3-1-2-1c",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16088",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Scenario post operam SO2: 99.7° Percentile delle concentrazioni medie orarie",
+        "nome_file": "Figura_3_1_2_1d.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Figura-3-1-2-1d",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16089",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Scenario ante operam NOx: Concentrazioni Medie Annue",
+        "nome_file": "Figura_3_1_2_2a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Figura-3-1-2-2a",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16090",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Scenario post operam NOx: Concentrazioni Medie Annue",
+        "nome_file": "Figura_3_1_2_2b.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Figura-3-1-2-2b",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16091",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Scenario ante operam NOx: 99.8° Percentile delle concentrazioni medie orarie",
+        "nome_file": "Figura_3_1_2_2c.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Figura-3-1-2-2c",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16092",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Scenario post operam SO2: 99.8° Percentile delle concentrazioni medie orarie",
+        "nome_file": "Figura_3_1_2_2d.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Figura-3-1-2-2d",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16093",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Scenario ante operam PTS: Concentrazione medie annue",
+        "nome_file": "Figura_3_1_2_3a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Figura-3-1-2-3a",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16094",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Scenario post operam PTS: Concentrazione medie annue",
+        "nome_file": "Figura_3_1_2_3b.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Figura-3-1-2-3b",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16095",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Scenario ante operam PTS: 90.4° Percentile delle concentrazioni medie giornaliere",
+        "nome_file": "Figura_3_1_2_3c.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Figura-3-1-2-3c",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16096",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 14/03/2008 - Scenario Ante operam PTS: 90.4° percentile delle concentrazioni medie giornaliere",
+        "nome_file": "Figura_3_1_2_3d.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Figura-3-1-2-3d",
+        "data": "31/07/2008",
+        "download_url": "https://va.mite.gov.it/File/Documento/16097",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al Pubblico su \"Corriere del Giorno -Taranto-\" del 21 Marzo 2007",
+        "nome_file": "PBB_QT_LC.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "PBB-QT-LC",
+        "data": "31/08/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2194"
+      },
+      {
+        "titolo": "Avviso al Pubblico su \"La Repubblica\" del 21 Marzo 2008",
+        "nome_file": "PBB_QT_NZ.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "PBB-QT-NZ",
+        "data": "31/08/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/2195"
+      },
+      {
+        "titolo": "Studio d'Impatto Ambientale",
+        "nome_file": "SIA.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "SIA",
+        "data": "20/11/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/3965"
+      },
+      {
+        "titolo": "Figura 1a: Localizzazzione della Raffineria",
+        "nome_file": "Fig_1a.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Fig-1a",
+        "data": "20/11/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/3966"
+      },
+      {
+        "titolo": "Figura 1.3a: Area di Studio",
+        "nome_file": "Fig_1_3a.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Fig-1-3a",
+        "data": "20/11/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/3967"
+      },
+      {
+        "titolo": "Figura 3.4.1a: Macroambiti di Paesaggio",
+        "nome_file": "Fig_3_4_1a.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Fig-3-4-1a",
+        "data": "20/11/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/3968"
+      },
+      {
+        "titolo": "Figura 3.4.3a: Estratto dal Piano Regolatore",
+        "nome_file": "Fig_3_4_3a.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Fig-3-4-3a",
+        "data": "20/11/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/3969"
+      },
+      {
+        "titolo": "Figura 4.2.1a: Ubicazione degli Impianti",
+        "nome_file": "Fig_4_2_1a.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Fig-4-2-1a",
+        "data": "20/11/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/3970"
+      },
+      {
+        "titolo": "Figura 4.2.1b: Schema a blocchi della Raffineria",
+        "nome_file": "Fig_4_2_1b.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Fig-4-2-1b",
+        "data": "20/11/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/3971"
+      },
+      {
+        "titolo": "Figura 5.2.2.2b: Carta delle isopiezometriche della falda",
+        "nome_file": "Fig_5_2_2_2b.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Fig-5-2-2-2b",
+        "data": "20/11/2007",
+        "download_url": "https://va.mite.gov.it/File/Documento/3972"
+      }
+    ]
+  }
 }

@@ -5,5 +5,869 @@
   "nome_progetto": "Progetto di un impianto per la produzione di energia elettrica da fonte eolica denominato \"Fragagnano\", composto da 18 aerogeneratori da 6 MW ciascuno, per una potenza complessiva pari a 108 MW, con annesso sistema di accumulo della potenza di 30 MW, da realizzarsi nei comuni di Fragagnano (TA), Sava (TA), Lizzano (TA), Torricella (TA) e Taranto (TA)",
   "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM)\t8651",
   "hash_dettagli": "06d4a45fd5cd048516ae9d83a622e157d14fafbdbae855ad5212e7fe98853e78",
-  "errore": "Errore durante scraping: Locator.click: Timeout 30000ms exceeded.\nCall log:\nwaiting for locator(\"span.leaf[data-raggruppamentoid='281']\").first\n  -   locator resolved to <span class=\"leaf \" data-raggruppamentoid=\"281\">Documentazione integrativa/Documentazione integra…</span>\n  - attempting click action\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #1\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #2\n  -   waiting 20ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #3\n  -   waiting 100ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #4\n  -   waiting 100ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #5\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #6\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #7\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #8\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #9\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #10\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #11\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #12\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #13\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #14\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #15\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #16\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #17\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #18\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #19\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #20\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #21\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #22\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #23\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #24\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #25\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #26\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #27\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #28\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #29\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #30\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #31\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #32\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #33\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #34\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #35\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #36\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #37\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #38\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #39\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #40\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #41\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #42\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #43\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #44\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #45\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #46\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #47\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #48\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #49\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #50\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #51\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #52\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #53\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #54\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #55\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #56\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #57\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #58\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #59\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #60\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #61\n  -   waiting 500ms\n  -   waiting for element to be visible, enabled and stable\n  -   element is not visible\n  - retrying click action, attempt #62\n  -   waiting 500ms\n"
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Relazione di incidenza",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Piano di utilizzo dei materiali di scavo",
+      "Osservazioni del Pubblico inviate oltre i termini",
+      "Pareri/Osservazioni Enti",
+      "Documentazione integrativa/Documentazione integrativa volontaria",
+      "Pareri/Osservazioni Enti (I)"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni del Comune di Taranto in data 13/10/2022",
+        "nome_file": "MiTE-2022-0126847.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MiTE-2022-0126847",
+        "data": "25/10/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/710264",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Parere del Comune di Taranto in data 18/10/2022",
+        "nome_file": "MiTE-2022-0129009.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MiTE-2022-0129009",
+        "data": "25/10/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/710266",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Planimetria catastale con fascia API",
+        "nome_file": "AS_TAR_A_G_D_0_1_Planimetria_catastale_con_fascia_API.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-A.G.D.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363853",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Corografia Opere Attraversate",
+        "nome_file": "AS_TAR_A_G_D_0_2_Corografia_Opere_Attraversate.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-A.G.D.0.2",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363854",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Elenco beni da asservire",
+        "nome_file": "AS_TAR_A_G_E_0_1_Elenco_beni_da_asservire.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-A.G.E.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363855",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Elenco Opere Attraversate",
+        "nome_file": "AS_TAR_A_G_E_0_2_Elenco_Opere_Attraversate.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-A.G.E.0.2",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363856",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Profilo DORSALE SITUAZIONE ATTUALE",
+        "nome_file": "AS_TAR_B_G_D_0_1_Profilo_DORSALE_SITUAZIONE_ATTUALE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-B.G.D.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363857",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Profilo RACCORDO DESTRO FUTURO",
+        "nome_file": "AS_TAR_B_G_D_0_2_Profilo_RACCORDO_DESTRO_FUTURO.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-B.G.D.0.2",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363858",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Profilo RACCORDO SINISTRO FUTURO",
+        "nome_file": "AS_TAR_B_G_D_0_3_Profilo_RACCORDO_SINISTRO_FUTURO.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-B.G.D.0.3",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363859",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Profilo RACCORDO PROVVISORIO",
+        "nome_file": "AS_TAR_B_G_D_0_4_Profilo_RACCORDO_PROVVISORIO.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-B.G.D.0.4",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363860",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Planimetria con stralcio PRG Comune di Taranto",
+        "nome_file": "AS_TAR_C_G_D_0_1_Planimetria_con_stralcio_PRG_Comune_di_Taranto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-C.G.D.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363861",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - PRG Carosino",
+        "nome_file": "AS_TAR_C_G_D_0_2_PRG_Carosino.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-C.G.D.0.2",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363862",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Planimetria catastale con fascia DpA",
+        "nome_file": "AS_TAR_D_G_D_0_1_Planimetria_catastale_con_fascia_DpA.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-D.G.D.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363863",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - RELAZIONE_CEM",
+        "nome_file": "AS_TAR_D_G_R_0_1_RELAZIONE_CEM.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-D.G.R.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363864",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Planimetria catastale con fascia OTM",
+        "nome_file": "AS_TAR_E_G_D_0_1_Planimetria_catastale_con_fascia_OTM.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-E.G.D.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363865",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Elenco OTM",
+        "nome_file": "AS_TAR_E_G_E_0_1_Elenco_OTM.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-E.G.E.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363866",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Carta Geolitologica",
+        "nome_file": "AS_TAR_F_G_D_0_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-F.G.D.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363867",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Carta Geomorfologica",
+        "nome_file": "AS_TAR_F_G_D_0_2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-F.G.D.0.2",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363868",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - RELAZIONE GEOLOGICA PRELIMINARE SE TARANTO 380",
+        "nome_file": "AS_TAR_F_G_R_0_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-F.G.R.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363869",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Carta Idrogeologica",
+        "nome_file": "AS_TAR_F_G_R_0_3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-F.G.R.0.3",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363870",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Due diligence terre e rocce da scavo - Relazione tecnica",
+        "nome_file": "AS_TAR_G_G_R_0_1_Due_diligence_terre_e_rocce_da_scavo-Relazione_tecnica.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-G.G.R.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363871",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Planimetria CTR VV.F.",
+        "nome_file": "AS_TAR_H_G_D_0_1_Planimetria_CTR_VV_F.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-H.G.D.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363872",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - RELAZIONE_VV_F",
+        "nome_file": "AS_TAR_H_G_R_0_1_RELAZIONE_VV_F.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-H.G.R.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363873",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Corografia Generale",
+        "nome_file": "AS_TAR_P_G_D_0_1_Corografia_Generale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-P.G.D.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363874",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Planimetria CTR",
+        "nome_file": "AS_TAR_P_G_D_0_2_Planimetria_CTR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-P.G.D.0.2",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363875",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - ORTOFOTO",
+        "nome_file": "AS_TAR_P_G_D_0_3_ORTOFOTO.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-P.G.D.0.3",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363876",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Scheda sintetica del progetto",
+        "nome_file": "AS_TAR_P_G_R_0_1_Scheda_sintetica_del_progetto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-P.G.R.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363877",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Vincoli Paesaggistici PPTR",
+        "nome_file": "AS_TAR_PTO_V_I_Vincoli_Paesaggistici_PPTR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-PTO-V.I",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363878",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Mappatura Parchi e Riserve e Siti di Rilevanza Nat",
+        "nome_file": "AS_TAR_PTO_V_II_Mappatura_Parchi_e_Riserve_e_Siti_di_Rilevanza_Nat.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-PTO-V.II",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363879",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Vincoli di natura archeologica",
+        "nome_file": "AS_TAR_PTO_V_III_Vincoli_di_natura_archeologica.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-PTO-V.III",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363880",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Vincolo Idrogeomorfologico",
+        "nome_file": "AS_TAR_PTO_V_IV_Vincolo_Idrogeomorfologico.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-PTO-V.IV",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363881",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Quadro di assetto dei tratturi",
+        "nome_file": "AS_TAR_PTO_V_IX_Quadro_di_assetto_dei_tratturi.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-PTO-V.IX",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363882",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Aree percorse dal fuoco",
+        "nome_file": "AS_TAR_PTO_V_V_Aree_percorse_dal_fuoco.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-PTO-V.V",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363883",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Inquadramento con indicazione SIN (Siti inquinati",
+        "nome_file": "AS_TAR_PTO_V_VI_Inquadramento_con_indicazione_SIN_Siti_inquinati.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-PTO-V.VI",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363884",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Analisi delle interferenze con le attività minera",
+        "nome_file": "AS_TAR_PTO_V_VII_Analisi_delle_interferenze_con_le_attivit_minera.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-PTO-V.VII",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363885",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Cartografia PAI",
+        "nome_file": "AS_TAR_PTO_V_VIII_Cartografia_PAI.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-PTO-V.VIII",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363886",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - RELAZIONE_TECNICA_RACCORDI AT",
+        "nome_file": "AS_TAR_R_G_R_0_1_RELAZIONE_TECNICA_RACCORDI_AT.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-R.G.R.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363887",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - COMPONENTI",
+        "nome_file": "AS_TAR_R_G_R_0_2_COMPONENTI.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-R.G.R.0.2",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363888",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - ORTOFOTO",
+        "nome_file": "AS_TAR_S_G_D_0_0_ORTOFOTO.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.0",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363889",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Piano Quotato e sezioni SE RTN",
+        "nome_file": "AS_TAR_S_G_D_0_1_Piano_Quotato_e_sezioni_SE_RTN.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363890",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Magazzino - Piante prospetti e sezioni",
+        "nome_file": "AS_TAR_S_G_D_0_10_Magazzino-Piante_prospetti_e_sezioni.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.10",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363891",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Edifici Consegna MT",
+        "nome_file": "AS_TAR_S_G_D_0_11_Edifici_Consegna_MT.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.11",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363892",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Recinzione SE RTN",
+        "nome_file": "AS_TAR_S_G_D_0_12_Recinzione_SE_RTN.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.12",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363893",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Cancello SE RTN",
+        "nome_file": "AS_TAR_S_G_D_0_13_Cancello_SE_RTN.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.13",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363894",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Chiosco - Pianta e sezioni",
+        "nome_file": "AS_TAR_S_G_D_0_14_Chiosco-Pianta_e_sezioni.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.14",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363895",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Planimetria acque piovane",
+        "nome_file": "AS_TAR_S_G_D_0_15_Planimetria_acque_piovane.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.15",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363896",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Planimetria_SE_Terna_380",
+        "nome_file": "AS_TAR_S_G_D_0_2_Planimetria_SE_Terna_380.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.2",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363897",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Planimetria CTR SE RTN",
+        "nome_file": "AS_TAR_S_G_D_0_3_Planimetria_CTR_SE_RTN.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.3",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363898",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Sezioni Elettromeccaniche 380 Stazione RTN",
+        "nome_file": "AS_TAR_S_G_D_0_4_Sezioni_Elettromeccaniche_380_Stazione_RTN.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.4",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363899",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Sezioni Elettromeccaniche 150 Stazione RTN",
+        "nome_file": "AS_TAR_S_G_D_0_5_Sezioni_Elettromeccaniche_150_Stazione_RTN.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.5",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363900",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Unifilare Stazione RTN",
+        "nome_file": "AS_TAR_S_G_D_0_6_Unifilare_Stazione_RTN.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.6",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363901",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Schematico torre faro SE RTN",
+        "nome_file": "AS_TAR_S_G_D_0_7_Schematico_torre_faro_SE_RTN.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.7",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363902",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Edifici Comandi - Piante prospetti e sezioni",
+        "nome_file": "AS_TAR_S_G_D_0_8_Edifici_Comandi-Piante_prospetti_e_sezioni.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.8",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363903",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Servizi ausiliari - Piante prospetti e sezioni",
+        "nome_file": "AS_TAR_S_G_D_0_9_Servizi_ausiliari-Piante_prospetti_e_sezioni.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.D.0.9",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363904",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - RELAZIONE_TECNICA_SE RTN",
+        "nome_file": "AS_TAR_S_G_R_0_1_RELAZIONE_TECNICA_SE_RTN.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "AS-TAR-S.G.R.0.1",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363905",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Computo metrico estimativo",
+        "nome_file": "PEF-C-CL-01_Computo_metrico_estimativo.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-C-CL-01",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363906",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Quadro Economico",
+        "nome_file": "PEF-C-CL-05_Quadro_Economico.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-C-CL-05",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363907",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Tracciato di rete su CTR",
+        "nome_file": "PEF-E-DW-02-Tracciato_di_rete_su_CTR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-E-DW-02",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363908",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Planimetria e sezioni impianti utente e stazione di condivisione",
+        "nome_file": "PEF-E-DW-03-Planimetria_e_sezioni_impianti_utente_e_stazione_di_condivisione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-E-DW-03",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363909",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Schema unifilare impianti utente e RTN",
+        "nome_file": "PEF-E-DW-04-Schema_unifilare_impianti_utente_e_RTN.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-E-DW-04",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363910",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Schema a blocchi rete FO",
+        "nome_file": "PEF-E-DW-05-Schema_a_blocchi_rete_FO.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-E-DW-05",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363911",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Stallo TERNA 150 Kv",
+        "nome_file": "PEF-E-DW-08-Stallo_TERNA_150_kV.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-E-DW-08",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363912",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Schema unifilare rete MT",
+        "nome_file": "PEF-E-DW-09-Schema_unifilare_rete_MT.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-E-DW-09",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363913",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Edificio di controllo SET e Condivisione",
+        "nome_file": "PEF-E-DW-11-Edificio_di_controllo_SET_e_Condivisione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-E-DW-11",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363914",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Planimetria DPA",
+        "nome_file": "PEF-E-DW-12-Planimetria_DPA.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-E-DW-12",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363915",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Relazione tecnico descrittiva opere elettriche",
+        "nome_file": "PEF-E-TR-01_Relazione_tecnico_descrittiva_opere_elettriche.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-E-TR-01",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363916",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Relazione campi elettromagnetici",
+        "nome_file": "PEF-E-TR-02_Relazione_campi_elettromagnetici.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-E-TR-02",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363917",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Elenco Elaborati",
+        "nome_file": "PEF-G-00_Elenco_Elaborati.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-G-00",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363918",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Relazione illustrativa integrazioni",
+        "nome_file": "PEF-G-01_a-Relazione_illustrativa_integrazioni.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-G-01.a",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363919",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Planimetria Ellissi 3D - 5D",
+        "nome_file": "PEF-G-08_Planimetria_Ellissi_3D-5D.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-G-08",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363920",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Aree percorse dal fuoco",
+        "nome_file": "PEF-G-09_Aree_percorse_dal_fuoco.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-G-09",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363921",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Distanze rispetto agli elementi del territorio",
+        "nome_file": "PEF-G-10-Distanze_rispetto_agli_elementi_del_territorio.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-G-10",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363922",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Rappresentazione distanze gittata organi rotanti",
+        "nome_file": "PEF-G-11_Rappresentazione_distanze_gittata_organi_rotanti.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-G-11",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363923",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Inquadramento Opere di Connessione",
+        "nome_file": "PEF-G-12-Inquadramento_Opere_di_Connessione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-G-12",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363924",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Aggiornamento allo Studio impatto ambientale",
+        "nome_file": "PEF-S-AMB-01_01_a-Aggiornamento_allo_Studio_impatto_ambientale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-S-AMB-01.01.a",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363925",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Windfarm_limitrofe",
+        "nome_file": "PEF-S-AMB-01_29_Windfarm_limitrofe.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-S-AMB-01.29",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363926",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Vincoli_Ambientali_Area_connessione",
+        "nome_file": "PEF-S-AMB-01_34_Vincoli_Ambientali_Area_connessione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-S-AMB-01.34",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363927",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Ricognizione_Impianti_Fotovoltaici_nel_buffer_di_2km_dagli_aerogeneratori_in_progetto",
+        "nome_file": "PEF-S-AMB-01_35_Ricognizione_Impianti_Fotovoltaici_nel_buffer_di_2km_dagli_aerogeneratori_in_progetto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-S-AMB-01.35",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363928",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Relazione Shadow Flickering",
+        "nome_file": "PEF-S-SPE-04_03-Relazione_Shadow_Flickering.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-S-SPE-04.03",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363929",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Carta_degli_impatti_da_shadow_flickering",
+        "nome_file": "PEF-S-SPE-04_04_Carta_degli_impatti_da_shadow_flickering.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-S-SPE-04.04",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363930",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Analisi sugli effetti della rottura degli organi rotanti",
+        "nome_file": "PEF-S-SPE-04_05_Analisi_sugli_effetti_della_rottura_degli_organi_rotanti.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-S-SPE-04.05",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363931",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 02/02/2026 - Studio impatti cumulativi",
+        "nome_file": "PEF-S-SPE-04_06-Studio_impatti_cumulativi.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PEF-S-SPE-04.06",
+        "data": "11/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1363932",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Ministero della cultura - Soprintendenza Speciale per il PNRR, in data 10/07/2026",
+        "nome_file": "MASE-2026-0147456.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2026-0147456",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410630",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere del Comune di Taranto, in data 31/03/2026",
+        "nome_file": "MASE-2026-0069997.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2026-0069997",
+        "data": "31/03/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1376433",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere della Provincia di Taranto - Settore Pianificazione e Ambiente, in data 02/03/2026",
+        "nome_file": "MASE-2026-0046446.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2026-0046446",
+        "data": "05/03/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1370375",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al Pubblico del 01/09/2022",
+        "nome_file": "02_Modulo_Avviso_Pubblico_VIA_signed.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MiTE-2022-0105118",
+        "data": "01/09/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680451"
+      },
+      {
+        "titolo": "Relazione pedoagronomica",
+        "nome_file": "PEF-S-AGR-06_01_Relazione_pedoagronomica.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc151",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680370"
+      },
+      {
+        "titolo": "Relazione essenze",
+        "nome_file": "PEF-S-AGR-06_02_Relazione_essenze.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc152",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680371"
+      },
+      {
+        "titolo": "Relazione paesaggio agrario",
+        "nome_file": "PEF-S-AGR-06_03_Relazione_paesaggio_agrario.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc153",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680372"
+      },
+      {
+        "titolo": "Analisi della Biodiversita",
+        "nome_file": "PEF-S-AGR-06_04_Analisi_della_Biodiversita.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc154",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680373"
+      },
+      {
+        "titolo": "Carta degli Habitat",
+        "nome_file": "PEF-S-AGR-06_05_Carta_degli_Habitat.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc155",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680374"
+      },
+      {
+        "titolo": "Carta degli Ecosistemi",
+        "nome_file": "PEF-S-AGR-06_06_Carta_degli_Ecosistemi.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc156",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680375"
+      },
+      {
+        "titolo": "Carta dell uso del suolo",
+        "nome_file": "PEF-S-AGR-06_07_Carta_dell_uso_del_suolo.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc157",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680376"
+      },
+      {
+        "titolo": "Studio di impatto ambientale",
+        "nome_file": "PEF-S-AMB-01_01_Studio_di_impatto_ambientale.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc158",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680377"
+      },
+      {
+        "titolo": "Dichiarazione estensore SIA",
+        "nome_file": "PEF-S-AMB-01_03_Dichiarazione_estensore_SIA.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc159",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680378"
+      }
+    ]
+  }
 }

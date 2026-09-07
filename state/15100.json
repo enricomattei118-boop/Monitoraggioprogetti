@@ -5,5 +5,46 @@
   "nome_progetto": "Bioraffineria di Gela - Utilizzo di Brown Grease per la produzione di Biocarburanti",
   "dettagli_procedura": "Codice istanza online\tWEB-VALPREL - PVPVP00000158",
   "hash_dettagli": "1e33f22d5192bf39a4433f148befbcd757b25afffb6f55262c43c1926b6ead78",
-  "errore": "Errore durante scraping: Locator.get_attribute: Error: strict mode violation: locator(\"a.icona-documentazione-tecnico-amm\") resolved to 2 elements:\n    1) <a title=\"Documentazione \" class=\"icona-documentazione-tecnico-amm\" href=\"https://va.mite.gov.it/it-IT/Oggetti/Documentazione/11060/16567\">↵                                Documentazione ↵…</a> aka get_by_title(\"Documentazione \")\n    2) <a title=\"Documentazione\" class=\"icona-documentazione-tecnico-amm\" href=\"/it-IT/Oggetti/Documentazione/12135/19255\">Documentazione</a> aka get_by_role(\"link\", name=\"Documentazione\")\n\nCall log:\nwaiting for locator(\"a.icona-documentazione-tecnico-amm\")\n"
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Elenchi Elaborati",
+      "Elaborati di Piano",
+      "Decreto VIA"
+    ],
+    "documenti_di_interesse": [],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Decreto Direttoriale - Bioraffineria di Gela S.p.A.-Richiesta di modifica della condizione ambientale n.3 contenuta nel parere della CTVIA n.336 del 24/10/2022 allegato al DM 138 del 13/03/2023",
+        "nome_file": "MASE_VA_DEC_2025-0000098.pdf",
+        "sezione": "Decreto VIA",
+        "codice_elaborato": "MASE-VA-DEC-2025-0000098",
+        "data": "10/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1227567"
+      },
+      {
+        "titolo": "Elenco Elaborati",
+        "nome_file": "ElencoElaborati.pdf",
+        "sezione": "Elenchi Elaborati",
+        "codice_elaborato": "Elenco Elaborati",
+        "data": "10/07/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1102973"
+      },
+      {
+        "titolo": "Allegato al Decreto Direttoriale - Parere CTVA del 04/07/2024",
+        "nome_file": "Parere_n_1110_del_4_luglio_2024_IDVIP_12537.pdf",
+        "sezione": "Decreto VIA",
+        "codice_elaborato": "PRR 1110",
+        "data": "10/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1227568"
+      },
+      {
+        "titolo": "Studio_Preliminare_Ambientale",
+        "nome_file": "Studio_Preliminare_Ambientale.pdf",
+        "sezione": "Elaborati di Piano",
+        "codice_elaborato": "Studio-Preliminare-Ambientale",
+        "data": "10/07/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1102974"
+      }
+    ]
+  }
 }

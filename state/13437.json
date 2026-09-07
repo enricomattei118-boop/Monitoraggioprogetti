@@ -3,5 +3,124 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/903",
   "nome_progetto": "Coltivazione di idrocarburi da effettuare nella concessione A.C21.AG comportante la realizzazione di una piattaforma denominata \"Naide\", la perforazione di 2 pozzi di coltivazione e la posa di 3 condotte sottomarine di lunghezza pari a 9,5 km tra la piattattaforma \"Naide\" e l'esistente piattaforma \"Cervia C\"",
-  "errore": "Errore durante scraping: Locator.click: Error: strict mode violation: locator(\"a.icona-dettaglio-procedura\") resolved to 11 elements:\n    1) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 13437 13/12/2024 Conclusa Dettagli procedura\").locator(\"a\").first\n    2) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 11005 09/01/2024 Conclusa Dettagli procedura\").locator(\"a\").first\n    3) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 9347\").locator(\"a\").first\n    4) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 7908\").locator(\"a\").first\n    5) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 5051\").locator(\"a\").first\n    6) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 4427\").locator(\"a\").first\n    7) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 3814\").locator(\"a\").first\n    8) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 3235\").locator(\"a\").first\n    9) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 2547\").locator(\"a\").first\n    10) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 3058\").locator(\"a\").first\n    ...\n\nCall log:\nwaiting for locator(\"a.icona-dettaglio-procedura\")\n"
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM)\t13437",
+  "hash_dettagli": "5c89a438d9e073521d0577942fa91d4ebf20d032ef1039aefd7a24086bfcdb82",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Elaborati di Progetto",
+      "Documentazione integrativa",
+      "Comunicazione esito valutazione"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Integrazioni del 19/12/2025 - Campo di Naide - Aggiornamento al 31/12/2024",
+        "nome_file": "GEODCS_REL2025_NAI.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "GEODCS-REL2025-NAI",
+        "data": "08/06/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1398945",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 19/12/2025 - Serie Storica CGPS dal 28/06/2005 al 31/12/2024",
+        "nome_file": "NAID_ITRF2014.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "NAID-ITRF2014",
+        "data": "08/06/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1398946",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 19/12/2025 - Campo di Naide - Modello Elasto-Plastico di Subsidenza - Management Summary 09/2024",
+        "nome_file": "NAIDE_MS2024.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "NAIDE-MS2024",
+        "data": "08/06/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1398948",
+        "sezione_menu": "Documentazione integrativa"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Integrazioni del 19/12/2025 - Campo di Naide - Aggiornamento al 31/12/2024",
+        "nome_file": "GEODCS_REL2025_NAI.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "GEODCS-REL2025-NAI",
+        "data": "08/06/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1398945"
+      },
+      {
+        "titolo": "Relazione di campo di Naide contenente i dati di monitoraggio aggiornati al 31/12/2023.",
+        "nome_file": "GEODCS_REL2024_NAI.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "GEODCS-REL2023-NAI",
+        "data": "19/12/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1191015"
+      },
+      {
+        "titolo": "Serie Storica CGPS dal 28/06/2005 al 11/06/2023",
+        "nome_file": "NAIDITRF2014.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "NAID-ITRF2014",
+        "data": "19/12/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1191016"
+      },
+      {
+        "titolo": "Integrazioni del 19/12/2025 - Serie Storica CGPS dal 28/06/2005 al 31/12/2024",
+        "nome_file": "NAID_ITRF2014.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "NAID-ITRF2014",
+        "data": "08/06/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1398946"
+      },
+      {
+        "titolo": "Integrazioni del 19/12/2025 - Campo di Naide - Modello Elasto-Plastico di Subsidenza - Management Summary 09/2024",
+        "nome_file": "NAIDE_MS2024.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "NAIDE-MS2024",
+        "data": "08/06/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1398948"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione",
+        "nome_file": "MASE_2026_0168289.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2026-0168289",
+        "data": "10/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419003"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione",
+        "nome_file": "MASE_2026-0168289.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2026-0168289",
+        "data": "06/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1417923"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione MASE_2026-0105781",
+        "nome_file": "MASE_2026-0105781.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2026-0105781",
+        "data": "21/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1392860"
+      },
+      {
+        "titolo": "Allegato alla Comunicazione VA esito valutazione MASE_2026-0105781 - par_n_736_ID_da_13420_a_13438_e_7427_Piattaforme_aggiornamento_2024_signed-PROT",
+        "nome_file": "par_n_736_ID_da_13420_a_13438_e_7427_Piattaforme_aggiornamento_2024_signed-PROT.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "par-n-736-ID-da-13420-a-13438-e-7427-Piattaforme-aggiornamento-2024-signed-PROT",
+        "data": "21/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1392861"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione",
+        "nome_file": "13437.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2025-0107835",
+        "data": "10/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1264187"
+      }
+    ]
+  }
 }

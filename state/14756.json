@@ -3,5 +3,22 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/1414",
   "nome_progetto": "Perforazione del pozzo esplorativo \"Lince 1\" nell'ambito del permesso di ricerca \"G.R13.AG\"",
-  "errore": "Errore durante scraping: Locator.click: Error: strict mode violation: locator(\"a.icona-dettaglio-procedura\") resolved to 2 elements:\n    1) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").first\n    2) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(1)\n\nCall log:\nwaiting for locator(\"a.icona-dettaglio-procedura\")\n"
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM)\t14756",
+  "hash_dettagli": "53bfbc66d7b1d287581aec905fd028705c5b0cddad6f9f5b085128da8e77fb93",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Determinazione direttoriale di assoggettabilità alla VIA"
+    ],
+    "documenti_di_interesse": [],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Provvedimento direttoriale di esclusione dalla VIA - Perforazione del pozzo esplorativo denominato Argo 2 nell'ambito del permesso di ricerca G.R13.AG",
+        "nome_file": "DSA-2008-0010424.pdf",
+        "sezione": "Determinazione direttoriale di assoggettabilità alla VIA",
+        "codice_elaborato": "DSA-2008-0010424",
+        "data": "21/03/2012",
+        "download_url": "https://va.mite.gov.it/File/Documento/54247"
+      }
+    ]
+  }
 }

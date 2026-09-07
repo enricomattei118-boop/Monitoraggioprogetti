@@ -3,5 +3,115 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/989",
   "nome_progetto": "Coltivazione di idrocarburi nella concessione d24.AC.AG comportante la realizzazione della piattaforma Naomi-Pandora, della piattaforma monotubolare Irma-Carola e delle condotta di collegamento",
-  "errore": "Errore durante scraping: Locator.click: Error: strict mode violation: locator(\"a.icona-dettaglio-procedura\") resolved to 10 elements:\n    1) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 13436 13/12/2024 Conclusa Dettagli procedura\").locator(\"a\").first\n    2) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 11004 09/01/2024 Conclusa Dettagli procedura\").locator(\"a\").first\n    3) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 9346\").locator(\"a\").first\n    4) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 7907\").locator(\"a\").first\n    5) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 5050\").locator(\"a\").first\n    6) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 4422\").locator(\"a\").first\n    7) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 3813\").locator(\"a\").first\n    8) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 3240\").locator(\"a\").first\n    9) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 3059\").locator(\"a\").first\n    10) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Valutazione Impatto\").locator(\"a\").first\n\nCall log:\nwaiting for locator(\"a.icona-dettaglio-procedura\")\n"
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM)\t13436",
+  "hash_dettagli": "d892cc59c99031afc87f427bc7f1d3d224c77df2deee8ce85f36e398cc8d793f",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Elaborati di Progetto",
+      "Documentazione integrativa",
+      "Comunicazione esito valutazione"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Integrazioni del 19/12/2025 - Campo di Naomi - Pandora. Aggiornamento al 31/12/2024",
+        "nome_file": "GEODCS_REL2025_NAPA.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "GEODCS-REL2025-NAPA",
+        "data": "08/06/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1398941",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 19/12/2025 - Serie Storica CGPS dal 20/06/2002 al 23/12/2024",
+        "nome_file": "NAPA_ITRF2014.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "NAPA-ITRF2014",
+        "data": "08/06/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1398942",
+        "sezione_menu": "Documentazione integrativa"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Aggiornamento al 31/12/2023",
+        "nome_file": "GEODCS_REL2024_NAPA.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "GEODCS-REL2024-NAPA",
+        "data": "19/12/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1191011"
+      },
+      {
+        "titolo": "Integrazioni del 19/12/2025 - Campo di Naomi - Pandora. Aggiornamento al 31/12/2024",
+        "nome_file": "GEODCS_REL2025_NAPA.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "GEODCS-REL2025-NAPA",
+        "data": "08/06/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1398941"
+      },
+      {
+        "titolo": "Integrazioni del 19/12/2025 - Serie Storica CGPS dal 20/06/2002 al 23/12/2024",
+        "nome_file": "NAPA_ITRF2014.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "NAPA-ITRF2014",
+        "data": "08/06/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1398942"
+      },
+      {
+        "titolo": "Serie Storica CGPS dal 20/06/2002 al 23/12/2023",
+        "nome_file": "NAPAITRF2014.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "NAPA-ITRF2014",
+        "data": "19/12/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1191012"
+      },
+      {
+        "titolo": "Log di compattazione",
+        "nome_file": "ENI_Naomi4Dir_FSMTE_Nov2023_FinalPrint.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "ENI-Naomi4Dir-FSMTE-Nov2023-FinalPrint",
+        "data": "19/12/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1191013"
+      },
+      {
+        "titolo": "Relazione di aggiornamento del modello geomeccanico previsionale di subsidenza",
+        "nome_file": "Naomi-Pandora_MS_2023.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "Naomi-Pandora-MS 2023",
+        "data": "19/12/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1191014"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione",
+        "nome_file": "MASE_2026-0168289.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2026-0168289",
+        "data": "10/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419001"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione MASE_2026-0105781",
+        "nome_file": "MASE_2026-0105781.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2026-0105781",
+        "data": "19/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1391201"
+      },
+      {
+        "titolo": "Allegato alla Comunicazione VA esito valutazione MASE_2026-0105781 par_n_736_ID_da_13420_a_13438_e_7427_Piattaforme_aggiornamento_2024_signed-PROT",
+        "nome_file": "par_n_736_ID_da_13420_a_13438_e_7427_Piattaforme_aggiornamento_2024_signed-PROT.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "par-n-736-ID-da-13420-a-13438-e-7427-Piattaforme-aggiornamento-2024-signed-PROT",
+        "data": "19/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1391203"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione",
+        "nome_file": "13436.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2025-0107835",
+        "data": "10/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1264186"
+      }
+    ]
+  }
 }

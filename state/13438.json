@@ -3,5 +3,107 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/946",
   "nome_progetto": "Installazione di una nuova piattaforma PCMS nel Mare Adriatico a 20 km dalla costa ravennate - \"Porto Corsini C\", concessione \"A.C1.AG\"",
-  "errore": "Errore durante scraping: Locator.click: Error: strict mode violation: locator(\"a.icona-dettaglio-procedura\") resolved to 10 elements:\n    1) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 13438 13/12/2024 Conclusa Dettagli procedura\").locator(\"a\").first\n    2) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 11006 09/01/2024 Conclusa Dettagli procedura\").locator(\"a\").first\n    3) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 9348\").locator(\"a\").first\n    4) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 7909\").locator(\"a\").first\n    5) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 5052\").locator(\"a\").first\n    6) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 4425\").locator(\"a\").first\n    7) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 3815\").locator(\"a\").first\n    8) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 3234\").locator(\"a\").first\n    9) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Verifica di Ottemperanza 3057\").locator(\"a\").first\n    10) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_role(\"row\", name=\"Valutazione Impatto\").locator(\"a\").first\n\nCall log:\nwaiting for locator(\"a.icona-dettaglio-procedura\")\n"
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM)\t13438",
+  "hash_dettagli": "9d576ec34bfdedf30fbd8319e0bfcd18e0132a8dd547d07224bd444462882a3a",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Elaborati di Progetto",
+      "Documentazione integrativa",
+      "Comunicazione esito valutazione"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Integrazioni del 19/12/2025 - Campo di Porto Corsini Mare - Aggiornamento al 31/12/2024",
+        "nome_file": "GEODCS_REL2025_PCM.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "GEODCS-REL2025-PCM",
+        "data": "08/06/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1398951",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 19/12/2025 - Serie Storica CGPS dal 08/07/2005 al 31/12/2024",
+        "nome_file": "PCCP_ITRF2014.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "PCCP-ITRF2014",
+        "data": "08/06/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1398952",
+        "sezione_menu": "Documentazione integrativa"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Integrazioni del 19/12/2025 - Campo di Porto Corsini Mare - Aggiornamento al 31/12/2024",
+        "nome_file": "GEODCS_REL2025_PCM.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "GEODCS-REL2025-PCM",
+        "data": "08/06/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1398951"
+      },
+      {
+        "titolo": "Relazione di campo di Porto Corsini Mare contenente i dati di monitoraggio aggiornati al 31/12/2023.",
+        "nome_file": "GEODCS_REL2024_PCM.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "GEODCS-REL2024-PCM",
+        "data": "19/12/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1191017"
+      },
+      {
+        "titolo": "Serie Storica CGPS dal 08/07/2005 al 31/12/2023",
+        "nome_file": "PCCPITRF2014.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "PCCP-ITRF2014",
+        "data": "19/12/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1191018"
+      },
+      {
+        "titolo": "Integrazioni del 19/12/2025 - Serie Storica CGPS dal 08/07/2005 al 31/12/2024",
+        "nome_file": "PCCP_ITRF2014.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "PCCP-ITRF2014",
+        "data": "08/06/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1398952"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione",
+        "nome_file": "MASE_2026_0168289.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2026-0168289",
+        "data": "10/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419005"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione MASE_2026-0105781",
+        "nome_file": "MASE_2026-0105781.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2026-0105781",
+        "data": "21/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1392865"
+      },
+      {
+        "titolo": "Allegato alla Comunicazione VA esito valutazione MASE_2026-0105781 - par_n_736_ID_da_13420_a_13438_e_7427_Piattaforme_aggiornamento_2024_signed-PROT",
+        "nome_file": "par_n_736_ID_da_13420_a_13438_e_7427_Piattaforme_aggiornamento_2024_signed-PROT.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "par-n-736-ID-da-13420-a-13438-e-7427-Piattaforme-aggiornamento-2024-signed-PROT",
+        "data": "21/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1392866"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione",
+        "nome_file": "13438.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2025-0107835",
+        "data": "10/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1264188"
+      },
+      {
+        "titolo": "Allegato alla Comunicazione VA esito valutazione - Parere della SCVA del 30/06/2026",
+        "nome_file": "prr_953.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "PRR 953",
+        "data": "10/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419006"
+      }
+    ]
+  }
 }
