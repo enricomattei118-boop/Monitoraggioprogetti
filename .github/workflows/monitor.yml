@@ -2,15 +2,30 @@ name: Monitoraggio progetti VIA
 
 on:
   schedule:
-    # Ora italiana 12:00 e 18:00, coprendo sia CET (UTC+1) che CEST (UTC+2)
-    - cron: "0 11 * * *"  # 12:00 CET (inverno)
-    - cron: "0 10 * * *"  # 12:00 CEST (estate)
+    # 06:00, 10:00, 14:00, 18:00 ora italiana, coprendo sia CET (UTC+1, inverno)
+    # che CEST (UTC+2, estate). Il controllo in main.py scarta comunque l'esecuzione
+    # "doppia" nel giorno di cambio ora, eseguendo il report una sola volta per fascia.
+    - cron: "0 5 * * *"   # 06:00 CET (inverno)
+    - cron: "0 4 * * *"   # 06:00 CEST (estate)
+    - cron: "0 9 * * *"   # 10:00 CET (inverno)
+    - cron: "0 8 * * *"   # 10:00 CEST (estate)
+    - cron: "0 13 * * *"  # 14:00 CET (inverno)
+    - cron: "0 12 * * *"  # 14:00 CEST (estate)
     - cron: "0 17 * * *"  # 18:00 CET (inverno)
     - cron: "0 16 * * *"  # 18:00 CEST (estate)
-  workflow_dispatch: {}   # permette anche l'avvio manuale da GitHub
+  workflow_dispatch:
+    inputs:
+      forza_esecuzione:
+        description: "Ignora il controllo orario ed esegui comunque (per test manuali)"
+        required: false
+        default: "true"
 
 permissions:
-  contents: write   # necessario per committare lo stato aggiornato
+  contents: write
+
+concurrency:
+  group: via-monitor
+  cancel-in-progress: false
 
 jobs:
   monitor:
@@ -36,6 +51,7 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           REPORT_TO_EMAIL: ${{ secrets.REPORT_TO_EMAIL }}
+          FORZA_ESECUZIONE: ${{ github.event.inputs.forza_esecuzione || 'false' }}
         run: python main.py
 
       - name: Commit nuovo stato
@@ -44,4 +60,5 @@ jobs:
           git config user.email "actions@github.com"
           git add state/
           git diff --quiet --cached || git commit -m "Aggiorna stato progetti [skip ci]"
+          git pull --rebase --autostash origin main
           git push
