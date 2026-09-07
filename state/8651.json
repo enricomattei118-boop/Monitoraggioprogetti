@@ -3,5 +3,156 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/8872",
   "nome_progetto": "Progetto di un impianto per la produzione di energia elettrica da fonte eolica denominato \"Fragagnano\", composto da 18 aerogeneratori da 6 MW ciascuno, per una potenza complessiva pari a 108 MW, con annesso sistema di accumulo della potenza di 30 MW, da realizzarsi nei comuni di Fragagnano (TA), Sava (TA), Lizzano (TA), Torricella (TA) e Taranto (TA)",
-  "errore": "Errore durante scraping: Locator.wait_for: Error: strict mode violation: locator(\".datiAmministrativi\") resolved to 11 elements:\n    1) <tr class=\"datiAmministrativi\">…</tr> aka get_by_role(\"row\", name=\"Codice procedura (ID_VIP/\")\n    2) <tr class=\"datiAmministrativi\">…</tr> aka get_by_role(\"row\", name=\"Oggetto: Progetto di un\")\n    3) <tr class=\"datiAmministrativi\">…</tr> aka get_by_role(\"row\", name=\"Data presentazione istanza: 20/06/\")\n    4) <tr class=\"datiAmministrativi\">…</tr> aka get_by_role(\"row\", name=\"Data richiesta\")\n    5) <tr class=\"datiAmministrativi\">…</tr> aka get_by_role(\"row\", name=\"Data ricezione atti di\")\n    6) <tr class=\"datiAmministrativi\">…</tr> aka get_by_role(\"row\", name=\"Data avvio consultazione\")\n    7) <tr class=\"datiAmministrativi\">…</tr> aka get_by_role(\"row\", name=\"Termine presentazione Osservazioni del Pubblico: 01/10/\")\n    8) <tr class=\"datiAmministrativi\">…</tr> aka get_by_role(\"row\", name=\"Data comunicazione avvio\")\n    9) <tr class=\"datiAmministrativi\">…</tr> aka get_by_role(\"row\", name=\"Termine presentazione Osservazioni del Pubblico su ripubblicazione : 26/02/\")\n    10) <tr class=\"datiAmministrativi\">…</tr> aka get_by_role(\"row\", name=\"Responsabile del procedimento\")\n    ...\n\nCall log:\nwaiting for locator(\".datiAmministrativi\") to be visible\n"
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM)\t8651",
+  "hash_dettagli": "06d4a45fd5cd048516ae9d83a622e157d14fafbdbae855ad5212e7fe98853e78",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Relazione di incidenza",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Piano di utilizzo dei materiali di scavo",
+      "Osservazioni del Pubblico inviate oltre i termini",
+      "Pareri/Osservazioni Enti",
+      "Documentazione integrativa/Documentazione integrativa volontaria",
+      "Pareri/Osservazioni Enti (I)"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni del Comune di Taranto in data 13/10/2022",
+        "nome_file": "MiTE-2022-0126847.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MiTE-2022-0126847",
+        "data": "25/10/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/710264",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini",
+        "path_locale": "downloads/8651_Osservazioni del Pubblico inviate oltre i termini_MiTE-2022-0126847.pdf"
+      },
+      {
+        "titolo": "Parere del Comune di Taranto in data 18/10/2022",
+        "nome_file": "MiTE-2022-0129009.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MiTE-2022-0129009",
+        "data": "25/10/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/710266",
+        "sezione_menu": "Pareri/Osservazioni Enti",
+        "path_locale": "downloads/8651_Pareri-Osservazioni Enti_MiTE-2022-0129009.pdf"
+      },
+      {
+        "titolo": "Ministero della cultura - Soprintendenza Speciale per il PNRR, in data 10/07/2026",
+        "nome_file": "MASE-2026-0147456.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2026-0147456",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410630",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)",
+        "path_locale": "downloads/8651_Pareri-Osservazioni Enti (I)_MASE-2026-0147456.pdf"
+      },
+      {
+        "titolo": "Parere del Comune di Taranto, in data 31/03/2026",
+        "nome_file": "MASE-2026-0069997.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2026-0069997",
+        "data": "31/03/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1376433",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)",
+        "path_locale": "downloads/8651_Pareri-Osservazioni Enti (I)_MASE-2026-0069997.pdf"
+      },
+      {
+        "titolo": "Parere della Provincia di Taranto - Settore Pianificazione e Ambiente, in data 02/03/2026",
+        "nome_file": "MASE-2026-0046446.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2026-0046446",
+        "data": "05/03/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1370375",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)",
+        "path_locale": "downloads/8651_Pareri-Osservazioni Enti (I)_MASE-2026-0046446.pdf"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al Pubblico del 01/09/2022",
+        "nome_file": "02_Modulo_Avviso_Pubblico_VIA_signed.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MiTE-2022-0105118",
+        "data": "01/09/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680451"
+      },
+      {
+        "titolo": "Relazione pedoagronomica",
+        "nome_file": "PEF-S-AGR-06_01_Relazione_pedoagronomica.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc151",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680370"
+      },
+      {
+        "titolo": "Relazione essenze",
+        "nome_file": "PEF-S-AGR-06_02_Relazione_essenze.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc152",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680371"
+      },
+      {
+        "titolo": "Relazione paesaggio agrario",
+        "nome_file": "PEF-S-AGR-06_03_Relazione_paesaggio_agrario.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc153",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680372"
+      },
+      {
+        "titolo": "Analisi della Biodiversita",
+        "nome_file": "PEF-S-AGR-06_04_Analisi_della_Biodiversita.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc154",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680373"
+      },
+      {
+        "titolo": "Carta degli Habitat",
+        "nome_file": "PEF-S-AGR-06_05_Carta_degli_Habitat.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc155",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680374"
+      },
+      {
+        "titolo": "Carta degli Ecosistemi",
+        "nome_file": "PEF-S-AGR-06_06_Carta_degli_Ecosistemi.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc156",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680375"
+      },
+      {
+        "titolo": "Carta dell uso del suolo",
+        "nome_file": "PEF-S-AGR-06_07_Carta_dell_uso_del_suolo.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc157",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680376"
+      },
+      {
+        "titolo": "Studio di impatto ambientale",
+        "nome_file": "PEF-S-AMB-01_01_Studio_di_impatto_ambientale.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc158",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680377"
+      },
+      {
+        "titolo": "Dichiarazione estensore SIA",
+        "nome_file": "PEF-S-AMB-01_03_Dichiarazione_estensore_SIA.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Doc159",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/680378"
+      }
+    ]
+  }
 }
