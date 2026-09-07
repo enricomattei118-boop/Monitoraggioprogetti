@@ -88,6 +88,18 @@ def genera_riassunto_progetto(id_vip: str, dati_precedenti: dict | None, dati_at
             "messaggio": dati_attuali.get("errore", "Progetto non trovato"),
         }
 
+    # IMPORTANTE: anche se 'trovato' è True (la ricerca ha funzionato), lo scraping
+    # potrebbe essere fallito più avanti (es. Dettagli Procedura o Documentazione).
+    # In quel caso 'errore' è comunque valorizzato: lo segnaliamo esplicitamente
+    # invece di generare un report "pulito" che nasconde il problema.
+    if dati_attuali.get("errore"):
+        return {
+            "id_vip": id_vip,
+            "nome_progetto": dati_attuali.get("nome_progetto", ""),
+            "stato": "errore_parziale",
+            "messaggio": dati_attuali["errore"],
+        }
+
     testo_prec_dettagli = (dati_precedenti or {}).get("dettagli_procedura")
     testo_att_dettagli = dati_attuali.get("dettagli_procedura", "")
     confronto_dettagli = confronta_testi(id_vip, "Dettagli Procedura", testo_prec_dettagli, testo_att_dettagli)
