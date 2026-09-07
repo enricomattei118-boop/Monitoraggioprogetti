@@ -71,6 +71,23 @@ async def estrai_nome_progetto(page) -> str:
     return (await h2.inner_text()).strip()
 
 
+async def trova_indice_riga_procedura(page, id_vip: str):
+    """Come trova_riga_procedura, ma ritorna l'INDICE (posizione) della riga
+    invece del Locator, utile per poi leggere le righe .datiAmministrativi
+    che la seguono immediatamente nell'HTML."""
+    righe = page.locator("tr.trProcedura")
+    n = await righe.count()
+    for i in range(n):
+        riga = righe.nth(i)
+        celle = riga.locator("td")
+        if await celle.count() < 3:
+            continue
+        codice_procedura = (await celle.nth(2).inner_text()).strip()
+        if codice_procedura == str(id_vip).strip():
+            return i
+    return None
+
+
 async def trova_riga_procedura(page, id_vip: str):
     """Cerca nella tabella 'Scegli la procedura' (table.DatiAmministrativiResTable)
     la riga <tr class="trProcedura"> la cui colonna 'Codice procedura' corrisponde
@@ -92,48 +109,67 @@ async def trova_riga_procedura(page, id_vip: str):
     Ritorna il Locator della riga corrispondente, o None se non trovata
     (in quel caso il chiamante puo' fare fallback sulla prima riga disponibile).
     """
-    righe = page.locator("tr.trProcedura")
-    n = await righe.count()
-    for i in range(n):
-        riga = righe.nth(i)
-        celle = riga.locator("td")
-        if await celle.count() < 3:
-            continue
-        codice_procedura = (await celle.nth(2).inner_text()).strip()
-        if codice_procedura == str(id_vip).strip():
-            return riga
-    return None
+    indice = await trova_indice_riga_procedura(page, id_vip)
+    if indice is None:
+        return None
+    return page.locator("tr.trProcedura").nth(indice)
 
 
 async def estrai_dettagli_procedura(page, info_url: str, id_vip: str) -> str:
-    """Il link 'Dettagli procedura' NON naviga a una nuova pagina: apre un modal
-    (jQuery UI Dialog, classe '.datiAmministrativi') sovrapposto alla pagina corrente.
-    Cliccarlo e aspettare che il modal diventi visibile, poi leggerne il contenuto.
-
-    Se il progetto ha piu' sotto-procedimenti, clicchiamo il link 'Dettagli procedura'
-    della RIGA SPECIFICA il cui Codice procedura corrisponde all'id_vip cercato,
-    non semplicemente il primo della pagina."""
+    """I dati di dettaglio del procedimento (Codice procedura, Oggetto, Date,
+    Responsabile, Stato) sono GIA' presenti nell'HTML della pagina Info, dentro
+    righe <tr class="datiAmministrativi" style="display:none"> che seguono
+    immediatamente la <tr class="trProcedura"> del procedimento specifico
+    (fino alla prossima trProcedura o fine tabella). Le leggiamo direttamente,
+    senza bisogno di cliccare per aprire il modal: e' piu' veloce e affidabile,
+    soprattutto quando la pagina ha decine di procedimenti (es. Tempa Rossa),
+    caso in cui il click sul modal generico rischiava di leggere i dati
+    del procedimento sbagliato o di andare in timeout."""
     await page.goto(info_url, wait_until="networkidle")
 
-    riga = await trova_riga_procedura(page, id_vip)
-    if riga is not None:
-        link_dettagli = riga.locator("a.icona-dettaglio-procedura")
-    else:
-        # Fallback: nessuna corrispondenza esatta trovata (caso raro/imprevisto),
-        # usiamo il primo link disponibile sulla pagina come rete di sicurezza.
-        print(f"[scraper] ATTENZIONE {id_vip}: nessuna riga tr.trProcedura con codice esatto trovata, uso fallback .first")
-        link_dettagli = page.locator("a.icona-dettaglio-procedura").first
+    indice = await trova_indice_riga_procedura(page, id_vip)
+    tutte_le_righe = page.locator("tr.trProcedura, tr.datiAmministrativi")
+    n_totale = await tutte_le_righe.count()
 
-    if await link_dettagli.count() == 0:
-        raise RuntimeError("Link 'Dettagli procedura' non trovato sulla pagina Info")
+    if indice is None:
+        print(f"[scraper] ATTENZIONE {id_vip}: nessuna riga tr.trProcedura con codice esatto trovata")
+        raise RuntimeError(
+            f"Nessun procedimento con Codice procedura = {id_vip} trovato nella tabella "
+            "'Scegli la procedura' di questa pagina."
+        )
 
-    await link_dettagli.click()
+    # Troviamo la posizione della riga trProcedura target dentro la lista mista
+    # (trProcedura + datiAmministrativi in ordine di documento), poi leggiamo
+    # tutte le righe datiAmministrativi successive fino alla prossima trProcedura.
+    righe_trProcedura = page.locator("tr.trProcedura")
+    riga_target = righe_trProcedura.nth(indice)
 
-    modal = page.locator(".datiAmministrativi").first
-    await modal.wait_for(state="visible", timeout=10000)
+    # xpath: tutti i <tr class="datiAmministrativi"> che sono "following-sibling"
+    # della riga target, fermandoci alla prima "trProcedura" successiva.
+    righe_dettaglio = riga_target.locator(
+        "xpath=following-sibling::tr[contains(@class,'datiAmministrativi') "
+        "and count(preceding-sibling::tr[contains(@class,'trProcedura')]) = "
+        f"{indice + 1}]"
+    )
 
-    testo = await modal.inner_text()
-    return testo.strip()
+    n_dettaglio = await righe_dettaglio.count()
+    righe_testo = []
+    for i in range(n_dettaglio):
+        riga = righe_dettaglio.nth(i)
+        celle = riga.locator("td")
+        n_celle = await celle.count()
+        if n_celle >= 2:
+            etichetta = (await celle.nth(0).inner_text()).strip()
+            valore = (await celle.nth(1).inner_text()).strip()
+            righe_testo.append(f"{etichetta} {valore}")
+
+    if not righe_testo:
+        raise RuntimeError(
+            f"Trovato il procedimento {id_vip} ma nessuna riga di dettaglio "
+            "(datiAmministrativi) associata."
+        )
+
+    return "\n".join(righe_testo)
 
 
 async def estrai_mappa_sezioni(page) -> dict:
