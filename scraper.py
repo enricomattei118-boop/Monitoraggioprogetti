@@ -81,7 +81,7 @@ async def estrai_dettagli_procedura(page, info_url: str) -> str:
 
     await link_dettagli.click()
 
-    modal = page.locator(".datiAmministrativi")
+    modal = page.locator(".datiAmministrativi").first
     await modal.wait_for(state="visible", timeout=10000)
 
     testo = await modal.inner_text()
