@@ -71,16 +71,20 @@ async def estrai_nome_progetto(page) -> str:
 
 
 async def estrai_dettagli_procedura(page, info_url: str) -> str:
+    """Il link 'Dettagli procedura' NON naviga a una nuova pagina: apre un modal
+    (jQuery UI Dialog, classe '.datiAmministrativi') sovrapposto alla pagina corrente.
+    Cliccarlo e aspettare che il modal diventi visibile, poi leggerne il contenuto."""
     await page.goto(info_url, wait_until="networkidle")
     link_dettagli = page.locator("a.icona-dettaglio-procedura")
     if await link_dettagli.count() == 0:
         raise RuntimeError("Link 'Dettagli procedura' non trovato sulla pagina Info")
 
-    async with page.expect_navigation():
-        await link_dettagli.click()
-    await page.wait_for_load_state("networkidle")
+    await link_dettagli.click()
 
-    testo = await page.inner_text("body")
+    modal = page.locator(".datiAmministrativi")
+    await modal.wait_for(state="visible", timeout=10000)
+
+    testo = await modal.inner_text()
     return testo.strip()
 
 
