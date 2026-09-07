@@ -1,65 +1,182 @@
 """
 send_email.py
-Compone e invia il report via SMTP (Gmail/Outlook con app password),
-con eventuali PDF allegati (osservazioni/pareri nuovi rispetto al giro precedente).
+Compone e invia il report via SMTP (Gmail/Outlook con app password).
+Documenti presentati come link (nessun allegato fisico), raggruppati per
+sezione monitorata, con un indice riassuntivo in cima al report.
 """
 
 import os
 import smtplib
 from email.message import EmailMessage
 from datetime import datetime
-from pathlib import Path
+from collections import OrderedDict
+
+COLORE_PRIMARIO = "#1a5276"
+COLORE_SFONDO_PAGINA = "#f4f6f8"
+COLORE_ERRORE_BG = "#fdecea"
+COLORE_ERRORE_BORDO = "#d93025"
+COLORE_OK_BORDO = "#2e7d32"
+COLORE_VARIATO_BG = "#fff8e1"
+COLORE_VARIATO_BORDO = "#f9a825"
 
 
-def costruisci_html(risultati: list[dict]) -> str:
-    blocchi = []
-    for r in risultati:
-        id_vip = r["id_vip"]
-        nome = r.get("nome_progetto") or "(nome non disponibile)"
+def _badge(testo: str, colore: str) -> str:
+    return (
+        f'<span style="display:inline-block;background:{colore};color:#fff;'
+        f'font-size:11px;font-weight:bold;padding:2px 8px;border-radius:10px;'
+        f'letter-spacing:.3px;">{testo}</span>'
+    )
 
-        if r["stato"] in ("errore", "errore_parziale"):
-            etichetta = "ERRORE" if r["stato"] == "errore" else "ERRORE PARZIALE (progetto trovato, scraping incompleto)"
-            blocchi.append(f"""
-            <div style="margin-bottom:24px;padding:12px;background:#fdecea;border-left:4px solid #d93025;">
-              <h3 style="margin:0 0 6px 0;">Progetto {id_vip} - {etichetta}</h3>
-              <p style="margin:0 0 4px 0;font-size:14px;color:#555;"><i>{nome}</i></p>
-              <p style="margin:0;">{r['messaggio']}</p>
-            </div>
+
+def _raggruppa_per_sezione(documenti: list[dict]) -> "OrderedDict[str, list[dict]]":
+    """Raggruppa i documenti per nome sezione, mantenendo l'ordine di prima comparsa."""
+    gruppi: "OrderedDict[str, list[dict]]" = OrderedDict()
+    for d in documenti:
+        sezione = d.get("sezione_menu") or "Altro"
+        gruppi.setdefault(sezione, []).append(d)
+    return gruppi
+
+
+def _sezione_documenti_html(documenti: list[dict]) -> str:
+    """Genera l'HTML dei documenti raggruppati per sezione, con intestazioni di gruppo."""
+    if not documenti:
+        return ""
+
+    gruppi = _raggruppa_per_sezione(documenti)
+    blocchi_sezione = []
+    for nome_sezione, docs in gruppi.items():
+        righe = []
+        for d in docs:
+            titolo = d.get("titolo") or d.get("nome_file") or "(senza titolo)"
+            nome_file = d.get("nome_file") or ""
+            data = d.get("data") or ""
+            link = d.get("download_url")
+            link_html = f'<a href="{link}" style="color:{COLORE_PRIMARIO};text-decoration:none;font-weight:600;">Apri &rarr;</a>' if link else '<span style="color:#999;">link non disponibile</span>'
+            righe.append(f"""
+            <tr>
+              <td style="padding:8px 10px;border-bottom:1px solid #eee;font-size:13px;color:#222;">{titolo}</td>
+              <td style="padding:8px 10px;border-bottom:1px solid #eee;font-size:12px;color:#777;white-space:nowrap;">{data}</td>
+              <td style="padding:8px 10px;border-bottom:1px solid #eee;font-size:12px;white-space:nowrap;">{link_html}</td>
+            </tr>
             """)
-            continue
 
-        allegati_html = ""
-        if r["documenti_allegati"]:
-            items = "".join(
-                f"<li>[{d.get('sezione_menu')}] {d.get('titolo')} "
-                f"({d.get('nome_file')}, {d.get('data')})"
-                + (f' - <a href="{d["download_url"]}">apri/scarica</a>' if d.get("download_url") else "")
-                + "</li>"
-                for d in r["documenti_allegati"]
-            )
-            allegati_html = f"<p><b>Nuovi documenti nelle sezioni monitorate:</b></p><ul>{items}</ul>"
-
-        blocchi.append(f"""
-        <div style="margin-bottom:28px;padding:14px;border:1px solid #ddd;border-radius:6px;">
-          <h3 style="margin:0 0 4px 0;color:#1a5276;">Progetto {id_vip}</h3>
-          <p style="margin:0 0 12px 0;font-size:14px;color:#555;"><i>{nome}</i></p>
-
-          <p style="margin:8px 0 2px 0;"><b>Variazioni Dettagli Procedura</b></p>
-          <pre style="white-space:pre-wrap;font-family:inherit;background:#f7f7f7;padding:8px;border-radius:4px;margin:0 0 12px 0;">{r['confronto_dettagli_procedura']}</pre>
-
-          <p style="margin:8px 0 2px 0;"><b>Variazioni Documentazione</b></p>
-          <pre style="white-space:pre-wrap;font-family:inherit;background:#f7f7f7;padding:8px;border-radius:4px;margin:0 0 12px 0;">{r['confronto_documentazione']}</pre>
-
-          {allegati_html}
+        blocchi_sezione.append(f"""
+        <div style="margin:14px 0 6px 0;">
+          <div style="font-size:13px;font-weight:700;color:{COLORE_PRIMARIO};text-transform:uppercase;letter-spacing:.4px;margin-bottom:4px;">
+            {nome_sezione} <span style="color:#999;font-weight:400;text-transform:none;">({len(docs)})</span>
+          </div>
+          <table style="width:100%;border-collapse:collapse;background:#fafafa;border-radius:6px;overflow:hidden;">
+            {''.join(righe)}
+          </table>
         </div>
         """)
 
-    data_str = datetime.now().strftime("%d/%m/%Y %H:%M")
+    return "".join(blocchi_sezione)
+
+
+def _blocco_progetto(r: dict) -> str:
+    id_vip = r["id_vip"]
+    nome = r.get("nome_progetto") or "(nome non disponibile)"
+
+    if r["stato"] in ("errore", "errore_parziale"):
+        etichetta = "ERRORE" if r["stato"] == "errore" else "ERRORE PARZIALE"
+        return f"""
+        <div id="progetto-{id_vip}" style="margin-bottom:20px;padding:16px 18px;background:{COLORE_ERRORE_BG};
+             border-left:4px solid {COLORE_ERRORE_BORDO};border-radius:6px;">
+          <table style="width:100%;margin-bottom:6px;"><tr>
+            <td style="font-size:15px;font-weight:700;color:#222;">Progetto {id_vip}</td>
+            <td style="text-align:right;white-space:nowrap;">{_badge(etichetta, COLORE_ERRORE_BORDO)}</td>
+          </tr></table>
+          <p style="margin:0 0 8px 0;font-size:13px;color:#555;font-style:italic;">{nome}</p>
+          <p style="margin:0;font-size:13px;color:#a33;">{r['messaggio']}</p>
+        </div>
+        """
+
+    ha_variazioni_dettagli = "nessuna variazione" not in r['confronto_dettagli_procedura'].lower()
+    ha_variazioni_doc = bool(r["documenti_allegati"]) and "nessun nuovo documento" not in r['confronto_documentazione'].lower()
+    variato = ha_variazioni_dettagli or ha_variazioni_doc
+
+    badge_stato = _badge("VARIAZIONI RILEVATE", COLORE_VARIATO_BORDO) if variato else _badge("NESSUNA VARIAZIONE", "#888")
+    bordo_alto = COLORE_VARIATO_BORDO if variato else COLORE_OK_BORDO
+
+    documenti_html = _sezione_documenti_html(r["documenti_allegati"])
+    riepilogo_doc = r['confronto_documentazione'] if not documenti_html else ""
+
     return f"""
-    <html><body style="font-family:Arial,Helvetica,sans-serif;color:#222;">
-    <h2>Report monitoraggio progetti VIA - {data_str}</h2>
-    {''.join(blocchi)}
-    </body></html>
+    <div id="progetto-{id_vip}" style="margin-bottom:22px;padding:16px 18px;background:#fff;
+         border:1px solid #e2e2e2;border-top:4px solid {bordo_alto};border-radius:6px;
+         box-shadow:0 1px 2px rgba(0,0,0,0.04);">
+      <table style="width:100%;margin-bottom:4px;"><tr>
+        <td style="font-size:15px;font-weight:700;color:{COLORE_PRIMARIO};">Progetto {id_vip}</td>
+        <td style="text-align:right;white-space:nowrap;">{badge_stato}</td>
+      </tr></table>
+      <p style="margin:0 0 12px 0;font-size:13px;color:#555;font-style:italic;">{nome}</p>
+
+      <div style="font-size:12px;font-weight:700;color:#666;text-transform:uppercase;letter-spacing:.3px;margin-bottom:2px;">
+        Dettagli Procedura
+      </div>
+      <p style="margin:0 0 10px 0;font-size:13px;color:#333;white-space:pre-wrap;background:#f7f7f7;padding:8px 10px;border-radius:4px;">{r['confronto_dettagli_procedura']}</p>
+
+      <div style="font-size:12px;font-weight:700;color:#666;text-transform:uppercase;letter-spacing:.3px;margin-bottom:2px;">
+        Documentazione
+      </div>
+      {f'<p style="margin:0;font-size:13px;color:#333;background:#f7f7f7;padding:8px 10px;border-radius:4px;">{riepilogo_doc}</p>' if riepilogo_doc else ''}
+      {documenti_html}
+    </div>
+    """
+
+
+def _indice_html(risultati: list[dict]) -> str:
+    """Piccolo sommario cliccabile in cima al report, utile con molti progetti."""
+    righe = []
+    for r in risultati:
+        id_vip = r["id_vip"]
+        nome = (r.get("nome_progetto") or "")[:70]
+        if r["stato"] in ("errore", "errore_parziale"):
+            badge = _badge("ERRORE", COLORE_ERRORE_BORDO)
+        else:
+            variato = ("nessuna variazione" not in r['confronto_dettagli_procedura'].lower()) or \
+                      (bool(r["documenti_allegati"]) and "nessun nuovo documento" not in r['confronto_documentazione'].lower())
+            badge = _badge("VARIAZIONI", COLORE_VARIATO_BORDO) if variato else _badge("OK", "#888")
+        righe.append(f"""
+        <tr>
+          <td style="padding:6px 10px;border-bottom:1px solid #eee;font-size:13px;">
+            <a href="#progetto-{id_vip}" style="color:{COLORE_PRIMARIO};text-decoration:none;font-weight:600;">{id_vip}</a>
+            <span style="color:#777;"> - {nome}</span>
+          </td>
+          <td style="padding:6px 10px;border-bottom:1px solid #eee;text-align:right;white-space:nowrap;">{badge}</td>
+        </tr>
+        """)
+
+    return f"""
+    <div style="background:#fff;border:1px solid #e2e2e2;border-radius:6px;padding:10px 16px;margin-bottom:24px;">
+      <div style="font-size:13px;font-weight:700;color:#666;text-transform:uppercase;letter-spacing:.3px;margin:6px 0;">
+        Indice ({len(risultati)} progetti)
+      </div>
+      <table style="width:100%;border-collapse:collapse;">
+        {''.join(righe)}
+      </table>
+    </div>
+    """
+
+
+def costruisci_html(risultati: list[dict]) -> str:
+    data_str = datetime.now().strftime("%d/%m/%Y %H:%M")
+    indice = _indice_html(risultati) if len(risultati) > 1 else ""
+    blocchi = "".join(_blocco_progetto(r) for r in risultati)
+
+    return f"""
+    <html>
+    <body style="font-family:-apple-system,Segoe UI,Arial,Helvetica,sans-serif;
+                 color:#222;background:{COLORE_SFONDO_PAGINA};margin:0;padding:24px 12px;">
+      <div style="max-width:760px;margin:0 auto;">
+        <h2 style="color:{COLORE_PRIMARIO};margin:0 0 4px 0;">Report monitoraggio progetti VIA</h2>
+        <p style="color:#777;font-size:13px;margin:0 0 20px 0;">{data_str}</p>
+        {indice}
+        {blocchi}
+      </div>
+    </body>
+    </html>
     """
 
 
