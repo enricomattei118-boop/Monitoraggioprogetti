@@ -14,7 +14,7 @@ Selettori verificati manualmente sul sito reale (settembre 2026):
   - link Documentazione:  a.icona-documentazione-tecnico-amm -> /Oggetti/Documentazione/{id}/{procId}
   - filtro per sezione:   span.leaf[data-raggruppamentoid=N] -> submit GET a
                           /Oggetti/Documentazione/{id}/{procId}?RaggruppamentoID=N
-                          (N è specifico per progetto: va letto dal menu, non è fisso)
+                          (N e' specifico per progetto: va letto dal menu, non e' fisso)
   - righe tabella:        table.Documentazione tr, colonne Titolo/Nome file/Sezione/
                           Codice elaborato/Data/Scala/Dimensione
   - download PDF diretto: a.icona-pdf[href] -> link diretto al file, no popup
