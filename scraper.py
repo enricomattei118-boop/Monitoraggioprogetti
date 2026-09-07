@@ -37,6 +37,7 @@ SEZIONI_DA_ALLEGARE = [
     "osservazioni del pubblico inviate oltre i termini",
     "osservazioni del pubblico",
     "pareri/osservazioni enti",
+    "documentazione integrativa",  # copre le foglie sotto il nodo "Integrazioni (I)" nel menu
 ]
 
 DOWNLOAD_DIR = Path("downloads")
@@ -211,16 +212,7 @@ async def estrai_documentazione(page, info_url: str, id_vip: str) -> dict:
         print(f"[scraper] {id_vip}: trovati {len(docs)} documenti in '{nome_sezione_menu}'")
         for doc in docs:
             doc["sezione_menu"] = nome_sezione_menu
-            if doc.get("download_url"):
-                nome_pulito = re.sub(r"[^a-zA-Z0-9_.-]", "_", doc["nome_file"] or "documento.pdf")
-                dest = DOWNLOAD_DIR / f"{id_vip}_{nome_sezione_menu.replace('/', '-')}_{nome_pulito}"
-                try:
-                    await scarica_documento(page, doc["download_url"], dest)
-                    doc["path_locale"] = str(dest)
-                except Exception as e:
-                    doc["errore_download"] = str(e)
-                    print(f"[scraper] {id_vip}: ERRORE download '{doc.get('nome_file')}': {e}")
-            else:
+            if not doc.get("download_url"):
                 print(f"[scraper] {id_vip}: documento senza download_url: {doc}")
             documenti_scaricati.append(doc)
 
