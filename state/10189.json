@@ -1,0 +1,172 @@
+{
+  "id_vip": "10189",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/10145",
+  "nome_progetto": "Progetto di impianto fotovoltaico di potenza pari a 50,6 MWp e relative opere connesse, presso le aree denominate \"Aree Sud\" dell'area industriale del Comune di Porto Torres e nel Comune di Sassari (SS).",
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM)\t10189",
+  "hash_dettagli": "ca9b77052fb05bad3ec2a35b8c501bcc7374cf82f5abbb7ecbba432fea5267d3",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Relazione di incidenza",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Piano di utilizzo dei materiali di scavo",
+      "Osservazioni del Pubblico",
+      "Osservazioni del Pubblico inviate oltre i termini",
+      "Pareri/Osservazioni Enti",
+      "Richiesta integrazioni della documentazione",
+      "Decreto VIA"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni dell'Ente Consorzio Industriale Provinciale di Sassari in data 27/10/2023",
+        "nome_file": "MASE-2023-0173637.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2023-0173637",
+        "data": "31/10/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/926609",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Coordinamento Gallura per la Difesa della Sardegna, in data 13/03/2026",
+        "nome_file": "MASE-2026-0056335.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2026-0056335",
+        "data": "30/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1385780",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni del Coordinamento Gallura Contro la Speculazione Eolica e Fotovoltaica, in data 18/02/2026.",
+        "nome_file": "MASE-2026-0037210.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2026-0037210",
+        "data": "20/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1383586",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Parere del Ministero della Cultura -Soprintendenza Speciale per il PNRR in data 5/02/2026",
+        "nome_file": "MASE-2026-0024664.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2026-0024664",
+        "data": "05/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1360494",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Parere del Autorità di Bacino regionale della Sardegna in data 02/11/2023",
+        "nome_file": "MASE-2023-0177284.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2023-0177284",
+        "data": "03/11/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/927412",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Parere della Regione Autonoma della Sardegna Servizio tutela del paesaggio Sardegna settentrionale Nord-Ovest in data 27/10/2023",
+        "nome_file": "MASE-2023-0173196.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2023-0173196",
+        "data": "27/10/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/924641",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna assessorato della difesa dell'ambiente in data 27/10/2023",
+        "nome_file": "MASE-2023-0173632.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2023-0173632",
+        "data": "31/10/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/926283",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al Pubblico del 28/09/2023",
+        "nome_file": "Modulo_Avviso_Pubblico_VIA_signed.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MASE-2023-0153951",
+        "data": "28/09/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/906845"
+      },
+      {
+        "titolo": "Decreto del Ministero dell'Ambiente - Progetto di impianto fotovoltaico di potenza pari a 50,6 MWp e relative opere connesse, presso le aree denominate \"Aree Sud\" dell'area industriale del Comune di Porto Torres e nel Comune di Sassari (SS).",
+        "nome_file": "DM_2026-0000184.pdf",
+        "sezione": "Decreto VIA",
+        "codice_elaborato": "DM-2026-0000184",
+        "data": "27/03/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1375831"
+      },
+      {
+        "titolo": "Allegato al Decreto del Ministero dell'Ambiente - Parere della Commissione tecnica PNRR-PNIEC del 03/07/2025",
+        "nome_file": "Parere_n_754_del_3_7_25-ID_VIP_10189.pdf",
+        "sezione": "Decreto VIA",
+        "codice_elaborato": "PRr 754",
+        "data": "27/03/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1375832"
+      },
+      {
+        "titolo": "Allegato al Decreto del Ministero dell'Ambiente - Parere MIC del 05/02/2026",
+        "nome_file": "MASE_2026-4664.pdf",
+        "sezione": "Decreto VIA",
+        "codice_elaborato": "PRR 2452-P",
+        "data": "27/03/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1375833"
+      },
+      {
+        "titolo": "Allegato 11 - Tavole",
+        "nome_file": "All_11_Tavole_1_di_3.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "ELAB.02",
+        "data": "28/09/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/906820"
+      },
+      {
+        "titolo": "Allegato 11 - Tavole",
+        "nome_file": "All_11_Tavole_2_di_3.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "ELAB.03",
+        "data": "28/09/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/906821"
+      },
+      {
+        "titolo": "Allegato 11 - Tavole",
+        "nome_file": "All_11_Tavole_3_di_3.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "ELAB.04",
+        "data": "28/09/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/906822"
+      },
+      {
+        "titolo": "Allegato 12 - Cronoprogramma lavori cantiere dismissione",
+        "nome_file": "All_12_Cronoprogrammi.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "ELAB.05",
+        "data": "28/09/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/906823"
+      },
+      {
+        "titolo": "Allegato 13 - Quadro economico e computo metrico estimativo",
+        "nome_file": "All_13_QuadroEconomico_CME.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "ELAB.06",
+        "data": "28/09/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/906824"
+      },
+      {
+        "titolo": "Allegato 14 - Relazione pedologica",
+        "nome_file": "All_14_Relazione_Pedologica.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "ELAB.07",
+        "data": "28/09/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/906825"
+      }
+    ]
+  }
+}

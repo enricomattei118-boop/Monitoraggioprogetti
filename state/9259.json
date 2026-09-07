@@ -1,0 +1,7 @@
+{
+  "id_vip": "9259",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/8601",
+  "nome_progetto": "Progetto parco eolico denominato \"Borgia\" da 38,7 MW nei comuni di Borgia, Maida, San Floro, Squillace, Girifalco e Caraffa di Catanzaro (CZ) autorizzato con DDG n. 9361 del 16.06.2010 ed in ultimo con D.M. n. 151 del 12 aprile 2022 fino a giugno 2023. Richiesta di ulteriore proroga di 24 mesi del provvedimento di compatibilità ambientale.",
+  "errore": "Errore durante scraping: Locator.click: Error: strict mode violation: locator(\"a.icona-dettaglio-procedura\") resolved to 5 elements:\n    1) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").first\n    2) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(1)\n    3) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(2)\n    4) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(3)\n    5) <a title=\"Dettagli procedura\" class=\"icona-dettaglio-procedura\">Dettagli procedura</a> aka get_by_text(\"Dettagli procedura\").nth(4)\n\nCall log:\nwaiting for locator(\"a.icona-dettaglio-procedura\")\n"
+}

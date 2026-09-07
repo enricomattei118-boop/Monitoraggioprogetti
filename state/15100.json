@@ -1,0 +1,9 @@
+{
+  "id_vip": "15100",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/12135",
+  "nome_progetto": "Bioraffineria di Gela - Utilizzo di Brown Grease per la produzione di Biocarburanti",
+  "dettagli_procedura": "Codice istanza online\tWEB-VALPREL - PVPVP00000158",
+  "hash_dettagli": "1e33f22d5192bf39a4433f148befbcd757b25afffb6f55262c43c1926b6ead78",
+  "errore": "Errore durante scraping: Locator.get_attribute: Error: strict mode violation: locator(\"a.icona-documentazione-tecnico-amm\") resolved to 2 elements:\n    1) <a title=\"Documentazione \" class=\"icona-documentazione-tecnico-amm\" href=\"https://va.mite.gov.it/it-IT/Oggetti/Documentazione/11060/16567\">↵                                Documentazione ↵…</a> aka get_by_title(\"Documentazione \")\n    2) <a title=\"Documentazione\" class=\"icona-documentazione-tecnico-amm\" href=\"/it-IT/Oggetti/Documentazione/12135/19255\">Documentazione</a> aka get_by_role(\"link\", name=\"Documentazione\")\n\nCall log:\nwaiting for locator(\"a.icona-documentazione-tecnico-amm\")\n"
+}

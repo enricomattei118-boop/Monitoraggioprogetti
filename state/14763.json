@@ -1,0 +1,40 @@
+{
+  "id_vip": "14763",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/12031",
+  "nome_progetto": "Perforazione pozzo Monte Enoc 6 da piazzola esistente Volturino 1",
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM)\t14763",
+  "hash_dettagli": "ef39386b3150ca3084e67377f56b669bdd42537f08cda85f3b4c7a9ba52b68f1",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Lista di controllo"
+    ],
+    "documenti_di_interesse": [],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Lista di controllo",
+        "nome_file": "AMB-ME-01-64-signed.pdf",
+        "sezione": "Lista di controllo",
+        "codice_elaborato": "AMB-ME-01-64-signed",
+        "data": "09/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377944"
+      },
+      {
+        "titolo": "ElencoElaborati_progetto",
+        "nome_file": "Allegato_01-ElencoElaborati_progetto-signed.pdf",
+        "sezione": "Lista di controllo",
+        "codice_elaborato": "Allegato 01",
+        "data": "09/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377945"
+      },
+      {
+        "titolo": "Indice SIA",
+        "nome_file": "Allegato_02_-_Indice_SIA-signed.pdf",
+        "sezione": "Lista di controllo",
+        "codice_elaborato": "Allegato 02",
+        "data": "09/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377946"
+      }
+    ]
+  }
+}

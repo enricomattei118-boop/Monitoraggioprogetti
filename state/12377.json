@@ -1,0 +1,188 @@
+{
+  "id_vip": "12377",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/10829",
+  "nome_progetto": "Progetto di realizzazione di un parco eolico denominato \"Sambuca\" di potenza 90 MW, nei Comuni di Sambuca di Sicilia (AG), Santa Margherita di Belice (AG) e Contessa Entellina (PA).",
+  "dettagli_procedura": "Codice istanza online\tWEB-VIA FER-VIAVIAF00000042",
+  "hash_dettagli": "e9577dd15803864e19a1038b4c4f6cd2f568bffd700809d8c556f4dc2760aeb5",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elenchi Elaborati",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Relazione di incidenza",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Piano di utilizzo dei materiali di scavo",
+      "Osservazioni del Pubblico",
+      "Controdeduzioni"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni della Città Metropolitana di Palermo Area Sviluppo Patrimoniale- Ambientale - Energetico ed Economico Sociale - Direzione Energia e Ambiente, in data 26/06/2024",
+        "nome_file": "MASE-2024-0117930.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0117930",
+        "data": "05/07/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1098374",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Giuseppe Cacioppo, in qualità di Sindaco di Sambuca di Sicilia, in data 26/06/2024",
+        "nome_file": "MASE-2024-0118062.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0118062",
+        "data": "05/07/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1098196",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Maggio Giovanni, in qualità di rappresentante della Don Giovanni Hotel srl, in data 26/06/2024",
+        "nome_file": "MASE-2024-0117849.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0117849",
+        "data": "03/07/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1097354",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni dell'Arch. Giorgio Maggio, in qualità di Legale Rappresentante della Prometeo sas di Giorgio Maggio & C., in data 26/06/2024",
+        "nome_file": "MASE-2024-117852.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0117852",
+        "data": "01/07/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1096297",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni dell'Arch. Giorgio Maggio, Presidente del Comitato cittadino \"Fuori dalle Pale\", in data 26/07/2024",
+        "nome_file": "MASE-2024-0117709.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0117709",
+        "data": "01/07/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1096294",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Giovanni Maggio, Legale Rappresentante della Don Giovanni Hotel Srl, in data 26/06/2024",
+        "nome_file": "MASE-2024-0117723.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0117723",
+        "data": "01/07/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1096034",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Murgia Antonella nella qualità di rappresentante legale della società Antico Frantoio, in data 25/06/2024",
+        "nome_file": "MASE-2024-0116677.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0116677",
+        "data": "26/06/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1094685",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Società X-Elio Italia 3 s.r.l,, in data 13/06/2024",
+        "nome_file": "MASE-2024-0108943.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0108943",
+        "data": "17/06/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1087527",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Gianfranco Rafael Memoli, in qualità di legale rappresentante della Società X-Elio Italia 3 s.r.l., in data 13/06/2024",
+        "nome_file": "MASE-2024-0109413.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0109413",
+        "data": "14/06/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1086212",
+        "sezione_menu": "Osservazioni del Pubblico"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al Pubblico del 27/05/2024",
+        "nome_file": "Modulo_Avviso_Pubblico_VIA_signed.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MASE-2024-0096894",
+        "data": "27/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1067493"
+      },
+      {
+        "titolo": "Relazione di assoggettabilità alla VPIA",
+        "nome_file": "W_SAM_A_RE_06_Relazione_di_assoggettabilita_alla_VPIA.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "W-SAM-A-RE-06",
+        "data": "27/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1067445"
+      },
+      {
+        "titolo": "Relazione geologica",
+        "nome_file": "W_SAM_A_RE_07_Relazione_geologica.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "W-SAM-A-RE-07",
+        "data": "27/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1067446"
+      },
+      {
+        "titolo": "Report Shadow flickering",
+        "nome_file": "W_SAM_A_RE_08_Report_Shadow_flickering.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "W-SAM-A-RE-08",
+        "data": "27/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1067447"
+      },
+      {
+        "titolo": "Studio acustico",
+        "nome_file": "W_SAM_A_RE_10_Studio_acustico.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "W-SAM-A-RE-10",
+        "data": "27/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1067448"
+      },
+      {
+        "titolo": "Relazione PedoAgronomica",
+        "nome_file": "W_SAM_A_RE_11_Relazione_PedoAgronomica.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "W-SAM-A-RE-11",
+        "data": "27/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1067449"
+      },
+      {
+        "titolo": "Relazione_mitigazioni_e_valorizzazioni_ambientali",
+        "nome_file": "W_SAM_A_RE_12_Relazione_mitigazioni_e_valorizzazioni_ambientali.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "W-SAM-A-RE-12",
+        "data": "27/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1067450"
+      },
+      {
+        "titolo": "Inquadramento generale su CTR",
+        "nome_file": "W_SAM_A_VC_01_Inquadramento_generale_su_CTR.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "W-SAM-A-VC-01",
+        "data": "27/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1067451"
+      },
+      {
+        "titolo": "Corografia generale su ortofoto con indicazione rete stradale",
+        "nome_file": "W_SAM_A_VC_02_Corografia_generale_su_ortofoto_con_indicazione_rete_stradale.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "W-SAM-A-VC-02",
+        "data": "27/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1067452"
+      },
+      {
+        "titolo": "Carta delle Aree Percorse dal Fuoco",
+        "nome_file": "W_SAM_A_VC_03_Carta_delle_Aree_Percorse_dal_Fuoco.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "W-SAM-A-VC-03",
+        "data": "27/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1067453"
+      }
+    ]
+  }
+}

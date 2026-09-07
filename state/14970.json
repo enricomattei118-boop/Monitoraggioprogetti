@@ -1,0 +1,9 @@
+{
+  "id_vip": "14970",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/12097",
+  "nome_progetto": "\"RAVENNA CCS FASE 2\" per lo stoccaggio geologico di anidride carbonica nei campi gas esauriti \"Porto Corsini mare ovest\" e \"Porto Garibaldi-Agostino\"",
+  "dettagli_procedura": "Codice istanza online\tWEB-VIA - VIAVIA100000155",
+  "hash_dettagli": "d770f744b594f8a163fba81cea7baa8ba6c80d3628aeb760526056e7d33b05cb",
+  "errore": "Errore durante scraping: Locator.get_attribute: Error: strict mode violation: locator(\"a.icona-documentazione-tecnico-amm\") resolved to 2 elements:\n    1) <a title=\"Documentazione \" class=\"icona-documentazione-tecnico-amm\" href=\"https://va.mite.gov.it/it-IT/Oggetti/Documentazione/11069/16591\">↵                                Documentazione ↵…</a> aka get_by_title(\"Documentazione \")\n    2) <a title=\"Documentazione\" class=\"icona-documentazione-tecnico-amm\" href=\"/it-IT/Oggetti/Documentazione/12097/19111\">Documentazione</a> aka get_by_role(\"link\", name=\"Documentazione\")\n\nCall log:\nwaiting for locator(\"a.icona-documentazione-tecnico-amm\")\n"
+}
