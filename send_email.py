@@ -1,7 +1,7 @@
-"""
+""
 send_email.py
 Compone e invia il report via SMTP (Gmail/Outlook con app password),
-con eventuali documenti allegati (osservazioni/pareri).
+con eventuali PDF allegati (osservazioni/pareri nuovi rispetto al giro precedente).
 """
 
 import os
@@ -12,40 +12,56 @@ from pathlib import Path
 
 
 def costruisci_html(risultati: list[dict]) -> str:
-    righe = []
+    blocchi = []
     for r in risultati:
         id_vip = r["id_vip"]
+        nome = r.get("nome_progetto") or "(nome non disponibile)"
+
         if r["stato"] == "errore":
-            righe.append(f"<h3>Progetto {id_vip} — ERRORE</h3><p>{r['messaggio']}</p><hr>")
+            blocchi.append(f"""
+            <div style="margin-bottom:24px;padding:12px;background:#fdecea;border-left:4px solid #d93025;">
+              <h3 style="margin:0 0 6px 0;">Progetto {id_vip} — ERRORE</h3>
+              <p style="margin:0;">{r['messaggio']}</p>
+            </div>
+            """)
             continue
 
         allegati_html = ""
         if r["documenti_allegati"]:
             items = "".join(
-                f"<li>{d.get('etichetta')}: {'allegato' if 'path' in d else 'ERRORE - ' + d.get('errore', '')}</li>"
+                f"<li>[{d.get('sezione_menu')}] {d.get('titolo')} "
+                f"({d.get('nome_file')}, {d.get('data')})"
+                f"{' — <b>allegato</b>' if d.get('path_locale') else ' — <i>errore download</i>'}</li>"
                 for d in r["documenti_allegati"]
             )
-            allegati_html = f"<p><b>Documenti trovati (colonna D):</b></p><ul>{items}</ul>"
+            allegati_html = f"<p><b>Nuovi documenti nelle sezioni monitorate:</b></p><ul>{items}</ul>"
 
-        righe.append(f"""
-        <h3>Progetto {id_vip}</h3>
-        <p><b>Variazioni Dettagli Procedura:</b><br>{r['confronto_dettagli_procedura'].replace(chr(10), '<br>')}</p>
-        <p><b>Variazioni Documentazione:</b><br>{r['confronto_documentazione'].replace(chr(10), '<br>')}</p>
-        {allegati_html}
-        <hr>
+        blocchi.append(f"""
+        <div style="margin-bottom:28px;padding:14px;border:1px solid #ddd;border-radius:6px;">
+          <h3 style="margin:0 0 4px 0;color:#1a5276;">Progetto {id_vip}</h3>
+          <p style="margin:0 0 12px 0;font-size:14px;color:#555;"><i>{nome}</i></p>
+
+          <p style="margin:8px 0 2px 0;"><b>Variazioni Dettagli Procedura</b></p>
+          <pre style="white-space:pre-wrap;font-family:inherit;background:#f7f7f7;padding:8px;border-radius:4px;margin:0 0 12px 0;">{r['confronto_dettagli_procedura']}</pre>
+
+          <p style="margin:8px 0 2px 0;"><b>Variazioni Documentazione</b></p>
+          <pre style="white-space:pre-wrap;font-family:inherit;background:#f7f7f7;padding:8px;border-radius:4px;margin:0 0 12px 0;">{r['confronto_documentazione']}</pre>
+
+          {allegati_html}
+        </div>
         """)
 
     data_str = datetime.now().strftime("%d/%m/%Y %H:%M")
     return f"""
-    <html><body>
+    <html><body style="font-family:Arial,Helvetica,sans-serif;color:#222;">
     <h2>Report monitoraggio progetti VIA — {data_str}</h2>
-    {''.join(righe)}
+    {''.join(blocchi)}
     </body></html>
     """
 
 
 def invia_report(risultati: list[dict], destinatario: str):
-    smtp_host = os.environ["SMTP_HOST"]        # es. smtp.gmail.com
+    smtp_host = os.environ["SMTP_HOST"]
     smtp_port = int(os.environ.get("SMTP_PORT", 587))
     smtp_user = os.environ["SMTP_USER"]
     smtp_pass = os.environ["SMTP_PASS"]
@@ -59,12 +75,11 @@ def invia_report(risultati: list[dict], destinatario: str):
     msg.set_content("Il tuo client email non supporta HTML. Attiva la visualizzazione HTML.")
     msg.add_alternative(html, subtype="html")
 
-    # Allegati: tutti i documenti scaricati nelle colonne D richieste
     for r in risultati:
         if r.get("stato") != "ok":
             continue
         for doc in r.get("documenti_allegati", []):
-            path = doc.get("path")
+            path = doc.get("path_locale")
             if path and Path(path).exists():
                 data = Path(path).read_bytes()
                 msg.add_attachment(
@@ -80,3 +95,4 @@ def invia_report(risultati: list[dict], destinatario: str):
         server.send_message(msg)
 
     print(f"[send_email] Report inviato a {destinatario}")
+
