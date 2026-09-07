@@ -144,14 +144,19 @@ async def vai_a_pagina_successiva(page) -> bool:
 
 
 async def estrai_documenti_sezione(page, base_doc_url: str, mappa_sezioni: dict, nome_sezione_menu: str) -> list[dict]:
-    """Va sulla pagina filtrata per una specifica sezione (via RaggruppamentoID) e
-    raccoglie tutti i documenti di quella sezione, scorrendo le pagine se necessario."""
-    rid = mappa_sezioni.get(nome_sezione_menu)
-    if rid is None:
-        return []  # questa sezione non esiste per questo progetto
+    """Torna sulla pagina Documentazione (non filtrata), clicca sullo <span> della sezione
+    voluta (come farebbe un utente reale, così il form JS/submit funziona esattamente
+    come sul sito), e raccoglie tutti i documenti risultanti, scorrendo le pagine se serve."""
+    await page.goto(base_doc_url, wait_until="networkidle")
 
-    url_filtrato = f"{base_doc_url}?RaggruppamentoID={rid}"
-    await page.goto(url_filtrato, wait_until="networkidle")
+    span_sezione = page.locator(f"span.leaf[data-raggruppamentoid='{mappa_sezioni[nome_sezione_menu]}']")
+    if await span_sezione.count() == 0:
+        print(f"[scraper] ATTENZIONE: span per sezione '{nome_sezione_menu}' non ritrovato al secondo giro")
+        return []
+
+    async with page.expect_navigation():
+        await span_sezione.first.click()
+    await page.wait_for_load_state("networkidle")
 
     tutti_documenti = []
     max_pagine = 20  # sicurezza anti-loop
@@ -178,10 +183,12 @@ async def estrai_documentazione(page, info_url: str, id_vip: str) -> dict:
 
     doc_href = await link_doc.get_attribute("href")
     base_doc_url = BASE_URL + doc_href if doc_href.startswith("/") else doc_href
+    print(f"[scraper] {id_vip}: pagina Documentazione = {base_doc_url}")
 
     await page.goto(base_doc_url, wait_until="networkidle")
 
     mappa_sezioni = await estrai_mappa_sezioni(page)
+    print(f"[scraper] {id_vip}: sezioni trovate nel menu = {list(mappa_sezioni.keys())}")
 
     risultato = {
         "sezioni_disponibili": list(mappa_sezioni.keys()),
@@ -191,10 +198,13 @@ async def estrai_documentazione(page, info_url: str, id_vip: str) -> dict:
 
     documenti_scaricati = []
     for nome_sezione_menu, rid in mappa_sezioni.items():
-        if not sezione_di_interesse(nome_sezione_menu):
+        interesse = sezione_di_interesse(nome_sezione_menu)
+        print(f"[scraper] {id_vip}: sezione '{nome_sezione_menu}' (rid={rid}) -> di interesse: {interesse}")
+        if not interesse:
             continue
 
         docs = await estrai_documenti_sezione(page, base_doc_url, mappa_sezioni, nome_sezione_menu)
+        print(f"[scraper] {id_vip}: trovati {len(docs)} documenti in '{nome_sezione_menu}'")
         for doc in docs:
             doc["sezione_menu"] = nome_sezione_menu
             if doc.get("download_url"):
@@ -205,6 +215,9 @@ async def estrai_documentazione(page, info_url: str, id_vip: str) -> dict:
                     doc["path_locale"] = str(dest)
                 except Exception as e:
                     doc["errore_download"] = str(e)
+                    print(f"[scraper] {id_vip}: ERRORE download '{doc.get('nome_file')}': {e}")
+            else:
+                print(f"[scraper] {id_vip}: documento senza download_url: {doc}")
             documenti_scaricati.append(doc)
 
     risultato["documenti_di_interesse"] = documenti_scaricati
