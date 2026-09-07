@@ -1,0 +1,81 @@
+{
+  "id_vip": "15133",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/1687",
+  "nome_progetto": "Concessione di coltivazione idrocarburi \"Gela\" - Aumento della capacità di iniezione del \"Pozzo Gela 18 Iniettore\"",
+  "dettagli_procedura": "Codice istanza online\tVOAVO00000219",
+  "hash_dettagli": "017fff4c394a46f243b4d9e0ad3a7c207fe501eebff8b6668bfd21127f8c2018",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Elenchi Elaborati",
+      "Documentazione di ottemperanza"
+    ],
+    "documenti_di_interesse": [],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260731_215156.pdf",
+        "sezione": "Elenchi Elaborati",
+        "codice_elaborato": "c0d77047-e32e-47ba-845a-2dd7d8409c0e",
+        "data": "14/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1420374"
+      },
+      {
+        "titolo": "Ripristino della capacità iniettiva pozzo esistente Gela 18 - Ottemperanza condizioni ambientali",
+        "nome_file": "PresentazioneOttemperanzePrescrizioniGela18_ARPA_PostRiunione1_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "f1faef0a-e3ef-47eb-a678-f9e9304199f4",
+        "data": "14/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1420367"
+      },
+      {
+        "titolo": "NOTA METODOLOGICA RELATIVA AL MONITORAGGIO DELLA COMPONENTE ATMOSFERA DI CUI ALLA CONDIZIONE AMBIENTALE N.8 DEL PARERE N. 752 DEL 9 MARZO 2026 DELLA CT-VIA",
+        "nome_file": "RO_AMB_EM-030-2026.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "e780e92d-b1dc-4aa4-8762-381984847d6a",
+        "data": "14/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1420368"
+      },
+      {
+        "titolo": "NOTA METODOLOGICA RELATIVA ALLA GESTIONE DEGLI IMPATTI CUMULATIVI DI CUI ALLA CONDIZIONE AMBIENTALE N.9 DEL PARERE N. 752 DEL 9 MARZO 2026 DELLA CT-VIA",
+        "nome_file": "RO_AMB_EM-033-2026.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "fc331d8a-1ee5-412a-8223-52f2cbf55599",
+        "data": "14/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1420369"
+      },
+      {
+        "titolo": "NOTA METODOLOGICA RELATIVA ALLA CONDIZIONE AMBIENTALE N.10 DEL PARERE N. 752 DEL 9 MARZO 2026 DELLA CT-VIA",
+        "nome_file": "RO_AMB_EM-038-2026.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "9a62f96a-79d5-442a-8937-680a5fd60531",
+        "data": "14/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1420370"
+      },
+      {
+        "titolo": "NOTA TECNICA - Riscontro alla condizione ambientale N.5 del parere n. 752 del 9 marzo 2026 della CT-VIA",
+        "nome_file": "RO_AMB_EM-040-2026.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "6761f314-d035-4a9e-aeff-9d32aed958da",
+        "data": "14/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1420371"
+      },
+      {
+        "titolo": "NOTA METODOLOGICA IN RISCONTRO ALLA CONDIZIONE AMBIENTALE N.3 DEL PARERE N. 752 DEL 9 MARZO 2026 DELLA CT-VIA",
+        "nome_file": "RO_AMB_EM-39-2026.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "7518c606-4b41-40fb-b02d-26e98fcbad16",
+        "data": "14/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1420372"
+      },
+      {
+        "titolo": "Verbale Tavolo Tecnico - Ottemperanza Condizioni Ambientali Pozzo Gela 18",
+        "nome_file": "VerbaleTavolotecnicoARPASicilia_Gela18_Giugno26_R_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "db0c6eb0-cdc8-402a-b69e-9098ad310deb",
+        "data": "14/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1420373"
+      }
+    ]
+  }
+}

@@ -8,42 +8,49 @@
   "documentazione": {
     "sezioni_disponibili": [
       "Elenchi Elaborati",
-      "Elaborati di Piano",
-      "Decreto VIA"
+      "Lista di controllo"
     ],
     "documenti_di_interesse": [],
     "elenco_completo_prima_pagina": [
       {
-        "titolo": "Decreto Direttoriale - Bioraffineria di Gela S.p.A.-Richiesta di modifica della condizione ambientale n.3 contenuta nel parere della CTVIA n.336 del 24/10/2022 allegato al DM 138 del 13/03/2023",
-        "nome_file": "MASE_VA_DEC_2025-0000098.pdf",
-        "sezione": "Decreto VIA",
-        "codice_elaborato": "MASE-VA-DEC-2025-0000098",
-        "data": "10/03/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1227567"
-      },
-      {
-        "titolo": "Elenco Elaborati",
-        "nome_file": "ElencoElaborati.pdf",
+        "titolo": "Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260715_212604.pdf",
         "sezione": "Elenchi Elaborati",
-        "codice_elaborato": "Elenco Elaborati",
-        "data": "10/07/2024",
-        "download_url": "https://va.mite.gov.it/File/Documento/1102973"
+        "codice_elaborato": "6574aae0-d57e-4981-a980-cb33d6212b8d",
+        "data": "12/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419909"
       },
       {
-        "titolo": "Allegato al Decreto Direttoriale - Parere CTVA del 04/07/2024",
-        "nome_file": "Parere_n_1110_del_4_luglio_2024_IDVIP_12537.pdf",
-        "sezione": "Decreto VIA",
-        "codice_elaborato": "PRR 1110",
-        "data": "10/03/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1227568"
+        "titolo": "Inquadramento dell'area di stabilimento",
+        "nome_file": "2510022057_012_A3_Inq_Gela.pdf",
+        "sezione": "Lista di controllo",
+        "codice_elaborato": "ca116c29-727c-4f8b-8d41-4c2c38eb9777",
+        "data": "12/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419905"
       },
       {
-        "titolo": "Studio_Preliminare_Ambientale",
-        "nome_file": "Studio_Preliminare_Ambientale.pdf",
-        "sezione": "Elaborati di Piano",
-        "codice_elaborato": "Studio-Preliminare-Ambientale",
-        "data": "10/07/2024",
-        "download_url": "https://va.mite.gov.it/File/Documento/1102974"
+        "titolo": "Inquadramento dell'area di stabilimento - Rete Natura 2000",
+        "nome_file": "2510022057_013_A3_Inq_Gela_Rete_Natura_2000.pdf",
+        "sezione": "Lista di controllo",
+        "codice_elaborato": "c4dfe218-a012-42f4-8491-7cc19a90f325",
+        "data": "12/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419906"
+      },
+      {
+        "titolo": "Lista di controllo per la valutazione preliminare (art. 6, comma 9, D.Lgs. 152/2006)",
+        "nome_file": "Modulolistacontrolloval_prelBrownGrease_BioraffineriadiGela.pdf",
+        "sezione": "Lista di controllo",
+        "codice_elaborato": "a1bc2701-8947-40a7-9b75-868b4786c2ca",
+        "data": "12/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419907"
+      },
+      {
+        "titolo": "RELAZIONE TECNICA - Utilizzo di Brown Grease per la produzione di biocarburanti",
+        "nome_file": "ValutazionepreliminareBioRaffineriaGela-2026_signed.pdf",
+        "sezione": "Lista di controllo",
+        "codice_elaborato": "4187d3e4-50ac-4dd8-9bd5-6a9ec8fbc9f3",
+        "data": "12/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1419908"
       }
     ]
   }

@@ -1,0 +1,110 @@
+{
+  "id_vip": "15129",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/9716",
+  "nome_progetto": "Progetto per la realizzazione dell'area Cluster Sant'Elia 1. Cerro Falcone 7 in località la Civita del Comune di Marsicovetere (PZ)",
+  "dettagli_procedura": "Codice istanza online\tVOAVO00000211",
+  "hash_dettagli": "3a31df5e89097bed759d358904461b06bc5453d83a7e9fb11f8a60d79571f538",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Elenchi Elaborati",
+      "Documentazione di ottemperanza",
+      "Documentazione integrativa volontaria"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "VERBALE TECNICO DI INCONTRO",
+        "nome_file": "PROT.2242IDVIP9601protocollon_VOAVO00000211.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "ac3c60c1-a7b9-418c-9519-43cef466917e",
+        "data": "13/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1420320",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "VERBALE TECNICO DI INCONTRO",
+        "nome_file": "VOAVO00000211.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "c7e72b71-37c7-4ae0-8acc-ef163653d002",
+        "data": "13/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1420321",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260811_211110.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "f99781d9-5069-4bb6-95a5-660c62c63baa",
+        "data": "13/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1420322",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260723_215944.pdf",
+        "sezione": "Elenchi Elaborati",
+        "codice_elaborato": "af7baa61-2fcf-41eb-bc13-ef39ed435433",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423224"
+      },
+      {
+        "titolo": "VERBALE TECNICO DI INCONTRO",
+        "nome_file": "PROT.2242IDVIP9601protocollon_VOAVO00000211.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "ac3c60c1-a7b9-418c-9519-43cef466917e",
+        "data": "13/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1420320"
+      },
+      {
+        "titolo": "Progetto ME1 - Relazione generale, disciplinare tecnico, piano di monitoraggio e manutenzione",
+        "nome_file": "Allegato_01_Progetto_pilota_miglioramento_area_umida_SE1_CF7_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "9233864e-a303-43e6-9606-59e011bf2f09",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423220"
+      },
+      {
+        "titolo": "RAPPORTO DI PROVA 359041 - 207520",
+        "nome_file": "Allegato01_rdp2024_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "199f6fd8-c3ce-4ced-8142-e079b778f187",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423221"
+      },
+      {
+        "titolo": "VERBALE TECNICO DI INCONTRO",
+        "nome_file": "VOAVO00000211.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "c7e72b71-37c7-4ae0-8acc-ef163653d002",
+        "data": "13/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1420321"
+      },
+      {
+        "titolo": "Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260811_211110.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "f99781d9-5069-4bb6-95a5-660c62c63baa",
+        "data": "13/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1420322"
+      },
+      {
+        "titolo": "Attività di monitoraggio delle acque superficiali e dei sedimenti presso l'area cluster Sant'Elia 1 - Cerro Falcone 7 Monitoraggio Febbraio 2018",
+        "nome_file": "Allegato02_acquesup_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "b2b0e4ef-31f3-44d8-9c67-638f582b29cb",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423222"
+      },
+      {
+        "titolo": "Proroga del provvedimento di compatibilità ambientale - VIA Area Cluster S. Elia 1 - Cerro Falcone 7",
+        "nome_file": "RO_AMB_ME_05_189_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "5c989a5d-191d-406f-af8e-1a2bd70f0e7b",
+        "data": "01/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423223"
+      }
+    ]
+  }
+}

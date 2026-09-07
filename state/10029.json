@@ -3,39 +3,5 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/8235",
   "nome_progetto": "Progetto HOOP® \"IMPIANTO PILOTA PER LA PIROLISI DI PLASTICHE MISTE\"",
-  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM)\t14659",
-  "hash_dettagli": "ccb57c3f81e02813a839652491f1908159bdbb4ca14c37696cfd7e8ba109f1eb",
-  "documentazione": {
-    "sezioni_disponibili": [
-      "Documentazione di ottemperanza",
-      "Comunicazione esito valutazione"
-    ],
-    "documenti_di_interesse": [],
-    "elenco_completo_prima_pagina": [
-      {
-        "titolo": "Progetto Hoop - Condizione Ambientale 4 - Rendicontazione emissioni anno 2025",
-        "nome_file": "Progetto_Hoop_-_Condizione_Ambientale_4_-_Rendicontazione_emissioni_anno_2025.pdf",
-        "sezione": "Documentazione di ottemperanza",
-        "codice_elaborato": "Progetto Hoop - Condizione Ambientale 4 - Rendicontazione emissioni anno 2025",
-        "data": "10/02/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1363818"
-      },
-      {
-        "titolo": "Comunicazione VA esito valutazione MASE_2026-0083388",
-        "nome_file": "MASE_2026-0083388.pdf",
-        "sezione": "Comunicazione esito valutazione",
-        "codice_elaborato": "MASE-2026-0083388",
-        "data": "20/04/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1383656"
-      },
-      {
-        "titolo": "Allegato alla Comunicazione VA esito valutazione MASE_2026-0083388 - par_n_795_VO_14659_rev_signed-PROT",
-        "nome_file": "par_n_795_VO_14659_rev_signed-PROT.pdf",
-        "sezione": "Comunicazione esito valutazione",
-        "codice_elaborato": "par-n-795-VO-14659-rev-signed-PROT",
-        "data": "20/04/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1383657"
-      }
-    ]
-  }
+  "errore": "Errore durante scraping: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\nwaiting for locator(\".datiAmministrativi\").first to be visible\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n"
 }

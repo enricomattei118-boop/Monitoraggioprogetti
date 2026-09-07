@@ -7,17 +7,25 @@
   "hash_dettagli": "53bfbc66d7b1d287581aec905fd028705c5b0cddad6f9f5b085128da8e77fb93",
   "documentazione": {
     "sezioni_disponibili": [
-      "Determinazione direttoriale di assoggettabilità alla VIA"
+      "Documentazione tecnica"
     ],
     "documenti_di_interesse": [],
     "elenco_completo_prima_pagina": [
       {
-        "titolo": "Provvedimento direttoriale di esclusione dalla VIA - Perforazione del pozzo esplorativo denominato Argo 2 nell'ambito del permesso di ricerca G.R13.AG",
-        "nome_file": "DSA-2008-0010424.pdf",
-        "sezione": "Determinazione direttoriale di assoggettabilità alla VIA",
-        "codice_elaborato": "DSA-2008-0010424",
-        "data": "21/03/2012",
-        "download_url": "https://va.mite.gov.it/File/Documento/54247"
+        "titolo": "Relazione sulla non sostanziale variazione delle condizioni ambientali",
+        "nome_file": "AMB_ME_01_65-signed.pdf",
+        "sezione": "Documentazione tecnica",
+        "codice_elaborato": "AMB-ME-01-65-signed",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377246"
+      },
+      {
+        "titolo": "Inquadramento territoriale",
+        "nome_file": "ALLEGATO_01_Inquadramento-signed.pdf",
+        "sezione": "Documentazione tecnica",
+        "codice_elaborato": "ALLEGATO 01-Inquadramento-signed",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377248"
       }
     ]
   }

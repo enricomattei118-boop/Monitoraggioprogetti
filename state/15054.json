@@ -5,5 +5,5 @@
   "nome_progetto": "REALIZZAZIONE DELLE AREE POZZI \"AGRI SUD\" E \"CERRO FALCONE SUD\", POZZO \"CERRO FALCONE 10\" (in area pozzo \"CERRO FALCONE 2\" esistente) E RELATIVE OPERE CONNESSE",
   "dettagli_procedura": "Codice istanza online\tVIA100000162",
   "hash_dettagli": "e1e361eb69199261f3d01988144e2d79393583b3056dc0158b242ccc9cab9c56",
-  "errore": "Errore durante scraping: Link 'Documentazione' non trovato sulla pagina Info"
+  "errore": "Errore durante scraping: Link 'Documentazione' non trovato: probabilmente la procedura e' ancora in fase iniziale (es. 'Verifica amministrativa') e la documentazione non e' stata ancora pubblicata sul sito."
 }

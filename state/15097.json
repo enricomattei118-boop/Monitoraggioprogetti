@@ -1,0 +1,9 @@
+{
+  "id_vip": "15097",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/12133",
+  "nome_progetto": "Posa condotta \"Azalea B prod - Regina\" per il trasporto di idrocarburi",
+  "dettagli_procedura": "Codice istanza online\tVIAVIA100000164",
+  "hash_dettagli": "7a94de4b8f9d507fdc3013ea5719bc4dc8b777556d1c25d4d61e4d0435e8d644",
+  "errore": "Errore durante scraping: Link 'Documentazione' non trovato: probabilmente la procedura e' ancora in fase iniziale (es. 'Verifica amministrativa') e la documentazione non e' stata ancora pubblicata sul sito."
+}

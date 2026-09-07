@@ -7,128 +7,417 @@
   "hash_dettagli": "a07b165426b9cf83a08732682f1f7928d528ee5c7afdec47c0c93939f7044b40",
   "documentazione": {
     "sezioni_disponibili": [
-      "Lista di controllo",
+      "Elenchi Elaborati",
+      "Documentazione di ottemperanza",
       "Documentazione integrativa",
-      "Comunicazione esito valutazione"
+      "Documentazione integrativa volontaria"
     ],
     "documenti_di_interesse": [
       {
-        "titolo": "Nota di riscontro",
-        "nome_file": "Nota_di_riscontro.pdf",
+        "titolo": "Integrazioni del 06/08/2025 - Ottemperanza prescrizione n.5",
+        "nome_file": "Ottemperanza_prescrizione_n_5.pdf",
         "sezione": "Documentazione integrativa",
-        "codice_elaborato": "Nota-di-riscontro",
-        "data": "21/10/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1316411",
+        "codice_elaborato": "Ottemperanza-prescrizione-n-5",
+        "data": "05/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1298963",
         "sezione_menu": "Documentazione integrativa"
       },
       {
-        "titolo": "Studio Atmosfera",
-        "nome_file": "All_1_Studio_Atmosfera.pdf",
+        "titolo": "Integrazioni del 06/08/2025 - Piano di monitoraggio odori",
+        "nome_file": "Allegato_2-Piano_di_monitoraggio_odori_rev_01.pdf",
         "sezione": "Documentazione integrativa",
-        "codice_elaborato": "All.1-Studio-Atmosfera",
-        "data": "21/10/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1316412",
+        "codice_elaborato": "Allegato-2-Piano-di-monitoraggio-odori-rev-01",
+        "data": "05/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1298962",
         "sezione_menu": "Documentazione integrativa"
       },
       {
-        "titolo": "Studio previsionale d'Impatto acustico",
-        "nome_file": "All_2_VIAc_Rumore.pdf",
+        "titolo": "Integrazioni del 06/08/2025 - Comunicazioni interne ed esterne in materia HSE",
+        "nome_file": "Allegato_1-pro-hse-003-elv_brfve-r02_FIRMATA.pdf",
         "sezione": "Documentazione integrativa",
-        "codice_elaborato": "All.2-VIAc-Rumore",
-        "data": "21/10/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1316414",
+        "codice_elaborato": "Allegato-1-pro-hse-003-elv-brfve-r02-FIRMATA",
+        "data": "05/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1298961",
         "sezione_menu": "Documentazione integrativa"
       },
       {
-        "titolo": "Piano di monitoraggio ambientale",
-        "nome_file": "All_3_PMA.pdf",
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_01-PIPERACK_PIANO_TERRA",
+        "nome_file": "ALLEGATO_01-PIPERACK_PIANO_TERRA.pdf",
         "sezione": "Documentazione integrativa",
-        "codice_elaborato": "All.3-PMA",
-        "data": "21/10/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1316415",
+        "codice_elaborato": "ELAB. 1",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234033",
         "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_02-PASSERELLA_OPERATIVA",
+        "nome_file": "ALLEGATO_02-PASSERELLA_OPERATIVA.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 2",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234034",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_03-AREA_POMPE",
+        "nome_file": "ALLEGATO_03-AREA_POMPE.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 3",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234035",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_04-SCALE",
+        "nome_file": "ALLEGATO_04-SCALE.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 4",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234036",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_05-SHELTER_COMPRESSORI",
+        "nome_file": "ALLEGATO_05-SHELTER_COMPRESSORI.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 5",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234037",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_06-AREA_GENERALE",
+        "nome_file": "ALLEGATO_06-AREA_GENERALE.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 6",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234038",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_08-PLANIMETRIA_GENERALE_IMPIANTO_LUCE",
+        "nome_file": "ALLEGATO_08-PLANIMETRIA_GENERALE_IMPIANTO_LUCE.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 7",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234039",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_09-TABELLE_FOTOMETRICHE_FIRMATE_EVFG66LED_A",
+        "nome_file": "ALLEGATO_09-TABELLE_FOTOMETRICHE_FIRMATE_EVFG66LED_A.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 8",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234040",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_10-TABELLE_FOTOMETRICHE_FIRMATE_EVFG132LED_T",
+        "nome_file": "ALLEGATO_10-TABELLE_FOTOMETRICHE_FIRMATE_EVFG132LED_T.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 9",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234041",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_11-TABELLE_FOTOMETRICHE_FIRMATE_FLOWEX-MN-100180",
+        "nome_file": "ALLEGATO_11-TABELLE_FOTOMETRICHE_FIRMATE_FLOWEX-MN-100180.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 10",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234042",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_12-MANUALE_FORNITORE",
+        "nome_file": "ALLEGATO_12-MANUALE_FORNITORE.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 11",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234043",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - Allegato_2-pro-hse-003-esm-rafve-r01_FIRMATA",
+        "nome_file": "Allegato_2-pro-hse-003-esm-rafve-r01_FIRMATA.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 12",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234044",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - Allegato_3-Piano_di_monitoraggio_odori_rev_01",
+        "nome_file": "Allegato_3-Piano_di_monitoraggio_odori_rev_01.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 13",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234045",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - Riscontro_a_nota_ARPAV_protocollo_0067016U_del_17072024",
+        "nome_file": "Riscontro_a_nota_ARPAV_protocollo_0067016U_del_17072024.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 14",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234046",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 23/12/2025 - Report_Monitoraggio_Semestrale_SR_giu-nov25",
+        "nome_file": "Report_Monitoraggio_Semestrale_SR_giu-nov25.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "Report-Monitoraggio-Semestrale-SR-giu-nov25",
+        "data": "06/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1360632",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 12/08/2025 - Report_Monitoraggio_Semestrale_SR_dic24-mag25",
+        "nome_file": "Report_Monitoraggio_Semestrale_SR_dic24-mag25.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "Report-Monitoraggio-Semestrale-SR-dic24-mag25",
+        "data": "15/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314988",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 12/08/2025 - All_2a-RdP_NOx",
+        "nome_file": "All_2a-RdP_NOx.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-2a-RdP-NOx",
+        "data": "15/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314989",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 12/08/2025 - All_2b-RdP_PM10_PM2_5_e_C_elementare",
+        "nome_file": "All_2b-RdP_PM10_PM2_5_e_C_elementare.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-2b-RdP-PM10-PM2-5-e-C-elementare",
+        "data": "15/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314990",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 12/08/2025 - All_2c-RdP_Flussi_di_deposizione",
+        "nome_file": "All_2c-RdP_Flussi_di_deposizione.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-2c-RdP-Flussi-di-deposizione",
+        "data": "15/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314991",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 12/08/2025 - All_2d-RdP_COV",
+        "nome_file": "All_2d-RdP_COV.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-2d-RdP-COV",
+        "data": "15/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314992",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 12/08/2025 - All_2e-RdP_Sostanze_odorigene_giu-set24",
+        "nome_file": "All_2e-RdP_Sostanze_odorigene_giu-set24.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-2e-RdP-Sostanze-odorigene-giu-set24",
+        "data": "15/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314993",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 12/08/2025 - All_2f-RdP_Sostanze_odorigene_dic24-mar25",
+        "nome_file": "All_2f-RdP_Sostanze_odorigene_dic24-mar25.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-2f-RdP-Sostanze-odorigene-dic24-mar25",
+        "data": "15/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314994",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 12/08/2025 - All_2g-RdP_Fibre_amianto",
+        "nome_file": "All_2g-RdP_Fibre_amianto.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-2g-RdP-Fibre-amianto",
+        "data": "15/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314995",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 12/08/2025 - All_3-Vento_AGIP",
+        "nome_file": "All_3-Vento_AGIP.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-3-Vento-AGIP",
+        "data": "15/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314996",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 12/08/2025 - All_4-RUMORE_Relazioni_impatto_acustico_nov24-mar25",
+        "nome_file": "All_4-RUMORE_Relazioni_impatto_acustico_nov24-mar25.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-4-RUMORE-Relazioni-impatto-acustico-nov24-mar25",
+        "data": "15/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314997",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 11/06/2024 - Riscontro alle Valutazioni ARPAV",
+        "nome_file": "VO_SR_ARPAV.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "VO-SR-ARPAV",
+        "data": "14/06/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1086971",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 11/06/2024 - VO_SR_ARPAV_PGA",
+        "nome_file": "VO_SR_ARPAV_PGA_All_1.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-1",
+        "data": "14/06/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1086972",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 11/06/2024 - VO_SR_ARPAV_PI",
+        "nome_file": "VO_SR_ARPAV_PI_All_2.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-2",
+        "data": "14/06/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1086973",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 11/06/2024 - VO_SR_ARPAV_PGR_All.3",
+        "nome_file": "VO_SR_ARPAV_PGR_All_3.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-3",
+        "data": "14/06/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1086974",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 11/06/2024 - VO_SR_ARPAV_PMA_All.4",
+        "nome_file": "VO_SR_ARPAV_PMA_All_4.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-4",
+        "data": "14/06/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1086975",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 11/06/2024 - VO_SR_ARPAV_PMO_All.5",
+        "nome_file": "VO_SR_ARPAV_PMO_All_5.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-5",
+        "data": "14/06/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1086976",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 11/06/2024 - VO_SR_ARPAV_PO_All.6",
+        "nome_file": "VO_SR_ARPAV_PO_All_6.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-6",
+        "data": "14/06/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1087054",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 11/06/2024 - VO_SR_ARPAV_RE_All.7",
+        "nome_file": "VO_SR_ARPAV_RE_All_7.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "All-7",
+        "data": "14/06/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1087055",
+        "sezione_menu": "Documentazione integrativa volontaria"
       }
     ],
     "elenco_completo_prima_pagina": [
       {
-        "titolo": "Nota di riscontro",
-        "nome_file": "Nota_di_riscontro.pdf",
+        "titolo": "Elenco elaborati tecnici",
+        "nome_file": "Elenco_Elaborati.pdf",
+        "sezione": "Elenchi Elaborati",
+        "codice_elaborato": "Elenco-Elaborati",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978036"
+      },
+      {
+        "titolo": "Integrazioni del 06/08/2025 - Ottemperanza prescrizione n.5",
+        "nome_file": "Ottemperanza_prescrizione_n_5.pdf",
         "sezione": "Documentazione integrativa",
-        "codice_elaborato": "Nota-di-riscontro",
-        "data": "21/10/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1316411"
+        "codice_elaborato": "Ottemperanza-prescrizione-n-5",
+        "data": "05/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1298963"
       },
       {
-        "titolo": "Integrazione_volontaria_rev1-signed",
-        "nome_file": "Integrazione_volontaria_rev1-signed.pdf",
-        "sezione": "Lista di controllo",
-        "codice_elaborato": "Integrazione-volontaria-rev1-signed",
-        "data": "25/07/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1280394"
-      },
-      {
-        "titolo": "Lista di controllo",
-        "nome_file": "VP_BioRaVe_Lista_di_controllo.pdf",
-        "sezione": "Lista di controllo",
-        "codice_elaborato": "VP-BioRaVe",
-        "data": "20/01/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1202936"
-      },
-      {
-        "titolo": "Studio Atmosfera",
-        "nome_file": "All_1_Studio_Atmosfera.pdf",
+        "titolo": "Integrazioni del 06/08/2025 - Piano di monitoraggio odori",
+        "nome_file": "Allegato_2-Piano_di_monitoraggio_odori_rev_01.pdf",
         "sezione": "Documentazione integrativa",
-        "codice_elaborato": "All.1-Studio-Atmosfera",
-        "data": "21/10/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1316412"
+        "codice_elaborato": "Allegato-2-Piano-di-monitoraggio-odori-rev-01",
+        "data": "05/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1298962"
       },
       {
-        "titolo": "Studio previsionale d'Impatto acustico",
-        "nome_file": "All_2_VIAc_Rumore.pdf",
+        "titolo": "Integrazioni del 06/08/2025 - Comunicazioni interne ed esterne in materia HSE",
+        "nome_file": "Allegato_1-pro-hse-003-elv_brfve-r02_FIRMATA.pdf",
         "sezione": "Documentazione integrativa",
-        "codice_elaborato": "All.2-VIAc-Rumore",
-        "data": "21/10/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1316414"
+        "codice_elaborato": "Allegato-1-pro-hse-003-elv-brfve-r02-FIRMATA",
+        "data": "05/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1298961"
       },
       {
-        "titolo": "Inquadramento territoriale",
-        "nome_file": "VP_BioRaVe_Tavola_1.pdf",
-        "sezione": "Lista di controllo",
-        "codice_elaborato": "Tavola 1",
-        "data": "20/01/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1202937"
-      },
-      {
-        "titolo": "Rete Natura 2000",
-        "nome_file": "VP_BioRaVe_Tavola_2.pdf",
-        "sezione": "Lista di controllo",
-        "codice_elaborato": "Tavola 2",
-        "data": "20/01/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1202939"
-      },
-      {
-        "titolo": "Piano di monitoraggio ambientale",
-        "nome_file": "All_3_PMA.pdf",
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_01-PIPERACK_PIANO_TERRA",
+        "nome_file": "ALLEGATO_01-PIPERACK_PIANO_TERRA.pdf",
         "sezione": "Documentazione integrativa",
-        "codice_elaborato": "All.3-PMA",
-        "data": "21/10/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1316415"
+        "codice_elaborato": "ELAB. 1",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234033"
       },
       {
-        "titolo": "Comunicazione VA esito valutazione",
-        "nome_file": "MASE_2025-0216106.pdf",
-        "sezione": "Comunicazione esito valutazione",
-        "codice_elaborato": "MASE-2025-0216106",
-        "data": "18/11/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1325858"
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_02-PASSERELLA_OPERATIVA",
+        "nome_file": "ALLEGATO_02-PASSERELLA_OPERATIVA.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 2",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234034"
       },
       {
-        "titolo": "Allegato alla Comunicazione VA esito valutazione",
-        "nome_file": "Parere_n_87_SC_PNIEC_del_6_11_25-ID_VIP_13556.pdf",
-        "sezione": "Comunicazione esito valutazione",
-        "codice_elaborato": "All.1",
-        "data": "18/11/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1325859"
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_03-AREA_POMPE",
+        "nome_file": "ALLEGATO_03-AREA_POMPE.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 3",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234035"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_04-SCALE",
+        "nome_file": "ALLEGATO_04-SCALE.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 4",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234036"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_05-SHELTER_COMPRESSORI",
+        "nome_file": "ALLEGATO_05-SHELTER_COMPRESSORI.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 5",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234037"
+      },
+      {
+        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_06-AREA_GENERALE",
+        "nome_file": "ALLEGATO_06-AREA_GENERALE.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ELAB. 6",
+        "data": "25/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1234038"
       }
     ]
   }
