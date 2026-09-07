@@ -71,18 +71,60 @@ async def estrai_nome_progetto(page) -> str:
     return (await h2.inner_text()).strip()
 
 
-async def estrai_dettagli_procedura(page, info_url: str) -> str:
+async def trova_riga_procedura(page, id_vip: str):
+    """Cerca nella tabella 'Scegli la procedura' (table.DatiAmministrativiResTable)
+    la riga <tr class="trProcedura"> la cui colonna 'Codice procedura' corrisponde
+    all'ID_VIP cercato. Necessario perche' un progetto puo' avere piu' sotto-
+    procedimenti nel tempo (es. piu' Verifiche di Ottemperanza), ciascuno con
+    il proprio link 'Dettagli procedura' e 'Documentazione'.
+
+    Struttura HTML (verificata sul sito reale):
+      <tr class="trProcedura">
+        <td>Verifica di Ottemperanza</td>   <!-- tipo procedura -->
+        <td></td>
+        <td>8678</td>                        <!-- CODICE PROCEDURA = id_vip -->
+        <td>28/06/2022</td>                  <!-- data avvio -->
+        <td>Verifica amministrativa</td>     <!-- stato -->
+        <td><a class="icona-dettaglio-procedura">...</a></td>
+        <td><a class="icona-documentazione-tecnico-amm" href="...">...</a></td>
+      </tr>
+
+    Ritorna il Locator della riga corrispondente, o None se non trovata
+    (in quel caso il chiamante puo' fare fallback sulla prima riga disponibile).
+    """
+    righe = page.locator("tr.trProcedura")
+    n = await righe.count()
+    for i in range(n):
+        riga = righe.nth(i)
+        celle = riga.locator("td")
+        if await celle.count() < 3:
+            continue
+        codice_procedura = (await celle.nth(2).inner_text()).strip()
+        if codice_procedura == str(id_vip).strip():
+            return riga
+    return None
+
+
+async def estrai_dettagli_procedura(page, info_url: str, id_vip: str) -> str:
     """Il link 'Dettagli procedura' NON naviga a una nuova pagina: apre un modal
     (jQuery UI Dialog, classe '.datiAmministrativi') sovrapposto alla pagina corrente.
     Cliccarlo e aspettare che il modal diventi visibile, poi leggerne il contenuto.
 
-    NOTA: alcuni progetti hanno piu' procedimenti (es. piu' righe di
-    'Verifica di Ottemperanza' nel tempo), quindi il link puo' comparire
-    piu' volte sulla stessa pagina. Prendiamo il primo (di solito il
-    procedimento piu' recente/pertinente in cima alla tabella)."""
+    Se il progetto ha piu' sotto-procedimenti, clicchiamo il link 'Dettagli procedura'
+    della RIGA SPECIFICA il cui Codice procedura corrisponde all'id_vip cercato,
+    non semplicemente il primo della pagina."""
     await page.goto(info_url, wait_until="networkidle")
-    link_dettagli = page.locator("a.icona-dettaglio-procedura").first
-    if await page.locator("a.icona-dettaglio-procedura").count() == 0:
+
+    riga = await trova_riga_procedura(page, id_vip)
+    if riga is not None:
+        link_dettagli = riga.locator("a.icona-dettaglio-procedura")
+    else:
+        # Fallback: nessuna corrispondenza esatta trovata (caso raro/imprevisto),
+        # usiamo il primo link disponibile sulla pagina come rete di sicurezza.
+        print(f"[scraper] ATTENZIONE {id_vip}: nessuna riga tr.trProcedura con codice esatto trovata, uso fallback .first")
+        link_dettagli = page.locator("a.icona-dettaglio-procedura").first
+
+    if await link_dettagli.count() == 0:
         raise RuntimeError("Link 'Dettagli procedura' non trovato sulla pagina Info")
 
     await link_dettagli.click()
@@ -205,12 +247,27 @@ async def scarica_documento(page, url: str, dest_path: Path):
 
 async def estrai_documentazione(page, info_url: str, id_vip: str) -> dict:
     await page.goto(info_url, wait_until="networkidle")
-    link_doc_tutti = page.locator("a.icona-documentazione-tecnico-amm")
-    if await link_doc_tutti.count() == 0:
-        raise RuntimeError("Link 'Documentazione' non trovato sulla pagina Info")
-    link_doc = link_doc_tutti.first
+
+    riga = await trova_riga_procedura(page, id_vip)
+    if riga is not None:
+        link_doc = riga.locator("a.icona-documentazione-tecnico-amm")
+    else:
+        print(f"[scraper] ATTENZIONE {id_vip}: nessuna riga tr.trProcedura con codice esatto trovata, uso fallback .first")
+        link_doc = page.locator("a.icona-documentazione-tecnico-amm").first
+
+    if await link_doc.count() == 0:
+        raise RuntimeError(
+            "Link 'Documentazione' non trovato: probabilmente la procedura e' ancora "
+            "in fase iniziale (es. 'Verifica amministrativa') e la documentazione "
+            "non e' stata ancora pubblicata sul sito."
+        )
 
     doc_href = await link_doc.get_attribute("href")
+    if not doc_href:
+        raise RuntimeError(
+            "Link 'Documentazione' presente ma senza href: probabilmente la procedura "
+            "e' ancora in fase iniziale e la documentazione non e' stata ancora pubblicata."
+        )
     base_doc_url = BASE_URL + doc_href if doc_href.startswith("/") else doc_href
     print(f"[scraper] {id_vip}: pagina Documentazione = {base_doc_url}")
 
@@ -267,7 +324,7 @@ async def analizza_progetto(browser, id_vip: str) -> dict:
         print(f"[scraper] {id_vip}: nome progetto = {dati['nome_progetto'][:60]}...")
 
         print(f"[scraper] {id_vip}: estraggo Dettagli Procedura...")
-        dati["dettagli_procedura"] = await estrai_dettagli_procedura(page, info_url)
+        dati["dettagli_procedura"] = await estrai_dettagli_procedura(page, info_url, id_vip)
         dati["hash_dettagli"] = hashlib.sha256(dati["dettagli_procedura"].encode("utf-8")).hexdigest()
         print(f"[scraper] {id_vip}: Dettagli Procedura OK ({len(dati['dettagli_procedura'])} caratteri)")
 
