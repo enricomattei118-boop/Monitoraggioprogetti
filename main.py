@@ -1,16 +1,16 @@
-""
-main.py
-Orchestratore eseguito da GitHub Actions.
-
-Flusso:
- 1. Controlla se è l'ora giusta (12:00 o 18:00 ora italiana), salvo test manuali forzati
- 2. Legge progetti.csv (lista ID_VIP da monitorare)
- 3. Per ciascun progetto: scraping (scraper.py)
- 4. Carica lo snapshot precedente da state/{id_vip}.json (se esiste)
- 5. Confronta vecchio vs nuovo (compare.py)
- 6. Invia report via email (send_email.py)
- 7. Salva il nuovo snapshot in state/{id_vip}.json (il workflow lo committa)
-"""
+#!/usr/bin/env python3
+# main.py
+# Orchestratore eseguito da GitHub Actions.
+#
+# Flusso:
+#  1. Controlla se e' l'ora giusta (6:00, 10:00, 14:00 o 18:00 ora italiana),
+#     salvo test manuali forzati
+#  2. Legge progetti.csv (lista ID_VIP da monitorare)
+#  3. Per ciascun progetto: scraping (scraper.py)
+#  4. Carica lo snapshot precedente da state/{id_vip}.json (se esiste)
+#  5. Confronta vecchio vs nuovo (compare.py)
+#  6. Invia report via email (send_email.py)
+#  7. Salva il nuovo snapshot in state/{id_vip}.json (il workflow lo committa)
 
 import asyncio
 import csv
@@ -64,7 +64,7 @@ def salva_stato(id_vip: str, dati: dict):
 
 def main():
     if not e_ora_di_eseguire():
-        print("[main] Non è l'orario previsto (12:00 o 18:00 ora italiana). Esco senza fare nulla.")
+        print("[main] Non e' l'orario previsto (6, 10, 14 o 18 ora italiana). Esco senza fare nulla.")
         sys.exit(0)
 
     id_vip_list = leggi_id_vip_list()
