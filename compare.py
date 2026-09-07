@@ -12,7 +12,7 @@ def confronta_testi(id_vip: str, sezione: str, testo_precedente: str | None, tes
     if not testo_precedente:
         return (
             f"Prima rilevazione per '{sezione}': nessun confronto disponibile, "
-            "verrà usato come base per il prossimo giro."
+            "verra' usato come base per il prossimo giro."
         )
 
     if testo_precedente.strip() == testo_attuale.strip():
