@@ -1,4 +1,4 @@
-"""
+""
 main.py
 Orchestratore eseguito da GitHub Actions.
 
@@ -30,7 +30,7 @@ STATE_DIR.mkdir(exist_ok=True)
 PROGETTI_CSV = Path("progetti.csv")
 DESTINATARIO = os.environ["REPORT_TO_EMAIL"]
 
-ORARI_VALIDI = {12, 18}  # ore italiane in cui il report va effettivamente eseguito
+ORARI_VALIDI = {6, 10, 14, 18}  # ore italiane in cui il report va effettivamente eseguito
 
 
 def e_ora_di_eseguire() -> bool:
