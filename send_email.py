@@ -33,7 +33,8 @@ def costruisci_html(risultati: list[dict]) -> str:
             items = "".join(
                 f"<li>[{d.get('sezione_menu')}] {d.get('titolo')} "
                 f"({d.get('nome_file')}, {d.get('data')})"
-                f"{' - <b>allegato</b>' if d.get('path_locale') else ' - <i>errore download</i>'}</li>"
+                + (f' - <a href="{d["download_url"]}">apri/scarica</a>' if d.get("download_url") else "")
+                + "</li>"
                 for d in r["documenti_allegati"]
             )
             allegati_html = f"<p><b>Nuovi documenti nelle sezioni monitorate:</b></p><ul>{items}</ul>"
@@ -77,19 +78,34 @@ def invia_report(risultati: list[dict], destinatario: str):
     msg.set_content("Il tuo client email non supporta HTML. Attiva la visualizzazione HTML.")
     msg.add_alternative(html, subtype="html")
 
+    LIMITE_ALLEGATI_BYTES = 15 * 1024 * 1024  # 15 MB, margine di sicurezza sotto il limite di 25 MB di Gmail
+    totale_allegati = 0
+    allegati_saltati = []
+
     for r in risultati:
         if r.get("stato") != "ok":
             continue
         for doc in r.get("documenti_allegati", []):
             path = doc.get("path_locale")
-            if path and Path(path).exists():
-                data = Path(path).read_bytes()
-                msg.add_attachment(
-                    data,
-                    maintype="application",
-                    subtype="octet-stream",
-                    filename=Path(path).name,
-                )
+            if not (path and Path(path).exists()):
+                continue
+            dimensione = Path(path).stat().st_size
+            if totale_allegati + dimensione > LIMITE_ALLEGATI_BYTES:
+                allegati_saltati.append(Path(path).name)
+                continue
+            data = Path(path).read_bytes()
+            msg.add_attachment(
+                data,
+                maintype="application",
+                subtype="octet-stream",
+                filename=Path(path).name,
+            )
+            totale_allegati += dimensione
+
+    if allegati_saltati:
+        print(f"[send_email] ATTENZIONE: {len(allegati_saltati)} allegati NON inclusi "
+              f"(limite dimensione email superato): {allegati_saltati}. "
+              f"Sono comunque disponibili tramite i link nel corpo dell'email.")
 
     with smtplib.SMTP(smtp_host, smtp_port) as server:
         server.starttls()
