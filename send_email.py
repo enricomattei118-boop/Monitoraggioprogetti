@@ -17,10 +17,12 @@ def costruisci_html(risultati: list[dict]) -> str:
         id_vip = r["id_vip"]
         nome = r.get("nome_progetto") or "(nome non disponibile)"
 
-        if r["stato"] == "errore":
+        if r["stato"] in ("errore", "errore_parziale"):
+            etichetta = "ERRORE" if r["stato"] == "errore" else "ERRORE PARZIALE (progetto trovato, scraping incompleto)"
             blocchi.append(f"""
             <div style="margin-bottom:24px;padding:12px;background:#fdecea;border-left:4px solid #d93025;">
-              <h3 style="margin:0 0 6px 0;">Progetto {id_vip} - ERRORE</h3>
+              <h3 style="margin:0 0 6px 0;">Progetto {id_vip} - {etichetta}</h3>
+              <p style="margin:0 0 4px 0;font-size:14px;color:#555;"><i>{nome}</i></p>
               <p style="margin:0;">{r['messaggio']}</p>
             </div>
             """)
