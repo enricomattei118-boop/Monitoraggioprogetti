@@ -1,166 +1,239 @@
 """
 scraper.py
-Naviga va.mite.gov.it per un dato ID_VIP e restituisce:
+Naviga va.mite.gov.it per un dato ID_VIP (Codice procedura) e restituisce:
+  - nome del progetto
   - testo della pagina "Dettagli Procedura"
-  - contenuto esportato dalla pagina "Documentazione" -> "Esporta"
-  - lista di documenti scaricati per le colonne "osservazioni/pareri" richieste
+  - elenco documenti della pagina "Documentazione" (tutte le sezioni, per il diff)
+  - documenti scaricati (PDF) delle sezioni di interesse:
+    "Osservazioni del Pubblico", "Pareri/Osservazioni Enti" (e varianti I/II/III)
 
-NOTA IMPORTANTE:
-Il sito usa bot-detection e la struttura HTML esatta dei pulsanti
-("Dettagli Procedura", menu dei 3 puntini, "Documentazione", "Esporta")
-non è stata verificata contro il sito live in fase di sviluppo di questo
-script (fetch diretto bloccato). I selettori sotto sono placeholder
-ragionevoli basati sulla descrizione fornita: VANNO VERIFICATI aprendo
-il sito con un browser reale e ispezionando l'HTML (tasto destro ->
-Ispeziona) sui link indicati. Cerca i commenti "# TODO VERIFICARE".
+Selettori verificati manualmente sul sito reale (settembre 2026):
+  - campo ricerca:        input#input-cercaIdVipera  -> premi Invio -> redirect a /Oggetti/Info/{id}
+  - nome progetto:        primo <h2> della pagina Info
+  - link Dettagli Proc.:  a.icona-dettaglio-procedura
+  - link Documentazione:  a.icona-documentazione-tecnico-amm -> /Oggetti/Documentazione/{id}/{procId}
+  - filtro per sezione:   span.leaf[data-raggruppamentoid=N] -> submit GET a
+                          /Oggetti/Documentazione/{id}/{procId}?RaggruppamentoID=N
+                          (N è specifico per progetto: va letto dal menu, non è fisso)
+  - righe tabella:        table.Documentazione tr, colonne Titolo/Nome file/Sezione/
+                          Codice elaborato/Data/Scala/Dimensione
+  - download PDF diretto: a.icona-pdf[href] -> link diretto al file, no popup
 """
 
 import asyncio
 import hashlib
 import json
-import os
 import re
 from pathlib import Path
+
 from playwright.async_api import async_playwright
 
 BASE_URL = "https://va.mite.gov.it"
 SEARCH_URL = f"{BASE_URL}/it-IT/Ricerca/Via"
 
-# Colonne documento da intercettare e allegare al report
-DOCUMENTI_DA_ALLEGARE = [
-    "Osservazioni del pubblico",
-    "Pareri/Osservazioni Enti",
-    "Pareri/Osservazioni Enti (II)",
-    "Pareri/Osservazioni Enti (III)",
-    "Osservazioni del Pubblico inviate oltre i termini",
+# Nomi delle sezioni da allegare nel report. Match "startswith" per coprire
+# varianti numerate come "Pareri/Osservazioni Enti (I)", "(II)", "(III)".
+SEZIONI_DA_ALLEGARE = [
+    "osservazioni del pubblico inviate oltre i termini",
+    "osservazioni del pubblico",
+    "pareri/osservazioni enti",
 ]
 
 DOWNLOAD_DIR = Path("downloads")
 DOWNLOAD_DIR.mkdir(exist_ok=True)
 
 
-async def cerca_progetto(page, id_vip: str) -> str | None:
-    """Va sulla pagina di ricerca, inserisce il codice procedura, apre la scheda del progetto.
-    Ritorna l'URL della pagina Info del progetto, o None se non trovato."""
+def sezione_di_interesse(nome_sezione: str) -> bool:
+    nome_pulito = nome_sezione.strip().lower()
+    return any(nome_pulito.startswith(t) for t in SEZIONI_DA_ALLEGARE)
+
+
+async def cerca_e_apri_progetto(page, id_vip: str) -> dict:
+    """Cerca il codice procedura e sfrutta il redirect automatico alla pagina Info."""
     await page.goto(SEARCH_URL, wait_until="networkidle")
-
-    # TODO VERIFICARE: selettore del campo "Codice procedura (ID_VIP)".
-    # Placeholder: cerco un input il cui name/id contenga "IdVip" o label associata.
-    campo = page.locator("input[name*='IdVip' i], input[id*='IdVip' i]").first
+    campo = page.locator("input#input-cercaIdVipera")
     await campo.fill(id_vip)
+    await campo.press("Enter")
 
-    # TODO VERIFICARE: selettore del bottone di ricerca (spesso "Cerca" o icona lente)
-    bottone_cerca = page.get_by_role("button", name=re.compile("cerca", re.I)).first
-    await bottone_cerca.click()
-    await page.wait_for_load_state("networkidle")
+    try:
+        await page.wait_for_url("**/Oggetti/Info/**", timeout=15000)
+    except Exception:
+        return {"trovato": False, "errore": "Nessun redirect a pagina Info: codice non trovato o pagina cambiata"}
 
-    # TODO VERIFICARE: selettore del link risultato che porta a /Oggetti/Info/{id}
-    link_risultato = page.locator(f"a[href*='/Oggetti/Info/']").first
-    if await link_risultato.count() == 0:
-        return None
-    href = await link_risultato.get_attribute("href")
-    return BASE_URL + href if href.startswith("/") else href
+    return {"trovato": True, "info_url": page.url}
+
+
+async def estrai_nome_progetto(page) -> str:
+    h2 = page.locator("h2").first
+    if await h2.count() == 0:
+        return ""
+    return (await h2.inner_text()).strip()
 
 
 async def estrai_dettagli_procedura(page, info_url: str) -> str:
-    """Apre la pagina Info, clicca sul menu dei 3 puntini, poi su 'Dettagli Procedura',
-    ed estrae il testo della pagina risultante."""
     await page.goto(info_url, wait_until="networkidle")
+    link_dettagli = page.locator("a.icona-dettaglio-procedura")
+    if await link_dettagli.count() == 0:
+        raise RuntimeError("Link 'Dettagli procedura' non trovato sulla pagina Info")
 
-    # TODO VERIFICARE: selettore del menu "3 puntini"
-    menu_puntini = page.locator("button[aria-label*='menu' i], .dropdown-toggle, [class*='ellipsis']").first
-    await menu_puntini.click()
-
-    # TODO VERIFICARE: testo esatto del link "Dettagli Procedura"
-    link_dettagli = page.get_by_text("Dettagli Procedura", exact=False).first
     async with page.expect_navigation():
         await link_dettagli.click()
-
     await page.wait_for_load_state("networkidle")
+
     testo = await page.inner_text("body")
     return testo.strip()
 
 
+async def estrai_mappa_sezioni(page) -> dict:
+    """Legge il menu laterale e ritorna {nome_sezione: raggruppamento_id}."""
+    spans = page.locator("span.leaf[data-raggruppamentoid]")
+    n = await spans.count()
+    mappa = {}
+    for i in range(n):
+        span = spans.nth(i)
+        nome = (await span.inner_text()).strip()
+        rid = await span.get_attribute("data-raggruppamentoid")
+        mappa[nome] = rid
+    return mappa
+
+
+async def estrai_righe_tabella(page) -> list[dict]:
+    """Estrae le righe della tabella documenti correntemente visualizzata."""
+    righe_loc = page.locator("table.Documentazione tr")
+    n = await righe_loc.count()
+    documenti = []
+    for i in range(n):
+        riga = righe_loc.nth(i)
+        celle = riga.locator("td")
+        n_celle = await celle.count()
+        if n_celle == 0:
+            continue  # riga di intestazione (th, non td)
+
+        testi = [await celle.nth(j).inner_text() for j in range(n_celle)]
+        # Colonne attese: Titolo, Nome file, Sezione, Codice elaborato, Data, Scala, Dimensione, [metadato], [download]
+        doc = {
+            "titolo": testi[0].strip() if len(testi) > 0 else "",
+            "nome_file": testi[1].strip() if len(testi) > 1 else "",
+            "sezione": testi[2].strip() if len(testi) > 2 else "",
+            "codice_elaborato": testi[3].strip() if len(testi) > 3 else "",
+            "data": testi[4].strip() if len(testi) > 4 else "",
+        }
+
+        link_pdf = riga.locator("a.icona-pdf")
+        if await link_pdf.count() > 0:
+            doc["download_url"] = await link_pdf.first.get_attribute("href")
+        else:
+            doc["download_url"] = None
+
+        documenti.append(doc)
+    return documenti
+
+
+async def vai_a_pagina_successiva(page) -> bool:
+    """Clicca sul link 'pagina successiva' della paginazione, se esiste. Ritorna True se ha navigato."""
+    # La paginazione mostra numeri di pagina e "ultima"; cerchiamo un link con testo
+    # uguale al numero di pagina corrente + 1, tra i link della paginazione.
+    pagina_corrente = page.locator(".pagination .current, .pagination strong").first
+    # Fallback semplice: cerchiamo un link ">" o il numero successivo esplicito
+    link_successiva = page.get_by_role("link", name=re.compile(r"^(succ|next|>|»)", re.I)).first
+    if await link_successiva.count() > 0:
+        async with page.expect_navigation():
+            await link_successiva.click()
+        return True
+    return False
+
+
+async def estrai_documenti_sezione(page, base_doc_url: str, mappa_sezioni: dict, nome_sezione_menu: str) -> list[dict]:
+    """Va sulla pagina filtrata per una specifica sezione (via RaggruppamentoID) e
+    raccoglie tutti i documenti di quella sezione, scorrendo le pagine se necessario."""
+    rid = mappa_sezioni.get(nome_sezione_menu)
+    if rid is None:
+        return []  # questa sezione non esiste per questo progetto
+
+    url_filtrato = f"{base_doc_url}?RaggruppamentoID={rid}"
+    await page.goto(url_filtrato, wait_until="networkidle")
+
+    tutti_documenti = []
+    max_pagine = 20  # sicurezza anti-loop
+    for _ in range(max_pagine):
+        tutti_documenti.extend(await estrai_righe_tabella(page))
+        ha_pagina_dopo = await vai_a_pagina_successiva(page)
+        if not ha_pagina_dopo:
+            break
+
+    return tutti_documenti
+
+
+async def scarica_documento(page, url: str, dest_path: Path):
+    """Scarica un PDF tramite richiesta diretta autenticata dal contesto del browser."""
+    response = await page.context.request.get(url)
+    dest_path.write_bytes(await response.body())
+
+
 async def estrai_documentazione(page, info_url: str, id_vip: str) -> dict:
-    """Apre la pagina Info, clicca su 'Documentazione', poi su 'Esporta',
-    ed estrae il contenuto esportato. Scarica anche eventuali documenti
-    nelle colonne D richieste (Osservazioni/Pareri)."""
     await page.goto(info_url, wait_until="networkidle")
+    link_doc = page.locator("a.icona-documentazione-tecnico-amm")
+    if await link_doc.count() == 0:
+        raise RuntimeError("Link 'Documentazione' non trovato sulla pagina Info")
 
-    # TODO VERIFICARE: selettore del link "Documentazione" (icona documento)
-    link_doc = page.get_by_role("link", name=re.compile("documentazione", re.I)).first
-    async with page.expect_navigation():
-        await link_doc.click()
-    await page.wait_for_load_state("networkidle")
+    doc_href = await link_doc.get_attribute("href")
+    base_doc_url = BASE_URL + doc_href if doc_href.startswith("/") else doc_href
 
-    risultato = {"esportato_testo": "", "documenti_scaricati": []}
+    await page.goto(base_doc_url, wait_until="networkidle")
 
-    # --- Click su "Esporta" in basso a sinistra ---
-    # TODO VERIFICARE: selettore/testo esatto del link "Esporta"
-    link_esporta = page.get_by_text("Esporta", exact=False).first
-    if await link_esporta.count() > 0:
-        async with page.expect_download() as download_info:
-            await link_esporta.click()
-        download = await download_info.value
-        export_path = DOWNLOAD_DIR / f"{id_vip}_export_{download.suggested_filename}"
-        await download.save_as(export_path)
-        # Se è un file di testo/csv leggibile lo carichiamo, altrimenti teniamo solo il path
-        try:
-            risultato["esportato_testo"] = export_path.read_text(errors="ignore")
-        except Exception:
-            risultato["esportato_testo"] = f"[file binario salvato: {export_path}]"
-        risultato["esportato_path"] = str(export_path)
+    mappa_sezioni = await estrai_mappa_sezioni(page)
 
-    # --- Ricerca righe con le colonne D richieste e download documenti collegati ---
-    # TODO VERIFICARE: struttura della tabella documenti (probabilmente una <table> con colonne)
-    righe = page.locator("table tr")
-    n_righe = await righe.count()
-    for i in range(n_righe):
-        riga = righe.nth(i)
-        testo_riga = await riga.inner_text()
-        for etichetta in DOCUMENTI_DA_ALLEGARE:
-            if etichetta.lower() in testo_riga.lower():
-                link_scarica = riga.locator("a").first
-                if await link_scarica.count() > 0:
-                    try:
-                        async with page.expect_download() as download_info:
-                            await link_scarica.click()
-                        download = await download_info.value
-                        nome_file = f"{id_vip}_{etichetta.replace(' ', '_').replace('/', '-')}_{download.suggested_filename}"
-                        doc_path = DOWNLOAD_DIR / nome_file
-                        await download.save_as(doc_path)
-                        risultato["documenti_scaricati"].append({
-                            "etichetta": etichetta,
-                            "path": str(doc_path),
-                        })
-                    except Exception as e:
-                        risultato["documenti_scaricati"].append({
-                            "etichetta": etichetta,
-                            "errore": str(e),
-                        })
+    risultato = {
+        "sezioni_disponibili": list(mappa_sezioni.keys()),
+        "documenti_di_interesse": [],
+        "elenco_completo_prima_pagina": await estrai_righe_tabella(page),
+    }
 
+    documenti_scaricati = []
+    for nome_sezione_menu, rid in mappa_sezioni.items():
+        if not sezione_di_interesse(nome_sezione_menu):
+            continue
+
+        docs = await estrai_documenti_sezione(page, base_doc_url, mappa_sezioni, nome_sezione_menu)
+        for doc in docs:
+            doc["sezione_menu"] = nome_sezione_menu
+            if doc.get("download_url"):
+                nome_pulito = re.sub(r"[^a-zA-Z0-9_.-]", "_", doc["nome_file"] or "documento.pdf")
+                dest = DOWNLOAD_DIR / f"{id_vip}_{nome_sezione_menu.replace('/', '-')}_{nome_pulito}"
+                try:
+                    await scarica_documento(page, doc["download_url"], dest)
+                    doc["path_locale"] = str(dest)
+                except Exception as e:
+                    doc["errore_download"] = str(e)
+            documenti_scaricati.append(doc)
+
+    risultato["documenti_di_interesse"] = documenti_scaricati
     return risultato
 
 
 async def analizza_progetto(browser, id_vip: str) -> dict:
-    """Orchestratore per un singolo progetto: cerca, estrae dettagli e documentazione."""
     context = await browser.new_context(accept_downloads=True)
     page = await context.new_page()
 
     dati = {"id_vip": id_vip, "trovato": False}
     try:
-        info_url = await cerca_progetto(page, id_vip)
-        if info_url is None:
-            dati["errore"] = "Progetto non trovato nella ricerca"
+        ricerca = await cerca_e_apri_progetto(page, id_vip)
+        if not ricerca["trovato"]:
+            dati["errore"] = ricerca["errore"]
             return dati
 
         dati["trovato"] = True
+        info_url = ricerca["info_url"]
         dati["info_url"] = info_url
+
+        await page.goto(info_url, wait_until="networkidle")
+        dati["nome_progetto"] = await estrai_nome_progetto(page)
+
         dati["dettagli_procedura"] = await estrai_dettagli_procedura(page, info_url)
+        dati["hash_dettagli"] = hashlib.sha256(dati["dettagli_procedura"].encode("utf-8")).hexdigest()
+
         dati["documentazione"] = await estrai_documentazione(page, info_url, id_vip)
-        dati["hash_dettagli"] = hashlib.sha256(
-            dati["dettagli_procedura"].encode("utf-8")
-        ).hexdigest()
+
     except Exception as e:
         dati["errore"] = f"Errore durante scraping: {e}"
     finally:
@@ -185,4 +258,4 @@ if __name__ == "__main__":
     import sys
     ids = sys.argv[1:] if len(sys.argv) > 1 else ["8651"]
     ris = asyncio.run(analizza_tutti(ids))
-    print(json.dumps(ris, indent=2, ensure_ascii=False))
+    print(json.dumps(ris, indent=2, ensure_ascii=False, default=str))
