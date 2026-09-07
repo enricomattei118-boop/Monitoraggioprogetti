@@ -74,10 +74,15 @@ async def estrai_nome_progetto(page) -> str:
 async def estrai_dettagli_procedura(page, info_url: str) -> str:
     """Il link 'Dettagli procedura' NON naviga a una nuova pagina: apre un modal
     (jQuery UI Dialog, classe '.datiAmministrativi') sovrapposto alla pagina corrente.
-    Cliccarlo e aspettare che il modal diventi visibile, poi leggerne il contenuto."""
+    Cliccarlo e aspettare che il modal diventi visibile, poi leggerne il contenuto.
+
+    NOTA: alcuni progetti hanno piu' procedimenti (es. piu' righe di
+    'Verifica di Ottemperanza' nel tempo), quindi il link puo' comparire
+    piu' volte sulla stessa pagina. Prendiamo il primo (di solito il
+    procedimento piu' recente/pertinente in cima alla tabella)."""
     await page.goto(info_url, wait_until="networkidle")
-    link_dettagli = page.locator("a.icona-dettaglio-procedura")
-    if await link_dettagli.count() == 0:
+    link_dettagli = page.locator("a.icona-dettaglio-procedura").first
+    if await page.locator("a.icona-dettaglio-procedura").count() == 0:
         raise RuntimeError("Link 'Dettagli procedura' non trovato sulla pagina Info")
 
     await link_dettagli.click()
@@ -151,7 +156,12 @@ async def vai_a_pagina_successiva(page) -> bool:
 async def estrai_documenti_sezione(page, base_doc_url: str, mappa_sezioni: dict, nome_sezione_menu: str) -> list[dict]:
     """Torna sulla pagina Documentazione (non filtrata), clicca sullo <span> della sezione
     voluta (come farebbe un utente reale, così il form JS/submit funziona esattamente
-    come sul sito), e raccoglie tutti i documenti risultanti, scorrendo le pagine se serve."""
+    come sul sito), e raccoglie tutti i documenti risultanti, scorrendo le pagine se serve.
+
+    NOTA: alcune sezioni (es. le foglie sotto "Integrazioni (I)") vivono dentro un nodo
+    dell'albero collassato di default (style="display: none" sul <ul> genitore).
+    Se lo span target non è visibile, cerchiamo il suo <li class="expandable"> antenato
+    più vicino e clicchiamo la sua "hitarea" per espanderlo prima di procedere."""
     await page.goto(base_doc_url, wait_until="networkidle")
 
     span_sezione = page.locator(f"span.leaf[data-raggruppamentoid='{mappa_sezioni[nome_sezione_menu]}']")
@@ -159,8 +169,21 @@ async def estrai_documenti_sezione(page, base_doc_url: str, mappa_sezioni: dict,
         print(f"[scraper] ATTENZIONE: span per sezione '{nome_sezione_menu}' non ritrovato al secondo giro")
         return []
 
+    target = span_sezione.first
+    if not await target.is_visible():
+        print(f"[scraper] '{nome_sezione_menu}': span non visibile, provo a espandere il nodo padre...")
+        hitarea = target.locator(
+            "xpath=ancestor::li[contains(@class,'expandable')][1]/div[contains(@class,'hitarea')]"
+        )
+        if await hitarea.count() > 0:
+            await hitarea.first.click()
+            await target.wait_for(state="visible", timeout=5000)
+        else:
+            print(f"[scraper] '{nome_sezione_menu}': nessun nodo espandibile trovato, forzo visibilita' via JS")
+            await target.evaluate("el => { el.style.display = 'block'; let p = el.closest('ul'); while (p) { p.style.display = 'block'; p = p.parentElement ? p.parentElement.closest('ul') : null; } }")
+
     async with page.expect_navigation():
-        await span_sezione.first.click()
+        await target.click()
     await page.wait_for_load_state("networkidle")
 
     tutti_documenti = []
@@ -182,9 +205,10 @@ async def scarica_documento(page, url: str, dest_path: Path):
 
 async def estrai_documentazione(page, info_url: str, id_vip: str) -> dict:
     await page.goto(info_url, wait_until="networkidle")
-    link_doc = page.locator("a.icona-documentazione-tecnico-amm")
-    if await link_doc.count() == 0:
+    link_doc_tutti = page.locator("a.icona-documentazione-tecnico-amm")
+    if await link_doc_tutti.count() == 0:
         raise RuntimeError("Link 'Documentazione' non trovato sulla pagina Info")
+    link_doc = link_doc_tutti.first
 
     doc_href = await link_doc.get_attribute("href")
     base_doc_url = BASE_URL + doc_href if doc_href.startswith("/") else doc_href
