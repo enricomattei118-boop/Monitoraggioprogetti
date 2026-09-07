@@ -230,25 +230,36 @@ async def analizza_progetto(browser, id_vip: str) -> dict:
 
     dati = {"id_vip": id_vip, "trovato": False}
     try:
+        print(f"[scraper] {id_vip}: avvio ricerca...")
         ricerca = await cerca_e_apri_progetto(page, id_vip)
         if not ricerca["trovato"]:
             dati["errore"] = ricerca["errore"]
+            print(f"[scraper] {id_vip}: ricerca fallita: {ricerca['errore']}")
             return dati
 
         dati["trovato"] = True
         info_url = ricerca["info_url"]
         dati["info_url"] = info_url
+        print(f"[scraper] {id_vip}: trovato, info_url={info_url}")
 
         await page.goto(info_url, wait_until="networkidle")
         dati["nome_progetto"] = await estrai_nome_progetto(page)
+        print(f"[scraper] {id_vip}: nome progetto = {dati['nome_progetto'][:60]}...")
 
+        print(f"[scraper] {id_vip}: estraggo Dettagli Procedura...")
         dati["dettagli_procedura"] = await estrai_dettagli_procedura(page, info_url)
         dati["hash_dettagli"] = hashlib.sha256(dati["dettagli_procedura"].encode("utf-8")).hexdigest()
+        print(f"[scraper] {id_vip}: Dettagli Procedura OK ({len(dati['dettagli_procedura'])} caratteri)")
 
+        print(f"[scraper] {id_vip}: estraggo Documentazione...")
         dati["documentazione"] = await estrai_documentazione(page, info_url, id_vip)
+        print(f"[scraper] {id_vip}: Documentazione OK")
 
     except Exception as e:
+        import traceback
+        tb = traceback.format_exc()
         dati["errore"] = f"Errore durante scraping: {e}"
+        print(f"[scraper] {id_vip}: ECCEZIONE:\n{tb}")
     finally:
         await context.close()
 
