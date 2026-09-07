@@ -3,7 +3,7 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/12121",
   "nome_progetto": "REALIZZAZIONE DELLE AREE POZZI \"AGRI SUD\" E \"CERRO FALCONE SUD\", POZZO \"CERRO FALCONE 10\" (in area pozzo \"CERRO FALCONE 2\" esistente) E RELATIVE OPERE CONNESSE",
-  "dettagli_procedura": "Codice istanza online\tVIA100000162",
-  "hash_dettagli": "e1e361eb69199261f3d01988144e2d79393583b3056dc0158b242ccc9cab9c56",
+  "dettagli_procedura": "Codice istanza online VIA100000162\nCodice procedura (ID_VIP/ID_MATTM) 15054\nOggetto: REALIZZAZIONE DELLE AREE POZZI \"AGRI SUD\" E \"CERRO FALCONE SUD\", POZZO \"CERRO FALCONE 10\" (in area pozzo \"CERRO FALCONE 2\" esistente) E RELATIVE OPERE CONNESSE\nData presentazione istanza: 15/07/2026\nResponsabile del procedimento: Maria Ciuffreda - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Verifica amministrativa",
+  "hash_dettagli": "852aaf437a0a2ecf09df5c68213e13caebc0fa3e1d302423a8be0554557ddfc5",
   "errore": "Errore durante scraping: Link 'Documentazione' non trovato: probabilmente la procedura e' ancora in fase iniziale (es. 'Verifica amministrativa') e la documentazione non e' stata ancora pubblicata sul sito."
 }

@@ -3,5 +3,22 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/8235",
   "nome_progetto": "Progetto HOOP® \"IMPIANTO PILOTA PER LA PIROLISI DI PLASTICHE MISTE\"",
-  "errore": "Errore durante scraping: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\nwaiting for locator(\".datiAmministrativi\").first to be visible\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n"
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM) 10029\nData presentazione istanza: 09/06/2023\nData avvio istruttoria tecnica: 24/07/2023\nStato procedura: In attesa parere altra Amministrazione",
+  "hash_dettagli": "c34e7e303b28e088739503382476e85283c3dee792d99f6a6cdca4d828753206",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Documentazione di ottemperanza"
+    ],
+    "documenti_di_interesse": [],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Progetto Hoop - Condizione Ambientale 3 - Bilancio di massa",
+        "nome_file": "21689_Progetto_Hoop_-_Condizione_Ambientale_3_-_Bilancio_di_massa_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "Condizione Ambientale 3",
+        "data": "09/06/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/870213"
+      }
+    ]
+  }
 }

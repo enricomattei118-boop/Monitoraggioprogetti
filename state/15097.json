@@ -3,7 +3,7 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/12133",
   "nome_progetto": "Posa condotta \"Azalea B prod - Regina\" per il trasporto di idrocarburi",
-  "dettagli_procedura": "Codice istanza online\tVIAVIA100000164",
-  "hash_dettagli": "7a94de4b8f9d507fdc3013ea5719bc4dc8b777556d1c25d4d61e4d0435e8d644",
+  "dettagli_procedura": "Codice istanza online VIAVIA100000164\nCodice procedura (ID_VIP/ID_MATTM) 15097\nOggetto: Posa condotta \"Azalea B prod - Regina\" per il trasporto di idrocarburi\nData presentazione istanza: 17/07/2026\nResponsabile del procedimento: Maria Ciuffreda - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Verifica amministrativa",
+  "hash_dettagli": "b4fc8bc6ee9a2bea17a928108c6c9e01d44aa2269c8aa69922c96598f04a2d13",
   "errore": "Errore durante scraping: Link 'Documentazione' non trovato: probabilmente la procedura e' ancora in fase iniziale (es. 'Verifica amministrativa') e la documentazione non e' stata ancora pubblicata sul sito."
 }

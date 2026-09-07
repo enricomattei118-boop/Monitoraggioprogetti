@@ -3,5 +3,154 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/292",
   "nome_progetto": "Progetto di adeguamento delle strutture della raffineria di Taranto per lo stoccaggio e la movimentazione del greggio proveniente dal giacimento denominato \"Tempa Rossa\"",
-  "errore": "Errore durante scraping: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\nwaiting for locator(\".datiAmministrativi\").first to be visible\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n"
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM) 14440\nOggetto: Proroga del provvedimento di compatibilità ambientale (V.I.A.) ai sensi dell'art. 25, co. 5 del D.Lgs.152/2006 relativa al progetto \"Adeguamento delle strutture della Raffineria di Taranto per la movimentazione del Greggio Tempa Rossa\"\nData presentazione istanza: 13/11/2025\nData avvio consultazione pubblica: 30/12/2025\nTermine presentazione Osservazioni del Pubblico: 28/02/2026\nData richiesta Integrazioni: 26/03/2026\nData ricezione Integrazioni: 30/06/2026\nResponsabile del procedimento: Orsola Renata Reillo - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: In predisposizione provvedimento",
+  "hash_dettagli": "a46822fc87a25a09dfbb76493aab61c0bb0f34b163f41c9feef6a5ca91d4a505",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Relazione di incidenza",
+      "Pareri/Osservazioni Enti",
+      "Richiesta integrazioni della documentazione",
+      "Documentazione integrativa/Documentazione integrativa volontaria"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Parere del Ministero della cultura - Direzione generale Archeologia belle arti e paesaggio, in data 19/02/2026",
+        "nome_file": "MASE-2026-0036624.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2026-0036624",
+        "data": "24/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1367871",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "[lD: 14440] Parere Tecnico dalla Commissione Tecnica di Verifica dell'impatto Ambientale —VIA e VAS trasmesso con nota prot. n. 0066914del26 MAR 2026 per domanda di proroga ai sensi dell'art. 25, comma 5, del D.Lgs. 152/2006 del Decreto VIAIAIA n. 573 del 27 ottobre 2011, prorogato con Decreto n. 373 del 17 dicembre 2017 con Decreto n. 481 del 25 novembre 2021 e con Decreto n. 618 del 17 OTT2025, relativo al Progetto Tempa Rossa - Trasmissione integrazioni documentali per Valutazione di Incidenza (VIncA).",
+        "nome_file": "Elenco Elaborati.xls",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Modulo presentazione integrazioni RAFTA- DIR-MDL-134 del 26 GIU 2026",
+        "data": "13/07/2026",
+        "download_url": null,
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Eni Industrial Evolution S.p.A. Raffineria di Taranto. [lD: 14440] Parere Tecnico dalla Commissione Tecnica di Verifica dell'impatto Ambientale — VIA e VAS trasmesso con nota prot. n. 0066914del26 MAR 2026 per domanda di proroga ai sensi dell'art. 25, comma 5, del D.Lgs. 152/2006 del Decreto VIA/AIA n. 573 del 27 ottobre 2011, prorogato con Decreto n. 373 del 17 dicembre 2017 con Decreto n. 481 del 25 novembre 2021 e con Decreto n. 618 del 17 OTT 2025, relativo al Progetto Tempa Rossa - Trasmissione integrazioni documentali per Valutazione di lncidenza (VIncA).",
+        "nome_file": "RAFTA_DIR_MDL_133 DEL 26 GIU 2026.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "RAFTA-DIR-MDL-133 DEL 26 GIU 2026",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410635",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "RELAZIONE DI AGGIORNAMENTO VALUTAZIONE D'INCIDENZA DI CUI ALL'ARTICOLO 5 DEL D.P.R. 357/1997 - Giugno 2026",
+        "nome_file": "Allegato A.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Allegato A",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410636",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Curriculum Vitae del dott. Filippo Bernini (agg. giugno 2026)",
+        "nome_file": "Allegato B.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Allegato B",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410637",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Dichiarazione sostitutiva ai sensi del D.P.R. 445/2000 sottoscritta digitalmente dal dott. Filippo Bernini relativa al possesso dei requisiti e alla veridicità delle informazioni rese per la redazione della \"Relazione di aggiornamento della valutazione d'incidenza di cui all'articolo 5 del D.P.R. 357/1997 — Giugno 2026\"",
+        "nome_file": "Allegato C.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Allegato C",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410638",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Relazione_di_aggiornamento_dello_Studio_di_Impatto_Ambientale",
+        "nome_file": "Relazione_di_aggiornamento_dello_Studio_di_Impatto_Ambientale_VIA_AIA_573_Tempa_Rossa.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "Relazione-di-aggiornamento-dello-Studio-di-Impatto-Ambientale-VIA-AIA-573-Tempa-Rossa",
+        "data": "22/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1338124"
+      },
+      {
+        "titolo": "Richiesta integrazioni della CTVA",
+        "nome_file": "MASE_2026-0066914.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2026-0066914",
+        "data": "27/03/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1375797"
+      },
+      {
+        "titolo": "[lD: 14440] Parere Tecnico dalla Commissione Tecnica di Verifica dell'impatto Ambientale —VIA e VAS trasmesso con nota prot. n. 0066914del26 MAR 2026 per domanda di proroga ai sensi dell'art. 25, comma 5, del D.Lgs. 152/2006 del Decreto VIAIAIA n. 573 del 27 ottobre 2011, prorogato con Decreto n. 373 del 17 dicembre 2017 con Decreto n. 481 del 25 novembre 2021 e con Decreto n. 618 del 17 OTT2025, relativo al Progetto Tempa Rossa - Trasmissione integrazioni documentali per Valutazione di Incidenza (VIncA).",
+        "nome_file": "Elenco Elaborati.xls",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Modulo presentazione integrazioni RAFTA- DIR-MDL-134 del 26 GIU 2026",
+        "data": "13/07/2026",
+        "download_url": null
+      },
+      {
+        "titolo": "Eni Industrial Evolution S.p.A. Raffineria di Taranto. [lD: 14440] Parere Tecnico dalla Commissione Tecnica di Verifica dell'impatto Ambientale — VIA e VAS trasmesso con nota prot. n. 0066914del26 MAR 2026 per domanda di proroga ai sensi dell'art. 25, comma 5, del D.Lgs. 152/2006 del Decreto VIA/AIA n. 573 del 27 ottobre 2011, prorogato con Decreto n. 373 del 17 dicembre 2017 con Decreto n. 481 del 25 novembre 2021 e con Decreto n. 618 del 17 OTT 2025, relativo al Progetto Tempa Rossa - Trasmissione integrazioni documentali per Valutazione di lncidenza (VIncA).",
+        "nome_file": "RAFTA_DIR_MDL_133 DEL 26 GIU 2026.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "RAFTA-DIR-MDL-133 DEL 26 GIU 2026",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410635"
+      },
+      {
+        "titolo": "RELAZIONE DI AGGIORNAMENTO VALUTAZIONE D'INCIDENZA DI CUI ALL'ARTICOLO 5 DEL D.P.R. 357/1997 - Giugno 2026",
+        "nome_file": "Allegato A.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Allegato A",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410636"
+      },
+      {
+        "titolo": "Curriculum Vitae del dott. Filippo Bernini (agg. giugno 2026)",
+        "nome_file": "Allegato B.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Allegato B",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410637"
+      },
+      {
+        "titolo": "Dichiarazione sostitutiva ai sensi del D.P.R. 445/2000 sottoscritta digitalmente dal dott. Filippo Bernini relativa al possesso dei requisiti e alla veridicità delle informazioni rese per la redazione della \"Relazione di aggiornamento della valutazione d'incidenza di cui all'articolo 5 del D.P.R. 357/1997 — Giugno 2026\"",
+        "nome_file": "Allegato C.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Allegato C",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410638"
+      },
+      {
+        "titolo": "Relazione_sullo_stato_di_attuazione_del_progetto",
+        "nome_file": "Relazione_sullo_stato_di_attuazione_del_progetto__VIA_AIA_573_2011_Progetto_Tempa_Rossa.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "Relazione-sullo-stato-di-attuazione-del-progetto-VIA-AIA-573-2011-Progetto-Tempa-Rossa",
+        "data": "22/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1338122"
+      },
+      {
+        "titolo": "Relazione_di_aggiornamento_della_valutazione_di_incidenza",
+        "nome_file": "Relazione_di_aggiornamento_della_valutazione_di_incidenza_VIA_AIA_573_Tempa_Rossa.pdf",
+        "sezione": "Relazione di incidenza",
+        "codice_elaborato": "Relazione-di-aggiornamento-della-valutazione-di-incidenza-VIA-AIA-573-Tempa-Rossa",
+        "data": "22/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1338123"
+      },
+      {
+        "titolo": "Parere del Ministero della cultura - Direzione generale Archeologia belle arti e paesaggio, in data 19/02/2026",
+        "nome_file": "MASE-2026-0036624.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2026-0036624",
+        "data": "24/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1367871"
+      }
+    ]
+  }
 }

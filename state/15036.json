@@ -3,5 +3,160 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/1687",
   "nome_progetto": "Concessione di coltivazione idrocarburi \"Gela\" - Aumento della capacità di iniezione del \"Pozzo Gela 18 Iniettore\"",
-  "errore": "Errore durante scraping: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\nwaiting for locator(\".datiAmministrativi\").first to be visible\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n"
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM) 15036\nOggetto: Ripristino della capacità iniettiva del pozzo esistente Gela 18 - Condizioni ambientali nn. 1,2,4,6,7\nData presentazione istanza: 26/06/2026\nData avvio istruttoria tecnica: 12/08/2026\nResponsabile del procedimento: Maria Ciuffreda - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Istruttoria tecnica CTVIA",
+  "hash_dettagli": "12a5c886605c56e6a68d5c560530f55409260684fa80dd059d996dd3a1213e02",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Elenchi Elaborati",
+      "Documentazione di ottemperanza",
+      "Documentazione integrativa volontaria"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Integrazioni del 27/07/2026 - Ripristino della capacità iniettiva pozzo esistente Gela 18",
+        "nome_file": "AllegatoVerbaletavolotecnico.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "043f1ec3-e7f4-40c2-bf65-aed32d813c1d",
+        "data": "05/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1417694",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/07/2026 - Nota informativa relativa all'invio delle documentazione integrativa di Verifica dell'ottemperanza alle condizioni ambientali contenute nel provvedimento di Verifica di Assoggettabilità a VIA n.213 del 10/04/2026",
+        "nome_file": "NOTAAMB-EMn.891-26f.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "793cba9e-251e-4507-b743-d0c834c7bc5a",
+        "data": "05/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1417695",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/07/2026 - Piano di monitoraggio delle acque sotterranee e superficiali in ottemperanza alla condizione ambientale n. 6 del parere n. 752 del 9 marzo 2026 della CT-VIA",
+        "nome_file": "RO_AMB-EM-027-2026_rev01.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "ff7f6419-be15-4d61-ae0d-6541ed545156",
+        "data": "05/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1417696",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/07/2026 - Piano di monitoraggio dei terreni in ottemperanza alla Condizione Ambientale n. 7 del Parere n. 752 del 9 marzo 2026 della CT-VIA",
+        "nome_file": "RO_AMB-EM-028-2026_rev01.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "24fbbedc-05aa-407b-8bb1-b0f55d27c5df",
+        "data": "05/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1417697",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/07/2026 - PIANO PRELIMINARE DI UTILIZZO IN SITO DELLE TERRE E ROCCE DA SCAVO ESCLUSE DALLA DISCIPLINA DEI RIFIUTI",
+        "nome_file": "RO_AMB-EM-029-2026_rev.1.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "7ef7a266-1144-49a8-8efb-7127ea7fa9be",
+        "data": "05/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1417698",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/07/2026 - Verbale Tavolo Tecnico - Ottemperanza Condizioni Ambientali Pozzo Gela 18",
+        "nome_file": "VerbaleTavolotecnicoARPASicilia_Gela18_Giugno26_R_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "6ccc7896-58ab-4d33-9c56-163ddb85575f",
+        "data": "05/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1417699",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/07/2026 - Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260727_210120.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "d3329d2b-c2c1-4319-8462-25e601778673",
+        "data": "05/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1417700",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260626_210134.pdf",
+        "sezione": "Elenchi Elaborati",
+        "codice_elaborato": "914bd678-88e9-4732-8ae1-c88509f7e01a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410658"
+      },
+      {
+        "titolo": "Integrazioni del 27/07/2026 - Ripristino della capacità iniettiva pozzo esistente Gela 18",
+        "nome_file": "AllegatoVerbaletavolotecnico.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "043f1ec3-e7f4-40c2-bf65-aed32d813c1d",
+        "data": "05/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1417694"
+      },
+      {
+        "titolo": "Integrazioni del 27/07/2026 - Nota informativa relativa all'invio delle documentazione integrativa di Verifica dell'ottemperanza alle condizioni ambientali contenute nel provvedimento di Verifica di Assoggettabilità a VIA n.213 del 10/04/2026",
+        "nome_file": "NOTAAMB-EMn.891-26f.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "793cba9e-251e-4507-b743-d0c834c7bc5a",
+        "data": "05/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1417695"
+      },
+      {
+        "titolo": "NOTA METODOLOGICA RELATIVA AL SOPRALLUOGO FAUNISTICO DI CUI ALLA CONDIZIONE AMBIENTALE N.1 DEL PARERE N. 752 DEL 9 MARZO 2026 DELLA CT-VIA",
+        "nome_file": "RO_AMB_EM-025-2026.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "b5467c52-c08e-4ec0-af3f-6e92d8162fb7",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410654"
+      },
+      {
+        "titolo": "Integrazioni del 27/07/2026 - Piano di monitoraggio delle acque sotterranee e superficiali in ottemperanza alla condizione ambientale n. 6 del parere n. 752 del 9 marzo 2026 della CT-VIA",
+        "nome_file": "RO_AMB-EM-027-2026_rev01.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "ff7f6419-be15-4d61-ae0d-6541ed545156",
+        "data": "05/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1417696"
+      },
+      {
+        "titolo": "Integrazioni del 27/07/2026 - Piano di monitoraggio dei terreni in ottemperanza alla Condizione Ambientale n. 7 del Parere n. 752 del 9 marzo 2026 della CT-VIA",
+        "nome_file": "RO_AMB-EM-028-2026_rev01.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "24fbbedc-05aa-407b-8bb1-b0f55d27c5df",
+        "data": "05/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1417697"
+      },
+      {
+        "titolo": "NOTA METODOLOGICA RELATIVA ALLA GESTIONE DEL RUMORE DI CUI ALLA CONDIZIONE AMBIENTALE N.2 DEL PARERE N. 752 DEL 9 MARZO 2026 DELLA CT-VIA",
+        "nome_file": "RO_AMB_EM-026-2026.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "424443a5-f594-447b-b1cb-83b3726c489b",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410656"
+      },
+      {
+        "titolo": "Integrazioni del 27/07/2026 - PIANO PRELIMINARE DI UTILIZZO IN SITO DELLE TERRE E ROCCE DA SCAVO ESCLUSE DALLA DISCIPLINA DEI RIFIUTI",
+        "nome_file": "RO_AMB-EM-029-2026_rev.1.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "7ef7a266-1144-49a8-8efb-7127ea7fa9be",
+        "data": "05/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1417698"
+      },
+      {
+        "titolo": "Integrazioni del 27/07/2026 - Verbale Tavolo Tecnico - Ottemperanza Condizioni Ambientali Pozzo Gela 18",
+        "nome_file": "VerbaleTavolotecnicoARPASicilia_Gela18_Giugno26_R_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "6ccc7896-58ab-4d33-9c56-163ddb85575f",
+        "data": "05/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1417699"
+      },
+      {
+        "titolo": "Integrazioni del 27/07/2026 - Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260727_210120.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "d3329d2b-c2c1-4319-8462-25e601778673",
+        "data": "05/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1417700"
+      }
+    ]
+  }
 }

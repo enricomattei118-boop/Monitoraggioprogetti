@@ -3,5 +3,30 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/8225",
   "nome_progetto": "Biojet e Potenziamento sezione Degumming dell'impianto BTU",
-  "errore": "Errore durante scraping: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\nwaiting for locator(\".datiAmministrativi\").first to be visible\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n"
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM) 10084\nOggetto: Raffineria di Gela - Biojet e Potenziamento sezione Degumming dell'impianto BTU - Prescrizione: 4\nData presentazione istanza: 08/06/2023\nResponsabile del procedimento: Maria Ciuffreda - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: In attesa parere altra Amministrazione",
+  "hash_dettagli": "06c784660a70f88c5992b814cc4d025c126e54dafa14c0fa692f2c7482d01a2b",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Documentazione di ottemperanza"
+    ],
+    "documenti_di_interesse": [],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Allegato alla Nota di Ottemperanza il Parere CTVA",
+        "nome_file": "m_amte_CTVA_REGISTRO_UFFICIALE_I_0008315_31-10-2022.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "PRR 336",
+        "data": "04/08/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/881116"
+      },
+      {
+        "titolo": "Nota_ottemperanza_condizione_4",
+        "nome_file": "Nota_ottemperanza_condizione_4_VIA_BioJet_rev0_tot.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "Nota-ottemperanza-condizione-4-VIA",
+        "data": "04/08/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/881117"
+      }
+    ]
+  }
 }

@@ -3,5 +3,22 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/8225",
   "nome_progetto": "Biojet e Potenziamento sezione Degumming dell'impianto BTU",
-  "errore": "Errore durante scraping: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\nwaiting for locator(\".datiAmministrativi\").first to be visible\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n  -   locator resolved to hidden <tr class=\"datiAmministrativi\">…</tr>\n"
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM) 12806\nOggetto: Raffineria di Gela - Biojet e Potenziamento sezione Degumming dell'impianto BTU - Prescrizione: 1. Ministero della Cultura resa nel parere prot. 1712-P del 18/01/2023\nData presentazione istanza: 14/06/2024\nStato procedura: In attesa parere altra Amministrazione",
+  "hash_dettagli": "967d623ae58164ac81b828e730e56cc939cad8fb1d707666c16e1b11b754f46d",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Documentazione di ottemperanza"
+    ],
+    "documenti_di_interesse": [],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Studio Integrazione Paesaggistica - BIOJET E POTENZIAMENTO SEZIONE DEGUMMING DELL'IMPIANTO BTU",
+        "nome_file": "StudioIntegrazionePaesaggistica_RAGE_Biojet.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "StudioIntegrazionePaesaggistica-RAGE-Biojet",
+        "data": "15/07/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1104884"
+      }
+    ]
+  }
 }
