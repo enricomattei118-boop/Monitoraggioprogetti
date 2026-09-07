@@ -1,4 +1,4 @@
-""
+"""
 send_email.py
 Compone e invia il report via SMTP (Gmail/Outlook con app password),
 con eventuali PDF allegati (osservazioni/pareri nuovi rispetto al giro precedente).
@@ -20,7 +20,7 @@ def costruisci_html(risultati: list[dict]) -> str:
         if r["stato"] == "errore":
             blocchi.append(f"""
             <div style="margin-bottom:24px;padding:12px;background:#fdecea;border-left:4px solid #d93025;">
-              <h3 style="margin:0 0 6px 0;">Progetto {id_vip} — ERRORE</h3>
+              <h3 style="margin:0 0 6px 0;">Progetto {id_vip} - ERRORE</h3>
               <p style="margin:0;">{r['messaggio']}</p>
             </div>
             """)
@@ -31,7 +31,7 @@ def costruisci_html(risultati: list[dict]) -> str:
             items = "".join(
                 f"<li>[{d.get('sezione_menu')}] {d.get('titolo')} "
                 f"({d.get('nome_file')}, {d.get('data')})"
-                f"{' — <b>allegato</b>' if d.get('path_locale') else ' — <i>errore download</i>'}</li>"
+                f"{' - <b>allegato</b>' if d.get('path_locale') else ' - <i>errore download</i>'}</li>"
                 for d in r["documenti_allegati"]
             )
             allegati_html = f"<p><b>Nuovi documenti nelle sezioni monitorate:</b></p><ul>{items}</ul>"
@@ -54,7 +54,7 @@ def costruisci_html(risultati: list[dict]) -> str:
     data_str = datetime.now().strftime("%d/%m/%Y %H:%M")
     return f"""
     <html><body style="font-family:Arial,Helvetica,sans-serif;color:#222;">
-    <h2>Report monitoraggio progetti VIA — {data_str}</h2>
+    <h2>Report monitoraggio progetti VIA - {data_str}</h2>
     {''.join(blocchi)}
     </body></html>
     """
@@ -67,7 +67,7 @@ def invia_report(risultati: list[dict], destinatario: str):
     smtp_pass = os.environ["SMTP_PASS"]
 
     msg = EmailMessage()
-    msg["Subject"] = f"Report progetti VIA — {datetime.now().strftime('%d/%m/%Y %H:%M')}"
+    msg["Subject"] = f"Report progetti VIA - {datetime.now().strftime('%d/%m/%Y %H:%M')}"
     msg["From"] = smtp_user
     msg["To"] = destinatario
 
@@ -95,4 +95,3 @@ def invia_report(risultati: list[dict], destinatario: str):
         server.send_message(msg)
 
     print(f"[send_email] Report inviato a {destinatario}")
-
