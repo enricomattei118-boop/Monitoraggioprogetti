@@ -78,6 +78,19 @@ def _blocco_progetto(r: dict) -> str:
     id_vip = r["id_vip"]
     nome = r.get("nome_progetto") or "(nome non disponibile)"
 
+    if r["stato"] == "non_disponibile":
+        return f"""
+        <div id="progetto-{id_vip}" style="margin-bottom:20px;padding:16px 18px;background:#f5f5f5;
+             border-left:4px solid #999;border-radius:6px;">
+          <table style="width:100%;margin-bottom:6px;"><tr>
+            <td style="font-size:15px;font-weight:700;color:#222;">Progetto {id_vip}</td>
+            <td style="text-align:right;white-space:nowrap;">{_badge("NON ANCORA DISPONIBILE", "#999")}</td>
+          </tr></table>
+          <p style="margin:0 0 8px 0;font-size:13px;color:#555;font-style:italic;">{nome}</p>
+          <p style="margin:0;font-size:13px;color:#666;">{r['messaggio']}</p>
+        </div>
+        """
+
     if r["stato"] in ("errore", "errore_parziale"):
         etichetta = "ERRORE" if r["stato"] == "errore" else "ERRORE PARZIALE"
         return f"""
@@ -132,7 +145,9 @@ def _indice_html(risultati: list[dict]) -> str:
     for r in risultati:
         id_vip = r["id_vip"]
         nome = (r.get("nome_progetto") or "")[:70]
-        if r["stato"] in ("errore", "errore_parziale"):
+        if r["stato"] == "non_disponibile":
+            badge = _badge("N/D", "#999")
+        elif r["stato"] in ("errore", "errore_parziale"):
             badge = _badge("ERRORE", COLORE_ERRORE_BORDO)
         else:
             variato = ("nessuna variazione" not in r['confronto_dettagli_procedura'].lower()) or \
