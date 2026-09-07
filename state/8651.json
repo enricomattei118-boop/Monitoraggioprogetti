@@ -1,7 +1,0 @@
-{
-  "id_vip": "8651",
-  "trovato": true,
-  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/8872",
-  "nome_progetto": "Progetto di un impianto per la produzione di energia elettrica da fonte eolica denominato \"Fragagnano\", composto da 18 aerogeneratori da 6 MW ciascuno, per una potenza complessiva pari a 108 MW, con annesso sistema di accumulo della potenza di 30 MW, da realizzarsi nei comuni di Fragagnano (TA), Sava (TA), Lizzano (TA), Torricella (TA) e Taranto (TA)",
-  "errore": "Errore durante scraping: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation until 'load'\n============================================================"
-}
