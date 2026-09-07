@@ -93,11 +93,21 @@ def genera_riassunto_progetto(id_vip: str, dati_precedenti: dict | None, dati_at
     # In quel caso 'errore' è comunque valorizzato: lo segnaliamo esplicitamente
     # invece di generare un report "pulito" che nasconde il problema.
     if dati_attuali.get("errore"):
+        errore = dati_attuali["errore"]
+        # Caso "non ancora disponibile" (fase iniziale, es. Verifica amministrativa):
+        # non e' un guasto tecnico, quindi lo segnaliamo con uno stato piu' neutro.
+        if "fase iniziale" in errore.lower() or "verifica amministrativa" in errore.lower():
+            return {
+                "id_vip": id_vip,
+                "nome_progetto": dati_attuali.get("nome_progetto", ""),
+                "stato": "non_disponibile",
+                "messaggio": errore,
+            }
         return {
             "id_vip": id_vip,
             "nome_progetto": dati_attuali.get("nome_progetto", ""),
             "stato": "errore_parziale",
-            "messaggio": dati_attuali["errore"],
+            "messaggio": errore,
         }
 
     testo_prec_dettagli = (dati_precedenti or {}).get("dettagli_procedura")
