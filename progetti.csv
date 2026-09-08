@@ -1,29 +1,39 @@
-id_vip
-8651
-8677
-8678
-9415
-10029
-10084
-11118
-12377
-12806
-12834
-13544
-13994
-14071
-14199
-14359
-14440
-14753
-14756
-14763
-14957
-14970
-15036
-15054
-15072
-15100
-15097
-15133
-15129
+id_vip,titolo_breve
+5815,"Progetto di un impianto eolico ""Sellia Marina"""
+7555,"""Parco eolico Buddusò"""
+8651,VIA Fragagnano
+8677,Verifiche di Ottemperanza Tempa Rossa (c5 e c6)
+8678,Verifiche di Ottemperanza Tempa Rossa (c8)
+9280,Progetto di impianto agrivoltaico Comune di Sassari (SS)
+9415,"Progetto di un impianto fotovoltaico denominato ""Brindisi Aree Esterne"""
+10029,Verifiche di Ottemperanza Impianto HOOP Mantova
+10084,Verifiche di Ottemperanza numero 4 Biojet e Potenziamento sezione Degumming Bioraffineria di Gela
+10235,Parco eolico offshore al largo delle coste di Civitavecchia.
+11118,"Verifiche di Ottemperanza  ""Steam Reforming""  - BioRaffineria di Venezia"
+11364,Parco eolico di Scansano
+12377,"VIA parco eolico denominato ""Sambuca"""
+12562,Parco eolico di Magliano
+12693,"Progetto di un parco eolico collegato alla RTN, località pian di Morrano e località La Rotta"
+12806,Verifiche di Ottemperanza numero 1 Biojet e Potenziamento sezione Degumming Bioraffineria di Gela
+12834,"Verifiche di Ottemperanza numero 8 e 9 parco eolico denominato ""Borgia"""
+12886,"Progetto di un impianto eolico offshore, Nurax"
+12974,"Progetto di un impianto eolico denominato ""IMPIANTO EOLICO ACRI"""
+13018,"Progetto di parco eolico offshore nel Mar Tirreno Nord - Occidentale ""Poseidon"""
+13544,VIA Messapia
+13994,VIA Bioraf-HOOP Priolo
+14012,"Progetto per la realizzazione di un impianto eolico ""H019 - Castel Giorgio"""
+14071,VIA Conversione HDC2 - Ecofining Sannazzaro
+14190,"Progetto di un impianto eolico denominato ""Volturino"""
+14199,PdU Tempa Rossa
+14359,VIA Atis
+14440,Proroga VIA Tempa Rossa
+14753,Ver. Ass. Bioraf. Livorno
+14756,Proroga VIA Lince 1
+14763,Ver. Ass. M.Enoc
+14957,VIA Clara SE
+14970,VIA Ravenna CCS Fase 2
+15036,"Verifiche di ottemperanza nn. 1,2,4,6,7 Gela18"
+15054,VIA Val d'Agri
+15072,"Verifiche di Ottemperanza  nn.1,2,3,4,5,6,7,8,9,10 Bior. Gela"
+15100,Bioraffineria di Gela - Utilizzo di Brown Grease per la produzione di Biocarburanti
+15101,"""Introduzione di UCO"" nella Raffineria di Venezia - Eni Sustainable Mobility"
