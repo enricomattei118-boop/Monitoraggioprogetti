@@ -6,6 +6,15 @@ sia sull'elenco documenti della Documentazione.
 """
 
 import difflib
+import re
+
+
+def _normalizza_spazi(riga: str) -> str:
+    """Colonne separate da tab o spazi multipli diventano equivalenti a colonne
+    separate da un singolo spazio, cosi' un cambio di formattazione (es. lo
+    scraper che estrae con un tab invece che con uno spazio) non genera un
+    falso positivo nel diff."""
+    return re.sub(r"\s+", " ", riga).strip()
 
 
 def confronta_testi(id_vip: str, sezione: str, testo_precedente: str | None, testo_attuale: str) -> str:
@@ -18,8 +27,12 @@ def confronta_testi(id_vip: str, sezione: str, testo_precedente: str | None, tes
     if testo_precedente.strip() == testo_attuale.strip():
         return f"Nessuna variazione rilevata in '{sezione}'."
 
-    righe_precedenti = testo_precedente.splitlines()
-    righe_attuali = testo_attuale.splitlines()
+    righe_precedenti = [_normalizza_spazi(r) for r in testo_precedente.splitlines() if r.strip()]
+    righe_attuali = [_normalizza_spazi(r) for r in testo_attuale.splitlines() if r.strip()]
+
+    if righe_precedenti == righe_attuali:
+        return f"Nessuna variazione rilevata in '{sezione}'."
+
     diff = difflib.unified_diff(righe_precedenti, righe_attuali, lineterm="", n=0)
 
     aggiunte, rimosse = [], []
