@@ -76,10 +76,27 @@ def fascia_da_eseguire() -> int | None:
     return ultima_fascia_passata
 
 
-def leggi_id_vip_list() -> list[str]:
+def leggi_progetti() -> list[dict]:
+    """Legge progetti.csv. Supporta sia il formato con 'titolo_breve' (etichetta
+    personalizzata mostrata al posto del lungo nome ufficiale nel report) sia
+    il vecchio formato senza (in quel caso titolo_breve resta vuoto e il
+    report usa il nome ufficiale del progetto come prima)."""
     with open(PROGETTI_CSV, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
-        return [row["id_vip"].strip() for row in reader if row["id_vip"].strip()]
+        progetti = []
+        for row in reader:
+            id_vip = row.get("id_vip", "").strip()
+            if not id_vip:
+                continue
+            progetti.append({
+                "id_vip": id_vip,
+                "titolo_breve": (row.get("titolo_breve") or "").strip(),
+            })
+        return progetti
+
+
+def leggi_id_vip_list() -> list[str]:
+    return [p["id_vip"] for p in leggi_progetti()]
 
 
 def carica_stato_precedente(id_vip: str) -> dict | None:
@@ -108,7 +125,9 @@ def main():
             sys.exit(0)
         print(f"[main] Eseguo per la fascia delle {fascia}:00 (puo' essere in ritardo rispetto all'orario nominale).")
 
-    id_vip_list = leggi_id_vip_list()
+    progetti = leggi_progetti()
+    id_vip_list = [p["id_vip"] for p in progetti]
+    mappa_titoli_brevi = {p["id_vip"]: p["titolo_breve"] for p in progetti}
     print(f"[main] Progetti da monitorare: {id_vip_list}")
 
     risultati_scraping = asyncio.run(analizza_tutti(id_vip_list))
@@ -119,6 +138,7 @@ def main():
         dati_precedenti = carica_stato_precedente(id_vip)
 
         riassunto = genera_riassunto_progetto(id_vip, dati_precedenti, dati_attuali)
+        riassunto["titolo_breve"] = mappa_titoli_brevi.get(id_vip, "")
         risultati_report.append(riassunto)
 
         if dati_attuali.get("trovato"):
