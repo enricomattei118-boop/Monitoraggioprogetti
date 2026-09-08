@@ -140,3 +140,28 @@ def genera_riassunto_progetto(id_vip: str, dati_precedenti: dict | None, dati_at
         "confronto_documentazione": confronto_doc,
         "documenti_allegati": nuovi_allegati,
     }
+
+
+def ha_variazioni(r: dict) -> bool:
+    """True se il risultato di un progetto ha variazioni rilevanti da segnalare
+    (cambio nei Dettagli Procedura o nuovi documenti nelle sezioni monitorate).
+    Usata sia per decidere se inviare l'email (main.py) sia per i badge del
+    report (send_email.py), cosi' restano sempre coerenti tra loro."""
+    if r.get("stato") != "ok":
+        return False
+    ha_variazioni_dettagli = "nessuna variazione" not in r.get("confronto_dettagli_procedura", "").lower()
+    ha_variazioni_doc = bool(r.get("documenti_allegati")) and \
+        "nessun nuovo documento" not in r.get("confronto_documentazione", "").lower()
+    return ha_variazioni_dettagli or ha_variazioni_doc
+
+
+def richiede_invio_email(risultati: list[dict]) -> bool:
+    """True se il report contiene almeno un progetto con variazioni rilevanti
+    o con un errore tecnico vero (non il semplice stato 'non_disponibile',
+    che e' una condizione neutra e non giustifica da sola un invio)."""
+    for r in risultati:
+        if r.get("stato") in ("errore", "errore_parziale"):
+            return True
+        if ha_variazioni(r):
+            return True
+    return False
