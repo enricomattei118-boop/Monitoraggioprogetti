@@ -3,14 +3,18 @@
 # Orchestratore eseguito da GitHub Actions.
 #
 # Flusso:
-#  1. Controlla se e' l'ora giusta (6:00, 10:00, 14:00 o 18:00 ora italiana),
-#     salvo test manuali forzati
+#  1. Controlla se e' passata una fascia oraria (6:00, 10:00, 14:00 o 18:00
+#     ora italiana) per cui non abbiamo ancora inviato il report oggi, salvo
+#     test manuali forzati. Tollerante ai ritardi di GitHub Actions: se il
+#     cron scatta in ritardo (es. il cron delle 18:00 parte alle 22:23),
+#     esegue comunque, purche' non abbiamo gia' inviato per quella fascia.
 #  2. Legge progetti.csv (lista ID_VIP da monitorare)
 #  3. Per ciascun progetto: scraping (scraper.py)
 #  4. Carica lo snapshot precedente da state/{id_vip}.json (se esiste)
 #  5. Confronta vecchio vs nuovo (compare.py)
 #  6. Invia report via email (send_email.py)
 #  7. Salva il nuovo snapshot in state/{id_vip}.json (il workflow lo committa)
+#  8. Segna la fascia come "inviata oggi" in state/_ultimo_invio.json
 
 import asyncio
 import csv
@@ -29,19 +33,47 @@ STATE_DIR = Path("state")
 STATE_DIR.mkdir(exist_ok=True)
 PROGETTI_CSV = Path("progetti.csv")
 DESTINATARIO = os.environ["REPORT_TO_EMAIL"]
+FILE_ULTIMO_INVIO = STATE_DIR / "_ultimo_invio.json"
 
-ORARI_VALIDI = {6, 10, 14, 18}  # ore italiane in cui il report va effettivamente eseguito
+FASCE_ORARIE = [6, 10, 14, 18]  # ore italiane in cui il report va effettivamente eseguito
 
 
-def e_ora_di_eseguire() -> bool:
-    forza = os.environ.get("FORZA_ESECUZIONE", "false").lower() == "true"
-    if forza:
-        print("[main] Esecuzione forzata (test manuale), salto il controllo orario.")
-        return True
+def _leggi_ultimo_invio() -> dict:
+    if FILE_ULTIMO_INVIO.exists():
+        try:
+            return json.loads(FILE_ULTIMO_INVIO.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            return {}
+    return {}
 
-    ora_italiana = datetime.now(ZoneInfo("Europe/Rome")).hour
-    print(f"[main] Ora attuale in Italia: {ora_italiana}")
-    return ora_italiana in ORARI_VALIDI
+
+def _segna_invio_effettuato(data_str: str, fascia: int):
+    dati = _leggi_ultimo_invio()
+    dati[data_str] = fascia
+    FILE_ULTIMO_INVIO.write_text(json.dumps(dati, indent=2), encoding="utf-8")
+
+
+def fascia_da_eseguire() -> int | None:
+    """Ritorna la fascia oraria (6/10/14/18) da eseguire ora, o None se non
+    c'e' nulla da fare. Tollerante ai ritardi: prende la fascia piu' recente
+    gia' passata oggi per cui non risulta ancora un invio registrato."""
+    ora_italiana = datetime.now(ZoneInfo("Europe/Rome"))
+    data_str = ora_italiana.strftime("%Y-%m-%d")
+    ora = ora_italiana.hour
+
+    fasce_passate = [f for f in FASCE_ORARIE if f <= ora]
+    if not fasce_passate:
+        return None  # e' ancora prima delle 6:00, nessuna fascia e' ancora arrivata
+
+    ultima_fascia_passata = max(fasce_passate)
+
+    gia_inviate_oggi = _leggi_ultimo_invio()
+    ultima_registrata = gia_inviate_oggi.get(data_str)
+
+    if ultima_registrata == ultima_fascia_passata:
+        return None  # gia' inviato per questa fascia oggi
+
+    return ultima_fascia_passata
 
 
 def leggi_id_vip_list() -> list[str]:
@@ -63,9 +95,18 @@ def salva_stato(id_vip: str, dati: dict):
 
 
 def main():
-    if not e_ora_di_eseguire():
-        print("[main] Non e' l'orario previsto (6, 10, 14 o 18 ora italiana). Esco senza fare nulla.")
-        sys.exit(0)
+    forza = os.environ.get("FORZA_ESECUZIONE", "false").lower() == "true"
+
+    if forza:
+        print("[main] Esecuzione forzata (test manuale), salto il controllo orario.")
+    else:
+        fascia = fascia_da_eseguire()
+        ora_italiana = datetime.now(ZoneInfo("Europe/Rome"))
+        print(f"[main] Ora attuale in Italia: {ora_italiana.strftime('%H:%M')}")
+        if fascia is None:
+            print("[main] Nessuna fascia oraria da eseguire (o gia' inviato oggi per la fascia corrente). Esco.")
+            sys.exit(0)
+        print(f"[main] Eseguo per la fascia delle {fascia}:00 (puo' essere in ritardo rispetto all'orario nominale).")
 
     id_vip_list = leggi_id_vip_list()
     print(f"[main] Progetti da monitorare: {id_vip_list}")
@@ -84,6 +125,10 @@ def main():
             salva_stato(id_vip, dati_attuali)
 
     invia_report(risultati_report, DESTINATARIO)
+
+    if not forza:
+        ora_italiana = datetime.now(ZoneInfo("Europe/Rome"))
+        _segna_invio_effettuato(ora_italiana.strftime("%Y-%m-%d"), fascia)
 
 
 if __name__ == "__main__":
