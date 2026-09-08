@@ -371,7 +371,13 @@ async def analizza_progetto(browser, id_vip: str) -> dict:
     except Exception as e:
         import traceback
         tb = traceback.format_exc()
-        dati["errore"] = f"Errore durante scraping: {e}"
+        messaggio_errore = str(e)
+        # Il caso "procedura in fase iniziale" non e' un guasto tecnico: non
+        # anteponiamo "Errore durante scraping", il messaggio parla da solo.
+        if "fase iniziale" in messaggio_errore.lower():
+            dati["errore"] = messaggio_errore
+        else:
+            dati["errore"] = f"Errore durante scraping: {messaggio_errore}"
         print(f"[scraper] {id_vip}: ECCEZIONE:\n{tb}")
     finally:
         await context.close()
