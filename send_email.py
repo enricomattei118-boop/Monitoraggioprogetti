@@ -11,6 +11,8 @@ from email.message import EmailMessage
 from datetime import datetime
 from collections import OrderedDict
 
+from compare import ha_variazioni
+
 COLORE_PRIMARIO = "#1a5276"
 COLORE_SFONDO_PAGINA = "#f4f6f8"
 COLORE_ERRORE_BG = "#fdecea"
@@ -107,9 +109,7 @@ def _blocco_progetto(r: dict) -> str:
         </div>
         """
 
-    ha_variazioni_dettagli = "nessuna variazione" not in r['confronto_dettagli_procedura'].lower()
-    ha_variazioni_doc = bool(r["documenti_allegati"]) and "nessun nuovo documento" not in r['confronto_documentazione'].lower()
-    variato = ha_variazioni_dettagli or ha_variazioni_doc
+    variato = ha_variazioni(r)
 
     badge_stato = _badge("VARIAZIONI RILEVATE", COLORE_VARIATO_BORDO) if variato else _badge("NESSUNA VARIAZIONE", "#888")
     bordo_alto = COLORE_VARIATO_BORDO if variato else COLORE_OK_BORDO
@@ -152,9 +152,7 @@ def _indice_html(risultati: list[dict]) -> str:
         elif r["stato"] in ("errore", "errore_parziale"):
             badge = _badge("ERRORE", COLORE_ERRORE_BORDO)
         else:
-            variato = ("nessuna variazione" not in r['confronto_dettagli_procedura'].lower()) or \
-                      (bool(r["documenti_allegati"]) and "nessun nuovo documento" not in r['confronto_documentazione'].lower())
-            badge = _badge("VARIAZIONI", COLORE_VARIATO_BORDO) if variato else _badge("OK", "#888")
+            badge = _badge("VARIAZIONI", COLORE_VARIATO_BORDO) if ha_variazioni(r) else _badge("OK", "#888")
         righe.append(f"""
         <tr>
           <td style="padding:6px 10px;border-bottom:1px solid #eee;font-size:13px;">
