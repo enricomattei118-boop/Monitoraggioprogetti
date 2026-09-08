@@ -293,7 +293,7 @@ async def estrai_documentazione(page, info_url: str, id_vip: str) -> dict:
 
     if await link_doc.count() == 0:
         raise RuntimeError(
-            "Link 'Documentazione' non trovato: probabilmente la procedura e' ancora "
+            "Link 'Documentazione' non trovato: la procedura e' ancora "
             "in fase iniziale (es. 'Verifica amministrativa') e la documentazione "
             "non e' stata ancora pubblicata sul sito."
         )
@@ -301,7 +301,7 @@ async def estrai_documentazione(page, info_url: str, id_vip: str) -> dict:
     doc_href = await link_doc.get_attribute("href")
     if not doc_href:
         raise RuntimeError(
-            "Link 'Documentazione' presente ma senza href: probabilmente la procedura "
+            "Link 'Documentazione' presente ma senza href: la procedura "
             "e' ancora in fase iniziale e la documentazione non e' stata ancora pubblicata."
         )
     base_doc_url = BASE_URL + doc_href if doc_href.startswith("/") else doc_href
