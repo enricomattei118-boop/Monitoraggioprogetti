@@ -1,0 +1,820 @@
+{
+  "id_vip": "14621",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/9151",
+  "nome_progetto": "Progetto di un impianto agrovoltaico, di potenza pari a 222,26 MW e delle relative opere di connessione alla RTN, da realizzarsi nei comuni di Caltagirone (CT), Licodia Eubea (CT) e Chiaromonte Gulfi (RG).",
+  "dettagli_procedura": "Codice istanza online WEB-VOA - VOAVO00000056\nCodice procedura (ID_VIP/ID_MATTM) 14621\nOggetto: Progetto di un impianto agrovoltaico, di potenza pari a 222,26 MW e delle relative opere di connessione alla RTN, da realizzarsi nei comuni di Caltagirone (CT), Licodia Eubea (CT) e Chiaromonte Gulfi (RG). - Prescrizione: 3\nData presentazione istanza: 19/01/2026\nData avvio istruttoria tecnica: 22/07/2026\nResponsabile del procedimento: Riccardo Caschera - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Istruttoria tecnica CTPNRR-PNIEC",
+  "hash_dettagli": "37eea6e7aee343eca5267e5af98af967d17fc52c6a9a4d95541fde48b125a71e",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Documentazione di ottemperanza",
+      "Documentazione integrativa",
+      "Documentazione integrativa volontaria",
+      "Pareri Enti"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260624_210618.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "bbd09b71-169b-4391-832d-aa019df8abd4",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406200",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Carta Aree Verdi",
+        "nome_file": "082800BADGE0037-CartaAreeVerdi_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "a29fa830-43e5-4ebe-9fb0-63d92c8156d2",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406161",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Tavola delle Interferenze con Opere Infrastrutturali",
+        "nome_file": "082800BADGE0032-TavoladelleInterferenzeconOpereInfrastrutturali_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "9095fc2b-72ce-496e-80d9-330f526a41dc",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406162",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Relazione tecnica di sicurezza antincendio ai sensi dell'allegato I del D.M. 07 Agosto 2012",
+        "nome_file": "082800BFRVE0063-Relazionetecnicadisicurezzaantincendio_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "7d669efe-4fc7-4133-8b59-f726b28ba2cc",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406163",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Ordinamento Colturale - Relazione Agronomica",
+        "nome_file": "082800BFPA20009-OC-Relazioneagronomica-signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "5ceeba73-67e5-4067-aeaa-cdece972d470",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406164",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Relazione Preliminare delle Strutture Tracker, Stazione Elettrica e Cabine",
+        "nome_file": "082800BACAE0033-RelazionepreliminaredelleStruttureTracker_StazioneElettricaeCabine_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "f2467d51-e7a0-49d0-b255-e576686d7de5",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406165",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Relazione Idrogeologica ed Idraulica - Post Operam",
+        "nome_file": "082800BACAE0052RelazioneIdrogeologicaedIdraulica_PostOperam_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "7f81c5b8-a2e8-45b2-9ba8-6a903e71d15d",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406166",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Mascheramento - Capitolato Tecnico",
+        "nome_file": "082800BFPA20006-Mascheramento-Capitolatotecnico-signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "899bdda9-396e-4840-9cfc-94979c9f82c2",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406167",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Carta dell'Ordinamento Colturale",
+        "nome_file": "082800BFPA20010-CartadellOrdinamentoColturale-signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ba2058f8-85b1-4ea6-8238-a9186a1a6f79",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406168",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Piano di Manutenzione Opere a Verde",
+        "nome_file": "082800BFPA20015-PianodimanutenzioneOPV-signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "7a7ba628-e62a-491f-bcb8-45994c021755",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406169",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Layout impianto su Catastale",
+        "nome_file": "082800BADGE0016-LayoutimpiantosuCatastale_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "c70b7510-e703-4d54-801e-fceb5cd66ada",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406170",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Elaborato con identificazione delle Aree di impianto",
+        "nome_file": "082800BADGE0010-ElaboratoconidentificazionedelleAreediimpianto_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "9e14991c-8597-43c5-ba19-d69ef9c6d3f6",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406171",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Regimazione Acque Meteoriche",
+        "nome_file": "082800BACAE0054RegimazioneAcqueMeteoriche_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "9cb90a6f-05f9-4426-a9ff-f8a7d3d4f9a5",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406172",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Relazione Tecnica Generale",
+        "nome_file": "082800BARAE0008-RelazioneTecnicaGenerale_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "5d2c52c8-87f4-4a3f-b06b-59f65bc977a6",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406173",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Tipologico Bacini Raccolta Acque",
+        "nome_file": "082800BADDE0056TipologicoBaciniRaccoltaAcque_compressed_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "789f332f-20b8-47fd-99cd-73fc5fb299b2",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406174",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Relazione Idrogeologica ed Idraulica - Ante Operam",
+        "nome_file": "082800BACAE0051RelazioneIdrogeologicaedIdraulica_AnteOperam_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "f0f5a800-2ac1-409a-89f6-edab6ccf8543",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406175",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Carta Viabilità esterna",
+        "nome_file": "082800BADDE0034-CartaViabilitaesterna_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "61a65540-c0e4-42af-9c12-3eccdd5a8770",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406176",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Report Ruderi e Pozzi da Ristrutturare",
+        "nome_file": "082800BARSE0039-ReportRuderiePozzidaRistrutturare_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "011eb51a-12f0-4975-9d4a-f513402aef53",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406177",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Piano di Monitoraggio Attività Apistiche",
+        "nome_file": "082800BFPA20013-Pianomonitoraggioapistico-signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "b17d3e1e-c87c-4a8d-bba4-383ce6eb7fac",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406178",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Layout impianto su Ortofoto",
+        "nome_file": "082800BADGE0017-LayoutimpiantosuOrtofoto_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "375445f1-b36c-432c-8c5d-1e70ea00d5ad",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406179",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Carta Viabilità interna",
+        "nome_file": "082800BADDE0035-CartaViabilitainterna_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "c3bb9a43-8a68-4f30-9207-01219f21cf5b",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406180",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Esito del Piano delle Indagini Archeologiche",
+        "nome_file": "All.1RelazionefinalesaggiPietranera-compresso_signed_signed-signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "8bb45b0f-de5c-4cc2-9443-605c7a646c5c",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406181",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Relazione sull'Elettromagnetismo",
+        "nome_file": "082800BECEE0031-RelazionesullElettromagnetismo_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "fb675463-fc12-4a9b-86cd-6bd6439b5ee1",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406182",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - CAPITOLATO SPECIALE D'APPALTO - PARTE II - SPECIFICA FUNZIONALE",
+        "nome_file": "082800BGSC10002_CSAParteII-SpecificaFunzionale_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "5083cb2a-fe52-4231-8766-5f2511cb1fd7",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406183",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Computo Metrico per la Costruzione dell'Impianto Agrivoltaico",
+        "nome_file": "082800BGCZE0012-ComputoMetricoperlaCostruzionedellImpiantoAgrivoltaico_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "8ca34df5-f297-43a8-9d92-ba42e3d029ec",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406184",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Piano di Monitoraggio Attività Agricole",
+        "nome_file": "082800BFPA20014-Pianomonitoraggioagricolo-signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "7d746cd1-e740-4a44-aef0-f902892cc90b",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406185",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Piano di Monitoraggio Ambientale",
+        "nome_file": "082800BFPA20002-PMA-signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "800a6fa3-ee6a-4111-bc79-2400e5b64ba5",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406186",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - CAPITOLATO SPECIALE D'APPALTO - PARTE I - DISPOSIZIONI GENERALI",
+        "nome_file": "082800BGSC10001_CSAParteI-DisposizioniGenerali_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "c977a809-496f-4895-bca6-8cb12a44e426",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406187",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Planimetria dei Tracciati Principali Cavdotti MT e AT",
+        "nome_file": "082800BEDDLE0024-PlanimetriacavidottiMTeAT_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "dce16b6d-e3cb-4f8c-a921-e02f7971b482",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406188",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Layout di cantiere",
+        "nome_file": "082800BADDE0062-LayoutdiCantiere_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "9e01d1e8-b510-4d43-a164-d512ca1e5e88",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406189",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Layout impianto su CTR",
+        "nome_file": "082800BADGE0018-LayoutimpiantosuCTR_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "3c51a081-ceb8-4382-accf-355034e3bf0a",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406190",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Recinzione e Particolari Tipologico",
+        "nome_file": "082800BADAE0036-RecinzioneeParticolariTipologico_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ec162a91-5ff4-41b6-9de6-54d52a21ac80",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406191",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Relazione Tecnica Descrittiva delle Opere Elettriche",
+        "nome_file": "082800BARSE0020-RelazioneTecnicaDescrittivadelleOpereElettriche_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "3ff38b84-b9ad-403c-989b-3e568e94e6d2",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406192",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Mascheramento - Relazione Agronomica",
+        "nome_file": "082800BFPA20003-Mascheramento-RelazioneAgronomica-signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "f833668a-41a7-4c9f-83ae-cb99aeb8172d",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406193",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Planimetria Interventi di Mitigazione",
+        "nome_file": "082800BFPA20004-Planimetriainterventidimitigazione-signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "dadf988f-f40c-41ae-b856-5a3309a74377",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406194",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Elaborato di Regimazione Acque",
+        "nome_file": "082800BADDE0055_ElabRegimentAcque_2_signed_2.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "717ac84c-fe30-4150-9098-22d7868b186e",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406195",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Atlante dei Fotoinserimenti",
+        "nome_file": "082800BEDLE0059-AtlantedeiFotoInserimenti_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "c17d8dc9-dc4e-420f-8cf4-986389d4c2a6",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406196",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Relazione Ottemperanza Prescrizioni",
+        "nome_file": "082800BFPA20016-Relazioneottemperanza-signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "2ff9edcd-0acd-45d2-9193-a8b7eeb3b8e8",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406197",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Planimetria antincendio ai sensi dell'allegato I del D.M. 07 Agosto 2012",
+        "nome_file": "082800BFDDE0064-Planimetriaantincendio_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "24c512c0-cd04-4d12-ade8-dc70b6b9b4db",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406198",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Relazione Invarianza Idraulica",
+        "nome_file": "082800BACAE0053RelazioneInvarianzaIdraulica_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "c9a0c9ab-414d-4c75-af52-cd77af172da6",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406199",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Carta Aree Verdi",
+        "nome_file": "082800BADGE0037-CartaAreeVerdi_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "a29fa830-43e5-4ebe-9fb0-63d92c8156d2",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408978",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Tavola delle Interferenze con Opere Infrastrutturali",
+        "nome_file": "082800BADGE0032-TavoladelleInterferenzeconOpereInfrastrutturali_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "9095fc2b-72ce-496e-80d9-330f526a41dc",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408979",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Relazione tecnica di sicurezza antincendio ai sensi dell'allegato I del D.M. 07 Agosto 2012",
+        "nome_file": "082800BFRVE0063-Relazionetecnicadisicurezzaantincendio_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "7d669efe-4fc7-4133-8b59-f726b28ba2cc",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408980",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Ordinamento Colturale - Relazione Agronomica",
+        "nome_file": "082800BFPA20009-OC-Relazioneagronomica-signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "5ceeba73-67e5-4067-aeaa-cdece972d470",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408981",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Relazione Preliminare delle Strutture Tracker, Stazione Elettrica e Cabine",
+        "nome_file": "082800BACAE0033-RelazionepreliminaredelleStruttureTracker_StazioneElettricaeCabine_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "f2467d51-e7a0-49d0-b255-e576686d7de5",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408982",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Relazione Idrogeologica ed Idraulica - Post Operam",
+        "nome_file": "082800BACAE0052RelazioneIdrogeologicaedIdraulica_PostOperam_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "7f81c5b8-a2e8-45b2-9ba8-6a903e71d15d",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408983",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Mascheramento - Capitolato Tecnico",
+        "nome_file": "082800BFPA20006-Mascheramento-Capitolatotecnico-signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "899bdda9-396e-4840-9cfc-94979c9f82c2",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408984",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Carta dell'Ordinamento Colturale",
+        "nome_file": "082800BFPA20010-CartadellOrdinamentoColturale-signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "ba2058f8-85b1-4ea6-8238-a9186a1a6f79",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408985",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Piano di Manutenzione Opere a Verde",
+        "nome_file": "082800BFPA20015-PianodimanutenzioneOPV-signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "7a7ba628-e62a-491f-bcb8-45994c021755",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408986",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Layout impianto su Catastale",
+        "nome_file": "082800BADGE0016-LayoutimpiantosuCatastale_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "c70b7510-e703-4d54-801e-fceb5cd66ada",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408987",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Elaborato con identificazione delle Aree di impianto",
+        "nome_file": "082800BADGE0010-ElaboratoconidentificazionedelleAreediimpianto_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "9e14991c-8597-43c5-ba19-d69ef9c6d3f6",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408988",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Regimazione Acque Meteoriche",
+        "nome_file": "082800BACAE0054RegimazioneAcqueMeteoriche_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "9cb90a6f-05f9-4426-a9ff-f8a7d3d4f9a5",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408989",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Relazione Tecnica Generale",
+        "nome_file": "082800BARAE0008-RelazioneTecnicaGenerale_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "5d2c52c8-87f4-4a3f-b06b-59f65bc977a6",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408990",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Tipologico Bacini Raccolta Acque",
+        "nome_file": "082800BADDE0056TipologicoBaciniRaccoltaAcque_compressed_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "789f332f-20b8-47fd-99cd-73fc5fb299b2",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408991",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Relazione Idrogeologica ed Idraulica - Ante Operam",
+        "nome_file": "082800BACAE0051RelazioneIdrogeologicaedIdraulica_AnteOperam_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "f0f5a800-2ac1-409a-89f6-edab6ccf8543",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408992",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Carta Viabilità esterna",
+        "nome_file": "082800BADDE0034-CartaViabilitaesterna_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "61a65540-c0e4-42af-9c12-3eccdd5a8770",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408993",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Report Ruderi e Pozzi da Ristrutturare",
+        "nome_file": "082800BARSE0039-ReportRuderiePozzidaRistrutturare_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "011eb51a-12f0-4975-9d4a-f513402aef53",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408994",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Piano di Monitoraggio Attività Apistiche",
+        "nome_file": "082800BFPA20013-Pianomonitoraggioapistico-signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "b17d3e1e-c87c-4a8d-bba4-383ce6eb7fac",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408995",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Layout impianto su Ortofoto",
+        "nome_file": "082800BADGE0017-LayoutimpiantosuOrtofoto_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "375445f1-b36c-432c-8c5d-1e70ea00d5ad",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408996",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Carta Viabilità interna",
+        "nome_file": "082800BADDE0035-CartaViabilitainterna_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "c3bb9a43-8a68-4f30-9207-01219f21cf5b",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408997",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Esito del Piano delle Indagini Archeologiche",
+        "nome_file": "All.1RelazionefinalesaggiPietranera-compresso_signed_signed-signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "8bb45b0f-de5c-4cc2-9443-605c7a646c5c",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408998",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Relazione sull'Elettromagnetismo",
+        "nome_file": "082800BECEE0031-RelazionesullElettromagnetismo_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "fb675463-fc12-4a9b-86cd-6bd6439b5ee1",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1408999",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - CAPITOLATO SPECIALE D'APPALTO - PARTE II - SPECIFICA FUNZIONALE",
+        "nome_file": "082800BGSC10002_CSAParteII-SpecificaFunzionale_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "5083cb2a-fe52-4231-8766-5f2511cb1fd7",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409000",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Computo Metrico per la Costruzione dell'Impianto Agrivoltaico",
+        "nome_file": "082800BGCZE0012-ComputoMetricoperlaCostruzionedellImpiantoAgrivoltaico_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "8ca34df5-f297-43a8-9d92-ba42e3d029ec",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409001",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Piano di Monitoraggio Attività Agricole",
+        "nome_file": "082800BFPA20014-Pianomonitoraggioagricolo-signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "7d746cd1-e740-4a44-aef0-f902892cc90b",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409002",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Piano di Monitoraggio Ambientale",
+        "nome_file": "082800BFPA20002-PMA-signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "800a6fa3-ee6a-4111-bc79-2400e5b64ba5",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409003",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - CAPITOLATO SPECIALE D'APPALTO - PARTE I - DISPOSIZIONI GENERALI",
+        "nome_file": "082800BGSC10001_CSAParteI-DisposizioniGenerali_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "c977a809-496f-4895-bca6-8cb12a44e426",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409004",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Planimetria dei Tracciati Principali Cavdotti MT e AT",
+        "nome_file": "082800BEDDLE0024-PlanimetriacavidottiMTeAT_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "dce16b6d-e3cb-4f8c-a921-e02f7971b482",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409005",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Layout di cantiere",
+        "nome_file": "082800BADDE0062-LayoutdiCantiere_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "9e01d1e8-b510-4d43-a164-d512ca1e5e88",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409006",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Layout impianto su CTR",
+        "nome_file": "082800BADGE0018-LayoutimpiantosuCTR_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "3c51a081-ceb8-4382-accf-355034e3bf0a",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409007",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Recinzione e Particolari Tipologico",
+        "nome_file": "082800BADAE0036-RecinzioneeParticolariTipologico_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "ec162a91-5ff4-41b6-9de6-54d52a21ac80",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409008",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Relazione Tecnica Descrittiva delle Opere Elettriche",
+        "nome_file": "082800BARSE0020-RelazioneTecnicaDescrittivadelleOpereElettriche_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "3ff38b84-b9ad-403c-989b-3e568e94e6d2",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409009",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Mascheramento - Relazione Agronomica",
+        "nome_file": "082800BFPA20003-Mascheramento-RelazioneAgronomica-signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "f833668a-41a7-4c9f-83ae-cb99aeb8172d",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409010",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Planimetria Interventi di Mitigazione",
+        "nome_file": "082800BFPA20004-Planimetriainterventidimitigazione-signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "dadf988f-f40c-41ae-b856-5a3309a74377",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409011",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Elaborato di Regimazione Acque",
+        "nome_file": "082800BADDE0055_ElabRegimentAcque_2_signed_2.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "717ac84c-fe30-4150-9098-22d7868b186e",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409012",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Atlante dei Fotoinserimenti",
+        "nome_file": "082800BEDLE0059-AtlantedeiFotoInserimenti_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "c17d8dc9-dc4e-420f-8cf4-986389d4c2a6",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409013",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Relazione Ottemperanza Prescrizioni",
+        "nome_file": "082800BFPA20016-Relazioneottemperanza-signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "2ff9edcd-0acd-45d2-9193-a8b7eeb3b8e8",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409014",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Planimetria antincendio ai sensi dell'allegato I del D.M. 07 Agosto 2012",
+        "nome_file": "082800BFDDE0064-Planimetriaantincendio_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "24c512c0-cd04-4d12-ade8-dc70b6b9b4db",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409015",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Relazione Invarianza Idraulica",
+        "nome_file": "082800BACAE0053RelazioneInvarianzaIdraulica_signed.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "c9a0c9ab-414d-4c75-af52-cd77af172da6",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409016",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 24/04/2026 - Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260624_210618.pdf",
+        "sezione": "Documentazione integrativa volontaria",
+        "codice_elaborato": "bbd09b71-169b-4391-832d-aa019df8abd4",
+        "data": "07/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1409017",
+        "sezione_menu": "Documentazione integrativa volontaria"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260624_210618.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "bbd09b71-169b-4391-832d-aa019df8abd4",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406200"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Carta Aree Verdi",
+        "nome_file": "082800BADGE0037-CartaAreeVerdi_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "a29fa830-43e5-4ebe-9fb0-63d92c8156d2",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406161"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Tavola delle Interferenze con Opere Infrastrutturali",
+        "nome_file": "082800BADGE0032-TavoladelleInterferenzeconOpereInfrastrutturali_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "9095fc2b-72ce-496e-80d9-330f526a41dc",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406162"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Relazione tecnica di sicurezza antincendio ai sensi dell'allegato I del D.M. 07 Agosto 2012",
+        "nome_file": "082800BFRVE0063-Relazionetecnicadisicurezzaantincendio_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "7d669efe-4fc7-4133-8b59-f726b28ba2cc",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406163"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Ordinamento Colturale - Relazione Agronomica",
+        "nome_file": "082800BFPA20009-OC-Relazioneagronomica-signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "5ceeba73-67e5-4067-aeaa-cdece972d470",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406164"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Relazione Preliminare delle Strutture Tracker, Stazione Elettrica e Cabine",
+        "nome_file": "082800BACAE0033-RelazionepreliminaredelleStruttureTracker_StazioneElettricaeCabine_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "f2467d51-e7a0-49d0-b255-e576686d7de5",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406165"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Relazione Idrogeologica ed Idraulica - Post Operam",
+        "nome_file": "082800BACAE0052RelazioneIdrogeologicaedIdraulica_PostOperam_signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "7f81c5b8-a2e8-45b2-9ba8-6a903e71d15d",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406166"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Mascheramento - Capitolato Tecnico",
+        "nome_file": "082800BFPA20006-Mascheramento-Capitolatotecnico-signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "899bdda9-396e-4840-9cfc-94979c9f82c2",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406167"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Carta dell'Ordinamento Colturale",
+        "nome_file": "082800BFPA20010-CartadellOrdinamentoColturale-signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ba2058f8-85b1-4ea6-8238-a9186a1a6f79",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406168"
+      },
+      {
+        "titolo": "Integrazioni del 24/06/2026 - Piano di Manutenzione Opere a Verde",
+        "nome_file": "082800BFPA20015-PianodimanutenzioneOPV-signed.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "7a7ba628-e62a-491f-bcb8-45994c021755",
+        "data": "02/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1406169"
+      }
+    ]
+  }
+}
