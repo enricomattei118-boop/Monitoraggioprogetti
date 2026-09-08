@@ -184,6 +184,12 @@ def costruisci_html(risultati: list[dict]) -> str:
 
     return f"""
     <html>
+    <head>
+      <meta name="format-detection" content="address=no">
+      <meta name="format-detection" content="telephone=no">
+      <meta name="format-detection" content="date=no">
+      <meta name="format-detection" content="email=no">
+    </head>
     <body style="font-family:-apple-system,Segoe UI,Arial,Helvetica,sans-serif;
                  color:#222;background:{COLORE_SFONDO_PAGINA};margin:0;padding:24px 12px;">
       <div style="max-width:760px;margin:0 auto;">
