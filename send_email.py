@@ -77,13 +77,15 @@ def _sezione_documenti_html(documenti: list[dict]) -> str:
 def _blocco_progetto(r: dict) -> str:
     id_vip = r["id_vip"]
     nome = r.get("nome_progetto") or "(nome non disponibile)"
+    titolo_breve = r.get("titolo_breve") or ""
+    intestazione = f"Progetto {id_vip} - {titolo_breve}" if titolo_breve else f"Progetto {id_vip}"
 
     if r["stato"] == "non_disponibile":
         return f"""
         <div id="progetto-{id_vip}" style="margin-bottom:20px;padding:16px 18px;background:#f5f5f5;
              border-left:4px solid #999;border-radius:6px;">
           <table style="width:100%;margin-bottom:6px;"><tr>
-            <td style="font-size:15px;font-weight:700;color:#222;">Progetto {id_vip}</td>
+            <td style="font-size:15px;font-weight:700;color:#222;">{intestazione}</td>
             <td style="text-align:right;white-space:nowrap;">{_badge("NON ANCORA DISPONIBILE", "#999")}</td>
           </tr></table>
           <p style="margin:0 0 8px 0;font-size:13px;color:#555;font-style:italic;">{nome}</p>
@@ -97,7 +99,7 @@ def _blocco_progetto(r: dict) -> str:
         <div id="progetto-{id_vip}" style="margin-bottom:20px;padding:16px 18px;background:{COLORE_ERRORE_BG};
              border-left:4px solid {COLORE_ERRORE_BORDO};border-radius:6px;">
           <table style="width:100%;margin-bottom:6px;"><tr>
-            <td style="font-size:15px;font-weight:700;color:#222;">Progetto {id_vip}</td>
+            <td style="font-size:15px;font-weight:700;color:#222;">{intestazione}</td>
             <td style="text-align:right;white-space:nowrap;">{_badge(etichetta, COLORE_ERRORE_BORDO)}</td>
           </tr></table>
           <p style="margin:0 0 8px 0;font-size:13px;color:#555;font-style:italic;">{nome}</p>
@@ -120,7 +122,7 @@ def _blocco_progetto(r: dict) -> str:
          border:1px solid #e2e2e2;border-top:4px solid {bordo_alto};border-radius:6px;
          box-shadow:0 1px 2px rgba(0,0,0,0.04);">
       <table style="width:100%;margin-bottom:4px;"><tr>
-        <td style="font-size:15px;font-weight:700;color:{COLORE_PRIMARIO};">Progetto {id_vip}</td>
+        <td style="font-size:15px;font-weight:700;color:{COLORE_PRIMARIO};">{intestazione}</td>
         <td style="text-align:right;white-space:nowrap;">{badge_stato}</td>
       </tr></table>
       <p style="margin:0 0 12px 0;font-size:13px;color:#555;font-style:italic;">{nome}</p>
@@ -144,7 +146,7 @@ def _indice_html(risultati: list[dict]) -> str:
     righe = []
     for r in risultati:
         id_vip = r["id_vip"]
-        nome = (r.get("nome_progetto") or "")[:70]
+        etichetta = r.get("titolo_breve") or (r.get("nome_progetto") or "")[:70]
         if r["stato"] == "non_disponibile":
             badge = _badge("N/D", "#999")
         elif r["stato"] in ("errore", "errore_parziale"):
@@ -157,7 +159,7 @@ def _indice_html(risultati: list[dict]) -> str:
         <tr>
           <td style="padding:6px 10px;border-bottom:1px solid #eee;font-size:13px;">
             <a href="#progetto-{id_vip}" style="color:{COLORE_PRIMARIO};text-decoration:none;font-weight:600;">{id_vip}</a>
-            <span style="color:#777;"> - {nome}</span>
+            <span style="color:#777;"> - {etichetta}</span>
           </td>
           <td style="padding:6px 10px;border-bottom:1px solid #eee;text-align:right;white-space:nowrap;">{badge}</td>
         </tr>
