@@ -1,0 +1,142 @@
+{
+  "id_vip": "9280",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/9440",
+  "nome_progetto": "Progetto di impianto agrivoltaico di potenza nominale pari a 21,7 MWp sito nel Comune di Sassari (SS) e relative opere di connessione alla RTN",
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM) 9280\nOggetto: Progetto di impianto agrivoltaico di potenza nominale pari a 21,7 MWp sito nel Comune di Sassari (SS) e relative opere di connessione alla RTN\nData presentazione istanza: 28/12/2022\nData richiesta perfezionamento della documentazione: 06/02/2023\nData avvio consultazione pubblica: 23/03/2023\nTermine presentazione Osservazioni del Pubblico: 22/04/2023\nResponsabile del procedimento: Mario Botta - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Istruttoria tecnica CTPNRR-PNIEC",
+  "hash_dettagli": "15a5f2f48ae64b8ce5bab3e1f97472e3802a76c0f47e2a34ce8da4f17427a6d0",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elenchi Elaborati",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Piano di utilizzo dei materiali di scavo",
+      "Osservazioni del Pubblico",
+      "Osservazioni del Pubblico inviate oltre i termini"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna - Direzione Generale dell'Ambiente data 21/04/2023",
+        "nome_file": "MASE-2023-0064622.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2023-0064622",
+        "data": "08/05/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/836539",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Comitato Sarcidano Difesa Territoriale in data 17/04/2026",
+        "nome_file": "MASE-2026-0082524.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2026-0082524",
+        "data": "13/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1389136",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni del Coordinamento Gallura per la Difesa della Sardegna in data 13/03/2026",
+        "nome_file": "MASE-2026-0056508.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2026-0056508",
+        "data": "28/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1385172",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni del Coordinamento Gallura Contro la Speculazione Eolica e Fotovoltaica, in data 18/02/2026.",
+        "nome_file": "MASE-2026-0037181.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2026-0037181",
+        "data": "20/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1383721",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al Pubblico del 23/03/2023",
+        "nome_file": "22-00035-IT-SANTAGIUSTA_AM-R19_0-signed_Avviso_al_pubblico.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MASE-2023-0043968",
+        "data": "23/03/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/804574"
+      },
+      {
+        "titolo": "Studio di Impatto Ambientale",
+        "nome_file": "22-00035-IT-SANTAGIUSTA_SA-R04_0-signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "22-00035-IT-SANTAGIUSTA-SA-R04",
+        "data": "23/03/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/804559"
+      },
+      {
+        "titolo": "Elenco Elaborati",
+        "nome_file": "22-00035-IT-SANTAGIUSTA_PG-R00_0-signed.pdf",
+        "sezione": "Elenchi Elaborati",
+        "codice_elaborato": "22-00035-IT-SANTAGIUSTA-PG-R00",
+        "data": "23/03/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/804504"
+      },
+      {
+        "titolo": "Relazione descrittiva generale di progetto",
+        "nome_file": "22-00035-IT-SANTAGIUSTA_PG-R01_0-signed.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "22-00035-IT-SANTAGIUSTA-PG-R01",
+        "data": "23/03/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/804505"
+      },
+      {
+        "titolo": "Relazione tecnica del progetto",
+        "nome_file": "22-00035-IT-SANTAGIUSTA_PG-R02_0-signed.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "22-00035-IT-SANTAGIUSTA-PG-R02",
+        "data": "23/03/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/804506"
+      },
+      {
+        "titolo": "Disciplinare descrittivo e prestazionale degli elementi",
+        "nome_file": "22-00035-IT-SANTAGIUSTA_PG-R03_0-signed.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "22-00035-IT-SANTAGIUSTA-PG-R03",
+        "data": "23/03/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/804507"
+      },
+      {
+        "titolo": "Relazione delle interferenze",
+        "nome_file": "22-00035-IT-SANTAGIUSTA_PG-R04_0-signed.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "22-00035-IT-SANTAGIUSTA-PG-R04",
+        "data": "23/03/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/804508"
+      },
+      {
+        "titolo": "Piano particellare e disponibilità",
+        "nome_file": "22-00035-IT-SANTAGIUSTA_PG-R05_0-signed.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "22-00035-IT-SANTAGIUSTA-PG-R05",
+        "data": "23/03/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/804509"
+      },
+      {
+        "titolo": "Inquadramento IGM",
+        "nome_file": "22-00035-IT-SANTAGIUSTA_PG-T01_0-signed.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "22-00035-IT-SANTAGIUSTA-PG-T01",
+        "data": "23/03/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/804510"
+      },
+      {
+        "titolo": "Inquadramento CTR",
+        "nome_file": "22-00035-IT-SANTAGIUSTA_PG-T02_0-signed.pdf",
+        "sezione": "Elaborati di Progetto",
+        "codice_elaborato": "22-00035-IT-SANTAGIUSTA-PG-T02",
+        "data": "23/03/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/804511"
+      }
+    ]
+  }
+}

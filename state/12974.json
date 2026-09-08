@@ -1,0 +1,1519 @@
+{
+  "id_vip": "12974",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/11199",
+  "nome_progetto": "Progetto di un impianto eolico denominato \"IMPIANTO EOLICO ACRI\" costituito da 23 aerogeneratori di potenza unitaria 4,5 MW, per una potenza complessiva di 103,5 MW e opere di connessione alla RTN, da realizzarsi nei Comuni di Acri, San Demetrio Corone, Terranova Da Sibari, Corigliano - Rossano, Casali Del Manco (CS).",
+  "dettagli_procedura": "Codice istanza online WEB-VIA FER-VIAVIAF00000213\nCodice procedura (ID_VIP/ID_MATTM) 12974\nOggetto: Progetto di un impianto eolico denominato \"IMPIANTO EOLICO ACRI\" costituito da 23 aerogeneratori di potenza unitaria 4,5 MW, per una potenza complessiva di 103,5 MW e opere di connessione alla RTN, da realizzarsi nei Comuni di Acri, San Demetrio Corone, Terranova Da Sibari, Corigliano - Rossano, Casali Del Manco (CS).\nData presentazione istanza: 07/08/2024\nData avvio consultazione pubblica: 17/09/2024\nTermine presentazione Osservazioni del Pubblico: 17/10/2024\nData comunicazione avvio nuova consultazione pubblica: 12/05/2025\nTermine presentazione Osservazioni del Pubblico su ripubblicazione : 27/05/2025\nData II ripubblicazione: 20/07/2026\nTermine presentazione Osservazioni del Pubblico - II ripubblicazione: 04/08/2026\nResponsabile del procedimento: Silvia Terzoli - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Istruttoria tecnica CTPNRR-PNIEC",
+  "hash_dettagli": "f87bea974a5658592e017c69012d7dabf1970f14ba97ceffa9297131e65f877f",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elenchi Elaborati",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Relazione di incidenza",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Piano di utilizzo dei materiali di scavo",
+      "Osservazioni del Pubblico",
+      "Osservazioni del Pubblico inviate oltre i termini",
+      "Controdeduzioni",
+      "Richiesta integrazioni della documentazione",
+      "Documentazione integrativa/Documentazione integrativa volontaria",
+      "Osservazioni del Pubblico (I)",
+      "Controdeduzioni (I)",
+      "Osservazioni del Pubblico (II)",
+      "Osservazioni del Pubblico inviate oltre i termini (II)",
+      "Pareri/Osservazioni Enti (II)"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni dell'Avv. Pino Capalbo, Sindaco del Comune di Acri (CS) - in data 18/10/2024",
+        "nome_file": "MASE-2024-00189877.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-00189877",
+        "data": "31/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1165852",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni dell'Avvocato Angelot Tommaso Bonparola, in data 17/10/2024",
+        "nome_file": "MASE-2024-0189433.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189433",
+        "data": "29/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1165243",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni dell'Associazione COLDIRETTI CALABRIA, in data 17/10/2024",
+        "nome_file": "MASE-2024-0189404.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189404",
+        "data": "29/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1165242",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Sig. Antonio Feraudo, in data 18/10/2024",
+        "nome_file": "MASE-2024-0189837.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189837",
+        "data": "29/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1165241",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Cofone Cristina, in data 18/10/2024",
+        "nome_file": "MASE-2024-0189836.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189836",
+        "data": "29/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1165238",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor ANGELO DE BERNARDO, in data 18/10/2024",
+        "nome_file": "MASE-2024-0189752.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189752",
+        "data": "29/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1165200",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Azienda Biosila, in data 18/10/2024",
+        "nome_file": "MASE-2024-0189778.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189778",
+        "data": "29/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1165196",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Franca Cofone, in data 18/10/2024",
+        "nome_file": "MASE-2024-0189777.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189777",
+        "data": "29/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1165187",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazione della Signora Mariapia Conte, in data 18/10/2024",
+        "nome_file": "MASE-2024-0189772.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189772",
+        "data": "29/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1165184",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor NICOLA ROMANO, in data 18/20/2024",
+        "nome_file": "MASE-2024-0189905.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189905",
+        "data": "28/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1164737",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Antonio Feraudo, in data 18/10/2024",
+        "nome_file": "MADE-2024-0189861.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MADE-2024-0189861",
+        "data": "28/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1164712",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Vincenzo Abbruzzese, in data 18/10/2024",
+        "nome_file": "MASE-2024-0189779.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189779",
+        "data": "28/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1164703",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Sara De Bartolo, in data 17/10/2024",
+        "nome_file": "MASE-2024-0189713.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189713",
+        "data": "23/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1162509",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Franca Cofone, in data 17/10/2024",
+        "nome_file": "MASE-2024-0189516.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189516",
+        "data": "23/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1162502",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Sindaco del Comune di Acri, in data 16/10/2024",
+        "nome_file": "MASE-2024-0188696.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0188696",
+        "data": "23/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161790",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Cristina Cofone, in data 16/10/2024",
+        "nome_file": "MASE-2024-0188378.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0188378",
+        "data": "18/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161222",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Alessandro Vanzetti, in data 17/10/2024",
+        "nome_file": "MASE-2024-0189317.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189317",
+        "data": "18/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161220",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Comune di Casali del Manco, in data 17/10/2024",
+        "nome_file": "MASE-2024-0189223.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189223",
+        "data": "18/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161219",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni e Diffida dell'Associazione ITALIA NOSTRA a.p.s., Sezione Alto Tirreno Cosentino, Presidio di Acri, per il Tramite dello Studio Legale dell'Avv. Alessandro Caruso Frezza, in data 17/10/2024",
+        "nome_file": "MASE-2024-0188920.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0188920",
+        "data": "17/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161163",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor FABIO CURTO, in data 16/10/2024",
+        "nome_file": "MASE-2024-0188151.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0188151",
+        "data": "17/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161082",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Comitato \"Proteggiamo il territorio\", in data 16/10/2024",
+        "nome_file": "MASE-2024-0187792.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0187792",
+        "data": "17/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161080",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Coordinatore Regionale Lipu BirdLife Calabria, in data 16/10/2024",
+        "nome_file": "MASE-2024-0187918.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0187918",
+        "data": "17/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161079",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Francesco De Vuono, in data 15/10/2024",
+        "nome_file": "MASE-2024-0187769.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0187769",
+        "data": "17/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161076",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Angelo Milordo, in data 15/10/2024",
+        "nome_file": "MASE-2024-0187772.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0187772",
+        "data": "16/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1159815",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Dott. Andrea Eugenio Chiappetta in nome e per conto del Comitato \"Proteggiamo il territorio\", in data 15/10/2024",
+        "nome_file": "MASE-2024-0187780.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0187780",
+        "data": "16/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1159745",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Comitato Proteggiamo il territorio in data 17/10/2024",
+        "nome_file": "MASE-2024-0189023.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189023",
+        "data": "17/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161195",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Sig. Luigi Lorelli in data 17/10/2024",
+        "nome_file": "MASE-2024-0188914.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0188914",
+        "data": "17/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161198",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Sig.ra Loredana Olovrap in data 17/10/2024",
+        "nome_file": "MASE-2024-0188798.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0188798",
+        "data": "17/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161200",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Sig.ra Nunziatina Olovrap in data 17/10/2024",
+        "nome_file": "MASE-2024-0188940.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0188940",
+        "data": "17/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161201",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Sig.ra Loredana Olovrap in data 17/10/2024",
+        "nome_file": "MASE-2024-0188937.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0188937",
+        "data": "17/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161202",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Sig. Falcone Luigi in data 17/10/2024",
+        "nome_file": "MASE-2024-0188906.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0188906",
+        "data": "17/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161210",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Sig.ra Maria Curto in data 17/10/2024",
+        "nome_file": "MASE-2024-0188908.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0188908",
+        "data": "17/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161211",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Sig.ra Iolanda Cofone in data 17/10/2024",
+        "nome_file": "MASE-2024-0188994.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0188994",
+        "data": "17/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161212",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni dell'Associazione Confagricoltura Cosenza in data 17/10/2024",
+        "nome_file": "MASE-2024-0189038.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0189038",
+        "data": "17/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161213",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Collettivo Serra Crista Acri, in data 18/10/2024",
+        "nome_file": "MASE-2024-0190176.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2024-0190176",
+        "data": "06/11/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1167309",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Trasmissione documentazione integrativa volontaria",
+        "nome_file": "ACR1_260710_MASE_IntVolontarie_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "fef4b474-0e63-4fa5-bbb4-6f20aedbd049",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412596",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - INQUADRAMENTO GENERALE SU BASE CATASTALE _parte 1",
+        "nome_file": "C23FSTR001WD00501_Inquadramentogeneralesubasecatastale_parte1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "73562e15-36e5-43a9-a51d-cf728df721bb",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412597",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - INQUADRAMENTO GENERALE SU BASE CATASTALE _parte 2",
+        "nome_file": "C23FSTR001WD00501_Inquadramentogeneralesubasecatastale_parte2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c1fc65c0-e930-4e71-902f-d8f551473fd2",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412598",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - INQUADRAMENTO GENERALE SU BASE CATASTALE _parte 3",
+        "nome_file": "C23FSTR001WD00501_Inquadramentogeneralesubasecatastale_parte3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "39612310-77bd-471b-b42f-38dbc51444ce",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412599",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - INQUADRAMENTO GENERALE SU BASE CATASTALE _parte 4",
+        "nome_file": "C23FSTR001WD00501_Inquadramentogeneralesubasecatastale_parte4.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f42bb9fb-e8ec-49af-b59c-0880d3829d46",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412600",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - INQUADRAMENTO GENERALE SU BASE CATASTALE _parte 5",
+        "nome_file": "C23FSTR001WD00501_Inquadramentogeneralesubasecatastale_parte5.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e8d9bfa8-7f21-4dc3-9982-0555009ddb10",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412601",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - INQUADRAMENTO GENERALE SU BASE CATASTALE _parte 6",
+        "nome_file": "C23FSTR001WD00501_Inquadramentogeneralesubasecatastale_parte6.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6b659bfb-cab3-44cd-b9b2-45bb56cf8cbb",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412602",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - INQUADRAMENTO GENERALE SU BASE CATASTALE _parte 7",
+        "nome_file": "C23FSTR001WD00501_Inquadramentogeneralesubasecatastale_parte7.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "0572bf5c-1d81-4ab3-bd02-43b0f7bfe6e0",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412603",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - PIANO PARTICELLARE D'ESPROPRIO GRAFICO _PARTE 1",
+        "nome_file": "C24FSTR001WD00902_Pianoparticellaredespropriografico-parte1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b0387f61-7264-46bb-92db-7c9f48133d55",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412604",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - PIANO PARTICELLARE D'ESPROPRIO GRAFICO _PARTE 2",
+        "nome_file": "C24FSTR001WD00902_Pianoparticellaredespropriografico-parte2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "926ff54f-7ea6-483a-bd8d-db1570c345cb",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412605",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - PIANO PARTICELLARE D'ESPROPRIO GRAFICO _PARTE 3",
+        "nome_file": "C24FSTR001WD00902_Pianoparticellaredespropriografico-parte3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "1dba06a5-ba0b-42e2-ab65-bfc307f28982",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412606",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - PIANO PARTICELLARE D'ESPROPRIO GRAFICO _PARTE 4",
+        "nome_file": "C24FSTR001WD00902_Pianoparticellaredespropriografico-parte4.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "498d3f86-ab35-463b-85e2-55816a5b178c",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412607",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - PIANO PARTICELLARE D'ESPROPRIO GRAFICO _PARTE 5",
+        "nome_file": "C24FSTR001WD00902_Pianoparticellaredespropriografico-parte5.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "05526e56-3825-4755-a276-a676ddda1fac",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412608",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - PIANO PARTICELLARE D'ESPROPRIO GRAFICO _PARTE 6",
+        "nome_file": "C24FSTR001WD00902_Pianoparticellaredespropriografico-parte6.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c35dcae5-7984-49f7-a0f3-583e2b9321a9",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412609",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - PIANO PARTICELLARE D'ESPROPRIO GRAFICO _PARTE 7",
+        "nome_file": "C24FSTR001WD00902_Pianoparticellaredespropriografico-parte7.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "707ea7d1-281c-4c30-b3dd-2ef1abfe2d36",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412610",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Monitoraggio annuale avifauna e chirotterofauna",
+        "nome_file": "C24FSTR002WR08400_Monitoraggioannualeavifaunaechirotterofauna.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "d4690c20-3d2f-4034-9c67-61464663ea4a",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412611",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20260710_210841.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b2a5d3ed-5433-487f-8e70-e8801b44d663",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412612",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Piano particellare d'esproprio grafico-parte1",
+        "nome_file": "ElencoElaborati_AcriEO_2026-06-15.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "2775111a-7544-43fd-94ae-f2acead9cb6e",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412613",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Punti Interesse VVF SE su Ctr",
+        "nome_file": "IT-VesSco-Gem-H-EG-PP-01-Rev.00-PlanimetriaPuntiInteresseVVFSEsuCtr.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "12828aa5-72f7-4236-b236-44419981b7f4",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412614",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Relazione di Compatibilità VVF",
+        "nome_file": "IT-VesSco-Gem-H-EG-RE-01-Rev.03-RelazionedicompatibilitaVVF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ae2ce0bf-1b61-4648-bc02-cdbe3e027fc6",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412615",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Area Potenzialmente Impegnata API SE e Raccordi Elettrodotti su Catastale",
+        "nome_file": "IT-VesSco-Gem-PTO-A-CE-PP-01-Rev.04-PlanimetriaAreaPotenzialmenteImpegnataAPISEeRaccordiElettrodotto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "3dd818ff-95f1-4606-9490-c0f8c1a22ba1",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412616",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Profilo Altimetrico SE e Raccordi Elettrodotto",
+        "nome_file": "IT-VesSco-Gem-PTO-B-EG-DC-01-Rev.04-Profiloaltimetrico.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "43763cd9-28a4-46bc-9b22-6f45a3c4414b",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412617",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Stralcio PRG SE e Raccordi Elettrodotto su Catastale",
+        "nome_file": "IT-VesSco-Gem-PTO-C-CP-PG-01-Rev.03-PlanimetriaStralcioPRGSEeRaccordiElettrodottosuCatastale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "cd830369-2e37-4adc-af40-718e64474c9a",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412618",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Distanza Prima Approssimazione DPA SE e Raccordi Elettrodotti su Ctr",
+        "nome_file": "IT-VesSco-Gem-PTO-D-EG-PP-01-Rev.04-PlanimetriaCTRconDPA-Ctr.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "dc6fa0cc-f338-4425-8fd4-29f201495322",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412619",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Distanza Prima Approssimazione DPA SE e Raccordi Elettrodotti su Ortofoto",
+        "nome_file": "IT-VesSco-Gem-PTO-D-EG-PP-02-Rev.04-PlanimetriaOrtofotoconDPA-Ortofoto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "9c73a188-0dde-44e2-9f61-9be3dae7254b",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412620",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Distanza Prima Approssimazione DPA SE e Raccordi Elettrodotti su Catastale",
+        "nome_file": "IT-VesSco-Gem-PTO-D-EG-PP-03-Rev.04-PlanimetriaCatastaleconDPA-Catastale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "cbf5ffd7-b58e-4ec0-aadf-2199ea78b0ba",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412621",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Relazione Tecnica Campo Elettrico e Magnetico SE e Raccordi Elettrodotto",
+        "nome_file": "IT-VesSco-Gem-PTO-D-EG-RE-01-Rev.04_RelazioneTecnicaCampoElettricoeMagneticoSEeRaccordiElettrodotto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6cb2f181-88f0-43eb-81a4-fd5f5a2ba631",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412622",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Piste da Cantiere SE e Raccordi Elettrodotto su Catastale",
+        "nome_file": "IT-VesSco-Gem-PTO-E-EG-PP-01-Rev.03-PlanimetriaPistedaCantiereSEeRaccordiElettrodottosuCatastale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a4acfd9a-0a6e-4050-acd9-6860ab3ea614",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412623",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - PAI - Pericolosità da frana",
+        "nome_file": "IT-VesSco-Gem-PTO-F-GG-PG-03B-Rev.2_PAI-Pericolosita_da_frana.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "be8556c1-dad0-47bc-b51c-81b085721ba1",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412624",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - PAI - Rischio da frana",
+        "nome_file": "IT-VesSco-Gem-PTO-F-GG-PG-03-Rev.2_PAI-Rischio_da_frana.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "da5795e8-2d7f-4b9a-bc75-d71215eb11fd",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412625",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - PS DAM Assetto Mitigazione Gestione pericolosità alluvioni",
+        "nome_file": "IT-VesSco-Gem-PTO-F-GG-PG-04B-Rev.1_PSDAMAssettoMitigazioneGestionepericolositaalluvioni.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "361df3d4-2791-4017-b274-3f8b44f50b32",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412626",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - PS DAM Assetto Mitigazione Gestione rischio alluvioni",
+        "nome_file": "IT-VesSco-Gem-PTO-F-GG-PG-04C-Rev.1_PSDAMAssettoMitigazioneGestionerischioalluvioni.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "25d70b6c-7629-4627-af32-e19a65ebd016",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412627",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Vincolo idrogeologico",
+        "nome_file": "IT-VesSco-Gem-PTO-F-GG-PG-05-Rev.2-Vincoloidrogeologico.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e39c4800-4c34-402d-9b56-1bc6a8aafce7",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412628",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria geolitologica",
+        "nome_file": "IT-VesSco-Gem-PTO-F-GG-PG-06-Rev.2_Planimetria_geolitologica.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e5942428-d46a-44e2-af10-3599cf63ff93",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412629",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - PAI - Dissesti",
+        "nome_file": "IT-VesSco-Gem-PTO-F-GG-PG-07-Rev.1_PAI-Dissesti.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "52c4b0c8-de39-4cd7-981c-3911f21d1f52",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412630",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - PGA - Carta dei corpi idrici sotterranei",
+        "nome_file": "IT-VesSco-Gem-PTO-F-GG-PG-08-Rev.1_PGA-Carta_dei_corpi_idrici.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "eb0f0948-93f9-4b4d-83d1-788e1b2f2a81",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412631",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Carta della rete idrografica",
+        "nome_file": "IT-VesSco-Gem-PTO-F-GG-PG-11-Rev.1_Cartadella_rete_idrografica.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b082ad0f-3d72-482e-bfa2-0d227c1f1585",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412632",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Relazione Geologica Preliminare",
+        "nome_file": "IT-VesSco-Gem-PTO-F-GG-RE-01-Rev.3-RelazioneGeologicaPreliminare.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "0920a602-61a7-4b3b-bb16-f9bbd164ff1d",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412633",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Studio Planoaltimetrico",
+        "nome_file": "IT-VesSco-Gem-PTO-G-DD-PG-01-Rev.01-StudioPlanoaltimetrico.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "21fb1e55-2692-4d4c-be81-f2af0cb59d7e",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412634",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Relazione Tecnica Due Diligence Terre e Rocce da Scavo",
+        "nome_file": "IT-VesSco-Gem-PTO-G-DD-RE-01-Rev.04_RelazioneTecnicaDueDiligenceTerreeRoccedaScavo.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "69870eb9-dcf5-486e-a30a-e41cfdc67153",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412635",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Elenco Elaborati",
+        "nome_file": "IT-VesSco-Gem-PTO-G-EG-EE-00-Rev.4_ElencoElaborati.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "359d4156-f8c8-438f-ada5-5788a617fbdf",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412636",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Elenco Elaborati- Parte tecnica generale",
+        "nome_file": "IT-VesSco-Gem-PTO-G-EG-EE-01-Rev.03-ElencoElaborati-ParteTecnicaGenerale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c9380205-11f2-476b-b4cc-88ebe4d7d03a",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412637",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Generale SE e Raccordi Elettrodotto su Igm",
+        "nome_file": "IT-VesSco-Gem-PTO-G-EG-PG-01-Rev.03-PlanimetriaGeneraleSEeRaccordiElettrodottosuIgm.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "65d01105-92c5-430d-a081-c99d0048bd3b",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412638",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Generale SE e Raccordi Elettrodotto su Ctr",
+        "nome_file": "IT-VesSco-Gem-PTO-G-EG-PG-02-Rev.03-PlanimetriaGeneraleSEeRaccordiElettrodottosuCtr.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "d0a8a3a6-2ddc-42ff-9612-2522ae9f95b1",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412639",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Generale SE e Raccordi Elettrodotto su Ortofoto",
+        "nome_file": "IT-VesSco-Gem-PTO-G-EG-PG-03-Rev.03-PlanimetriaGeneraleSEeRaccordiElettrodottosuOrtofoto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "5e52a3fc-95db-4f8c-ae82-ec99666d9f25",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412640",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Generale SE e Raccordi Elettrodotto su Catasto",
+        "nome_file": "IT-VesSco-Gem-PTO-G-EG-PG-04-Rev.03-PlanimetriaGeneraleSEeRaccordiElettrodottosuCatasto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "1673a459-a868-4b23-801e-69aab3955e73",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412641",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Relazione Tecnica Generale",
+        "nome_file": "IT-VesSco-Gem-PTO-G-EG-RE-01-Rev.3-RelazioneTecnicaGenerale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6cd416a5-e83a-4902-b1a2-dcab9684011f",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412642",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Analisi vincolistica",
+        "nome_file": "IT-VesSco-Gem-PTO-G-EG-RE-02-Rev.2-Analisivincolistica.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "4e280352-8f81-4e8e-a74e-3fa46b06ddbe",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412643",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Schema Unifilare SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-01-Rev.02-SchemaUnifilareSE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c31433b2-997b-4484-ab0d-4e78b1e514b1",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412644",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Elettromeccanica SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-02-Rev.03-PlanimetriaElettromeccanicaSE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6e235415-5a95-45fe-8acd-46072cd52258",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412645",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Sezioni Elettromeccaniche 150 kV",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-03-Rev.02-SezioneElettromeccaniche150kV.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "81416900-a979-4292-970e-99404dfce77e",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412646",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Edificio Comandi - Piante Prospetti Sezioni SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-04-Rev.01-EdificioComandi-PianteProspettiSezioniSE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ad9de101-aa4d-4795-8095-328e0d3fd125",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412647",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Edificio Servizi Ausiliari - Piante Prospetti Sezioni SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-05-Rev.02-EdificioServiziAusiliari-PianteProspettiSezioniSE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c0b216ef-963d-4484-855b-a352235c19b2",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412648",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Edificio Magazzino - Piante Prospetti Sezioni SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-06-Rev.02-EdificioMagazzino-PianteProspettiSezioniSE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "febb8ab6-3844-41fb-9802-cba9a240cd3d",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412649",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Edificio Quadri 36kV - 01 SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-07-Rev.01-EdificioQuadri36kV-01SE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "d4df7580-2315-47fd-a9af-14a1c400df49",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412650",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Edificio Quadri 36kV - 02 SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-08-Rev.01-EdificioQuadri36kV-02SE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b0a70c34-958c-4507-9cc2-03b0a7b24a40",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412651",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Particolare Piazzale Bobine Petersen TFN 36kV SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-09-Rev.01-ParticolarePiazzaleBobinePetersenTFN36kVSE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ccb7bf8c-8d59-4ce7-b32e-096eb7f977ff",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412652",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Particolare Copertura TRSA SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-10-Rev.01-ParticolareCoperturaTRSASE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "2efa7917-207e-43a9-a092-209b7bb275a0",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412653",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Edificio Consegna MT e TLC - Piante Prospetti Sezioni SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-11-Rev.01-EdificioConsegnaMTeTLC-PianteProspettiSezioniSE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c053bebe-4b47-4668-b862-d9bb4c4bb9be",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412654",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Chiosco Elettromeccanico SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-12-Rev.00-ChioscoElettromeccanicoSE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "46eab032-1b3f-4228-a40a-cce2acb42ae6",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412655",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Vista Frontale sbarre 380/150kV SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-13-Rev.00-VistaFrontaleSbarre380150kVSE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "81a44249-c314-408d-b1a1-96c51240502d",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412656",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Sezioni Elettromeccaniche TR 380_36kV",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-14-Rev.0-SezioniElettromeccanicheTR380_36kV.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f41dee99-209b-4a7a-a414-86b26ced7f33",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412657",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Sezioni Elettromeccaniche 380 ATR e Linea SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-15-Rev.00-SezioniElettromeccaniche380ATReLineaSE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6b775938-a803-440c-a10c-2aab795f5239",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412658",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Sezioni Elettromeccaniche Parallelo Sbarre 380/150kV SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-16-Rev.00-SezioniElettromeccanicheParalleloSbarre380150kVSE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "2fefa995-1566-42a7-876a-8745c77a5664",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412659",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Trasformatore MT_BT SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-17-Rev.00-TrasformatoreMT_BTSE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "3e15edae-ee32-4f54-9766-e501089ad668",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412660",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Particolare Recinzione SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-18-Rev.00-ParticolareRecinzioneSE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "d7c28da3-6fb3-449f-ba6f-355b0f298b11",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412661",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Torre Faro SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-19-Rev.00-TorreFaroSE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a82f2b54-73f4-41cb-b12b-1c4c1393ccf6",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412662",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Particolare Cancello SE",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-20-Rev.00-ParticolareCancelloSE.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "91edace3-017f-46f0-b5c0-98d8753691f7",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412663",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Chiosco Gruppo Elettrogeno",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-DC-21-Rev.00-ChioscoGruppoElettrogeno.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f07b5e35-8f7a-4b3d-9811-f617e48bd798",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412664",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Generale SE e Raccordi Elettrodotto su CTR",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-PG-01-Rev.03-PlanimetriaGeneraleSEeRaccordiElettrodottisuCtr.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "08dcce0d-5c56-4ed7-b2e5-03b792881f0c",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412665",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Generale SE e Raccordi Elettrodotto su Ortofoto",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-PG-02-Rev.03-PlanimetriaGeneraleSEeRaccordiElettrodottosuOrtofoto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "05db264c-3f9f-4dd7-83bf-3a406e59a0a9",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412666",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Sistemazione Esterna e Smaltimento Acque SE e Raccordi Elettrodotto su CTR",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-PG-03-Rev.03-PlanimetriaSistemazioneEsternaSmaltimentoAcqueSEeRaccordiElettrodottosuCTR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6081b0d6-fbd5-483e-ac06-1dc06fe4422f",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412667",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Relazione Tecnica Illustrativa",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-RE-01-Rev.03-RelazioneTecnicaIllustrativa.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "79aea87d-4691-4a6c-b786-5a73b26bf1cd",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412668",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Valutazione interferenze al volo-Stazione",
+        "nome_file": "IT-VesSco-Gem-PTO-O1-EG-RE-02-Rev.01-ValutazioneInterferenzaalVolo.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "24f9791b-f6f0-4456-a755-995f38236432",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412669",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Planimetria Opere Attraversate su Ctr",
+        "nome_file": "IT-VesSco-Gem-PTO-O2-EG-DC-01-Rev.3-PlanimetriaOpereAttraversatesuCtr.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "7b638108-1229-40ab-8a3a-bafe041a9b04",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412670",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Caratteristiche Componenti",
+        "nome_file": "IT-VesSco-Gem-PTO-O2-EG-DC-03-Rev.3-CaratteristicheComponenti.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6ce35451-2ab7-4709-bb92-c21e3ac0be34",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412671",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Relazione Tecnica Illustrativa",
+        "nome_file": "IT-VesSco-Gem-PTO-O2-EG-RE-01-Rev.3-RelazioneTecnicaIllustrativa.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "39d3ca6c-0dc1-4797-84fe-484ed24d024f",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412672",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Valutazione Interferenza al Volo",
+        "nome_file": "IT-VesSco-Gem-PTO-O2-EG-RE-02-Rev.2-ValutazioneInterferenzealVoloRaccordi.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "3b539b01-eb9d-464b-9d4b-009f5fffe545",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412673",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Elenco Opere Attraversate",
+        "nome_file": "IT-VesSco-Gem-PTO-O2-EG-RE-03-Rev.1-Elencoopereattraversate.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "663ad3e5-759d-4d9a-9a63-eab1ac0cfd8a",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412674",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Osservazioni del Signor Antonio Feraudo, in data 28/05/2025",
+        "nome_file": "MASE-2025-0101921.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101921",
+        "data": "11/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1264520",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Signor Massimo Olovrop, in data 28/05/2025",
+        "nome_file": "MASE-2025-0101864.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101864",
+        "data": "06/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1261062",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni dello Studio Legale Avv. Alessandro Caruso Frezza, in rappresentanza di ITALIA NOSTRA a.p.s., Sezione Alto Tirreno Cosentino in data 26/05/2027",
+        "nome_file": "MASE-2025-0099704.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0099704",
+        "data": "06/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1261058",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni della Federazione Provinciale Coldiretti Cosenza, in data 28/05/2025",
+        "nome_file": "MASE-2025-0101808.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101808",
+        "data": "04/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1259066",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni della Signopra Loredana Olovrap, in data 28/05/2025",
+        "nome_file": "MASE-2025-0101708.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101708",
+        "data": "04/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1259065",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Signor Falcone Luigi, in data 28/05/2025",
+        "nome_file": "MASE-2025-0101744.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101744",
+        "data": "04/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1259064",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Signor Angelo De Bernardo, in data 27/05/2025",
+        "nome_file": "MASE-2025-0101749.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101749",
+        "data": "04/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1259063",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Signor Luigi Lorelli, in data 28/05/2025",
+        "nome_file": "MASE-2025-0101759.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101759",
+        "data": "04/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1259062",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni dell'Associazione Sila Greca, in data 28/05/2025",
+        "nome_file": "MASE-2025-0101789.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101789",
+        "data": "04/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1259061",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni della Signora Maria Curto, in data 28/05/2025",
+        "nome_file": "MASE-2025-0101807.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101807",
+        "data": "04/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1259060",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni dell'Associazione Sila Greca, in data 28/05/2025",
+        "nome_file": "MASE-2025-0101791.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101791",
+        "data": "04/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1259058",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Signor Santo Arena, in data 27/05/2025",
+        "nome_file": "MASE-2025-0101358.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101358",
+        "data": "04/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1259053",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni della Signora Sara De Bartolo, in data 27/05/2025",
+        "nome_file": "MASE-2025-0101615.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101615",
+        "data": "04/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1259051",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Signor Joshua Pirotta, in data 27/05/2025",
+        "nome_file": "MASE-2025-0101294.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101294",
+        "data": "03/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258951",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni dell' Ente Parco Nazionale della Sila, in data 27/05/2025",
+        "nome_file": "MASE-2025-0101213.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101213",
+        "data": "03/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258923",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Comitato \"Proteggiamo il Territorio\", in data 27/05/2025",
+        "nome_file": "MASE-2025-0100534.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0100534",
+        "data": "03/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258915",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni della Signora Franca.Cofone, in data 27/05/2025",
+        "nome_file": "MASE-2025-0100514.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0100514",
+        "data": "03/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258906",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni dell'ACRI CARAVAN PARK SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFIC ATA, in data 28/05/2025",
+        "nome_file": "MASE-2025-0101761.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101761",
+        "data": "30/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258903",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Signor ANGELO MILORDO, in data 27/05/2025",
+        "nome_file": "MASE-2025-0100517.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0100517",
+        "data": "30/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258902",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni della Signora KATIUSCIA ANTONIA COFONE, in data 26/05/2025",
+        "nome_file": "MASE-2025-0100495.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0100495",
+        "data": "30/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258899",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Signor SANTO ARENA , in data 26/05/2025",
+        "nome_file": "MASE-2025-0100494.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0100494",
+        "data": "30/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258884",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del \"Forum ambientalista ODV\", in data 26/05/2025",
+        "nome_file": "MASE-2025-0099507.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0099507",
+        "data": "30/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258848",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Signor ANDREA EUGENIO CHIAPPETTA, in data 26/05/2025",
+        "nome_file": "MASE-2025-0100031.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0100031",
+        "data": "29/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258728",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Signor Giuseppe COSCHIGNANO, in data 23/05/2025",
+        "nome_file": "MASE-2025-0099433.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0099433",
+        "data": "28/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258472",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni dell'Azienda Agricola BIOSILA, in data 28/05/2025",
+        "nome_file": "MASE-2025-0101786.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101786",
+        "data": "28/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258436",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni dell'Associazione Forumambientalista ODV, rappresentata da Prof. Avv. Alberto LUCARELLI, Prof. Avv. Renato ROLLI, Prof. Giuseppe,SCAGLIONE, Avv. Alessandro BIAMONTE, Avv. Dario SAMMARRO, Avv Stella Arena, Dott. Andrea Eugenio CHIAPPETTA, in data 28/05/2025",
+        "nome_file": "MASE-2025-0101945.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101945",
+        "data": "28/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258438",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Signor Fabio Curto, in data 27/05/2025",
+        "nome_file": "MASE-2025-0101637.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101637",
+        "data": "28/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258421",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni della Signora Nunziatina Olovrop, in data 27/05/2025",
+        "nome_file": "MASE-2025-0101576.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101576",
+        "data": "28/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258231",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni della Signora Cristina Cofone, in data 27/05/2025",
+        "nome_file": "MASE-2025-0101430.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101430",
+        "data": "28/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258229",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Signor Nicola Romano, in data 27/05/2025",
+        "nome_file": "MASE-2025-0101390.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101390",
+        "data": "28/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258227",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni dell'Associazione Terra Nostra Calabria, in data 27/05/2025",
+        "nome_file": "MASE-2025-0101578.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101578",
+        "data": "28/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258226",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del Comune di Acri, in data 28/05/2025",
+        "nome_file": "MASE-2025-0101674.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0101674",
+        "data": "28/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1258224",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni del sig. Andrea Eugenio Chiappetta, in data 25-05-2025",
+        "nome_file": "MASE-2025-0099463.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0099463",
+        "data": "26/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1256903",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni dell'Associazione Sila Greca APS, in data 06/08/2026",
+        "nome_file": "MASE-2026-0168615.pdf",
+        "sezione": "Osservazioni del Pubblico (II)",
+        "codice_elaborato": "MASE-2026-0168615",
+        "data": "02/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1426092",
+        "sezione_menu": "Osservazioni del Pubblico (II)"
+      },
+      {
+        "titolo": "Osservazioni del Signor Salvatore Urso, in qualità di legale rappresentante dell'Associazione Stazione Ornitologica Calabrese, in data 06/08/2026",
+        "nome_file": "MASE-2026-0168498.pdf",
+        "sezione": "Osservazioni del Pubblico (II)",
+        "codice_elaborato": "MASE-2026-0168498",
+        "data": "28/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1422661",
+        "sezione_menu": "Osservazioni del Pubblico (II)"
+      },
+      {
+        "titolo": "Osservazioni della Sig.ra Franca Cofone, in data 04/08/2026",
+        "nome_file": "MASE-2026-0168623.pdf",
+        "sezione": "Osservazioni del Pubblico (II)",
+        "codice_elaborato": "MASE-2026-0168623",
+        "data": "26/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1422389",
+        "sezione_menu": "Osservazioni del Pubblico (II)"
+      },
+      {
+        "titolo": "Osservazioni della Sig.ra Cristina Cofone, in data 04/08/2026",
+        "nome_file": "MASE-2026-0168570.pdf",
+        "sezione": "Osservazioni del Pubblico (II)",
+        "codice_elaborato": "MASE-2026-0168570",
+        "data": "26/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1422371",
+        "sezione_menu": "Osservazioni del Pubblico (II)"
+      },
+      {
+        "titolo": "Osservazioni della Sig.ra Stella Arena, in data 04/08/2026",
+        "nome_file": "MASE-2026-0168525.pdf",
+        "sezione": "Osservazioni del Pubblico (II)",
+        "codice_elaborato": "MASE-2026-0168525",
+        "data": "26/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1422369",
+        "sezione_menu": "Osservazioni del Pubblico (II)"
+      },
+      {
+        "titolo": "Osservazioni del FORUM AMBIENTALISTA OVS, in data 03/08/2026",
+        "nome_file": "MASE-2026-0165518.pdf",
+        "sezione": "Osservazioni del Pubblico (II)",
+        "codice_elaborato": "MASE-2026-0165518",
+        "data": "25/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1421747",
+        "sezione_menu": "Osservazioni del Pubblico (II)"
+      },
+      {
+        "titolo": "Osservazioni del Signor Giorgio Giovanni Berardi in qualità si Coordinatore Regionale Lipu BirdLife Calabria, in data 11/08/2026",
+        "nome_file": "MASE-2026-0172677.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (II)",
+        "codice_elaborato": "MASE-2026-0172677",
+        "data": "27/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1422452",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (II)"
+      },
+      {
+        "titolo": "Osservazioni ARPA Calabria, in data 21/08/2026",
+        "nome_file": "MASE-2026-0176295.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0176295",
+        "data": "31/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423058",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Osservazioni del Comune di ACRI in data 4/08/2026",
+        "nome_file": "MASE-2026-0166803.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0166803",
+        "data": "24/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1421466",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al pubblico del 17/09/2024",
+        "nome_file": "ModuloAvvisoPubblicoVIA.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MASE-2024-0166757",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145923"
+      },
+      {
+        "titolo": "Studio di impatto ambientale",
+        "nome_file": "C24FSTR001WR03500_StudiodiImpattoAmbientale.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "d6d41863-d114-473c-9419-b571ed1d33e9",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145917"
+      },
+      {
+        "titolo": "Richiesta integrazioni del MIC",
+        "nome_file": "MASE_2024-0198777.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2024-0198777",
+        "data": "04/11/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1166041"
+      },
+      {
+        "titolo": "Elenco Elaborati della documentazione tecnica",
+        "nome_file": "VIAVIAF00000213-ElencoElaborati.pdf",
+        "sezione": "Elenchi Elaborati",
+        "codice_elaborato": "3e204939-08d1-484a-8082-3daec1500872",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145922"
+      },
+      {
+        "titolo": "Integrazioni del 30/04/2025 - Legenda dei colori e simboli in carta",
+        "nome_file": "C24FSTR001WD06901_Cartadelleareepotenzialmentenonidonee-QTRP_tomo4_art.15.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "08f072ac-19f1-4d34-856f-c34675ea8911",
+        "data": "12/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1251212"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - Trasmissione documentazione integrativa volontaria",
+        "nome_file": "ACR1_260710_MASE_IntVolontarie_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "fef4b474-0e63-4fa5-bbb4-6f20aedbd049",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412596"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - INQUADRAMENTO GENERALE SU BASE CATASTALE _parte 1",
+        "nome_file": "C23FSTR001WD00501_Inquadramentogeneralesubasecatastale_parte1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "73562e15-36e5-43a9-a51d-cf728df721bb",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412597"
+      },
+      {
+        "titolo": "Integrazioni del 30/04/2025 - Planimetria generale con indicazione ellissi e distanze",
+        "nome_file": "C24FSTR001WD08400_Planimetriageneraleconindicazionedegliellissi.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a87853cc-575b-43b6-91d6-df42fd5e2ca7",
+        "data": "12/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1251213"
+      },
+      {
+        "titolo": "Integrazioni del 30/04/2025 - Vista frontale sbarre 380_150 kV",
+        "nome_file": "IT-VesSco-Gem-E-EG-DC-08_Vistafrontalesbarre380_150kV.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "8f0b70c9-6c44-41d5-b4cb-33ba50e3a302",
+        "data": "12/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1251214"
+      },
+      {
+        "titolo": "Integrazioni del 10/07/2026 - INQUADRAMENTO GENERALE SU BASE CATASTALE _parte 2",
+        "nome_file": "C23FSTR001WD00501_Inquadramentogeneralesubasecatastale_parte2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c1fc65c0-e930-4e71-902f-d8f551473fd2",
+        "data": "20/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1412598"
+      }
+    ]
+  }
+}

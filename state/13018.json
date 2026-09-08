@@ -1,0 +1,899 @@
+{
+  "id_vip": "13018",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/11234",
+  "nome_progetto": "Progetto di parco eolico offshore nel Mar Tirreno Nord - Occidentale \"Poseidon\" ad oltre 40 km dalle coste di Olbia, composto da 72 aerogeneratori da 14 MW ciascuno, di potenza nominale totale pari a 1008 MW.",
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM) 13018\nConsultazioni transfrontaliere: Sì\nOggetto: Progetto di parco eolico offshore nel Mar Tirreno Nord - Occidentale \"Poseidon\" ad oltre 40 km dalle coste di Olbia, composto da 72 aerogeneratori da 14 MW ciascuno, di potenza nominale totale pari a 1008 MW.\nData presentazione istanza: 14/08/2024\nData richiesta verifica completezza documentazione a Enti competenti per autorizzazioni ambientali: 19/03/2025\nData richiesta integrazioni di perfezionamento della documentazione: 17/02/2025\nData ricezione integrazioni di perfezionamento della documentazione: 10/10/2024\nData avvio consultazione pubblica: 19/03/2025\nTermine presentazione Osservazioni del Pubblico: 18/05/2025\nData richiesta Integrazioni: 28/11/2025\nData ricezione Integrazioni: 23/03/2026\nData comunicazione avvio nuova consultazione pubblica: 07/04/2026\nTermine presentazione Osservazioni del Pubblico su ripubblicazione : 07/05/2026\nResponsabile del procedimento: Mario Botta - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Istruttoria tecnica CTPNRR-PNIEC",
+  "hash_dettagli": "9c5a00bc02d68a1655a72cdfb88d250adecd50808582f5958741cd86185a9c37",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elenchi Elaborati",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Relazione di incidenza",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Piano di utilizzo dei materiali di scavo",
+      "Consultazioni transfrontaliere",
+      "Osservazioni del Pubblico",
+      "Osservazioni del Pubblico inviate oltre i termini",
+      "Pareri/Osservazioni Enti",
+      "Immersione in mare di materiale art. 109 D.Lgs. 152/2006",
+      "Autorizzazione paesaggistica art. 146 D.Lgs. 42/2004",
+      "Richiesta integrazioni della documentazione",
+      "Documentazione integrativa/Documentazione integrativa volontaria",
+      "Osservazioni del Pubblico inviate oltre i termini (I)",
+      "Pareri/Osservazioni Enti (I)",
+      "Osservazioni del Pubblico (II)",
+      "Pareri/Osservazioni Enti (II)"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni della Lipu ODV - Coordinamento reg. Lipu Sardegna, in data 19/05/2025",
+        "nome_file": "MASE-2025-0093677.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0093677",
+        "data": "16/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1265044",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Consorzio di Bonifica della Gallura, in data 12/05/2025",
+        "nome_file": "MASE-2025-0088125.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0088125",
+        "data": "16/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1265035",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazione della Regione Autonoma della Sardegna - Direzione Generale Pianificazione Urbanistica Territoriale della Vigilanza Edilizia, in data 28/04/2025",
+        "nome_file": "MASE-2025-0078536.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0078536",
+        "data": "16/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1265034",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni dell'ARPA Sardegna - Ente Acque della Sardegna - Direzione Generale, in data 8/04/2025",
+        "nome_file": "MASE-2025-0066299.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0067573",
+        "data": "09/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1242306",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna - Direzione Generale dell'Ambiente in data 19/05/2025",
+        "nome_file": "MASE-2025-0093684.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0093684",
+        "data": "20/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1254500",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni dell'Ente ARPA Sardegna in data 15/05/2025",
+        "nome_file": "MASE-2025-0092294.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0092294",
+        "data": "20/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1254572",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni di ENAS Sardegna, in data 11/06/2025",
+        "nome_file": "MASE-2025-0110882.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2025-0110882",
+        "data": "18/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1265728",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni dell'ASL Gallura, in data 28/05/2025",
+        "nome_file": "MASE-2025-0102041.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2025-0102041",
+        "data": "05/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1260572",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni del Comune di Loiri Porto San Paolo, in data 27/05/2025",
+        "nome_file": "MASE-2025-0100548.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2025-0100548",
+        "data": "27/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1257233",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna - Direzione Generale Agenzia Regionale del Distretto Idrografico della Sardegna - Servizio Difesa del suolo, Assetto Idrogeologico e Gestione del Rischio Alluvioni in data 19/05/2025",
+        "nome_file": "MASE-2025-0094363.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2025-0093684",
+        "data": "20/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1254501",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni dell'Associazione Coordinamento Gallura Contro la Speculazione Eolica e Fotovoltaica in data 20/05/2025",
+        "nome_file": "MASE-2025-0095023.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2025-0095023",
+        "data": "23/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1256123",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna Direzione Generale dell'Ambiente in data 22/05/2025",
+        "nome_file": "MASE-2025-0098196.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2025-0098196",
+        "data": "26/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1256344",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna Direzione Generale dell'Ambiente in data 22/05/2025",
+        "nome_file": "MASE-2025-0098066.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2025-0098066",
+        "data": "26/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1256353",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Parere della Regione Autonoma della Sardegna ASSESSORATO DELL'AGRICOLTURA E RIFORMA AGROPASTORALE - Direzione generale Servizio pesca e acquacoltura in data 14/05/2025",
+        "nome_file": "MASE-2025-0090582.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2025-0090582",
+        "data": "16/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1253597",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Parere della Regione Autonoma della Sardegna - Direzione generale della pianificazione urbanistica territoriale e della vigilanza edilizia Servizio tutela del paesaggio Sardegna Settentrionale Nord Est in data 13/05/2025",
+        "nome_file": "MASE-2025-0089503.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2025-0089503",
+        "data": "19/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1254389",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Elenco elaborati",
+        "nome_file": "P005PUA_GR000ELEINT02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-GR000ELEINT02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377388",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Sottostazione Trasformazione, Misura e Consegna - Rendering",
+        "nome_file": "P005PUA_RT001FOTINS02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-RT001FOTINS02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377389",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Rapporto integrativo allo Studio di impatto ambientale ID 13018",
+        "nome_file": "P005PUA_GR000INTSIA02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-GR000INTSIA02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377390",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Piano particellare",
+        "nome_file": "P005PUA_GR000PIAPAR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-GR000PIAPAR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377391",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Layout di Cantiere TOC, TJB e Elettrodotto",
+        "nome_file": "P005PUA_KT000LAYCAN02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-KT000LAYCAN02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377392",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Layout di Cantiere Sottostazione di Trasformazione, Misura e Consegna",
+        "nome_file": "P005PUA_KT001LAYCAN02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-KT001LAYCAN02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377393",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Layout di Cantiere Area Parcheggio",
+        "nome_file": "P005PUA_KT002LAYCAN02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-KT002LAYCAN02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377394",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Layout di Cantiere - TOC Elettrodotto Marino di Esportazione 220kV",
+        "nome_file": "P005PUA_KT003LAYCAN02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-KT003LAYCAN02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377395",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Fotoinserimento Sottostazione Trasformazione, Misura e Consegna",
+        "nome_file": "P005PUA_RT000FOTINS02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-RT000FOTINS02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377396",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Opere di riqualificazione Parcheggio - Zona Pittulongu - Rendering",
+        "nome_file": "P005PUA_RT002FOTINS02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-RT002FOTINS02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377397",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Piano preliminare di utilizzo in sito delle terre e rocce da scavo escluse dalla disciplina dei rifiuti",
+        "nome_file": "P005PUA_TR000GESTRS02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TR000GESTRS02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377398",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Relazione geologica",
+        "nome_file": "P005PUA_TR000RELGEO02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TR000RELGEO02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377399",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Relazione idrogeologica",
+        "nome_file": "P005PUA_TR000RELIDG02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TR000RELIDG02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377400",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Relazione idrologica e idraulica",
+        "nome_file": "P005PUA_TR000RELIDR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TR000RELIDR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377401",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a mare su stralcio Carta Nautica n° 322",
+        "nome_file": "P005PUA_TT000CARNAU02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000CARNAU02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377402",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere in progetto su stralcio carta VFR ENAV",
+        "nome_file": "P005PUA_TT000CARVOL02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000CARVOL02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377403",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere in progetto con perimetrazione confini transfrontalieri",
+        "nome_file": "P005PUA_TT000CONTRA02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000CONTRA02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377404",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere in progetto su foto satellitare",
+        "nome_file": "P005PUA_TT000FOTAER02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000FOTAER02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377405",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra su ortofoto con Distanza di Prima Approssimazione (DPA)",
+        "nome_file": "P005PUA_TT000ORTDPA02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000ORTDPA02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377406",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra con perimetrazioni pozzi e sorgenti ad uso idropotabile",
+        "nome_file": "P005PUA_TT000PERPOZ02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000PERPOZ02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377407",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra su stralcio planimetria catastale",
+        "nome_file": "P005PUA_TT000PLACAT02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000PLACAT02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377408",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra su database geotopografico (DBGT)",
+        "nome_file": "P005PUA_TT000PLACTR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000PLACTR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377409",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra su stralcio I.G.M.",
+        "nome_file": "P005PUA_TT000PLAIGM02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000PLAIGM02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377410",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a mare con infrastrutture di servizio",
+        "nome_file": "P005PUA_TT000PLAINF02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000PLAINF02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377411",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Inquadramento su ortofoto delle opere di nuova costruzione e dismissione - Ante Operam",
+        "nome_file": "P005PUA_TT000PLALAO02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000PLALAO02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377412",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Inquadramento su ortofoto delle opere di nuova costruzione e dismissione - Corso d'Opera",
+        "nome_file": "P005PUA_TT000PLALCO02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000PLALCO02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377413",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Inquadramento su ortofoto delle opere di nuova costruzione e dismissione - Post Operam",
+        "nome_file": "P005PUA_TT000PLALPO02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000PLALPO02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377414",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a mare su target archeologici e ritrovamenti sottomarini",
+        "nome_file": "P005PUA_TT000RELITT02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000RELITT02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377415",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione punto di giunzione (TJB) su carte tematiche principali",
+        "nome_file": "P005PUA_TT000UBIGIU02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000UBIGIU02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377416",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra su piani di gestione del territorio - PUC - Comune di Olbia",
+        "nome_file": "P005PUA_TT000UBIPGT02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000UBIPGT02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377417",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione sottostazione di trasformazione misura e consegna su carte tematiche principali",
+        "nome_file": "P005PUA_TT000UBITRA02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-TT000UBITRA02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377418",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra su perimetrazione PAI Geomorfologico",
+        "nome_file": "P005PUA_VT000PAIGEO02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-VT000PAIGEO02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377419",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra su perimetrazione PAI Idraulico",
+        "nome_file": "P005PUA_VT000PAIIDR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-VT000PAIIDR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377420",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione parco eolico su perimetrazione Aree IBA e Zone RAMSAR",
+        "nome_file": "P005PUA_VT000PERIBA02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-VT000PERIBA02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377421",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione parco eolico su perimetrazione Aree Natura 2000",
+        "nome_file": "P005PUA_VT000PLAN2K02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-VT000PLAN2K02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377422",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra su piano paesaggistico - Beni paesaggistici - Assetto ambientale",
+        "nome_file": "P005PUA_VT000PPRASA02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-VT000PPRASA02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377423",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra su piano paesaggistico - Beni paesaggistici - Assetto Storico-Culturale",
+        "nome_file": "P005PUA_VT000PPRASC02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-VT000PPRASC02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377424",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra su piano paesaggistico - Beni paesaggistici - Assetto insediativo",
+        "nome_file": "P005PUA_VT000PPRASI02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-VT000PPRASI02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377425",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra su piano paesaggistico - Repertorio beni",
+        "nome_file": "P005PUA_VT000PPRREB02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-VT000PPRREB02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377426",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra su perimetrazione PGRA e Fasce Fluviali",
+        "nome_file": "P005PUA_VT000PSFPGR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-VT000PSFPGR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377427",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra su vincolo idrogeologico (ex R.D. n. 3267/1923 e D.P.R. 616/1977)",
+        "nome_file": "P005PUA_VT000VINIDR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-VT000VINIDR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377428",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Relazione tecnica valutazione impatto acustico terrestre",
+        "nome_file": "P005PUA_YR000ACUTER02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YR000ACUTER02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377429",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Documento di verifica preventiva dell'interesse archeologico a terra (vpia)",
+        "nome_file": "P005PUA_YR000ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YR000ARCTPR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377430",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Relazione tecnica emissioni elettromagnetiche a terra",
+        "nome_file": "P005PUA_YR000EMFTER02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YR000EMFTER02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377431",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Piano di monitoraggio ambientale",
+        "nome_file": "P005PUA_YR000MONAMB02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YR000MONAMB02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377432",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Studio impatto ambientale",
+        "nome_file": "P005PUA_YR000RELSIA02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YR000RELSIA02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377433",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Valutazione di incidenza ambientale",
+        "nome_file": "P005PUA_YR000VALINC02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YR000VALINC02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377434",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Documento di verifica preventiva dell'interesse archeologico a terra (vpia) - Modulo progetto (MOPR)",
+        "nome_file": "P005PUA_YR001ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YR001ARCTPR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377435",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Documento di verifica preventiva dell'interesse archeologico a terra (vpia) - modulo sito/area archeologica (MOSI)",
+        "nome_file": "P005PUA_YR002ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YR002ARCTPR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377436",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Documento di verifica preventiva dell'interesse archeologico a terra (vpia) - Dettagli ricognizione - Unità di ricognizione (UR)",
+        "nome_file": "P005PUA_YR003ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YR003ARCTPR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377437",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Documento di verifica preventiva dell'interesse archeologico a terra (vpia) - carta potenziale archeologico",
+        "nome_file": "P005PUA_YR005ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YR005ARCTPR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377438",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Documento di verifica preventiva dell'interesse archeologico a terra (vpia) - carta rischio archeologico",
+        "nome_file": "P005PUA_YR006ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YR006ARCTPR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377439",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra con stralcio carta geologica su database geotopografico (DBGT)",
+        "nome_file": "P005PUA_YT000CARGEO02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YT000CARGEO02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377440",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra con stralcio carta idrogeologica su database geotopografico (DBGT)",
+        "nome_file": "P005PUA_YT000CARIDR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YT000CARIDR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377441",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a mare con stralcio carta geomorfologica su Modello Digitale Terreno (DTM)",
+        "nome_file": "P005PUA_YT000GEOMOM02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YT000GEOMOM02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377442",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra con stralcio carta geomorfologica su database geotopografico (DBGT)",
+        "nome_file": "P005PUA_YT000GEOMOR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YT000GEOMOR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377443",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a mare con categorizzazione delle modalità di posa su Carta degli Habitat - 00",
+        "nome_file": "P005PUA_YT000HABMAR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YT000HABMAR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377444",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Allegati grafici al Piano di Monitoraggio Ambientale (PMA)",
+        "nome_file": "P005PUA_YT000MONAMB02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YT000MONAMB02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377445",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a terra con perimetrazioni reticolo idrografico",
+        "nome_file": "P005PUA_YT000RETIDR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YT000RETIDR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377446",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a mare con categorizzazione delle modalità di posa su Carta degli Habitat - 01",
+        "nome_file": "P005PUA_YT001HABMAR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YT001HABMAR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377447",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Ubicazione opere a mare con categorizzazione delle modalità di posa su Carta degli Habitat - 02",
+        "nome_file": "P005PUA_YT002HABMAR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-YT002HABMAR02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377448",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Osservazioni Coordinamento Gallura Contro la Speculazione Eolica e Fotovoltaica, in data 18/02/2026",
+        "nome_file": "MASE-2026-035959.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (I)",
+        "codice_elaborato": "MASE-2026-035959",
+        "data": "24/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1367832",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (I)"
+      },
+      {
+        "titolo": "Osservazione del Consorzio di Bonifica della Gallura, in data 17/06/2025",
+        "nome_file": "MASE-2025-0114286.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (I)",
+        "codice_elaborato": "MASE-2025-0114286",
+        "data": "26/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1267939",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (I)"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna - Direzione Generale dei Lavori Pubblici, in data 05/05/2026",
+        "nome_file": "MASE-2026-0095857.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2026-0095857",
+        "data": "21/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1392526",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Osservazioni Consorzio di Bonifica della Gallura in data 06/05/2026",
+        "nome_file": "MASE-2026-0096973.pdf",
+        "sezione": "Osservazioni del Pubblico (II)",
+        "codice_elaborato": "MASE-2026-0096973",
+        "data": "14/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1389954",
+        "sezione_menu": "Osservazioni del Pubblico (II)"
+      },
+      {
+        "titolo": "Osservazioni Coordinamento Gallura per la Difesa della Sardegna, in data 20/03/2026",
+        "nome_file": "MASE-2026-0062360.pdf",
+        "sezione": "Osservazioni del Pubblico (II)",
+        "codice_elaborato": "MASE-2026-0062360",
+        "data": "16/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1383125",
+        "sezione_menu": "Osservazioni del Pubblico (II)"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna - Direzione Generale Agenzia Regionale del Distretto Idrografico della Sardegna , in data 17/07/2026",
+        "nome_file": "MASE-2026-0153300.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0153300",
+        "data": "20/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1421154",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna - Direzione Generale dei Trasporti, in data 07/05/2026",
+        "nome_file": "MASE-2026-0097282.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0097282",
+        "data": "21/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1392529",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Osservazione Azienda Sanitaria Locale Gallura, in data 07/05/2026",
+        "nome_file": "MASE-2026-0098145.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0098145",
+        "data": "22/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1393107",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Parere Regione Sardegna - DG della pianificazione urbanistica territoriale e della vigilanza edilizia - Servizio tutela del paesaggio Sardegna Settentrionale Nord-Est, in data 07/05/2026",
+        "nome_file": "MASE-2026-0098138.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0098138",
+        "data": "18/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1390501",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Osservazioni ENAS - Ente Acque della Sardegna - Direzione Generale in data 10/04/2026",
+        "nome_file": "MASE-2026-0077618.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-00.0077618",
+        "data": "07/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1387699",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Osservazioni dell'Agenzia Regionale per la Protezione dell'Ambiente della Sardegna ARPAS - Dipartimento Sassari e Gallura, in data 22/04/2026.",
+        "nome_file": "MASE-2026-0086201.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0086201",
+        "data": "23/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1384701",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Richiesta integrazioni CTPNRR-PNIEC a VA",
+        "nome_file": "MASE_2025-0225276.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2025-0225276",
+        "data": "01/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1328966"
+      },
+      {
+        "titolo": "Richiesta integrazioni da ISPRA in merito a movimentazione dei fondali marini derivante dall'attività di posa in mare di cavi e condotte (art. 109, commi 5 e 5bis, D.lgs. 152/6).",
+        "nome_file": "MASE_2026-0009155.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2026-0009155",
+        "data": "23/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1347431"
+      },
+      {
+        "titolo": "Richiesta integrazioni della Regione Sardegna",
+        "nome_file": "MASE_2024-0237996.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2024-0237996",
+        "data": "02/01/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1192936"
+      },
+      {
+        "titolo": "Avviso al pubblico del 19/03/2025",
+        "nome_file": "Modulo_avviso_pubblico_provvedimento_unico.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MASE-2025-0051782",
+        "data": "19/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1231186"
+      },
+      {
+        "titolo": "STUDIO IMPATTO AMBIENTALE",
+        "nome_file": "C0423YR00RELSIA00a.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "C0423YR00RELSIA00a",
+        "data": "04/12/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1180342"
+      },
+      {
+        "titolo": "Integrazioni del 17/02/2025 - Elenco elaborati",
+        "nome_file": "P005PUA_GR000ELEINT01a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-GR000ELEINT01a",
+        "data": "27/02/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1222085"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Elenco elaborati",
+        "nome_file": "P005PUA_GR000ELEINT02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-GR000ELEINT02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377388"
+      },
+      {
+        "titolo": "Integrazioni del 23/03/2026 - Sottostazione Trasformazione, Misura e Consegna - Rendering",
+        "nome_file": "P005PUA_RT001FOTINS02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P005PUA-RT001FOTINS02a",
+        "data": "07/04/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1377389"
+      },
+      {
+        "titolo": "Integrazioni del 17/02/2025 - Ubicazione Opere a Terra su Stralcio Carta Uso del Suolo",
+        "nome_file": "C0423BT00CARUDS00a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "C0423BT00CARUDS00a",
+        "data": "27/02/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1222086"
+      },
+      {
+        "titolo": "Integrazioni del 17/02/2025 - Planimetria Elettromeccanica Sottostazione di Trasformazione, Misura e Consegna",
+        "nome_file": "C0423ET00PELTRA00a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "C0423ET00PELTRA00a",
+        "data": "27/02/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1222087"
+      }
+    ]
+  }
+}

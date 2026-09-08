@@ -1,0 +1,1227 @@
+{
+  "id_vip": "7555",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/8508",
+  "nome_progetto": "Progetto di un impianto per la produzione di energia elettrica da fonte eolica denominato \"Parco eolico Buddusò\" costituito da 7 aereogeneratori con potenza unitaria di 6MW, per una potenza complessiva di 42MW, e delle relative opere di connessione alla RTN da realizzarsi nel Comune di Buddusò (OT).",
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM) 7555\nOggetto: Progetto di un impianto per la produzione di energia elettrica da fonte eolica denominato \"Parco eolico Buddusò\" costituito da 7 aereogeneratori con potenza unitaria di 6MW, per una potenza complessiva di 42MW, e delle relative opere di connessione alla RTN da realizzarsi nel Comune di Buddusò (OT).\nData presentazione istanza: 25/10/2021\nData richiesta perfezionamento della documentazione: 21/04/2022\nData ricezione atti di perfezionamento della documentazione: 22/06/2022\nData avvio consultazione pubblica: 19/07/2022\nTermine presentazione Osservazioni del Pubblico: 18/08/2022\nData richiesta Integrazioni: 26/02/2026\nData comunicazione avvio nuova consultazione pubblica: 25/10/2023\nTermine presentazione Osservazioni del Pubblico su ripubblicazione : 09/11/2023\nData II ripubblicazione: 13/07/2026\nTermine presentazione Osservazioni del Pubblico - II ripubblicazione: 28/07/2026\nResponsabile del procedimento: Mario Botta - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Supplemento istruttoria tecnica CTPNRR-PNIEC",
+  "hash_dettagli": "9bc23377afeb02c75a9e99bdc44aef41ba46c8652c94393aa739f943f54e6812",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elenchi Elaborati",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Piano di utilizzo dei materiali di scavo",
+      "Osservazioni del Pubblico",
+      "Osservazioni del Pubblico inviate oltre i termini",
+      "Richiesta integrazioni della documentazione",
+      "Documentazione integrativa/Documentazione integrativa volontaria",
+      "Osservazioni del Pubblico inviate oltre i termini (I)",
+      "Pareri/Osservazioni Enti (I)",
+      "Controdeduzioni (I)",
+      "Pareri/Osservazioni Enti (II)"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna in data 12/08/2022",
+        "nome_file": "MiTE-2022-0101224.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MiTE-2022-0101224",
+        "data": "19/08/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/677439",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna assessorato della difesa dell'ambiente in data 01/09/2022",
+        "nome_file": "MiTE-2022-0105720.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MiTE-2022-0105720",
+        "data": "13/09/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/689045",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna assessorato della difesa dell'ambiente in data 06/09/2022",
+        "nome_file": "MiTE-2022-0107125.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MiTE-2022-0107125",
+        "data": "14/09/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/690967",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - elenco_doc_tecnica_signed",
+        "nome_file": "elenco_doc_tecnica_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "elenco-doc-tecnica-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410661",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - BDP_260625_MASE_InvioIntegr_signed",
+        "nome_file": "BDP_260625_MASE_InvioIntegr_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "BDP-260625-MASE-InvioIntegr-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410662",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Elettrodotti aerei: attività di cantiere e misure di ripristino e mitigazione",
+        "nome_file": "020_20_01_R01_1_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-01-R01-1-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410663",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - SCHEDE RECETTORI CEM",
+        "nome_file": "020_20_01_R27_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-01-R27-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410664",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - DISCIPLINARE ELEMENTI TECNICI",
+        "nome_file": "020_20_01_R31_Rev_01_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-01-R31-Rev-01-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410665",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Linea 365 - \"C.P. Chilivani - Centrale di Ozieri\" Ubicazione cantieri temporanei, piste di accesso ed aree soggette a modificazioni temporanee",
+        "nome_file": "020_20_01_W34-Tavole_1-9_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-01-W34-Tavole-1-9-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410666",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Linea 385 \"Centrale Ozieri - C.P. Buddusò\" Ubicazione cantieri temporanei, piste di accesso ed aree soggette a modificazioni temporanee",
+        "nome_file": "020_20_01_W34-Tavole_10-17_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-01-W34-Tavole-10-17-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410667",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Linea 366 \"C.P. Buddusò - C. P. Siniscola 2\" Ubicazione cantieri temporanei, piste di accesso ed aree soggette a modificazioni temporanee",
+        "nome_file": "020_20_01_W34-Tavole_18-29_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-01-W34-Tavole-18-29-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410668",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - COMPUTO METRICO ESTIMATIVO",
+        "nome_file": "020_20_01_X33_Rev01_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-01-X33-Rev01-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410669",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.2.1.1a Assetto Ambientale - PPR Sardegna",
+        "nome_file": "020_20_02_R01-Fig_2_2_1_1a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-Fig-2-2-1-1a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410670",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.2.1.1b Assetto Storico Culturale - PPR Sardegna",
+        "nome_file": "020_20_02_R01-Fig_2_2_1_1b_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-Fig-2-2-1-1b-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410671",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.2.1.1c Assetto Insediativo - PPR Sardegna",
+        "nome_file": "020_20_02_R01-Fig_2_2_1_1c_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-Fig-2-2-1-1c-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410672",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.2.1.1d Ricognizione aree soggette a vincolo ai sensi degli artt.136-142 del D.Lgs.42/2004 e s.m.i.",
+        "nome_file": "020_20_02_R01-Fig_2_2_1_1d_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-Fig-2-2-1-1d-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410673",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.3a Estratti c artografie d e lla pianific azione c om unale",
+        "nome_file": "020_20_02_R01-Fig_2_3a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-Fig-2-3a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410674",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.4.6.1a Aree soggette a Vincolo Idrogeologico",
+        "nome_file": "020_20_02_R01-Fig_2_4_6_1a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-Fig-2-4-6-1a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410675",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.4.7.1a Rete Natura 2000 e altre aree naturali protette",
+        "nome_file": "020_20_02_R01-Fig_2_4_7_1a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-Fig-2-4-7-1a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410676",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 4.2.2.1a Corsi d'acqua principali e bacini idrografici",
+        "nome_file": "020_20_02_R01-Fig_4_2_2_1a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-Fig-4-2-2-1a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410677",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 4.2.3.1b Carta Litologica",
+        "nome_file": "020_20_02_R01-Fig_4_2_3_1b_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-Fig-4-2-3-1b-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410678",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 4.2.4a Area Vasta di Studio",
+        "nome_file": "020_20_02_R01-Fig_4_2_4a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-Fig-4-2-4a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410679",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 4.2.4.1a Rete Natura 2000 e altre aree naturali protette",
+        "nome_file": "020_20_02_R01-Fig_4_2_4_1a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-Fig-4-2-4-1a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410680",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 4.2.4.2.1a Serie di vegetazione presenti nel contesto territoriale dell'Area Vasta (ridisegnato da Blasi, 2010, La vegetazione d'Italia, Carta delle Serie di Vegetazione), con sottolineato le denominazioni delle serie che ricadono entro il limite dell'Area Vasta (linea blu)",
+        "nome_file": "020_20_02_R01-Fig_4_2_4_2_1a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-Fig-4-2-4-2-1a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410681",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 4.2.4.2.1b Carta della vegetazione su base fisionomica e fitosociologica nell'Area Vasta",
+        "nome_file": "020_20_02_R01-Fig_4_2_4_2_1b_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-Fig-4-2-4-2-1b-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410682",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 4.2.4.4a Carta degli ecosistemi dell'Area Vasta",
+        "nome_file": "020_20_02_R01-Fig_4_2_4_4a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-Fig-4-2-4-4a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410683",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 4.2.5.3a Linee Elettriche nell'Area di Studio",
+        "nome_file": "020_20_02_R01-Fig_4_2_5_3a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-Fig-4-2-5-3a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410684",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Documentazione integrativa",
+        "nome_file": "020_20_02_R01_1_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-1-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410685",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - SIA - STUDIO DI IMPATTO AMBIENTALE",
+        "nome_file": "020_20_02_R01_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R01-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410686",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2a Localizzazione interventi in progetto",
+        "nome_file": "020_20_02_R02-Fig_2a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R02-Fig-2a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410687",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 7.7.2.2a Ubicazione punti di vista fotoinserimenti",
+        "nome_file": "020_20_02_R02-Fig_7_7_2_2a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R02-Fig-7-7-2-2a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410688",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Fotoinserimenti",
+        "nome_file": "020_20_02_R02-Fig_7_7_2_2b-k_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R02-Fig-7-7-2-2b-k-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410689",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - SINTESI NON TECNICA",
+        "nome_file": "020_20_02_R02_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R02-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410690",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 1a Localizzazione interventi in progetto",
+        "nome_file": "020_20_02_R03-Fig_1a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R03-Fig-1a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410691",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.1.1.1a Assetto Ambientale - PPR Sardegna",
+        "nome_file": "020_20_02_R03-Fig_2_1_1_1a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R03-Fig-2-1-1-1a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410692",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.1.1.1b Assetto Storico Culturale - PPR Sardegna",
+        "nome_file": "020_20_02_R03-Fig_2_1_1_1b_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R03-Fig-2-1-1-1b-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410693",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.1.1.1c Assetto Insediativo - PPR Sardegna",
+        "nome_file": "020_20_02_R03-Fig_2_1_1_1c_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R03-Fig-2-1-1-1c-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410694",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.1.1.1d Ricognizione aree soggette a vincolo ai sensi degli artt.136-142 del D.Lgs.42/2004 e s.m.i.",
+        "nome_file": "020_20_02_R03-Fig_2_1_1_1d_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R03-Fig-2-1-1-1d-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410695",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.2a Estratti c artografie d e lla pianific azione c om unale",
+        "nome_file": "020_20_02_R03-Fig_2_2a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R03-Fig-2-2a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410696",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 4.1.2a Ubicazione punti di vista fotoinserimenti",
+        "nome_file": "020_20_02_R03-Fig_4_1_2a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R03-Fig-4-1-2a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410697",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Fotoinserimenti",
+        "nome_file": "020_20_02_R03-Fig_4_1_2b-k_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R03-Fig-4-1-2b-k-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410698",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Allegato A: Relazione Paesaggistica",
+        "nome_file": "020_20_02_R03_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R03-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410699",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Formulari Standard ZSC ITB011113 Campo di Ozieri e Pianure Comprese tra Tula e Oschiri ZPS ITB013048 Piana di Ozieri, Mores, Ardara, Tula e Oschiri ZSC ITB021107 Monte Albo",
+        "nome_file": "020_20_02_R04-Appendice_1_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R04-Appendice-1-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410700",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 1a Localizzazione interventi in progetto e Rete Natura 2000",
+        "nome_file": "020_20_02_R04-Fig_1a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R04-Fig-1a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410701",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Osservazioni Assessorato Difesa Ambiente",
+        "nome_file": "020_20_02_R04_1_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R04-1-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410702",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Allegato B: Studio di Incidenza Ecologica",
+        "nome_file": "020_20_02_R04_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R04-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410703",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Appendice 1 Certificato del Tecnico Competente in Acustica Ambientale",
+        "nome_file": "020_20_02_R05-Appendice_1_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R05-Appendice-1-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410704",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 3.1a Estratti PCCA Comuni di Ozieri, Bitti e Siniscola",
+        "nome_file": "020_20_02_R05-Fig_3_1a_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R05-Fig-3-1a-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410705",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Allegato C: Valutazione previsionale di Impatto Acustico",
+        "nome_file": "020_20_02_R05_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R05-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410706",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Evidenze archeologiche - Vincoli in rete - Lodè, Siniscola",
+        "nome_file": "020_20_02_R06-Allegato_10_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R06-Allegato-10-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410707",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Linea 365 \"C.P. Chilivani - Centrale Ozieri\" Corografia",
+        "nome_file": "020_20_02_R06-Allegato_1_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R06-Allegato-1-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410708",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Linea 385 \"Centrale Ozieri - C.P. Buddusò\" Corografia",
+        "nome_file": "020_20_02_R06-Allegato_2_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R06-Allegato-2-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410709",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Linea 366 \"C.P. Buddusò - C.P. Siniscola 2\" Corografia",
+        "nome_file": "020_20_02_R06-Allegato_3_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R06-Allegato-3-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410710",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Carta litologica della Sardegna",
+        "nome_file": "020_20_02_R06-Allegato_4_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R06-Allegato-4-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410711",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUC Siniscola",
+        "nome_file": "020_20_02_R06-Allegato_5_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R06-Allegato-5-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410712",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Carta Archeologica Comune di Lodè_2009",
+        "nome_file": "020_20_02_R06-Allegato_6_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R06-Allegato-6-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410713",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Linea 365 \"C.P. Chilivani - Centrale Ozieri\" Evidenze archeologiche ed architettoniche da bibliografia",
+        "nome_file": "020_20_02_R06-Allegato_7_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R06-Allegato-7-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410714",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Evidenze archeologiche - Vincoli in rete - Ozieri",
+        "nome_file": "020_20_02_R06-Allegato_8_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R06-Allegato-8-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410715",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Evidenze archeologiche - Vincoli in rete - Pattada, Buddusò",
+        "nome_file": "020_20_02_R06-Allegato_9_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R06-Allegato-9-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410716",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Linea 365 - \"C.P. Chilivani - Centrale di Ozieri\" Proposta di Piano Operativo Saggi Archeologici Scavi per Fondazioni Sostegni",
+        "nome_file": "020_20_02_R06_1-Allegato_11_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R06-1-Allegato-11-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410717",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Linea 385 - \"Centrale Ozieri - CP Buddusò\" Proposta di Piano Operativo Saggi Archeologici Scavi per Fondazioni Sostegni",
+        "nome_file": "020_20_02_R06_1-Allegato_12_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R06-1-Allegato-12-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410718",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Linea 366 - \"Buddusò - Siniscola 2\" Proposta di Piano Operativo Saggi Archeologici Scavi per Fondazioni Sostegni",
+        "nome_file": "020_20_02_R06_1-Allegato_13_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R06-1-Allegato-13-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410719",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PROPOSTA PIANO OPERATIVO DI SAGGI ARCHEOLOGICI",
+        "nome_file": "020_20_02_R06_1_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R06-1-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410720",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - RELAZIONE ARCHEOLOGICA",
+        "nome_file": "020_20_02_R06_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R06-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410721",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Carta litologica della Sardegna",
+        "nome_file": "020_20_02_R07-Allegato_1_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-Allegato-1-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410722",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.4.1.1a Aree soggette a pericolosità idraulica - PAI Sardegna",
+        "nome_file": "020_20_02_R07-Allegato_2_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-Allegato-2-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410723",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.4.1.1b Aree soggette a pericolosità da frana - PAI Sardegna",
+        "nome_file": "020_20_02_R07-Allegato_3_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-Allegato-3-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410724",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.4.2.1a Fasce fluviali - PSFF Sardegna",
+        "nome_file": "020_20_02_R07-Allegato_4_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-Allegato-4-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410725",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Figura 2.4.3.1a Aree soggette a pericolosità da alluvione - PGRA Sardegna",
+        "nome_file": "020_20_02_R07-Allegato_5_TF.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-Allegato-5-TF",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410726",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL1_Carte_Geologiche_1",
+        "nome_file": "020_20_02_R07_ALL1_Carte_Geologiche_1_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL1-Carte-Geologiche-1-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410727",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL1_Carte_Geologiche_2",
+        "nome_file": "020_20_02_R07_ALL1_Carte_Geologiche_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL1-Carte-Geologiche-2-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410728",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL1_Carte_Geologiche_3",
+        "nome_file": "020_20_02_R07_ALL1_Carte_Geologiche_3_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL1-Carte-Geologiche-3-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410729",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL1_Carte_Geologiche_4",
+        "nome_file": "020_20_02_R07_ALL1_Carte_Geologiche_4_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL1-Carte-Geologiche-4-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410730",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL1_Carte_Geologiche_5",
+        "nome_file": "020_20_02_R07_ALL1_Carte_Geologiche_5_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL1-Carte-Geologiche-5-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410731",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL1_Carte_Geologiche_6",
+        "nome_file": "020_20_02_R07_ALL1_Carte_Geologiche_6_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL1-Carte-Geologiche-6-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410732",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL1_Carte_Geologiche_7",
+        "nome_file": "020_20_02_R07_ALL1_Carte_Geologiche_7_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL1-Carte-Geologiche-7-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410733",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL1_Carte_Geologiche_8",
+        "nome_file": "020_20_02_R07_ALL1_Carte_Geologiche_8_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL1-Carte-Geologiche-8-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410734",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL1_Carte_Geologiche_9",
+        "nome_file": "020_20_02_R07_ALL1_Carte_Geologiche_9_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL1-Carte-Geologiche-9-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410735",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL2_Carte_PAI_Idraulica_1",
+        "nome_file": "020_20_02_R07_ALL2_Carte_PAI_Idraulica_1_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL2-Carte-PAI-Idraulica-1-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410736",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL2_Carte_PAI_Idraulica_2",
+        "nome_file": "020_20_02_R07_ALL2_Carte_PAI_Idraulica_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL2-Carte-PAI-Idraulica-2-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410737",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL2_Carte_PAI_Idraulica_3",
+        "nome_file": "020_20_02_R07_ALL2_Carte_PAI_Idraulica_3_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL2-Carte-PAI-Idraulica-3-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410738",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL2_Carte_PAI_Idraulica_4",
+        "nome_file": "020_20_02_R07_ALL2_Carte_PAI_Idraulica_4_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL2-Carte-PAI-Idraulica-4-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410739",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL2_Carte_PAI_Idraulica_5",
+        "nome_file": "020_20_02_R07_ALL2_Carte_PAI_Idraulica_5_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL2-Carte-PAI-Idraulica-5-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410740",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL2_Carte_PAI_Idraulica_6",
+        "nome_file": "020_20_02_R07_ALL2_Carte_PAI_Idraulica_6_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL2-Carte-PAI-Idraulica-6-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410741",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL2_Carte_PAI_Idraulica_7",
+        "nome_file": "020_20_02_R07_ALL2_Carte_PAI_Idraulica_7_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL2-Carte-PAI-Idraulica-7-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410742",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL2_Carte_PAI_Idraulica_8",
+        "nome_file": "020_20_02_R07_ALL2_Carte_PAI_Idraulica_8_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL2-Carte-PAI-Idraulica-8-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410743",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL2_Carte_PAI_Idraulica_9",
+        "nome_file": "020_20_02_R07_ALL2_Carte_PAI_Idraulica_9_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL2-Carte-PAI-Idraulica-9-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410744",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL3_Carte_PAI_Frane_1",
+        "nome_file": "020_20_02_R07_ALL3_Carte_PAI_Frane_1_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL3-Carte-PAI-Frane-1-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410745",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL3_Carte_PAI_Frane_2",
+        "nome_file": "020_20_02_R07_ALL3_Carte_PAI_Frane_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL3-Carte-PAI-Frane-2-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410746",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL3_Carte_PAI_Frane_3",
+        "nome_file": "020_20_02_R07_ALL3_Carte_PAI_Frane_3_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL3-Carte-PAI-Frane-3-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410747",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL3_Carte_PAI_Frane_4",
+        "nome_file": "020_20_02_R07_ALL3_Carte_PAI_Frane_4_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL3-Carte-PAI-Frane-4-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410748",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL3_Carte_PAI_Frane_5",
+        "nome_file": "020_20_02_R07_ALL3_Carte_PAI_Frane_5_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL3-Carte-PAI-Frane-5-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410749",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL3_Carte_PAI_Frane_6",
+        "nome_file": "020_20_02_R07_ALL3_Carte_PAI_Frane_6_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL3-Carte-PAI-Frane-6-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410750",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL3_Carte_PAI_Frane_7",
+        "nome_file": "020_20_02_R07_ALL3_Carte_PAI_Frane_7_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL3-Carte-PAI-Frane-7-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410751",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL3_Carte_PAI_Frane_8",
+        "nome_file": "020_20_02_R07_ALL3_Carte_PAI_Frane_8_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL3-Carte-PAI-Frane-8-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410752",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ALL3_Carte_PAI_Frane_9",
+        "nome_file": "020_20_02_R07_ALL3_Carte_PAI_Frane_9_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-ALL3-Carte-PAI-Frane-9-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410753",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - RELAZIONE GEOLOGICA VERIFICA COMPATIBILITA' IDRAULICA VERIFICA COMPATIBILITA' GEOLOGICA E GEOTECNICA",
+        "nome_file": "020_20_02_R07_Rev03_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "020-20-02-R07-Rev03-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410754",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Aerogeneratore tipo (B06) di altezza al tip pari a 180m",
+        "nome_file": "C20025S05-PD-EC-39-01_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "C20025S05-PD-EC-39-01-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410755",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - ndividuazione delle interferenze con reticolo idrografico",
+        "nome_file": "C20025S05-PD-PL-34-01_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "C20025S05-PD-PL-34-01-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410756",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Planimetria con individuazione DPA per elettromagnetismo",
+        "nome_file": "C20025S05-PD-PL-35-01_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "C20025S05-PD-PL-35-01-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410757",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Individuazione delle fasce di gestione delle vegetazione e mantenimento condizioni di ridotto carico combustibile per prevenzione incendi",
+        "nome_file": "C20025S05-PD-PL-36-01_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "C20025S05-PD-PL-36-01-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410758",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Individuazione opere di rete su IGM",
+        "nome_file": "C20025S05-PD-PL-37-01_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "C20025S05-PD-PL-37-01-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410759",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Proposta B06 configurazione Standard a confronto Just In Time",
+        "nome_file": "C20025S05-PD-PL-38-01_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "C20025S05-PD-PL-38-01-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410760",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Inquadramento Impianto Eolico su PAI",
+        "nome_file": "C20025S05-VA-PL-05-03_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "C20025S05-VA-PL-05-03-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410761",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Documentazione previsionale di impatto acustico",
+        "nome_file": "C20025S05-VA-RT-07-03_signed_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "C20025S05-VA-RT-07-03-signed-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410762",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Relazione Gittata Massima Elementi Rotanti e Analisi di Possibili Incidenti",
+        "nome_file": "C20025S05-VA-RT-08-03_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "C20025S05-VA-RT-08-03-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410763",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Piano di monitoraggio ambientale",
+        "nome_file": "C20025S05-VA-RT-12-03_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "C20025S05-VA-RT-12-03-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410764",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Piano preliminare antincendio boschivo",
+        "nome_file": "C20025S05-VA-RT-14-01_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "C20025S05-VA-RT-14-01-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410765",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Relazione di approfondimento su flora,avifauna e chirotterofauna dell'area",
+        "nome_file": "C20025S05-VA-RT-15-01_signed_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "C20025S05-VA-RT-15-01-signed-signed",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410766",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Osservazioni Coordinamento Gallura per la Difesa della Sardegna in data 20/03/2026",
+        "nome_file": "MASE-2026-0062503.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (I)",
+        "codice_elaborato": "MASE-2026-0062503",
+        "data": "06/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1386564",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (I)"
+      },
+      {
+        "titolo": "Osservazioni del Coordinamento Gallura Contro la Speculazione Eolica e Fotovoltaica, in data 18/02/2026",
+        "nome_file": "MASE-2026-0035136.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (I)",
+        "codice_elaborato": "MASE-2026-0035136",
+        "data": "20/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1366625",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (I)"
+      },
+      {
+        "titolo": "Osservazioni del Coordinamento Gallura Contro la Speculazione Eolica e Fotovoltaica, in data 18/02/2026",
+        "nome_file": "MASE-2026-0035138.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (I)",
+        "codice_elaborato": "MASE-2026-0035138",
+        "data": "20/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1366563",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (I)"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna Assessorato della Difesa dell'Ambiente - irezione Generale dell'Ambiente. in data 21/12/2023",
+        "nome_file": "MASE-2023-0211000.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (I)",
+        "codice_elaborato": "MASE-2023-0211000",
+        "data": "22/12/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/952119",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (I)"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma Sardegna ASSESSORATO DELLA DIFESA DELL'AMBIENTEin data 09/11/2023",
+        "nome_file": "MASE-2023-0181433.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (I)",
+        "codice_elaborato": "MASE-2023-0181433",
+        "data": "10/11/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/931098",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (I)"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma Sardegna ASSESSORATO DELLA DIFESA DELL'AMBIENTEin data 10/11/2023",
+        "nome_file": "MASE-2023-081740.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (I)",
+        "codice_elaborato": "MASE-2023-081740",
+        "data": "10/11/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/931095",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (I)"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna Direzione Generale dei Lavori Pubblici in data 10/11/2023",
+        "nome_file": "MASE-2023-0182222.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (I)",
+        "codice_elaborato": "MASE-2023-0182222",
+        "data": "13/11/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/931250",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (I)"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna assessorato della difesa dell'ambiente in data 13/11/2023",
+        "nome_file": "MASE-2023-0183117.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (I)",
+        "codice_elaborato": "MASE-2023-0183117",
+        "data": "13/11/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/932850",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (I)"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna, in data 07/08/2026",
+        "nome_file": "MASE-2026-0170943.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2026-0170943",
+        "data": "31/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1422712",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere del Ministero dell'Università e della Ricerca - Direzione Generale dell'internazionalizzazione in data 31/08/2026",
+        "nome_file": "MASE-2026-0179700.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0179700",
+        "data": "31/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1423061",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Osservazioni dell'ASL Gallura in data 28/07/2026",
+        "nome_file": "MASE-2026-0161561.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0161561",
+        "data": "26/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1422338",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Osservazioni dell'ENAS - Ente Acque della Sardegna in data 30/07/2026",
+        "nome_file": "MASE-2026-0163590.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0163590",
+        "data": "26/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1422332",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Osservazioni del Consorzio di Bonifica della Gallura in data 23/07/2026",
+        "nome_file": "MASE-2026-0157194.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0157194",
+        "data": "26/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1422318",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna - Direzione generale della pianificazione urbanistica territoriale e della vigilanza edilizia - Servizio tutela paesaggio Sardegna settentrionale Nord Est in data 28/07/2026",
+        "nome_file": "MASE-2026-0160656.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0160656",
+        "data": "24/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1421463",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Osservazioni della Regione Autonoma della Sardegna - Direzione Generale dei Lavori Pubblici , in data 17/07/2026",
+        "nome_file": "MASE-2026-0153272.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0153272",
+        "data": "24/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1421341",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al Pubblico del 19/07/2022",
+        "nome_file": "7555-Modulo_Avviso_Pubblico_VIA.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MiTE-2022-0090205",
+        "data": "19/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/663992"
+      },
+      {
+        "titolo": "C20025S05-VA-RT-01-01",
+        "nome_file": "C20025S05-VA-RT-01-01.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "C20025S05-VA-RT-01-01",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/663952"
+      },
+      {
+        "titolo": "C20025S05-VA-RT-02-01",
+        "nome_file": "C20025S05-VA-RT-02-01.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "C20025S05-VA-RT-02-01",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/663953"
+      },
+      {
+        "titolo": "C20025S05-VA-RT-03-01",
+        "nome_file": "C20025S05-VA-RT-03-01.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "C20025S05-VA-RT-03-01",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/663954"
+      },
+      {
+        "titolo": "C20025S05-VA-RT-04-01",
+        "nome_file": "C20025S05-VA-RT-04-01.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "C20025S05-VA-RT-04-01",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/663955"
+      },
+      {
+        "titolo": "C20025S05-VA-RT-05-01",
+        "nome_file": "C20025S05-VA-RT-05-01.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "C20025S05-VA-RT-05-01",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/663956"
+      },
+      {
+        "titolo": "C20025S05-VA-RT-06-01",
+        "nome_file": "C20025S05-VA-RT-06-01.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "C20025S05-VA-RT-06-01",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/663957"
+      },
+      {
+        "titolo": "C20025S05-VA-RT-07-01",
+        "nome_file": "C20025S05-VA-RT-07-01.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "C20025S05-VA-RT-07-01",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/663958"
+      },
+      {
+        "titolo": "C20025S05-VA-RT-08-01",
+        "nome_file": "C20025S05-VA-RT-08-01.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "C20025S05-VA-RT-08-01",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/663959"
+      },
+      {
+        "titolo": "C20025S05-VA-RT-09-01",
+        "nome_file": "C20025S05-VA-RT-09-01.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "C20025S05-VA-RT-09-01",
+        "data": "15/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/663960"
+      }
+    ]
+  }
+}

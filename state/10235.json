@@ -1,0 +1,725 @@
+{
+  "id_vip": "10235",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/10155",
+  "nome_progetto": "Istanza per il rilascio del provvedimento di VIA nell'ambito del Provvedimento unico in materia ambientale ai sensi dell'art. 27 del D.Lgs. n. 152/2006 relativa al progetto di un Parco eolico offshore al largo delle coste di Civitavecchia",
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM) 10235\nOggetto: Istanza per il rilascio del provvedimento di VIA nell'ambito del Provvedimento unico in materia ambientale ai sensi dell'art. 27 del D.Lgs. n. 152/2006 relativa al progetto di un Parco eolico offshore al largo delle coste di Civitavecchia\nData presentazione istanza: 14/08/2023\nData richiesta verifica completezza documentazione a Enti competenti per autorizzazioni ambientali: 18/09/2023\nData richiesta integrazioni di perfezionamento della documentazione: 15/01/2024\nData ricezione integrazioni di perfezionamento della documentazione: 14/02/2024\nData avvio consultazione pubblica: 29/03/2024\nTermine presentazione Osservazioni del Pubblico: 28/05/2024\nData richiesta Integrazioni: 25/09/2024\nData ricezione Integrazioni: 30/12/2024\nData comunicazione avvio nuova consultazione pubblica: 13/07/2026\nTermine presentazione Osservazioni del Pubblico su ripubblicazione : 12/08/2026\nNote: Precedente data comunicazione avvio nuova consultazione pubblica: 21/01/2025 Precedente termine presentazione Osservazioni del Pubblico su ripubblicazione : 20/02/2025\nResponsabile del procedimento: Yuri Bonansea - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Istruttoria tecnica CTPNRR-PNIEC",
+  "hash_dettagli": "b4e93d63afea3eb93d8936ac9a86af7b2ea0ad1a60915dfc3af6b7b3f7a35c3d",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elenchi Elaborati",
+      "Elaborati di Progetto",
+      "Relazione di incidenza",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Varie",
+      "Osservazioni del Pubblico",
+      "Controdeduzioni",
+      "Immersione in mare di materiale art. 109 D.Lgs. 152/2006",
+      "Autorizzazione paesaggistica art. 146 D.Lgs. 42/2004",
+      "Vincolo idrogeologico",
+      "Richiesta integrazioni della documentazione",
+      "Documentazione integrativa/Documentazione integrativa volontaria",
+      "Osservazioni del Pubblico inviate oltre i termini (I)",
+      "Pareri/Osservazioni Enti (I)",
+      "Pareri/Osservazioni Enti (II)"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni della Signora Simona Ricotti, Responsabile nazionale Energia del Forum Ambientalista ODV,in data 29/05/2024",
+        "nome_file": "MASE-2024-0098456.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0098456",
+        "data": "29/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1073957",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Monica Tommasi, Presidente dell'Associazione Amici della Terra Onlus, in data 29/05/2024",
+        "nome_file": "MASE-2024-0098390.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0098390",
+        "data": "29/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1073956",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Regione Lazio - Direzione Regionale Urbanistica e Politiche Abitative, Pianificazione Territoriale, Politiche del Mare Area Urbanistica, Copianificazione e Programmazione Negoziata, Roma Capitale e Città Metropolitana di Roma Capitale, in data 28/05/2024",
+        "nome_file": "MASE-2024-0097585.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0097585",
+        "data": "28/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1069876",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Ministero delle Infrastrutture e dei Trasporti Capitaneria di porto di Civitavecchia, in data 27/05/2024",
+        "nome_file": "MASE-2024-0097144.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0097144",
+        "data": "28/05/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1069678",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Elenco elaborati",
+        "nome_file": "P004PUA_AR001ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-GR000ELEINT02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410986",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Modulo Progetto (MOPR)",
+        "nome_file": "P004PUA_AR002ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-AR001ARCTPR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410987",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Modulo sito/Aree archeologiche (MOSI), Pianta generale",
+        "nome_file": "P004PUA_AR003ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-AR002ARCTPR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410988",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Modulo Sito/Aree archeologiche (MOSI)",
+        "nome_file": "P004PUA_AR004ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-AR003ARCTPR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410989",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Carta della Visibilità. Pianta generale",
+        "nome_file": "P004PUA_AR005ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-AR004ARCTPR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410990",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Carta dell'Uso del Suolo o Coperture. Pianta Generale",
+        "nome_file": "P004PUA_AR006ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-AR005ARCTPR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410991",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Dettagli ricognizione - Unità di ricognizione UR",
+        "nome_file": "P004PUA_AR007ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-AR006ARCTPR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410992",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Schede di unità topografica (UT)",
+        "nome_file": "P004PUA_AR008ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-AR007ARCTPR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410993",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Carta del Potenziale archeologico",
+        "nome_file": "P004PUA_AR009ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-AR008ARCTPR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410994",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Carta del rischio archeologico",
+        "nome_file": "P004PUA_BR001POSELE02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-AR009ARCTPR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410995",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Immersione in mare di materiale derivante da attività di escavo e attività di posa in mare di cavi e condotte art.109 c.1b e 5 D.lgs 152/2006. Certificati prove di laboratorio.",
+        "nome_file": "P004PUA_GR000ELEINT02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-BR001POSELE02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410996",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Piano particellare",
+        "nome_file": "P004PUA_GR000INTSIA02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-GR000PIAPAR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410997",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Layout di Cantiere Sottostazione di Misura e Consegna",
+        "nome_file": "P004PUA_GR000PIAPAR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-KT000LAYCAN02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410998",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Layout di Cantiere Sottostazione di Trasformazione",
+        "nome_file": "P004PUA_KT000LAYCAN02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-KT001LAYCAN02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410999",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Layout di Cantiere - TOC, TJB e elettrodotto interrato",
+        "nome_file": "P004PUA_KT001LAYCAN02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-KT002LAYCAN02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411000",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Layout di Cantiere - TOC Elettrodotto Marino di Esportazione 66kV (Ofec)",
+        "nome_file": "P004PUA_KT002LAYCAN02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-KT003LAYCAN02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411001",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Fotoinserimento Sottostazione di Trasformazione",
+        "nome_file": "P004PUA_KT003LAYCAN02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT000FOTINS02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411002",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT002 RENDERING E WIRELINE DI CONTESTO DELL'IMPIANTO, CONDIZIONE CLIMATICA RARA (CLEAR SKY) E PREVALENTE (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT000FOTINS02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT000VPT00202a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411003",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT003 RENDERING E WIRELINE DI CONTESTO DELL'IMPIANTO, CONDIZIONE CLIMATICA RARA (CLEAR SKY) E PREVALENTE (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT000VPT00202a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT000VPT00302a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411004",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT004 RENDERING E WIRELINE DI CONTESTO DELL'IMPIANTO, CONDIZIONE CLIMATICA RARA (CLEAR SKY) E PREVALENTE (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT000VPT00302a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT000VPT00402a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411005",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT007 RENDERING E WIRELINE DI CONTESTO DELL'IMPIANTO, CONDIZIONE CLIMATICA RARA (CLEAR SKY) E PREVALENTE (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT000VPT00402a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT000VPT00702a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411006",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT008 RENDERING E WIRELINE DI CONTESTO DELL'IMPIANTO, CONDIZIONE CLIMATICA RARA (CLEAR SKY) E PREVALENTE (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT000VPT00702a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT000VPT00802a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411007",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT009 RENDERING E WIRELINE DI CONTESTO DELL'IMPIANTO, CONDIZIONE CLIMATICA RARA (CLEAR SKY) E PREVALENTE (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT000VPT00802a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT000VPT00902a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411008",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT011 RENDERING E WIRELINE DI CONTESTO DELL'IMPIANTO, CONDIZIONE CLIMATICA RARA (CLEAR SKY) E PREVALENTE (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT000VPT00902a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT000VPT01102a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411009",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT012 RENDERING E WIRELINE DI CONTESTO DELL'IMPIANTO, CONDIZIONE CLIMATICA RARA (CLEAR SKY) E PREVALENTE (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT000VPT01102a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT000VPT01202a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411010",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT013 RENDERING E WIRELINE DI CONTESTO DELL'IMPIANTO, CONDIZIONE CLIMATICA RARA (CLEAR SKY) E PREVALENTE (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT000VPT01202a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT000VPT01302a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411011",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT014 RENDERING E WIRELINE DI CONTESTO DELL'IMPIANTO, CONDIZIONE CLIMATICA RARA (CLEAR SKY) E PREVALENTE (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT000VPT01302a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT000VPT01402a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411012",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT016 RENDERING E WIRELINE DI CONTESTO DELL'IMPIANTO, CONDIZIONE CLIMATICA RARA (CLEAR SKY) E PREVALENTE (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT000VPT01402a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT000VPT01602a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411013",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT018 RENDERING E WIRELINE DI CONTESTO DELL'IMPIANTO, CONDIZIONE CLIMATICA RARA (CLEAR SKY) E PREVALENTE (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT000VPT01602a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT000VPT01802a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411014",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT019 RENDERING E WIRELINE DI CONTESTO DELL'IMPIANTO, CONDIZIONE CLIMATICA RARA (CLEAR SKY) E PREVALENTE (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT000VPT01802a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT000VPT01902a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411015",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT020 RENDERING E WIRELINE DI CONTESTO DELL'IMPIANTO, CONDIZIONE CLIMATICA RARA (CLEAR SKY) E PREVALENTE (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT000VPT01902a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT000VPT02002a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411016",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT002 RENDERING DELL'IMPIANTO IN DIMENSIONI REALI, CONDIZIONI CLIMATICHE RARE (CLEAR SKY) E PREVALENTI (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT000VPT02002a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT001VPT00202a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411017",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT003 RENDERING DELL'IMPIANTO IN DIMENSIONI REALI, CONDIZIONI CLIMATICHE RARE (CLEAR SKY) E PREVALENTI (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT001VPT00202a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT001VPT00302a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411018",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT004 RENDERING DELL'IMPIANTO IN DIMENSIONI REALI, CONDIZIONI CLIMATICHE RARE (CLEAR SKY) E PREVALENTI (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT001VPT00302a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT001VPT00402a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411019",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT007 RENDERING DELL'IMPIANTO IN DIMENSIONI REALI, CONDIZIONI CLIMATICHE RARE (CLEAR SKY) E PREVALENTI (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT001VPT00402a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT001VPT00702a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411020",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT008 RENDERING DELL'IMPIANTO IN DIMENSIONI REALI, CONDIZIONI CLIMATICHE RARE (CLEAR SKY) E PREVALENTI (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT001VPT00702a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT001VPT00802a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411021",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT009 RENDERING DELL'IMPIANTO IN DIMENSIONI REALI, CONDIZIONI CLIMATICHE RARE (CLEAR SKY) E PREVALENTI (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT001VPT00802a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT001VPT00902a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411022",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT011 RENDERING DELL'IMPIANTO IN DIMENSIONI REALI, CONDIZIONI CLIMATICHE RARE (CLEAR SKY) E PREVALENTI (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT001VPT00902a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT001VPT01102a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411023",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT012 RENDERING DELL'IMPIANTO IN DIMENSIONI REALI, CONDIZIONI CLIMATICHE RARE (CLEAR SKY) E PREVALENTI (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT001VPT01102a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT001VPT01202a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411024",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT013 RENDERING DELL'IMPIANTO IN DIMENSIONI REALI, CONDIZIONI CLIMATICHE RARE (CLEAR SKY) E PREVALENTI (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT001VPT01202a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT001VPT01302a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411025",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT014 RENDERING DELL'IMPIANTO IN DIMENSIONI REALI, CONDIZIONI CLIMATICHE RARE (CLEAR SKY) E PREVALENTI (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT001VPT01302a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT001VPT01402a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411026",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT016 RENDERING DELL'IMPIANTO IN DIMENSIONI REALI, CONDIZIONI CLIMATICHE RARE (CLEAR SKY) E PREVALENTI (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT001VPT01402a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT001VPT01602a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411027",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT018 RENDERING DELL'IMPIANTO IN DIMENSIONI REALI, CONDIZIONI CLIMATICHE RARE (CLEAR SKY) E PREVALENTI (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT001VPT01602a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT001VPT01802a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411028",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT019 RENDERING DELL'IMPIANTO IN DIMENSIONI REALI, CONDIZIONI CLIMATICHE RARE (CLEAR SKY) E PREVALENTI (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT001VPT01802a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT001VPT01902a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411029",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - PUNTO DI VISTA VPT020 RENDERING DELL'IMPIANTO IN DIMENSIONI REALI, CONDIZIONI CLIMATICHE RARE (CLEAR SKY) E PREVALENTI (CON FOSCHIA SULL'ORIZZONTE)",
+        "nome_file": "P004PUA_RT001VPT01902a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-RT001VPT02002a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411030",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Ubicazione Opere a Mare su Carta Nautica n° 6 con Perimetrazione Rotte Portuali",
+        "nome_file": "P004PUA_RT001VPT02002a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-TT000ROTPOR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411031",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Relazione paesaggistica",
+        "nome_file": "P004PUA_TT000ROTPOR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-VR000RELPAE02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411032",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Caratterizzazione ambiente terrestre",
+        "nome_file": "P004PUA_VR000RELPAE02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-YR000AMBTER02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411033",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Documento di verifica preventiva dell'interesse archeologico a mare (VPIA)",
+        "nome_file": "P004PUA_YR000AMBTER02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-YR000ARCMPR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411034",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Documento di verifica preventiva dell'interesse archeologico a terra (VPIA)",
+        "nome_file": "P004PUA_YR000ARCMPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-YR000ARCTPR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411035",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Rapporto di monitoraggio e caratterizzazione ambientale dell'area marina costiera e offshore",
+        "nome_file": "P004PUA_YR000ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-YR000ENVMAR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411036",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Piano preliminare di utilizzo in sito delle terre e rocce da scavo escluse dalla disciplina dei rifiuti",
+        "nome_file": "P004PUA_YR000ENVMAR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-YR000GESTRS02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411037",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Piano di Monitoraggio Ambientale",
+        "nome_file": "P004PUA_YR000GESTRS02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-YR000MONAMB02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411038",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Immersione in mare di materiale derivante da attività di escavo e attività di posa in mare di cavi e condotte art.109 c.1b e 5 D.lgs 152/2006",
+        "nome_file": "P004PUA_YR000MONAMB02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-YR000POSELE02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411039",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Valutazione di Incidenza Ambientale",
+        "nome_file": "P004PUA_YR000POSELE02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-YR000VALINC02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411040",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Ubicazione opere a mare su carta geomorfologica",
+        "nome_file": "P004PUA_YR000VALINC02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-YT000GEOMOR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411041",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Ubicazione opere a mare su carta degli habitat",
+        "nome_file": "P004PUA_YT000GEOMOR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-YT000HABMAR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411042",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Allegati grafici al Piano di Monitoraggio Ambientale (PMA)",
+        "nome_file": "P004PUA_YT000HABMAR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-YT000MONAMB02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411043",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Integrazioni studio d'impatto ambientale",
+        "nome_file": "P004PUA_YT000MONAMB02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-GR000INTSIA02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1411044",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Osservazioni Coordinamento Gallura per la Difesa della Sardegna in data 20/03/2026",
+        "nome_file": "MASE-2026-0062477.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (I)",
+        "codice_elaborato": "MASE-2026-0062477",
+        "data": "06/05/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1386558",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (I)"
+      },
+      {
+        "titolo": "Parere della Città Metropolitana di Roma, in data 30/10/2025",
+        "nome_file": "MASE-2025-0202564.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2025-0202564",
+        "data": "11/11/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1322668",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Osservazioni dell'ISPRA in data 13/11/2025",
+        "nome_file": "MASE-2025-0213560.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2025-0213560",
+        "data": "01/12/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1328987",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere della Città Metropolitana di Roma, in data 28/04/2025",
+        "nome_file": "MASE-2025-0078737.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2025-0078737",
+        "data": "29/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1248627",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere della CITTA' DI TARQUINIA/SETTORE 10 - LAVORI PUBBLICI, MANUTENZIONI , in data 13/08/2026",
+        "nome_file": "MASE-2026-0173653.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0173653",
+        "data": "18/08/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1420732",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Richiesta integrazioni Ministero della Cultura MASE_2025-0127403",
+        "nome_file": "MASE_2025-0127403.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2025-0127403",
+        "data": "07/07/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1271646"
+      },
+      {
+        "titolo": "Richiesta Integrazioni della COMMISSIONE TECNICA PNRR-PNIEC",
+        "nome_file": "MASE_2024-0173578.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2024-0173578",
+        "data": "25/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1150890"
+      },
+      {
+        "titolo": "Avviso al Pubblico del 29/03/2024",
+        "nome_file": "Modulo_avviso_pubblico_provvedimento_unico.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MASE-2024-0058321",
+        "data": "29/03/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1012021"
+      },
+      {
+        "titolo": "Richiesta integrazioni della Regione Lazio",
+        "nome_file": "MASE_2024-0113406.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2024-0113406",
+        "data": "19/06/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1090281"
+      },
+      {
+        "titolo": "Richiesta integrazioni della Regione Lazio",
+        "nome_file": "MASE_2024-0068625.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2024-0068625",
+        "data": "16/04/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1021097"
+      },
+      {
+        "titolo": "Richiesta integrazioni del MIC",
+        "nome_file": "MASE_2023-0169085.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2023-0169085",
+        "data": "23/10/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/922617"
+      },
+      {
+        "titolo": "Integrazioni del 30/12/2024 - Elenco elaborati",
+        "nome_file": "P004PUA_GR000ELEINT00a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Elenco elaborati",
+        "data": "21/01/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1203773"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Elenco elaborati",
+        "nome_file": "P004PUA_AR001ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-GR000ELEINT02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410986"
+      },
+      {
+        "titolo": "Integrazioni del 01/07/2026 - Modulo Progetto (MOPR)",
+        "nome_file": "P004PUA_AR002ARCTPR02a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "P004PUA-AR001ARCTPR02a",
+        "data": "13/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1410987"
+      },
+      {
+        "titolo": "Integrazioni del 30/12/2024 - Rapporto integrativo allo Studio di Impatto Ambientale ID 10235",
+        "nome_file": "P004PUA_GR000INTSIA00a.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "Rapporto integrativo allo Studio di Impatto Ambientale ID 10235",
+        "data": "21/01/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1203774"
+      }
+    ]
+  }
+}

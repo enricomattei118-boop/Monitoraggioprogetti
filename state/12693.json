@@ -1,0 +1,2714 @@
+{
+  "id_vip": "12693",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/11036",
+  "nome_progetto": "Progetto di un parco eolico collegato alla RTN, costituito da n.14 aerogeneratori di potenza unitaria pari a 5,2 MW e di potenza complessiva di 72,8 MWp, da realizzarsi nelle località pian di Morrano e località La Rotta nel comune di Pitigliano e nel Comune di Manciano in provincia di Grosseto, Toscana.",
+  "dettagli_procedura": "Codice istanza online WEB-VIA FER-VIAVIAF00000120\nCodice procedura (ID_VIP/ID_MATTM) 12693\nOggetto: Progetto di un parco eolico collegato alla RTN, costituito da n.14 aerogeneratori di potenza unitaria pari a 5,2 MW e di potenza complessiva di 72,8 MWp, da realizzarsi nelle località pian di Morrano e località La Rotta nel comune di Pitigliano e nel Comune di Manciano in provincia di Grosseto, Toscana.\nData presentazione istanza: 25/06/2024\nData richiesta perfezionamento della documentazione: 11/07/2024\nData ricezione atti di perfezionamento della documentazione: 18/07/2024\nData avvio consultazione pubblica: 02/08/2024\nTermine presentazione Osservazioni del Pubblico: 01/09/2024\nData comunicazione avvio nuova consultazione pubblica: 23/04/2025\nTermine presentazione Osservazioni del Pubblico su ripubblicazione : 08/05/2025\nResponsabile del procedimento: Silvia Terzoli - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Istruttoria tecnica CTPNRR-PNIEC",
+  "hash_dettagli": "c2847797421800bdfacc750ce17073fc6ae6476608e9ea1058250b23321e43e3",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elenchi Elaborati",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Relazione di incidenza",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Piano di utilizzo dei materiali di scavo",
+      "Osservazioni del Pubblico",
+      "Osservazioni del Pubblico inviate oltre i termini",
+      "Pareri/Osservazioni Enti",
+      "Richiesta integrazioni della documentazione",
+      "Documentazione integrativa/Documentazione integrativa volontaria",
+      "Osservazioni del Pubblico (I)",
+      "Osservazioni del Pubblico inviate oltre i termini (I)",
+      "Pareri/Osservazioni Enti (I)"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni Sig.ra Pellegrini Luciana in data 02/09/2024",
+        "nome_file": "MASE_2024_0158318.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158318",
+        "data": "19/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146676",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Alfano Agostino in data 02/09/2024",
+        "nome_file": "MASE_2024_0158189.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158189",
+        "data": "19/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146672",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Giacomo Nannetti, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157968.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157968",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146328",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Matteo Guerrini in data 02/09/2024",
+        "nome_file": "MASE_2024_0158236.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158236",
+        "data": "19/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146665",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Emidi Dino in data 02/09/2024",
+        "nome_file": "MASE_2024_0158239.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158239",
+        "data": "19/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146661",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Castrini Jessica in data 02/09/2024",
+        "nome_file": "MASE_2024_0158235.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158235",
+        "data": "19/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146659",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Tardani Lucia in data 02/09/2024",
+        "nome_file": "MASE_2024_0158237.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158237",
+        "data": "19/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146657",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Renzo Santarelli 02/09/2024",
+        "nome_file": "MASE_2024_157976.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-157976",
+        "data": "19/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146653",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Pozzi Stefano in data 02/09/2024",
+        "nome_file": "MASE_2024_0157978.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157978",
+        "data": "19/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146632",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni iSig.Diego Magnapane in data 30/08/2024",
+        "nome_file": "MASE_2024_0157975.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157975",
+        "data": "19/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146628",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Pivirotto Ester in data 02/09/2024",
+        "nome_file": "MASE_2024_0158327.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158327",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146588",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Cristina Mengaldo, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157980.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157980",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146306",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Nucciarelli Serena in data 02/09/2024",
+        "nome_file": "MASE_2024_0158326.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158326",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146587",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Squillante Maria Rosaria in data 02/09/2024",
+        "nome_file": "MASE_2024_0158154.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158154",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146585",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Roberta Mosconi in data 02/09/2024",
+        "nome_file": "MASE_2024_0158324.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158324",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146586",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Silvia Ferri, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157969.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157969",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146343",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Diva Bianchini, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157967.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157967",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146322",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Vincenzo Verrillo, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157966.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157966",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146316",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra SARA COSTANTINI in data 02/09/2024",
+        "nome_file": "MASE_2024_0158272.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158272",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146318",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Cappelletti Susanna in data 02/09/2024",
+        "nome_file": "MASE_2024_0158240.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158240",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146315",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Smith Vincent Randall in data 02/09/2024",
+        "nome_file": "MASE_2024_0158241.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158241",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146312",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Giulia Tacco, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157965.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157965",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146311",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Mario Longarini in data 30/08/2024",
+        "nome_file": "MASE_2024_0157970.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157970",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146308",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Ilaria Bindi, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157974.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157974",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146305",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Silvia Ronconi, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157973.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157973",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146304",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Giovanni Drovandini, in data 30/08/2024",
+        "nome_file": "MASE-2024-00157972.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-00157972",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146303",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Domenico Longarini, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157960.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157960",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146302",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig William Blacker in data 02/09/2024",
+        "nome_file": "MASE_2024_0158221.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158221",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146292",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Giovanni Ardenghi, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157958.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157958",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146285",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Giada Pellegrini, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157957.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157957",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146283",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Monica Sideri, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157956.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157956",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146282",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Tobias Moretti, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157955.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157955",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146277",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Francesca Xerry in data 02/09/2024",
+        "nome_file": "MASE_2024_0158180.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158180",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146276",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.Lorenzo Fabrizi in data 02/09/2024",
+        "nome_file": "MASE_2024_0158169.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158169",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146274",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Achille Di Veglia, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157971.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157971",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146273",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Sara Paioletti, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157954.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157954",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146267",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Simona Prosperi, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157953.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157953",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146265",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Enrica Costantini, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158157.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158157",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146263",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Eleonora Pivirotto, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157959.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157959",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146100",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Lisa Fiacchini in data 02/09/2024",
+        "nome_file": "MASE_2024_0158177.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158177",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146097",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Alice Mosci in data 02/09/2024",
+        "nome_file": "MASE_2024_0158174.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158174",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146094",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Andrea Sovani in data 02/09/2024",
+        "nome_file": "MASE_2024_0158181.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158181",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146092",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Silvia Chiarini in data 02/09/2024",
+        "nome_file": "MASE_2024_0158171.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158171",
+        "data": "18/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146090",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Raffaele Sovani in data 02/09/2024",
+        "nome_file": "MASE_2024_0158173.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158173",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146068",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Paola Fiorini in data 02/09/2024",
+        "nome_file": "MASE_2024_0158152.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158152",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146066",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Maria Luisa Moretti in data 02/09/2024",
+        "nome_file": "MASE_2024_0158148.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158148",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146061",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Bonnano Sara in data 30/08/2024",
+        "nome_file": "MASE_2024_0157977.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157977",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146060",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Alessandro Lapi, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158026.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158026",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145524",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Moretti Giuseppina in data 02/09/2024",
+        "nome_file": "MASE_2024_0158328.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158328",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146056",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Elisa Felici in data 02/09/2024",
+        "nome_file": "MASE_2024_0158201.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158201",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146021",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Giovanni Perasso in data 02/09/2024",
+        "nome_file": "MASE_2024_0158206.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158206",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146020",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Francesca Nardi, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158021.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158021",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145966",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Sergio Sellitri, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158020.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158020",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145960",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Nadine Seeger, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157923.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157923",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145953",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Angelini Federica in data 02/09/2024",
+        "nome_file": "MASE_2024_0158248.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158248",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145952",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Brigitte Machler in data 02/09/2024",
+        "nome_file": "MASE_2024_0158250.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158250",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145949",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Angelo Romagnoli, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157917.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157917",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145948",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Gallozzi Elisa in data 02/09/2024",
+        "nome_file": "MASE_2024_0158356.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158356",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145946",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Ciacci Irene in data 02/09/2024",
+        "nome_file": "MASE_2024_0158263.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158263",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145944",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Rappoli Andrea in data 02/09/2024",
+        "nome_file": "MASE_2024_0158251.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158251",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145943",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Franchetti Emanuela in data 02/09/2024",
+        "nome_file": "MASE_2024_0158363.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158363",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145940",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Franci Marica in data 02/09/2024",
+        "nome_file": "MASE_2024_0158366.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158366",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145938",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Luca Martelli, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157916.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157916",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145937",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Fanciulletti Wladimiro in data 02/09/2024",
+        "nome_file": "MASE_2024_0158360.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158360",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145935",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Luca Ronca, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158089.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158089",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145932",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Omero Volpi, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157522.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157522",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145931",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Luca Crisanti in data 02/09/2024",
+        "nome_file": "MASE_2024_0158379.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158379",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145930",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Christina Dohler, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157521.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157521",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145928",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Carmine Di Martino in data 02/09/2024",
+        "nome_file": "MASE_2024_0158257.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158257",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145927",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Antonia Vatrini, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158179.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158179",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145926",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora MONICA TOMMASI in qualità di legale rappresentante della Associazione AMICI DELLA TERRA ONLUS, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158197.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158197",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145924",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Rosanna Modesti, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158205.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158205",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145807",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Valentin Marian Palffy, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158146.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158146",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145716",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Mario Corrias, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157519.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157519",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145714",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Alvera Fiorani, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157517.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157517",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145710",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Iris Corrias, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157511.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157511",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145709",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Rosanna Lanzi, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157496.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157496",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145707",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Jolpini Michela in data 30/08/2024",
+        "nome_file": "MASE_2024_0157507.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157507",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145703",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Tommaso Bartolini, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157486.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157486",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145702",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Maria Antonietta Selvaggi, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157489.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157489",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145700",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Gobbato Vittorio in data 30/08/2024",
+        "nome_file": "MASE_2024_0157512.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157512",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145701",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Majla Nofroni, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157487.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157487",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145697",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Dainelli Ermelinda in data 30/08/2024",
+        "nome_file": "MASE_20024_0157510.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-20024-0157510",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145699",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Valentina Fusco, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157483.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157483",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145694",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Angelo Mulè, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157467.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157467",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145692",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Donatella Esposito, in data 30/08/20/2024",
+        "nome_file": "MASE-2024-0157491.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157491",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145690",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Enzo Giuliani, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157463.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157463",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145688",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Liana Fastelli, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157461.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157461",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145685",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Serenella Campanile, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157488.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157488",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145682",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Gina Dondolini, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157514.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157514",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145679",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Paola Sortino, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158166.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158166",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145593",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Enrico Ottaviani, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157452.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157452",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145591",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Rosa Foschetti, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157453.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157453",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145581",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Cesare Ciambruschini in data 30/08/2024",
+        "nome_file": "MASE-2024-0157454.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157454",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145580",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Nugegodoge Silva Kamani Anuruddhika, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157455.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157455",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145577",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Valfredo Cherubini, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157456.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157456",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145574",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Anna Manao, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158081.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158081",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145573",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Dante Stefano Spoletti, in data 20/08/2024",
+        "nome_file": "MASE-20240157458.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157458",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145571",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Alessandro Pamparini, in data 30/08/2024",
+        "nome_file": "MASE-2024-0154784.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157484",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145569",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Francesca Romana Nascè, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158076.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158076",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145568",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Luisa Antonucci, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158055.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158055",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145567",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Saro Oreste Lanrhorst, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158027.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158027",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145553",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Aldo Del Buono, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157913.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157913",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145545",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signore Ballerini Giancarlo, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157912.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157912",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145540",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Deborah Tonioni, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158053.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158053",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145533",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Emma Zaina, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156687.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156687",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145530",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Vittorio Massai, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158072.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158072",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145529",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Emma Zaina, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156686.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156686",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145528",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Francesco Bergamaschi, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158028.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158028",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145527",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Paolo Papalini, in data 02/09/2024",
+        "nome_file": "MASE-2024-0158022.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0158022",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145521",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Veruska Pezzati, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156690.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156690",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145519",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Sofia Pioli, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156685.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156685",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145253",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Giovanna Barnabbò, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156684.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156684",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145252",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Irina Elena Zaharia,in data 29/08/2024",
+        "nome_file": "MASE-2024-0156682.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156682",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145250",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Orion Brahamaj, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157445.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157445",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145249",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Agnieszka Sniada, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156766.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156766",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145237",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Pucci Maria Rosa, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157444.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157444",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145235",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Cesare Salvatori, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157439.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157439",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145231",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Giustacori Fabrizio in data 29/08/2024",
+        "nome_file": "MASE_2024_0156765.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156765",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145229",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Antichi Franco in data 30/08/2024",
+        "nome_file": "MASE_2024_0157446.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157446",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145227",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Paolo Contri, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157438.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157438",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145226",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Diana Giuliani, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157448.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157448",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145222",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Doriano Fastelli, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157420.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157420",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145219",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Giancarlo Ceccolungo, in data 29/07/2024",
+        "nome_file": "MASE-2024-0156716.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156716",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145215",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Margherita Cionco, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157418.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157418",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145207",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Gigliola Lombardelli, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157410.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157410",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145199",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Sarah Wheldon, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157391.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157391",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145131",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Caracciolo Sebastiano, in data 29/08/2024",
+        "nome_file": "MASE-2024-0157117.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157117",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145133",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Emanuele Gobbato, in data 30/08/2024",
+        "nome_file": "MASE-2024-0157378.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0157378",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145126",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Barbara Bembo in data 29/08/2024",
+        "nome_file": "MASE_2024_0156688.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156688",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145127",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Francesco Di Biagi, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156907.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156907",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145125",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Ceccolungo Mara, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156679.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156679",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145121",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Diana Ferrante, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156681.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156681",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145120",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Caracciolo Filadelfo, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156677.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156677",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145119",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Tersili Lorenzo, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156632.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156632",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145118",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Franco Grillo, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156138.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156138",
+        "data": "13/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145117",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Alessandro Meo, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156633.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156633",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143700",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Antonella Nucciarelli, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156636.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156636",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143699",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Rita Camilletti, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156638.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156638",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143698",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Simone Nucci, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156634.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156634",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143688",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Leonardo Rombai, legale rappresentante dell'Associazione Italia Nostra APS Sezione di Firenze e Toscana, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156656.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156656",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143686",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Rita Camilletti, in data 28/08/2024",
+        "nome_file": "MASE-2024-156640.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156640",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143684",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Francesca Dainelli, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156671.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156671",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143680",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Annalisa Pavolini, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156697.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156697",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143678",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Roberto Dainelli, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156696.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156696",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143677",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Tiziana Vigni, Presidente dell'associazione Atto Primo ODV, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156445.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156445",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143676",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Francesca Pivirotto, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156637.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156637",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143675",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Francesco Rinaldi, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156666.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156666",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143674",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Andrea Tomaselli, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156683.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156683",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143673",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Francesco Martone, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156135.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156135",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143665",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Gabriele Bertoletti, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156134.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156134",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143664",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Francesco Cherubini, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156151.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156151",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143663",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Marrocco Francesca, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156148.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156148",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143660",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Luciana Maria Luisa Viola, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156124.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156124",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143658",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Alessandro Becagli, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156675.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156675",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143657",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Elena Ragnini, in data del 29/08/2024",
+        "nome_file": "MASE-2024-0156665.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156665",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143656",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Cristina Mugnaini, in data 27/08/2024",
+        "nome_file": "MASE-2024-0155958.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0155958",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143655",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Michele Lombardelli, Legale rappresentante della Società Semplice \"Agricola Poggio del dell'olivo\", in data 29/08/2024",
+        "nome_file": "MASE-2024-156661.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156661",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143653",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Moreno Lombardelli in data 29/08/2024",
+        "nome_file": "MASE-2024-156660.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156660",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143651",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Michele Lombardelli, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156663.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156663",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143650",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Scalchi Daniela, in data 27/08/2024",
+        "nome_file": "MASE-2024-0155959.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0155959",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143649",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Amida Modesti, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156659.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156659",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143647",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Stefano Stuffer, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156030.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156030",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143646",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Mosci Donatella, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156006.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156006",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143644",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Chiara Lombardelli, in data 29/08/2024",
+        "nome_file": "MASE-2024-0156662.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156662",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143642",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Francesca Groppi, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156002.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156002",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143641",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Harb Margaret in data 29/08/2024",
+        "nome_file": "MASE_2024_0156863.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156863",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143636",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Kitharatzis Mara in data 28/08/2024",
+        "nome_file": "MASE-2024-0156163.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156163",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143630",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Enrico Guidolin, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156161.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156161",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143628",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Andrea Formiconi in data 28/08/2024",
+        "nome_file": "MASE-2024-0156162.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156162",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143627",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Kitharatzis Giulia in data 28/08/2024",
+        "nome_file": "MASE-2024-0156165.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156165",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143624",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Roberta Tonioni, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156164.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156164",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143623",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Rosanna Camilli, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156641.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156641",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143620",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Eleonora Caso, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156096.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156096",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143618",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Raffaelli Francesco in data 28/08/2024",
+        "nome_file": "MASE_2024_0156137.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156137",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143616",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Andrea Bacci in data 28/08/2024",
+        "nome_file": "MASE_2024_0156193.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156193",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143615",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Agnese Rinaldi in data 28/08/2024",
+        "nome_file": "MASE_2024_0156003.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156003",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143610",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Gerardo Giuseppe Morandi 28/08/2024",
+        "nome_file": "MASE_2024_0156186.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156186",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143613",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Giovanni Perasso in data 28/08/2024",
+        "nome_file": "MASE_2024_156158.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-156158",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143607",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Daniele Grillo in data 27/08/2024",
+        "nome_file": "MASE_2024_0155960.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0155960",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143604",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Bicoccai Danilo in data 28/08/2024",
+        "nome_file": "MASE_2024_0156131.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156131",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143600",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Tabacchioni Alice in data 28/08/2024",
+        "nome_file": "MASE_2024_0156133.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156133",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143598",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Tiziana Monaldi in data 28/08/2024",
+        "nome_file": "MASE_2024_0156136.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156136",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143593",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Federico Rinaldi, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156091.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156091",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143562",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Andrea Marciani, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156071.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156071",
+        "data": "12/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143561",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Mimmo Maria Grazia in data 28/08/2024",
+        "nome_file": "MASE_2024_0156417.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156417",
+        "data": "11/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143543",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Belcari Barbara in data 28/08/2024",
+        "nome_file": "MASE_2024_0156407.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156407",
+        "data": "11/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143542",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Federico Semeraro in data 29/08/2024",
+        "nome_file": "MASE_2024_0156674.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156674",
+        "data": "11/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143540",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Luca Federici in data 28/08/2024",
+        "nome_file": "MASE_2024_0156631.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156631",
+        "data": "11/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143386",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Franci Antonella in data 29/08/2024",
+        "nome_file": "MASE_2024_0156669.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156669",
+        "data": "11/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143243",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig.ra Irene Ficulle in data 29/08/2024",
+        "nome_file": "MASE_2024_0156695.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156695",
+        "data": "11/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143242",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Ass.ne Italia Nostra APS in data 28/08/2024",
+        "nome_file": "MASE_2024_0156530.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156530",
+        "data": "11/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143241",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Santoro Marco in data 29/08/2024",
+        "nome_file": "MASE_2024_0156667.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156667",
+        "data": "11/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143240",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni Sig. Andi Lorenzo Marcello in data 28/08/2024",
+        "nome_file": "MASE_2024_0156642.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156642",
+        "data": "11/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143239",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Ramelli Elena, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156094.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156094",
+        "data": "11/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143222",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Sig. Andrea Marciani, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156070.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156070",
+        "data": "11/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143216",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Emilio Celata, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156058.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156058",
+        "data": "11/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143085",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Linda Del Gratta, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156050.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156050",
+        "data": "11/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143082",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Allegrini Manuela, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156047.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156047",
+        "data": "11/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1143077",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Francesco Cherubini, in data 28/08/2024",
+        "nome_file": "MASE-2024-0156171.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2024-0156171",
+        "data": "11/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1142616",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Signora Maria Gabriella Quercia, in data 17/09/2024",
+        "nome_file": "MASE-2024-0168180.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2024-0168180",
+        "data": "24/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1150142",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni del Signor Gianluca MASI, in data 17/09/2024",
+        "nome_file": "MASE-2024-0168092.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2024-0168092",
+        "data": "24/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1150030",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni del signor Massimiliano Chersich, in data 3/09/2024",
+        "nome_file": "MASE-2024-0158948.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2024-0158948",
+        "data": "17/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1146012",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni del Comune di Manciano in data 02/09/2024",
+        "nome_file": "MASE-2024-0158650.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2024-0158650",
+        "data": "16/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1145532",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Osservazioni della Regione Lazio in data 12/09/2024",
+        "nome_file": "MASE-2024-0166024.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2024-0166024",
+        "data": "23/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1149517",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
+      },
+      {
+        "titolo": "Parere Comune di Pitigliano in data 05/09/2024",
+        "nome_file": "MASE_2024_0160837.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2024-0160837",
+        "data": "06/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1138863",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni tipo posa cavidotti",
+        "nome_file": "D_CV_395_GVI_23_303_01_SEZIONI_TIPO_POSA_CAVIDOTTI_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "075768b9-bb1d-4ead-a049-7abce40357c4",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247466",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Ubicazione Aerogeneratori su CTR Tav. 3-3",
+        "nome_file": "D_CV_395_GVI_23_302_01_UBICAZIONE_AEROGENERATORI_SU_CTR_Scala_1_5000-3_3_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "49df99c4-6b4f-4feb-bc32-10d5c5c6485e",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247467",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Lettera di accompagnamento risposta integrazioni progetto parco eolico",
+        "nome_file": "Lettera_di_accompagnamento_Pitigliano-signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "1a417dd3-3538-43bf-8fbe-fb3deeb6f682",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247468",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni Tipo Piazzole",
+        "nome_file": "D_CV_395_GVI_23_305_01_SEZIONI_TIPO_PIAZZOLE_2_14_WGT2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "5cddc4cb-c12c-40b5-b975-3abb2661644f",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247469",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Layout di cantiere Tav. 3 - 3",
+        "nome_file": "D_CV_395_GVI_23_362_01_LAYOUT_DI_CANTIERE_3_3_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "45028b8b-7004-4969-9f5b-f344f786b410",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247470",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria strada di accesso WTG1",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG1_2_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "d9c0ee60-565d-469c-aeef-4408fb48704f",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247471",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni Trasversali Strada di Accesso WTG1",
+        "nome_file": "D_CV_395_GVI_23_353_00_SEZ_TRASV_STRADE_DIACC_WGT3_2_3_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c3395377-ebf6-436e-a352-c410f3b81199",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247472",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Inquadramento generale su CTR Tav. 2-2",
+        "nome_file": "D_CV_395_GVI_23_301_01_INQUADRAMENTO_GENERALE_SU_CTR_Scala_1_10000-_2_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b0ccfc95-5892-4a2d-a543-163725f4b052",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247473",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria Strada di Accesso WTG5",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG5_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "9d8bca6d-b87d-488f-99fa-a7095979cc81",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247474",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Ubicazione Aerogeneratori su CTR Tav. 2-3",
+        "nome_file": "D_CV_395_GVI_23_302_01_UBICAZIONE_AEROGENERATORI_SU_CTR_Scala_1_5000-2_3_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "401e9439-63a1-4a87-a8a4-0eea9079e0de",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247475",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni Tipo Piazzole",
+        "nome_file": "D_CV_395_GVI_23_305_01_SEZIONI_TIPO_PIAZZOLE_12_14_WGT12_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a0e6fddb-0bb9-405a-bc0f-05218df3dd32",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247476",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Profilo Longitudinale Strada di Accesso WTG5",
+        "nome_file": "D_CV_395_GVI_23_354_00_PROFILI_LONG_STRADE_DI_ACC_WGT5_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c6e12ca6-c02c-4f71-90d3-1e7a7579fe22",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247477",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni Tipo Piazzole",
+        "nome_file": "D_CV_395_GVI_23_305_01_SEZIONI_TIPO_PIAZZOLE_6_14_WGT6_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6dd58da2-ae9d-4ad3-a5ef-9fa0bd25b12a",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247478",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Inquadramento opere di progetto in fase di cantiere e manutenzione",
+        "nome_file": "D_CV_395_GVI_23_363_00_INQUADRAMENTOOPEREDIPROGETTO_part_3_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "d22b5799-a12b-4c28-84b8-7272726338f2",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247479",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria Strada di Accesso WTG 11",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG11_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "3e85f468-bdbb-49d4-a6d6-6d30b3f03b68",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247480",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Relazione geologica",
+        "nome_file": "R_CV_395_GVI_23_312_01RELAZIONE_GEOLOGICA_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "7862e738-b530-4353-8b09-ab3c311d73d2",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247481",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni trasversali strada di accesso WTG1",
+        "nome_file": "D_CV_395_GVI_23_353_00_SEZ_TRASV_STRADE_DIACC_WGT4_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "1f2a0804-d9f9-4f32-b3a5-ade77c4f61f7",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247482",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria Strada di Accesso WTG 10",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG10_1_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6b1f3c55-2ff2-4fbb-b351-0c9ec794c22e",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247483",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Profilo Longitudinale Strada di Accesso WTG1",
+        "nome_file": "D_CV_395_GVI_23_354_00_PROFILI_LONG_STRADE_DI_ACC_WGT1_2_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "4011552f-6f3d-4c05-b12c-a1174e4a9b7b",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247484",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria Strada di Accesso WTG 14",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG14_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "ec689cde-26e6-4aef-b228-36e755036232",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247485",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Profilo Longitudinale Strada di Accesso WTG2",
+        "nome_file": "D_CV_395_GVI_23_354_00_PROFILI_LONG_STRADE_DI_ACC_WGT2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "71914fbd-a299-498f-b5d2-62509d0d0f01",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247486",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - VIAC-Valutazione prestazionale di impatto acustico",
+        "nome_file": "R_CV_395_GVI.23_330_00_VALUTAZIONE_PRELIMINARE_DI_IMPATTO_ACUSTICO_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b9eb05fe-e0ec-4b2d-85d0-e490ff4d3aad",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247487",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Risposte Integrazioni Regione Toscana",
+        "nome_file": "R_CV_395_GVI_23_332_00_RISPOSTE_INTEGRAZIONI_REGIONE_TOSCANA-signed-signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c595addb-039e-467c-8b41-87b5ade823b8",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247488",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni tipo piazzole",
+        "nome_file": "D_CV_395_GVI_23_305_01_SEZIONI_TIPO_PIAZZOLE_10_14_WGT10_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "68f44dfe-8ac8-42b5-80a3-f219af65e72c",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247489",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni Tipo Piazzole",
+        "nome_file": "D_CV_395_GVI_23_305_01_SEZIONI_TIPO_PIAZZOLE_13_14_WGT13_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "deb6292b-7e01-4631-a61e-ebb8d75e1dce",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247490",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria Strada di Accesso WTG7",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG7_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b468367b-5434-407d-8dec-9d3a5467e4b8",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247491",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni Tipo Piazzole",
+        "nome_file": "D_CV_395_GVI_23_305_01_SEZIONI_TIPO_PIAZZOLE_1_14_WGT1_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "adefffbb-0b9e-4cf6-8fac-6351adffa2ad",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247492",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria della sottostazione e linea elettrica di allaccio",
+        "nome_file": "D_CV_395_GVI_23_310_01_SCHEMA_ELETTRICO_UNIFILARE_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f58c926f-762e-4066-be03-36b9c4f226a8",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247493",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni trasversali strada di accesso WTG5",
+        "nome_file": "D_CV_395_GVI_23_353_00_SEZ_TRASV_STRADE_DIACC_WGT5_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f5d7548d-1942-43a1-9d8f-d34d2238cb6d",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247494",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Inquadramento opere di progetto in fase di cantiere e manutenzione",
+        "nome_file": "D_CV_395_GVI_23_363_00_INQUADRAMENTOOPEREDIPROGETTO_part_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c96bb377-c290-4163-a32e-dfce3a503298",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247495",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Analisi Idrologica e Idraulica dei Reticoli Idrografici",
+        "nome_file": "R_CV_395_GVI_23_333_00_ANALISI_IDROLOGICA_IDRAULICA_INTERFERENZE_RETICOLO_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "162305a4-c964-4e67-9d06-824f5bee9043",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247496",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Layout di cantiere",
+        "nome_file": "D_CV_395_GVI_23_362_01_LAYOUT_DI_CANTIERE_1_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "63af42d0-9771-4bca-bcfa-7fdf0ab693d8",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247497",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni tipo piazzole",
+        "nome_file": "D_CV_395_GVI_23_305_01_SEZIONI_TIPO_PIAZZOLE_9_14_WGT9_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "0d83238e-e9c6-44a0-9cb7-fc9942e7651e",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247498",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria Strada di Accesso WTG8",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG8_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "09a682d7-cef9-499c-bf2a-a65dd1b1bc99",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247499",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Layout di Cantiere Tav. 2 - 3",
+        "nome_file": "D_CV_395_GVI_23_362_01_LAYOUT_DI_CANTIERE_2_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "98e41a68-713a-4ee6-b2ae-d9bb7833c66e",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247500",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria strada di accesso WTG3",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG3_2_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b2949738-c9e4-4a0f-8d75-b759c6fbdeff",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247501",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni trasversali strada di accesso WTG1",
+        "nome_file": "D_CV_395_GVI_23_353_00_SEZ_TRASV_STRADE_DIACC_WGT3_1_3_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "8f2e84f2-0cf2-432e-a6a2-164cfdeabd5b",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247502",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria Strada di Accesso WTG3",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG3_1_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "60ee80bf-a0b2-44c7-a46e-72b18eefcdcf",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247503",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Inquadramento Opere di Progetto",
+        "nome_file": "D_CV_395_GVI_23_363_00_INQUADRAMENTOOPEREDIPROGETTO_part_1_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "dbae3d36-fd9c-45ee-907b-282fd0ba62aa",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247504",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Inquadramento Generale su CTR",
+        "nome_file": "D_CV_395_GVI_23_301_01_INQUADRAMENTO_GENERALE_SU_CTR_Scala_1_10000-_1_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "db5f51f0-46c3-4949-aa84-887fdf03f181",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247505",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Inquadramento opere di progetto in fase di cantiere e manutenzione",
+        "nome_file": "D_CV_395_GVI_23_363_00_INQUADRAMENTOOPEREDIPROGETTO_part_4_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e4f08fdd-ce97-4c98-8f96-a9ef2ee4d247",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247506",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni trasversali strada di accesso WTG1",
+        "nome_file": "D_CV_395_GVI_23_353_00_SEZ_TRASV_STRADE_DIACC_WGT3_3_3_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "040fe2bb-3148-4b9f-80be-0807f868a3ac",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247507",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria Strada di Accesso WTG9",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG9_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "61ad0cea-b4ce-4aec-a293-decbdad202cf",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247508",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni Tipo Piazzole",
+        "nome_file": "D_CV_395_GVI_23_305_01_SEZIONI_TIPO_PIAZZOLE_8_14_WGT8_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "29c492e2-fee8-4802-b107-659eb463626b",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247509",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Profilo Longitudinale Strada di Accesso WTG14",
+        "nome_file": "D_CV_395_GVI_23_354_00_PROFILI_LONG_STRADE_DI_ACC_WGT14_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "fa66aa0f-b1c1-48dd-83f5-344c2020b8e6",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247510",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Ubicazione Aerogeneratori Tav. 1-3",
+        "nome_file": "D_CV_395_GVI_23_302_01_UBICAZIONE_AEROGENERATORI_SU_CTR_Scala_1_5000-1_3_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "91887e2f-6064-4255-936a-2a312a92f647",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247511",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Relazione Specialistica Viabilità di Progetto",
+        "nome_file": "R_CV_395_GVI_23_334_00_RELAZIONE_SPECIALISTICA_VIABILITA_DI_PROGETTO_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "15268bbd-c609-40bd-8909-67f44373937e",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247512",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni Tipo Piazzole",
+        "nome_file": "D_CV_395_GVI_23_305_01_SEZIONI_TIPO_PIAZZOLE_3_14_WGT3_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "53145de7-bf24-44aa-b6ec-3dd9835bea6a",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247513",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Relazione gestione AMD",
+        "nome_file": "R_CV_395_GVI_23_335_00_RELAZIONE_GESTIONE_AMD_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "208e19c9-c342-48a3-a9cd-355c13a642f7",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247514",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria Strada di Accesso WTG6",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG6_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "15e86639-f95d-41d3-952a-cf7fcfa381cd",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247515",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria strada di accesso WTG 10",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG10_2_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b844b259-3a88-4136-b0a1-0a15b9d8158d",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247516",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Inquadramento opere di progetto in fase di cantiere e manutenzione",
+        "nome_file": "D_CV_395_GVI_23_363_00_INQUADRAMENTOOPEREDIPROGETTO_part_7_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e0efa8cc-dfdf-4494-a429-5dbe3d7b973c",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247517",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria Strada di Accesso WTG1",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG1_1_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a315dcbb-cd1e-4803-b553-aef9e9377a7b",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247518",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Valutazione di incidenza ambientale",
+        "nome_file": "R_CV_395_GVI_23_336_00_SINCA_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "270e7df9-f646-4152-8da2-9d043dc8410e",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247519",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Profilo longitudinale strada di accesso WTG1",
+        "nome_file": "D_CV_395_GVI_23_354_00_PROFILI_LONG_STRADE_DI_ACC_WGT1_1_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "a494bc65-e17f-4764-af6b-dd84825bbc0a",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247520",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni tipo piazzole",
+        "nome_file": "D_CV_395_GVI_23_305_01_SEZIONI_TIPO_PIAZZOLE_7_14_WGT7_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e3b1b6a5-bec1-4a9f-8dab-a1b2f5ea015b",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247521",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni trasversali strada di accesso WTG1",
+        "nome_file": "D_CV_395_GVI_23_353_00_SEZ_TRASV_STRADE_DIACC_WGT1_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "db35e756-ede5-435b-853f-d514448f8492",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247522",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni tipo piazzole",
+        "nome_file": "D_CV_395_GVI_23_305_01_SEZIONI_TIPO_PIAZZOLE_4_14_WGT4_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "7b39a9f5-5675-4914-b64f-7ba42e0bdcaa",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247523",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni trasversali strada di accesso WTG14",
+        "nome_file": "D_CV_395_GVI_23_353_00_SEZ_TRASV_STRADE_DIACC_WGT14_1_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e782b4de-4c7d-4c9c-b4a7-ef3268742804",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247524",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni Trasversali Strada di Accesso WTG14",
+        "nome_file": "D_CV_395_GVI_23_353_00_SEZ_TRASV_STRADE_DIACC_WGT14_2_2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "30f477fa-1e70-45ea-90ca-b82cb5f29e09",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247525",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria strada di accesso WTG2",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG2_3_4_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "1917cff0-62b4-4230-961e-07d71c9e4dbd",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247526",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Inquadramento opere di progetto",
+        "nome_file": "D_CV_395_GVI_23_363_00_INQUADRAMENTOOPEREDIPROGETTO_part_6_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "717494f1-0791-4714-9781-dabe51ac337d",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247527",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria Strada di Accesso WTG2",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG2_1_4_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "5570faf5-2663-4265-9ed0-41f25ca711ad",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247528",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria Strada di Accesso WTG2",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG2_2_4_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "7cfd233c-1414-48c6-be3d-2d56e74ffcd1",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247529",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Profilo Longitudinale Strada di Accesso WTG1",
+        "nome_file": "D_CV_395_GVI_23_354_00_PROFILI_LONG_STRADE_DI_ACC_WGT3_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "cb5b5437-d2d4-404a-8a51-c84b046d737e",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247530",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni tipo piazzole",
+        "nome_file": "D_CV_395_GVI_23_305_01_SEZIONI_TIPO_PIAZZOLE_11_14_WGT11_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "c1dcc345-6662-4602-9242-1723b6a96727",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247531",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Piano Preliminare di Utilizzo delle Terre e Rocce da Scavo",
+        "nome_file": "R_CV_395_GVI_23_305_01_PIANO_PRELIMINARE_TERRE_ROCCE_DA_SCAVO_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6f455965-2678-46d9-92e4-0df98e90cab2",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247532",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni Tipo Piazzole Tav. 14 -14",
+        "nome_file": "D_CV_395_GVI_23_305_01_SEZIONI_TIPO_PIAZZOLE_14_14_WGT14_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b968ed95-928e-4329-afb0-1da77f1138c3",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247533",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria Sottostazione e Linea Elettrica di Allaccio",
+        "nome_file": "D_CV_395_GVI_23_308_01_PLANIMETRIA_SOTTOSTAZIONE_E_LINEA_ELETTRICA_ALLACCIO_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "1aa69478-c6a5-4895-84f5-01681751117b",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247534",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Profilo Longitudinale Strada di Accesso WTG1",
+        "nome_file": "D_CV_395_GVI_23_354_00_PROFILI_LONG_STRADE_DI_ACC_WGT4_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "6edbe033-7267-474d-8d9e-ddb1a32e8fc3",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247535",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni Tipo Piazzole Tav. 5-14",
+        "nome_file": "D_CV_395_GVI_23_305_01_SEZIONI_TIPO_PIAZZOLE_5_14_WGT5_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "4d22ddfc-c525-4c45-bc6a-718cc72a25e0",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247536",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria strada di accesso WTG4",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG4_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "4ab910d8-d921-4fe6-8bc6-a86992d7f25c",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247537",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria strada di accesso WTG 12",
+        "nome_file": "D_CV_395_GVI_23_355_00_PLANIMETRIE_STRADE_DI_ACCESSO_WTG12_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "8788bebb-84ba-42ee-9213-7543914e014e",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247538",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria Generale",
+        "nome_file": "D_CV_395_GVI_23_363_00_INQUADRAMENTOOPEREDIPROGETTO_part_5_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "b02a2ffb-94a7-4b0d-b43e-bd0786be2b7d",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247539",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni Trasversali Strada di Accesso WTG2",
+        "nome_file": "D_CV_395_GVI_23_353_00_SEZ_TRASV_STRADE_DIACC_WGT2_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "d1c40bc5-ee60-4a32-ba96-94ff98356247",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247540",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Planimetria Generale",
+        "nome_file": "D_CV_395_GVI_23_364_00_INQUADRAMENTOINTERVENTIDAREALIZZARESULLAVIABILITAESISTENTE_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "e2a8dcf4-6ff0-4dd8-b9bb-f6110d952608",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247541",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Elenco Elaborati della documentazione tecnica",
+        "nome_file": "VIAVIAF00000120_60523-ElencoElaborati.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "f7fed5d0-c7cc-40b4-aec3-bae87ea352a1",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247542",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Osservazioni del CODACONS - COORDINAMENTO DELLE ASSOCIAZIONI PER LA TUTELA DELL'AMBIENTE E PER LA DIFESA DEI DIRITTI DEGLI UTENTI E DEI CONSUMATORI, in data 10/04/2025",
+        "nome_file": "MASE-2025-0068259.pdf",
+        "sezione": "Osservazioni del Pubblico (I)",
+        "codice_elaborato": "MASE-2025-0068259",
+        "data": "04/06/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1259014",
+        "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Osservazioni dell'ARPA TOSCANA - DIREZIONE TECNICA - Settore VIA/VAS, in data 8/08/2025",
+        "nome_file": "MASE-2025-0151424.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (I)",
+        "codice_elaborato": "MASE-2025-0151424",
+        "data": "19/08/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1292600",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (I)"
+      },
+      {
+        "titolo": "Osservazioni dell'Associazione Lago di Bolsena OdV,in data 09/05/2025",
+        "nome_file": "MASE-2025-0087118.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini (I)",
+        "codice_elaborato": "MASE-2025-0087118",
+        "data": "15/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1252817",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini (I)"
+      },
+      {
+        "titolo": "Parere della Regione Toscana, in data 01/08/2025",
+        "nome_file": "MASE-2025-0146273.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2025-0146273",
+        "data": "04/08/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1283140",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere del Comune di Pitigliano, in data 21/05/2025",
+        "nome_file": "MASE-2025-0096663.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2025-0096663",
+        "data": "21/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1255065",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere della Provincia di Grosseto in data 08/05/2025",
+        "nome_file": "MASE-2025-0086757.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2025-0086757",
+        "data": "09/05/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1250727",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al pubblico del 02/08/2024",
+        "nome_file": "Modulo_Avviso_Pubblico_VIA_signed.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MASE-2024-0144341",
+        "data": "02/08/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1116788"
+      },
+      {
+        "titolo": "STUDIO DI IMPATTO AMBIENTALE (PARTE I,II, III)",
+        "nome_file": "R_CV_395_GVI_23_318_00_STUDIO_IMPATTO_AMBIENTALE_signed_signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "ELAB.64",
+        "data": "02/08/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1116782"
+      },
+      {
+        "titolo": "CRITERI MINIMI AMBIENTALI",
+        "nome_file": "R_CV_395_GVI_23_327_00_RELAZIONE_CRITERI_MINIMI_AMBIENTALI_signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "ELAB.72",
+        "data": "02/08/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1116783"
+      },
+      {
+        "titolo": "Elenco Elaborati",
+        "nome_file": "VIAVIAF00000120-ElencoElaborati.pdf",
+        "sezione": "Elenchi Elaborati",
+        "codice_elaborato": "El-Elab.",
+        "data": "02/08/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1116789"
+      },
+      {
+        "titolo": "Richiesta integrazioni della Regione Toscana e allegati",
+        "nome_file": "MASE_2025-0039349_con_allegati.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2025-0039349",
+        "data": "03/03/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1224593"
+      },
+      {
+        "titolo": "Richiesta integrazioni Regione Toscana",
+        "nome_file": "MASE_2024-0190106.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2024-0190106",
+        "data": "21/10/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1161492"
+      },
+      {
+        "titolo": "Richiesta integrazioni Provincia di Grosseto",
+        "nome_file": "MASE_2024-0154242.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2024-0154242",
+        "data": "23/08/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1131440"
+      },
+      {
+        "titolo": "Richiesta Integrazioni della Provincia di Grosseto",
+        "nome_file": "MASE_2024-0152404.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2024-0152404",
+        "data": "19/08/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1124485"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Sezioni tipo posa cavidotti",
+        "nome_file": "D_CV_395_GVI_23_303_01_SEZIONI_TIPO_POSA_CAVIDOTTI_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "075768b9-bb1d-4ead-a049-7abce40357c4",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247466"
+      },
+      {
+        "titolo": "Integrazioni del 15/04/2025 - Ubicazione Aerogeneratori su CTR Tav. 3-3",
+        "nome_file": "D_CV_395_GVI_23_302_01_UBICAZIONE_AEROGENERATORI_SU_CTR_Scala_1_5000-3_3_signed.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "49df99c4-6b4f-4feb-bc32-10d5c5c6485e",
+        "data": "23/04/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1247467"
+      }
+    ]
+  }
+}

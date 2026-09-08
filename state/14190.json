@@ -1,0 +1,207 @@
+{
+  "id_vip": "14190",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/11819",
+  "nome_progetto": "Progetto di un impianto eolico denominato \"Volturino\", composto da 17 aerogeneratori di potenza nominale pari a 6 MW, per una potenza complessiva di 102 MW, da realizzarsi nei comuni di Volturino (FG), Lucera (FG), Pietramontecorvino (FG), e delle relative opere di connessione alla RTN ricadenti anche nei comuni di Biccari (FG) e Troia (FG) (codice MYTERNA 202401311)",
+  "dettagli_procedura": "Codice istanza online WEB-VIA FER - VIAVIAF00000488\nCodice procedura (ID_VIP/ID_MATTM) 14190\nOggetto: Progetto di un impianto eolico denominato \"Volturino\", composto da 17 aerogeneratori di potenza nominale pari a 6 MW, per una potenza complessiva di 102 MW, da realizzarsi nei comuni di Volturino (FG), Lucera (FG), Pietramontecorvino (FG), e delle relative opere di connessione alla RTN ricadenti anche nei comuni di Biccari (FG) e Troia (FG) (codice MYTERNA 202401311)\nData presentazione istanza: 24/07/2025\nData richiesta perfezionamento della documentazione: 13/08/2025\nData ricezione atti di perfezionamento della documentazione: 09/09/2025\nData avvio consultazione pubblica: 15/09/2025\nTermine presentazione Osservazioni del Pubblico: 15/10/2025\nResponsabile del procedimento: Yuri Bonansea - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Istruttoria tecnica CTPNRR-PNIEC",
+  "hash_dettagli": "6e6f09ee4cc08ce4bdfeea89df1ce3c5ba1f722eb4cea6082e9f986d7894a617",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elenchi Elaborati",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Relazione di incidenza",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Piano di utilizzo dei materiali di scavo",
+      "Osservazioni del Pubblico",
+      "Pareri/Osservazioni Enti",
+      "Controdeduzioni"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni della Signora Graziana Vincenzo in data 16/10/2025",
+        "nome_file": "MASE-2025-0191271.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0191271",
+        "data": "16/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1315093",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Società VOREAS SRL , in data 14/10/2025",
+        "nome_file": "MASE-2025-0189729.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0189729",
+        "data": "15/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314829",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Matteo di Carlo in data 14/10/2025",
+        "nome_file": "MASE-2025-0189267.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0189267",
+        "data": "14/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314749",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni della Società NVA Fenice S.r.l. in data 14/10/2025",
+        "nome_file": "MASE-2025-0189075.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0189075",
+        "data": "14/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314746",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Giuseppe Monaco in data 13/1072025",
+        "nome_file": "MASE-2025-0187897.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0187897",
+        "data": "14/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314677",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni del Signor Antonio Chiella in data 19/09/2025",
+        "nome_file": "MASE-2025-0172153.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2025-0172153",
+        "data": "02/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1309752",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Parere della Regione Puglia Dipartimento ambiente, paesaggio e qualità urbana Sezione Autorizzazioni Ambientali , in data 24/10/2025",
+        "nome_file": "MASE-2025-0197609.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2025-0197609",
+        "data": "27/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1318686",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Parere del Comune di LUCERA - IV Settore Opere Pubbliche Pianificazione e Programmazione Territoriale - Attività Produttive - Edilizia Pubblica e Privata in data 15//0/1015",
+        "nome_file": "MASE-2025-0190298.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2025-0190298",
+        "data": "15/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314980",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Parere del Comune di PIETRAMONTECORVINO, in data 03/10/2025",
+        "nome_file": "MASE-2025-0181852.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2025-0181852",
+        "data": "14/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1314713",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Parere del Comune di Volturino, in data 03/10/2025",
+        "nome_file": "MASE-2025-0181838.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2025-0181838",
+        "data": "06/10/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1310113",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Parere del Comune di Troia, in data 19/09/2025",
+        "nome_file": "MASE-2025-0172433.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2025-0172433",
+        "data": "22/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1303956",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "68_GIT_2025_Inqvincolistico-PAI-Pericolositaidraulicaegeomorfologica",
+        "nome_file": "68_GIT_2025_Inqvincolistico-PAI-Pericolositaidraulicaegeomorfologica.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "68-GIT-2025-Inqvincolistico-PAI-Pericolositaidraulicaegeomorfologica",
+        "data": "15/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1302345"
+      },
+      {
+        "titolo": "Avviso al pubblico del 15/09/2025",
+        "nome_file": "Avviso_al_pubblico.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MASE-2025-0168210",
+        "data": "15/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1302341"
+      },
+      {
+        "titolo": "Studio di Impatto Ambientale Impianto Eolico Volturino",
+        "nome_file": "52_GIT_2025_StudiodiImpattoAmbientale.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "7bc8eebc-3426-4cb6-b9d1-b2fad9818ea2",
+        "data": "15/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1302237"
+      },
+      {
+        "titolo": "Carta delle Reti e Connessioni Ecologiche",
+        "nome_file": "60_GIT_2025_Cartadelleretieconnessioniecologiche.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "f106ba90-3150-4dd2-a3a0-1f21b39aeffc",
+        "data": "15/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1302238"
+      },
+      {
+        "titolo": "Quadro di unione",
+        "nome_file": "66_GIT_2025_Inqvincolistico-PPTR-Componenticulturalieinsediative.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "a4aa5d6b-860b-406d-8213-b1101dc52bf3",
+        "data": "15/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1302240"
+      },
+      {
+        "titolo": "Sorgenti e Recettori - Stazioni di rilievo fonometrico - Su ortofoto",
+        "nome_file": "91_GIT_2025_Sorgentierecettori-stazionidirilievofonometrico-suortofoto.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "b859c599-e45d-42c8-a227-3109c43539b9",
+        "data": "15/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1302241"
+      },
+      {
+        "titolo": "Inquadramento Impianti Eolici e Fotovoltaici",
+        "nome_file": "71_GIT_2025_Inqimpiantieoliciefotovoltaicirealizzatieautorizzati.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "ec730fb3-3d40-4f7b-9039-c4201b53f3f7",
+        "data": "15/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1302242"
+      },
+      {
+        "titolo": "Inquadramento vincolistico - PPTR - Componenti delle aree protette e dei siti naturalistici",
+        "nome_file": "65_GIT_2025_Inqvincolistico-PPTR-Componentiareeprotetteesitinaturalistici.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "89e91ad4-d3f5-4dad-8efe-4ce4307a4455",
+        "data": "15/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1302249"
+      },
+      {
+        "titolo": "Inquadramento vincolistico d'insieme D.LGS. 42/2004",
+        "nome_file": "67_GIT_2025_InqvincolisticodinsiemeDlgs42-2004.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "a27682ca-8ff5-4e03-a822-be547dd890e8",
+        "data": "15/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1302251"
+      },
+      {
+        "titolo": "Carta degli habitat - Area Vasta",
+        "nome_file": "72_GIT_2025_CartadegliHabitat.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "b104c960-f8d4-4167-bb0c-77a708078dca",
+        "data": "15/09/2025",
+        "download_url": "https://va.mite.gov.it/File/Documento/1302252"
+      }
+    ]
+  }
+}

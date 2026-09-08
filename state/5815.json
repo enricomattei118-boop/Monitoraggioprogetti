@@ -1,0 +1,1935 @@
+{
+  "id_vip": "5815",
+  "trovato": true,
+  "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/7760",
+  "nome_progetto": "Progetto di un impianto eolico \"Sellia Marina\", composto da 14 aerogeneratori da 6 MW per un totale di 84 MW, ricadente nei Comuni di Sellia Marina, Soveria Simeri, Sersale, Cropani, Cerva, Belcastro, Andali (CZ).",
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM) 5815\nOggetto: Progetto di un impianto eolico \"Sellia Marina\", composto da 14 aerogeneratori da 6 MW per un totale di 84 MW, ricadente nei comuni di Sellia Marina, Soveria Simeri, Sersale, Cropani, Cerva, Belcastro, Andali.\nData presentazione istanza: 03/02/2021\nData avvio consultazione pubblica: 22/02/2021\nTermine presentazione Osservazioni del Pubblico: 23/04/2021\nData richiesta Integrazioni: 25/06/2021\nResponsabile del procedimento: Silvia Terzoli - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Procedimento in corso presso la Presidenza del Consiglio dei Ministri",
+  "hash_dettagli": "2b103e6dc1d4aadcbb6f8ae924a0feddec563b3c130d497634cb76e33d1fb9c8",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elenchi Elaborati",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Osservazioni del Pubblico",
+      "Pareri/Osservazioni Enti",
+      "Richiesta integrazioni della documentazione",
+      "Pareri/Osservazioni Enti (I)",
+      "Controdeduzioni (I)",
+      "Documentazione integrativa/Documentazione integrativa volontaria"
+    ],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni del Comune di Sellia Marina in data 22/04/2021",
+        "nome_file": "MATTM-2021-0041880.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MATTM-2021-0041880",
+        "data": "14/05/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/490897",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Parere del Comune di Soveria Simeri in data 23/04/2021",
+        "nome_file": "MATTM-2021-0042604.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MATTM-2021-0042604",
+        "data": "17/05/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/493869",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      },
+      {
+        "titolo": "Parere del Ministero della Cultura- Soprintendenza Speciale per il PNRR in data 12/08/2024",
+        "nome_file": "MASE-2024-0150789.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2024-0150789",
+        "data": "12/08/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1122208",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Elenco Elaborati",
+        "nome_file": "PESM-G-00_Elenco_Elaborati.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-G-00-Elenco-Elaborati",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535337",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Relazione_illustrativa_integrazioni",
+        "nome_file": "PESM-G-01_a_Relazione_illustrativa_integrazioni.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-G-01-a-Relazione-illustrativa-integrazioni",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535338",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Relazione_generale",
+        "nome_file": "PESM-G-01_Relazione_generale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-G-01-Relazione-generale",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535339",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Modello_Aerogeneratore",
+        "nome_file": "PESM-G-02_Modello_Aerogeneratore.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-G-02-Modello-Aerogeneratore",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535340",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Localizzazione_geografica",
+        "nome_file": "PESM-G-03_Localizzazione_geografica.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-G-03-Localizzazione-geografica",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535341",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Layout_aerogeneratori_su_ortofoto",
+        "nome_file": "PESM-G-04_01_Layout_aerogeneratori_su_ortofoto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-G-04-01-Layout-aerogeneratori-su-ortofoto",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535342",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Layout_ipotesi_alternative",
+        "nome_file": "PESM-G-04_02_Layout_ipotesi_alternative.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-G-04-02-Layout-ipotesi-alternative",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535343",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Inquadramento_generale_su_CTR",
+        "nome_file": "PESM-G-05_01_Inquadramento_generale_su_CTR.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-G-05-01-Inquadramento-generale-su-CTR",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535344",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Inquadramento_su_strumento_urbanistico",
+        "nome_file": "PESM-G-05_02_Inquadramento_su_strumento_urbanistico.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-G-05-02-Inquadramento-su-strumento-urbanistico",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535345",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_generale_adeguamenti_della_viabilità_esistente_su_CTR-Tav.01",
+        "nome_file": "PESM-P-AD-01_01_a_Planimetria_generale_adeguamenti_della_viabilita_esistente_su_CTR-Tav_01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-01-01-a-Planimetria-generale-adeguamenti-della-viabilita-esistente-su-CTR-Tav-01",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535346",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_generale_adeguamenti_della_viabilità_esistente_su_CTR-Tav.02",
+        "nome_file": "PESM-P-AD-01_01_b_Planimetria_generale_adeguamenti_della_viabilita_esistente_su_CTR-Tav_02.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-01-01-b-Planimetria-generale-adeguamenti-della-viabilita-esistente-su-CTR-Tav-02",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535347",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_generale_adeguamenti_della_viabilità_esistente_su_ORTOFOTO-Tav.01",
+        "nome_file": "PESM-P-AD-01_02_a_Planimetria_generale_adeguamenti_della_viabilita_esistente_su_ORTOFOTO-Tav_01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-01-02-a-Planimetria-generale-adeguamenti-della-viabilita-esistente-su-ORTOFOTO-Tav-01",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535348",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_generale_adeguamenti_della_viabilità_esistente_su_ORTOFOTO-Tav.02",
+        "nome_file": "PESM-P-AD-01_02_b_Planimetria_generale_adeguamenti_della_viabilita_esistente_su_ORTOFOTO-Tav_02.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-01-02-b-Planimetria-generale-adeguamenti-della-viabilita-esistente-su-ORTOFOTO-Tav-02",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535349",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_adeguamenti_Asse_1_AD-2 AD",
+        "nome_file": "PESM-P-AD-02_01_Planimetria_particolareggiata_adeguamenti_Asse_1_AD-2_AD.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-02-01-Planimetria-particolareggiata-adeguamenti-Asse-1-AD-2-AD",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535350",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_adeguamenti_Asse_4_AD",
+        "nome_file": "PESM-P-AD-02_02_Planimetria_particolareggiata_adeguamenti_Asse_4_AD.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-02-02-Planimetria-particolareggiata-adeguamenti-Asse-4-AD",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535351",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_adeguamenti_Asse_5_AD-Tav.01",
+        "nome_file": "PESM-P-AD-02_03_Planimetria_particolareggiata_adeguamenti_Asse_5_AD-Tav_01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-02-03-Planimetria-particolareggiata-adeguamenti-Asse-5-AD-Tav-01",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535352",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_adeguamenti_Asse_5_AD-Tav.02",
+        "nome_file": "PESM-P-AD-02_04_Planimetria_particolareggiata_adeguamenti_Asse_5_AD-Tav_02.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-02-04-Planimetria-particolareggiata-adeguamenti-Asse-5-AD-Tav-02",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535353",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_adeguamenti_Asse_5_AD-Tav.03",
+        "nome_file": "PESM-P-AD-02_05_Planimetria_particolareggiata_adeguamenti_Asse_5_AD-Tav_03.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-02-05-Planimetria-particolareggiata-adeguamenti-Asse-5-AD-Tav-03",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535354",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria particolareggiata adeguamenti_ASSE_5_AD-Tav.04",
+        "nome_file": "PESM-P-AD-02_06_Planimetria_particolareggiata_adeguamenti_ASSE_5_AD-Tav_04.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-02-06-Planimetria-particolareggiata-adeguamenti-ASSE-5-AD-Tav-04",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535355",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_adeguamenti_Asse_5_AD-Tav.05",
+        "nome_file": "PESM-P-AD-02_07_Planimetria_particolareggiata_adeguamenti_Asse_5_AD-Tav_05.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-02-07-Planimetria-particolareggiata-adeguamenti-Asse-5-AD-Tav-05",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535356",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_adeguamenti_Asse_6_AD-8_AD",
+        "nome_file": "PESM-P-AD-02_08_Planimetria_particolareggiata_adeguamenti_Asse_6_AD-8_AD.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-02-08-Planimetria-particolareggiata-adeguamenti-Asse-6-AD-8-AD",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535357",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_adeguamenti_Assi_10_AD-11_ALL-12_AD",
+        "nome_file": "PESM-P-AD-02_09_Planimetria_particolareggiata_adeguamenti_Assi_10_AD-11_ALL-12_AD.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-02-09-Planimetria-particolareggiata-adeguamenti-Assi-10-AD-11-ALL-12-AD",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535358",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_adeguamenti_Allargamenti_puntuali",
+        "nome_file": "PESM-P-AD-02_10_Planimetria_particolareggiata_adeguamenti_Allargamenti_puntuali.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-02-10-Planimetria-particolareggiata-adeguamenti-Allargamenti-puntuali",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535359",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profili_longitudinali_adeguamenti-Assi_1_AD-2_AD",
+        "nome_file": "PESM-P-AD-03_01_Profili_longitudinali_adeguamenti-Assi_1_AD-2_AD.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-03-01-Profili-longitudinali-adeguamenti-Assi-1-AD-2-AD",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535360",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profili_longitudinali_adeguamenti-Assi_4_AD-6_AD",
+        "nome_file": "PESM-P-AD-03_02_Profili_longitudinali_adeguamenti-Assi_4_AD-6_AD.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-03-02-Profili-longitudinali-adeguamenti-Assi-4-AD-6-AD",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535361",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profili_longitudinali_adeguamenti-Assi_8_AD-10_AD-12_AD",
+        "nome_file": "PESM-P-AD-03_03_Profili_longitudinali_adeguamenti-Assi_8_AD-10_AD-12_AD.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-03-03-Profili-longitudinali-adeguamenti-Assi-8-AD-10-AD-12-AD",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535362",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profili_longitudinali_adeguamenti-ASSE_5_AD-Tav.01",
+        "nome_file": "PESM-P-AD-03_04_a_Profili_longitudinali_adeguamenti-ASSE_5_AD-Tav_01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-03-04-a-Profili-longitudinali-adeguamenti-ASSE-5-AD-Tav-01",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535363",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profili_longitudinali_adeguamenti-ASSE_5_AD-Tav.02",
+        "nome_file": "PESM-P-AD-03_04_b_Profili_longitudinali_adeguamenti-ASSE_5_AD-Tav_02.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-03-04-b-Profili-longitudinali-adeguamenti-ASSE-5-AD-Tav-02",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535364",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profili_longitudinali_adeguamenti-ASSE_5_AD-Tav.03",
+        "nome_file": "PESM-P-AD-03_04_c_Profili_longitudinali_adeguamenti-ASSE_5_AD-Tav_03.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-03-04-c-Profili-longitudinali-adeguamenti-ASSE-5-AD-Tav-03",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535365",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profili_longitudinali_adeguamenti-ASSE_5_AD-Tav.04",
+        "nome_file": "PESM-P-AD-03_04_d_Profili_longitudinali_adeguamenti-ASSE_5_AD-Tav_04.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-03-04-d-Profili-longitudinali-adeguamenti-ASSE-5-AD-Tav-04",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535366",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profili longitudinali adeguamenti-ASSE_5_AD-Tav.05",
+        "nome_file": "PESM-P-AD-03_04_e_Profili_longitudinali_adeguamenti-ASSE_5_AD-Tav_05.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-03-04-e-Profili-longitudinali-adeguamenti-ASSE-5-AD-Tav-05",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535367",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profili longitudinali adeguamenti-ASSE_5_AD-Tav.06",
+        "nome_file": "PESM-P-AD-03_04_f_Profili_longitudinali_adeguamenti-ASSE_5_AD-Tav_06.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-03-04-f-Profili-longitudinali-adeguamenti-ASSE-5-AD-Tav-06",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535368",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profili longitudinali adeguamenti-ASSE_5_AD-Tav.07",
+        "nome_file": "PESM-P-AD-03_04_g_Profili_longitudinali_adeguamenti-ASSE_5_AD-Tav_07.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-03-04-g-Profili-longitudinali-adeguamenti-ASSE-5-AD-Tav-07",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535369",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali-Asse_1_AD",
+        "nome_file": "PESM-P-AD-04_01_Sezioni_trasversali-Asse_1_AD.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-04-01-Sezioni-trasversali-Asse-1-AD",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535370",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali-Asse_2_AD",
+        "nome_file": "PESM-P-AD-04_02_Sezioni_trasversali-Asse_2_AD.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-04-02-Sezioni-trasversali-Asse-2-AD",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535371",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali-Asse_4_AD",
+        "nome_file": "PESM-P-AD-04_03_Sezioni_trasversali-Asse_4_AD.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-04-03-Sezioni-trasversali-Asse-4-AD",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535372",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali-Asse_5_AD",
+        "nome_file": "PESM-P-AD-04_04_Sezioni_trasversali-Asse_5_AD.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-04-04-Sezioni-trasversali-Asse-5-AD",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535373",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali-Asse_6_AD",
+        "nome_file": "PESM-P-AD-04_05_Sezioni_trasversali-Asse_6_AD.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-04-05-Sezioni-trasversali-Asse-6-AD",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535374",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali-Asse_8_AD",
+        "nome_file": "PESM-P-AD-04_06_Sezioni_trasversali-Asse_8_AD.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-04-06-Sezioni-trasversali-Asse-8-AD",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535375",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali-Asse_10_AD",
+        "nome_file": "PESM-P-AD-04_07_Sezioni_trasversali-Asse_10_AD.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-04-07-Sezioni-trasversali-Asse-10-AD",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535376",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali-Asse_12_AD",
+        "nome_file": "PESM-P-AD-04_08_Sezioni_trasversali-Asse_12_AD.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-04-08-Sezioni-trasversali-Asse-12-AD",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535377",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali-Asse_11_ALL_1",
+        "nome_file": "PESM-P-AD-04_09_Sezioni_trasversali-Asse_11_ALL_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-04-09-Sezioni-trasversali-Asse-11-ALL-1",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535378",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali-ALL_2-6",
+        "nome_file": "PESM-P-AD-04_10_Sezioni_trasversali-ALL_2-6.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-04-10-Sezioni-trasversali-ALL-2-6",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535379",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali-ALL_7",
+        "nome_file": "PESM-P-AD-04_11_Sezioni_trasversali-ALL_7.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-04-11-Sezioni-trasversali-ALL-7",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535380",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali-ALL_11",
+        "nome_file": "PESM-P-AD-04_12_Sezioni_trasversali-ALL_11.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AD-04-12-Sezioni-trasversali-ALL-11",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535381",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Studio_Anemologico",
+        "nome_file": "PESM-P-AN-01_Studio_Anemologico.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AN-01-Studio-Anemologico",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535382",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_area_Sottostazione",
+        "nome_file": "PESM-P-AS-01_Planimetria_particolareggiata_area_Sottostazione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AS-01-Planimetria-particolareggiata-area-Sottostazione",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535383",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profilo_longitudinale_area_Sottostazione",
+        "nome_file": "PESM-P-AS-02_Profilo_longitudinale_area_Sottostazione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AS-02-Profilo-longitudinale-area-Sottostazione",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535384",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_area_Sottostazione",
+        "nome_file": "PESM-P-AS-03_Sezioni_trasversali_area_Sottostazione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AS-03-Sezioni-trasversali-area-Sottostazione",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535385",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_area_logistica_temporanea",
+        "nome_file": "PESM-P-AT-01_Planimetria_area_logistica_temporanea.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-AT-01-Planimetria-area-logistica-temporanea",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535386",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Inquadramento_generale_su_Catastale",
+        "nome_file": "PESM-P-CE-01_Inquadramento_generale_su_Catastale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-01-Inquadramento-generale-su-Catastale",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535387",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetrie_catastali-TAV_1",
+        "nome_file": "PESM-P-CE-02_01_Planimetrie_catastali-TAV_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-02-01-Planimetrie-catastali-TAV-1",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535388",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetrie_catastali-TAV_2",
+        "nome_file": "PESM-P-CE-02_02_Planimetrie_catastali-TAV_2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-02-02-Planimetrie-catastali-TAV-2",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535389",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetrie_catastali-TAV_3",
+        "nome_file": "PESM-P-CE-02_03_Planimetrie_catastali-TAV_3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-02-03-Planimetrie-catastali-TAV-3",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535390",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetrie_catastali-TAV_4",
+        "nome_file": "PESM-P-CE-02_04_Planimetrie_catastali-TAV_4.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-02-04-Planimetrie-catastali-TAV-4",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535391",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetrie_catastali-TAV_5",
+        "nome_file": "PESM-P-CE-02_05_Planimetrie_catastali-TAV_5.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-02-05-Planimetrie-catastali-TAV-5",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535392",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetrie_catastali-TAV_6",
+        "nome_file": "PESM-P-CE-02_06_Planimetrie_catastali-TAV_6.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-02-06-Planimetrie-catastali-TAV-6",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535393",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetrie_catastali-TAV_7",
+        "nome_file": "PESM-P-CE-02_07_Planimetrie_catastali-TAV_7.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-02-07-Planimetrie-catastali-TAV-7",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535394",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetrie_catastali-TAV_8",
+        "nome_file": "PESM-P-CE-02_08_Planimetrie_catastali-TAV_8.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-02-08-Planimetrie-catastali-TAV-8",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535395",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetrie_catastali-TAV_9",
+        "nome_file": "PESM-P-CE-02_09_Planimetrie_catastali-TAV_9.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-02-09-Planimetrie-catastali-TAV-9",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535396",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_particellare_di_Esproprio_Comune_di_Sellia_Marina_Foglio_di_mappa_n.1",
+        "nome_file": "PESM-P-CE-03_01_Piano_particellare_di_Esproprio_Comune_di_Sellia_Marina_Foglio_di_mappa_n_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-03-01-Piano-particellare-di-Esproprio-Comune-di-Sellia-Marina-Foglio-di-mappa-n-1",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535397",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_particellare_di_Esproprio_Comune_di_Sellia_Marina_Foglio_di_mappa_n.2",
+        "nome_file": "PESM-P-CE-03_02_Piano_particellare_di_Esproprio_Comune_di_Sellia_Marina_Foglio_di_mappa_n_2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-03-02-Piano-particellare-di-Esproprio-Comune-di-Sellia-Marina-Foglio-di-mappa-n-2",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535398",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_particellare_di_Esproprio_Comune_di_Sellia_Marina_Foglio_di_mappa_n.3",
+        "nome_file": "PESM-P-CE-03_03_Piano_particellare_di_Esproprio_Comune_di_Sellia_Marina_Foglio_di_mappa_n_3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-03-03-Piano-particellare-di-Esproprio-Comune-di-Sellia-Marina-Foglio-di-mappa-n-3",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535399",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_particellare_di_Esproprio_Comune_di_Sellia_Marina_Foglio_di_mappa_n.5",
+        "nome_file": "PESM-P-CE-03_04_Piano_particellare_di_Esproprio_Comune_di_Sellia_Marina_Foglio_di_mappa_n_5.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-03-04-Piano-particellare-di-Esproprio-Comune-di-Sellia-Marina-Foglio-di-mappa-n-5",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535400",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_particellare_di_Esproprio_Comune_di_Sellia_Marina_Foglio_di_mappa_n.6",
+        "nome_file": "PESM-P-CE-03_05_Piano_particellare_di_Esproprio_Comune_di_Sellia_Marina_Foglio_di_mappa_n_6.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-03-05-Piano-particellare-di-Esproprio-Comune-di-Sellia-Marina-Foglio-di-mappa-n-6",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535401",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_particellare_di_Esproprio_Comune_di_Sersale_Foglio_di_mappa_n.49",
+        "nome_file": "PESM-P-CE-03_06_Piano_particellare_di_Esproprio_Comune_di_Sersale_Foglio_di_mappa_n_49.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-03-06-Piano-particellare-di-Esproprio-Comune-di-Sersale-Foglio-di-mappa-n-49",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535402",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_particellare_di_Esproprio_Comune_di_Soveria_Simeri_Foglio_di_mappa_n.13",
+        "nome_file": "PESM-P-CE-03_07_Piano_particellare_di_Esproprio_Comune_di_Soveria_Simeri_Foglio_di_mappa_n_13.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-03-07-Piano-particellare-di-Esproprio-Comune-di-Soveria-Simeri-Foglio-di-mappa-n-13",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535403",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_particellare_di_Esproprio_Comune_di_Soveria_Simeri_Foglio_di_mappa_n.14",
+        "nome_file": "PESM-P-CE-03_08_Piano_particellare_di_Esproprio_Comune_di_Soveria_Simeri_Foglio_di_mappa_n_14.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-03-08-Piano-particellare-di-Esproprio-Comune-di-Soveria-Simeri-Foglio-di-mappa-n-14",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535404",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_particellare_di_Esproprio_Comune_di_Soveria_Simeri_Foglio_di_mappa_n.15",
+        "nome_file": "PESM-P-CE-03_09_Piano_particellare_di_Esproprio_Comune_di_Soveria_Simeri_Foglio_di_mappa_n_15.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-03-09-Piano-particellare-di-Esproprio-Comune-di-Soveria-Simeri-Foglio-di-mappa-n-15",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535405",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_particellare_di_Esproprio_Comune_di_Soveria_Simeri_Foglio_di_mappa_n.16",
+        "nome_file": "PESM-P-CE-03_10_Piano_particellare_di_Esproprio_Comune_di_Soveria_Simeri_Foglio_di_mappa_n_16.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-03-10-Piano-particellare-di-Esproprio-Comune-di-Soveria-Simeri-Foglio-di-mappa-n-16",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535406",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_particellare_di_Esproprio_Comune_di_Soveria_Simeri_Foglio_di_mappa_n.17",
+        "nome_file": "PESM-P-CE-03_11_Piano_particellare_di_Esproprio_Comune_di_Soveria_Simeri_Foglio_di_mappa_n_17.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-03-11-Piano-particellare-di-Esproprio-Comune-di-Soveria-Simeri-Foglio-di-mappa-n-17",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535407",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_particellare_di_Esproprio_Comune_di_Soveria_Simeri_Foglio_di_mappa_n.17_A",
+        "nome_file": "PESM-P-CE-03_12_Piano_particellare_di_Esproprio_Comune_di_Soveria_Simeri_Foglio_di_mappa_n_17_A.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-03-12-Piano-particellare-di-Esproprio-Comune-di-Soveria-Simeri-Foglio-di-mappa-n-17-A",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535408",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_particellare_di_Esproprio_Comune_di_Catanzaro_Foglio_di_mappa_n.60",
+        "nome_file": "PESM-P-CE-03_13_Piano_particellare_di_Esproprio_Comune_di_Catanzaro_Foglio_di_mappa_n_60.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-03-13-Piano-particellare-di-Esproprio-Comune-di-Catanzaro-Foglio-di-mappa-n-60",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535409",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Elenco_ditte",
+        "nome_file": "PESM-P-CE-04_Elenco_ditte.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-04-Elenco-ditte",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535410",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Quantificazione_aree",
+        "nome_file": "PESM-P-CE-05_Quantificazione_aree.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-05-Quantificazione-aree",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535411",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Relazione_di_Stima_per_Indennità_di_esproprio",
+        "nome_file": "PESM-P-CE-06_Relazione_di_Stima_per_Indennita_di_esproprio.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-06-Relazione-di-Stima-per-Indennita-di-esproprio",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535412",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Tabella_indennità_di_esproprio",
+        "nome_file": "PESM-P-CE-07_Tabella_indennita_di_esproprio.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CE-07-Tabella-indennita-di-esproprio",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535413",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Rilievo_topografico-Tav.1",
+        "nome_file": "PESM-P-CP-01_01_Rilievo_topografico-Tav_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CP-01-01-Rilievo-topografico-Tav-1",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535414",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Rilievo_topografico-Tav.2",
+        "nome_file": "PESM-P-CP-01_02_Rilievo_topografico-Tav_2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CP-01-02-Rilievo-topografico-Tav-2",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535415",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Rilievo_topografico-Tav.3",
+        "nome_file": "PESM-P-CP-01_03_Rilievo_topografico-Tav_3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CP-01-03-Rilievo-topografico-Tav-3",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535416",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Rilievo_topografico-Tav.04",
+        "nome_file": "PESM-P-CP-01_04_Rilievo_topografico-Tav_04.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CP-01-04-Rilievo-topografico-Tav-04",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535417",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Rilievo_topografico-Tav.05",
+        "nome_file": "PESM-P-CP-01_05_Rilievo_topografico-Tav_05.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-CP-01-05-Rilievo-topografico-Tav-05",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535418",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Relazione_stabilita_pendii",
+        "nome_file": "PESM-P-GE-01_Relazione_stabilita_pendii.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-GE-01-Relazione-stabilita-pendii",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535419",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piazzola_tipo_aerogeneratori",
+        "nome_file": "PESM-P-GT-01_Piazzola_tipo_aerogeneratori.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-GT-01-Piazzola-tipo-aerogeneratori",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535420",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_Tipo_piattaforma_stradale",
+        "nome_file": "PESM-P-GT-02_Sezioni_Tipo_piattaforma_stradale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-GT-02-Sezioni-Tipo-piattaforma-stradale",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535421",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Relazione_idraulica",
+        "nome_file": "PESM-P-ID-01_Relazione_idraulica.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-ID-01-Relazione-idraulica",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535422",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_idraulica_TAV.1",
+        "nome_file": "PESM-P-ID-02_01_Planimetria_idraulica_TAV_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-ID-02-01-Planimetria-idraulica-TAV-1",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535423",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_idraulica_TAV.2",
+        "nome_file": "PESM-P-ID-02_02_Planimetria_idraulica_TAV_2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-ID-02-02-Planimetria-idraulica-TAV-2",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535424",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_idraulica_TAV.3",
+        "nome_file": "PESM-P-ID-02_03_Planimetria_idraulica_TAV_3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-ID-02-03-Planimetria-idraulica-TAV-3",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535425",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_idraulica_TAV.4",
+        "nome_file": "PESM-P-ID-02_04_Planimetria_idraulica_TAV_4.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-ID-02-04-Planimetria-idraulica-TAV-4",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535426",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_idraulica_TAV.5",
+        "nome_file": "PESM-P-ID-02_05_Planimetria_idraulica_TAV_5.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-ID-02-05-Planimetria-idraulica-TAV-5",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535427",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Particolari_costruttivi_idraulici",
+        "nome_file": "PESM-P-ID-03_Particolari_costruttivi_idraulici.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-ID-03-Particolari-costruttivi-idraulici",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535428",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Scheda_ostacoli_verticali",
+        "nome_file": "PESM-P-VI-01_Scheda_ostacoli_verticali.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VI-01-Scheda-ostacoli-verticali",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535429",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Relazione_segnalazione_cromatica_e_luminosa",
+        "nome_file": "PESM-P-VI-02_Relazione_segnalazione_cromatica_e_luminosa.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VI-02-Relazione-segnalazione-cromatica-e-luminosa",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535430",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria generale nuova viabilità su CTR-Tav.01",
+        "nome_file": "PESM-P-VN-01_01_a_Planimetria_generale_nuova_viabilita_su_CTR-Tav_01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-01-01-a-Planimetria-generale-nuova-viabilita-su-CTR-Tav-01",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535431",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria generale nuova viabilità su CTR-Tav.02",
+        "nome_file": "PESM-P-VN-01_01_b_Planimetria_generale_nuova_viabilita_su_CTR-Tav_02.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-01-01-b-Planimetria-generale-nuova-viabilita-su-CTR-Tav-02",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535432",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_generale_nuova_viabilità_su_Ortofoto-Tav.01",
+        "nome_file": "PESM-P-VN-01_02_a_Planimetria_generale_nuova_viabilita_su_Ortofoto-Tav_01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-01-02-a-Planimetria-generale-nuova-viabilita-su-Ortofoto-Tav-01",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535433",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_generale_nuova_viabilità_su_Ortofoto-Tav.02",
+        "nome_file": "PESM-P-VN-01_02_b_Planimetria_generale_nuova_viabilita_su_Ortofoto-Tav_02.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-01-02-b-Planimetria-generale-nuova-viabilita-su-Ortofoto-Tav-02",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535434",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_nuova_viabilità_asse SM01",
+        "nome_file": "PESM-P-VN-02_01_Planimetria_particolareggiata_nuova_viabilita_asse_SM01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-02-01-Planimetria-particolareggiata-nuova-viabilita-asse-SM01",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535435",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_nuova_viabilità_assi_1-3-SM02_SM03",
+        "nome_file": "PESM-P-VN-02_02_Planimetria_particolareggiata_nuova_viabilita_assi_1-3-SM02_SM03.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-02-02-Planimetria-particolareggiata-nuova-viabilita-assi-1-3-SM02-SM03",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535436",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_nuova_viabilità-assi SM04-SM12",
+        "nome_file": "PESM-P-VN-02_03_Planimetria_particolareggiata_nuova_viabilita-assi_SM04-SM12.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-02-03-Planimetria-particolareggiata-nuova-viabilita-assi-SM04-SM12",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535437",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_nuova_viabilità-assi SM05-SM06",
+        "nome_file": "PESM-P-VN-02_04_Planimetria_particolareggiata_nuova_viabilita-assi_SM05-SM06.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-02-04-Planimetria-particolareggiata-nuova-viabilita-assi-SM05-SM06",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535438",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_nuova_viabilità-assi_SM07-SM08",
+        "nome_file": "PESM-P-VN-02_05_Planimetria_particolareggiata_nuova_viabilita-assi_SM07-SM08.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-02-05-Planimetria-particolareggiata-nuova-viabilita-assi-SM07-SM08",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535439",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_nuova_viabilità-assi_SM09-MANOVRA",
+        "nome_file": "PESM-P-VN-02_06_Planimetria_particolareggiata_nuova_viabilita-assi_SM09-MANOVRA.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-02-06-Planimetria-particolareggiata-nuova-viabilita-assi-SM09-MANOVRA",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535440",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_nuova_viabilità-assi_7-9-SM10",
+        "nome_file": "PESM-P-VN-02_07_Planimetria_particolareggiata_nuova_viabilita-assi_7-9-SM10.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-02-07-Planimetria-particolareggiata-nuova-viabilita-assi-7-9-SM10",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535441",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_nuova_viabilità_assi_9-SM11",
+        "nome_file": "PESM-P-VN-02_08_Planimetria_particolareggiata_nuova_viabilita_assi_9-SM11.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-02-08-Planimetria-particolareggiata-nuova-viabilita-assi-9-SM11",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535442",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_particolareggiata_nuova_viabilità_assi_SM13-SM14",
+        "nome_file": "PESM-P-VN-02_09_Planimetria_particolareggiata_nuova_viabilita_assi_SM13-SM14.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-02-09-Planimetria-particolareggiata-nuova-viabilita-assi-SM13-SM14",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535443",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profili_longitudinali_nuova_viabilità_assi_1-7-8-manovra",
+        "nome_file": "PESM-P-VN-03_01_Profili_longitudinali_nuova_viabilita_assi_1-7-8-manovra.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-03-01-Profili-longitudinali-nuova-viabilita-assi-1-7-8-manovra",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535444",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profili_longitudinali_nuova_viabilità_asse_3",
+        "nome_file": "PESM-P-VN-03_02_Profili_longitudinali_nuova_viabilita_asse_3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-03-02-Profili-longitudinali-nuova-viabilita-asse-3",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535445",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profili_longitudinali_nuova_viabilità_asse_9",
+        "nome_file": "PESM-P-VN-03_03_Profili_longitudinali_nuova_viabilita_asse_9.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-03-03-Profili-longitudinali-nuova-viabilita-asse-9",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535446",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profili_longitudinali_piazzole_Tav.01",
+        "nome_file": "PESM-P-VN-03_04_a_Profili_longitudinali_piazzole_Tav_01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-03-04-a-Profili-longitudinali-piazzole-Tav-01",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535447",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Profili_longitudinali_piazzole_Tav.02",
+        "nome_file": "PESM-P-VN-03_04_b_Profili_longitudinali_piazzole_Tav_02.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-03-04-b-Profili-longitudinali-piazzole-Tav-02",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535448",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_SM01",
+        "nome_file": "PESM-P-VN-04_01_Sezioni_trasversali_SM01.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-01-Sezioni-trasversali-SM01",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535449",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_SM02",
+        "nome_file": "PESM-P-VN-04_02_Sezioni_trasversali_SM02.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-02-Sezioni-trasversali-SM02",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535450",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_SM03",
+        "nome_file": "PESM-P-VN-04_03_Sezioni_trasversali_SM03.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-03-Sezioni-trasversali-SM03",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535451",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_SM04",
+        "nome_file": "PESM-P-VN-04_04_Sezioni_trasversali_SM04.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-04-Sezioni-trasversali-SM04",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535452",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_prolungamento_gru",
+        "nome_file": "PESM-P-VN-04_05_A_Sezioni_trasversali_prolungamento_gru.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-05-A-Sezioni-trasversali-prolungamento-gru",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535453",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_SM05",
+        "nome_file": "PESM-P-VN-04_05_Sezioni_trasversali_SM05.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-05-Sezioni-trasversali-SM05",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535454",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_SM06",
+        "nome_file": "PESM-P-VN-04_06_Sezioni_trasversali_SM06.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-06-Sezioni-trasversali-SM06",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535455",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_SM07",
+        "nome_file": "PESM-P-VN-04_07_Sezioni_trasversali_SM07.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-07-Sezioni-trasversali-SM07",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535456",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_SM08",
+        "nome_file": "PESM-P-VN-04_08_Sezioni_trasversali_SM08.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-08-Sezioni-trasversali-SM08",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535457",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_SM09",
+        "nome_file": "PESM-P-VN-04_09_Sezioni_trasversali_SM09.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-09-Sezioni-trasversali-SM09",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535458",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_SM10",
+        "nome_file": "PESM-P-VN-04_10_Sezioni_trasversali_SM10.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-10-Sezioni-trasversali-SM10",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535459",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_SM11",
+        "nome_file": "PESM-P-VN-04_11_Sezioni_trasversali_SM11.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-11-Sezioni-trasversali-SM11",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535460",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_SM12",
+        "nome_file": "PESM-P-VN-04_12_Sezioni_trasversali_SM12.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-12-Sezioni-trasversali-SM12",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535461",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_SM13",
+        "nome_file": "PESM-P-VN-04_13_Sezioni_trasversali_SM13.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-13-Sezioni-trasversali-SM13",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535462",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_SM14",
+        "nome_file": "PESM-P-VN-04_14_Sezioni_trasversali_SM14.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-14-Sezioni-trasversali-SM14",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535463",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_SM14_Sbraccio_gru",
+        "nome_file": "PESM-P-VN-04_15_Sezioni_trasversali_SM14_Sbraccio_gru.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-15-Sezioni-trasversali-SM14-Sbraccio-gru",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535464",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_Asse_1",
+        "nome_file": "PESM-P-VN-04_16_Sezioni_trasversali_Asse_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-16-Sezioni-trasversali-Asse-1",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535465",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_Asse_3",
+        "nome_file": "PESM-P-VN-04_17_Sezioni_trasversali_Asse_3.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-17-Sezioni-trasversali-Asse-3",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535466",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_Asse_7",
+        "nome_file": "PESM-P-VN-04_18_Sezioni_trasversali_Asse_7.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-18-Sezioni-trasversali-Asse-7",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535467",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_Asse_9",
+        "nome_file": "PESM-P-VN-04_19_Sezioni_trasversali_Asse_9.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-19-Sezioni-trasversali-Asse-9",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535468",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_trasversali_Asse_Manovra",
+        "nome_file": "PESM-P-VN-04_20_Sezioni_trasversali_Asse_Manovra.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-P-VN-04-20-Sezioni-trasversali-Asse-Manovra",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535469",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Studio_Impatto_Ambientale",
+        "nome_file": "PESM-S01_01_Studio_Impatto_Ambientale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-01-Studio-Impatto-Ambientale",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535470",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Relazione_Agronomica",
+        "nome_file": "PESM-S01_02_Relazione_Agronomica.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-02-Relazione-Agronomica",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535471",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sintesi_non_tecnica",
+        "nome_file": "PESM-S01_03_Sintesi_non_tecnica.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-03-Sintesi-non-tecnica",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535472",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Studio acustico_curve_isolivello_acustico",
+        "nome_file": "PESM-S01_04_a_Studio_acustico_curve_isolivello_acustico.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-04-a-Studio-acustico-curve-isolivello-acustico",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535473",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Studio_acustico",
+        "nome_file": "PESM-S01_04_Studio_acustico.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-04-Studio-acustico",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535474",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Mappa_di_potenziale_interferenza_da_Shadow_Flickering_Tavola_1",
+        "nome_file": "PESM-S01_05_a_Mappa_di_potenziale_interferenza_da_Shadow_Flickering_Tavola_1.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-05-a-Mappa-di-potenziale-interferenza-da-Shadow-Flickering-Tavola-1",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535475",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Mappa_di_potenziale_interferenza_da_Shadow_Flickering_Tavola_2",
+        "nome_file": "PESM-S01_05_a_Mappa_di_potenziale_interferenza_da_Shadow_Flickering_Tavola_2.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-05-a-Mappa-di-potenziale-interferenza-da-Shadow-Flickering-Tavola-2",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535476",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Studio_Flickering",
+        "nome_file": "PESM-S01_05_Studio_Flickering.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-05-Studio-Flickering",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535477",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Ambiti_paesaggio",
+        "nome_file": "PESM-S01_11_Ambiti_paesaggio.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-11-Ambiti-paesaggio",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535478",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Aree_percorse_dal_fuoco-impianto",
+        "nome_file": "PESM-S01_12_a_Aree_percorse_dal_fuoco-impianto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-12-a-Aree-percorse-dal-fuoco-impianto",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535479",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Aree_percorse_dal_fuoco_opere_di_connessione",
+        "nome_file": "PESM-S01_12_b_Aree_percorse_dal_fuoco_opere_di_connessione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-12-b-Aree-percorse-dal-fuoco-opere-di-connessione",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535480",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Visibilità_cumulata_10_km",
+        "nome_file": "PESM-S01_13_Visibilita_cumulata_10_km.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-13-Visibilita-cumulata-10-km",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535481",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Visibilità_10_km",
+        "nome_file": "PESM-S01_14_Visibilita_10_km.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-14-Visibilita-10-km",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535482",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Visibilità_20_km",
+        "nome_file": "PESM-S01_15_Visibilita_20_km.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-15-Visibilita-20-km",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535483",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Visibilità_dettaglio_Catanzaro_5k",
+        "nome_file": "PESM-S01_16_Visibilita_dettaglio_Catanzaro_5k.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-16-Visibilita-dettaglio-Catanzaro-5k",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535484",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Visibilità_dettaglio_Cropani_5k",
+        "nome_file": "PESM-S01_17_Visibilita_dettaglio_Cropani_5k.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-17-Visibilita-dettaglio-Cropani-5k",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535485",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Visibilità_dettaglio_Fossato_Serralta_5k",
+        "nome_file": "PESM-S01_18_Visibilita_dettaglio_Fossato_Serralta_5k.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-18-Visibilita-dettaglio-Fossato-Serralta-5k",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535486",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Visibilità_dettaglio_Magisano_5k",
+        "nome_file": "PESM-S01_19_Visibilita_dettaglio_Magisano_5k.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-19-Visibilita-dettaglio-Magisano-5k",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535487",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Visibilità_dettaglio_Sellia_Marina_5k",
+        "nome_file": "PESM-S01_20_Visibilita_dettaglio_Sellia_Marina_5k.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-20-Visibilita-dettaglio-Sellia-Marina-5k",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535488",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Visibilità_dettaglio_Sellia_5k",
+        "nome_file": "PESM-S01_21_Visibilita_dettaglio_Sellia_5k.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-21-Visibilita-dettaglio-Sellia-5k",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535489",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Visibilità_dettaglio_Soveria_Simeri_5k",
+        "nome_file": "PESM-S01_22_Visibilita_dettaglio_Soveria_Simeri_5k.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-22-Visibilita-dettaglio-Soveria-Simeri-5k",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535490",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Visibilità_dettaglio_Taverna_5k",
+        "nome_file": "PESM-S01_23_Visibilita_dettaglio_Taverna_5k.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-23-Visibilita-dettaglio-Taverna-5k",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535491",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Visibilità_dettaglio_Tiriolo_5k",
+        "nome_file": "PESM-S01_24_Visibilita_dettaglio_Tiriolo_5k.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-24-Visibilita-dettaglio-Tiriolo-5k",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535492",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Visibilità_dettaglio_Zagarise_5k",
+        "nome_file": "PESM-S01_25_Visibilita_dettaglio_Zagarise_5k.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-25-Visibilita-dettaglio-Zagarise-5k",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535493",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Sezioni_punti_vista",
+        "nome_file": "PESM-S01_26_Sezioni_punti_vista.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-26-Sezioni-punti-vista",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535494",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Aree_non_idonee-impianto",
+        "nome_file": "PESM-S01_27_a_Aree_non_idonee-impianto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-27-a-Aree-non-idonee-impianto",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535495",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Aree_non_idonee-opere_di_connessione",
+        "nome_file": "PESM-S01_27_b_Aree_non_idonee-opere_di_connessione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-27-b-Aree-non-idonee-opere-di-connessione",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535496",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Corografia",
+        "nome_file": "PESM-S01_28_Corografia.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-28-Corografia",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535497",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Ecosistemi_fisionomie_vegetazionali-impianto",
+        "nome_file": "PESM-S01_29_Ecosistemi_fisionomie_vegetazionali-impianto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-29-Ecosistemi-fisionomie-vegetazionali-impianto",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535498",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Ecosistemi_fisionomie_vegetazionali-opere_di_connessione",
+        "nome_file": "PESM-S01_30_Ecosistemi_fisionomie_vegetazionali-opere_di_connessione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-30-Ecosistemi-fisionomie-vegetazionali-opere-di-connessione",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535499",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Idrografia",
+        "nome_file": "PESM-S01_31_Idrografia.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-31-Idrografia",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535500",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Mosaico_Urbanistico_impianto",
+        "nome_file": "PESM-S01_32_a_Mosaico_Urbanistico_impianto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-32-a-Mosaico-Urbanistico-impianto",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535501",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Mosaico_Urbanistico_opere_di_connessione",
+        "nome_file": "PESM-S01_32_b_Mosaico_Urbanistico_opere_di_connessione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-32-b-Mosaico-Urbanistico-opere-di-connessione",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535502",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - PAI_dissesti_impianto",
+        "nome_file": "PESM-S01_33_a_PAI_dissesti_impianto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-33-a-PAI-dissesti-impianto",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535503",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - PAI_dissesti_opere_di_connessione",
+        "nome_file": "PESM-S01_33_b_PAI_dissesti_opere_di_connessione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-33-b-PAI-dissesti-opere-di-connessione",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535504",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - PAI_pericolosità_rischio_frana_impianto",
+        "nome_file": "PESM-S01_34_a_PAI_pericolosita_rischio_frana_impianto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-34-a-PAI-pericolosita-rischio-frana-impianto",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535505",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - PAI_pericolosità_rischio_frana_opere_connessione",
+        "nome_file": "PESM-S01_34_b_PAI_pericolosita_rischio_frana_opere_connessione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-34-b-PAI-pericolosita-rischio-frana-opere-connessione",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535506",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - PGRA_rischio_inondazione_impianto",
+        "nome_file": "PESM-S01_35_a_PGRA_rischio_inondazione_impianto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-35-a-PGRA-rischio-inondazione-impianto",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535507",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - PGRA_rischio_inondazione_opere_di_connessione",
+        "nome_file": "PESM-S01_35_b_PGRA_rischio_inondazione_opere_di_connessione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-35-b-PGRA-rischio-inondazione-opere-di-connessione",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535508",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_tutela_acque",
+        "nome_file": "PESM-S01_36_Piano_tutela_acque.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-36-Piano-tutela-acque",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535509",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Rete_ecologica_provinciale",
+        "nome_file": "PESM-S01_37_Rete_ecologica_provinciale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-37-Rete-ecologica-provinciale",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535510",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Vincolo_idrogeologico_impianto",
+        "nome_file": "PESM-S01_38_a_Vincolo_idrogeologico_impianto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-38-a-Vincolo-idrogeologico-impianto",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535511",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Vincolo_idrogeologico_opere di connessione",
+        "nome_file": "PESM-S01_38_b_Vincolo_idrogeologico_opere_di_connessione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-38-b-Vincolo-idrogeologico-opere-di-connessione",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535512",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Windfarm_limitrofe",
+        "nome_file": "PESM-S01_39_Windfarm_limitrofe.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-39-Windfarm-limitrofe",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535513",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Report_Annuale_Monitoraggio_Avifauna",
+        "nome_file": "PESM-S01_40_Report_Annuale_Monitoraggio_Avifauna.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-40-Report-Annuale-Monitoraggio-Avifauna",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535514",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Studio_Incidenza_Ambientale",
+        "nome_file": "PESM-S01_41_Studio_Incidenza_Ambientale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-41-Studio-Incidenza-Ambientale",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535515",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Relazione_opere_Mitigazione_e_compensazione",
+        "nome_file": "PESM-S01_42_Relazione_opere_Mitigazione_e_compensazione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-42-Relazione-opere-Mitigazione-e-compensazione",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535516",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Carta_punti_campionamento_terre_e_rocce",
+        "nome_file": "PESM-S01_43_a_Carta_punti_campionamento_terre_e_rocce.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-43-a-Carta-punti-campionamento-terre-e-rocce",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535517",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_preliminare_utilizzo_terre_rocce",
+        "nome_file": "PESM-S01_43_Piano_preliminare_utilizzo_terre_rocce.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-43-Piano-preliminare-utilizzo-terre-rocce",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535518",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Carta_punti_monitoraggio_ambientale",
+        "nome_file": "PESM-S01_44_a_Carta_punti_monitoraggio_ambientale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-44-a-Carta-punti-monitoraggio-ambientale",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535519",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Piano_monitoraggio_ambientale",
+        "nome_file": "PESM-S01_44_Piano_monitoraggio_ambientale.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-44-Piano-monitoraggio-ambientale",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535520",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Documento_risposta_nota_MITE_0063640",
+        "nome_file": "PESM-S01_46_Documento_risposta_nota_MITE_0063640.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S01-46-Documento-risposta-nota-MITE-0063640",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535521",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Relazione geologica",
+        "nome_file": "PESM-S02_01_Relazione_geologica.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S02-01-Relazione-geologica",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535522",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Carta_geologica_geomorfologica_idrogeologica_impianto",
+        "nome_file": "PESM-S02_02_a_Carta_geologica_geomorfologica_idrogeologica_impianto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S02-02-a-Carta-geologica-geomorfologica-idrogeologica-impianto",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535523",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Carta_geologica_geomorfologica_idrogeologica_opere_connessione",
+        "nome_file": "PESM-S02_02_b_Carta_geologica_geomorfologica_idrogeologica_opere_connessione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S02-02-b-Carta-geologica-geomorfologica-idrogeologica-opere-connessione",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535524",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Relazione_Paesaggistica",
+        "nome_file": "PESM-S03_01_Relazione_Paesaggistica.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S03-01-Relazione-Paesaggistica",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535525",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Vincoli_paesaggistici_architettonici_impianto",
+        "nome_file": "PESM-S03_02_a_Vincoli_paesaggistici_architettonici_impianto.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S03-02-a-Vincoli-paesaggistici-architettonici-impianto",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535526",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Vincoli_paesaggistici_architettonici_opere_di_connessione",
+        "nome_file": "PESM-S03_02_b_Vincoli_paesaggistici_architettonici_opere_di_connessione.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S03-02-b-Vincoli-paesaggistici-architettonici-opere-di-connessione",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535527",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Rendering",
+        "nome_file": "PESM-S03_03_Rendering.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S03-03-Rendering",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535528",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Relazione_Archeologica",
+        "nome_file": "PESM-S04_01_Relazione_Archeologica.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S04-01-Relazione-Archeologica",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535529",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Vincoli_ambientali_archeologici",
+        "nome_file": "PESM-S04_02_Vincoli_ambientali_archeologici.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S04-02-Vincoli-ambientali-archeologici",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535530",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Vincoli_archeologici_beni_culturali",
+        "nome_file": "PESM-S04_03_Vincoli_archeologici_beni_culturali.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S04-03-Vincoli-archeologici-beni-culturali",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535531",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Carta_delle_presenze_archeologiche",
+        "nome_file": "PESM-S04_05_Carta_delle_presenze_archeologiche.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S04-05-Carta-delle-presenze-archeologiche",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535532",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Carta_del_rischio_archeologico_relativo",
+        "nome_file": "PESM-S04_07_Carta_del_rischio_archeologico_relativo.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-S04-07-Carta-del-rischio-archeologico-relativo",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535533",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Relazione Tecnico Descrittiva",
+        "nome_file": "PESM-E01_Relazione_Tecnico_Descrittiva.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-E01-Relazione-Tecnico-Descrittiva",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535534",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Cavidotti_e_risoluzione_tipo_delle_interferenze",
+        "nome_file": "PESM-E02_Cavidotti_e_risoluzione_tipo_delle_interferenze.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-E02-Cavidotti-e-risoluzione-tipo-delle-interferenze",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535535",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Integrazioni del 27/09/2021 - Planimetria_e_sezioni_degli_impianti_utente",
+        "nome_file": "PESM-E04_Planimetria_e_sezioni_degli_impianti_utente.pdf",
+        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
+        "codice_elaborato": "PESM-E04-Planimetria-e-sezioni-degli-impianti-utente",
+        "data": "29/09/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/535536",
+        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
+      }
+    ],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al Pubblico del 22/02/2021",
+        "nome_file": "02_Avviso_al_pubblico.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MATTM-2021-0016779",
+        "data": "22/02/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/470026"
+      },
+      {
+        "titolo": "Studio_Impatto_Ambientale",
+        "nome_file": "PESM-S01_01-Studio_Impatto_Ambientale.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "PESM-S01-01-Studio-Impatto-Ambientale",
+        "data": "09/02/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/467197"
+      },
+      {
+        "titolo": "Relazione_agronomica",
+        "nome_file": "PESM-S01_02_Relazione_agronomica.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "PESM-S01-02-Relazione-agronomica",
+        "data": "09/02/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/467198"
+      },
+      {
+        "titolo": "Studio acustico_curve isolivello",
+        "nome_file": "PESM-S01_04_a_Studio_acustico_curve_isolivello.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "PESM-S01-04-a-Studio-acustico-curve-isolivello",
+        "data": "09/02/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/467199"
+      },
+      {
+        "titolo": "Studio acustico_Relazione_generale",
+        "nome_file": "PESM-S01_04_Studio_acustico_Relazione_generale.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "PESM-S01-04-Studio-acustico-Relazione-generale",
+        "data": "09/02/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/467200"
+      },
+      {
+        "titolo": "Studio_shadow_flickering",
+        "nome_file": "PESM-S01_05_a_Studio_shadow_flickering.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "PESM-S01-05-a-Studio-shadow-flickering",
+        "data": "09/02/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/467201"
+      },
+      {
+        "titolo": "Studio-flickering_Relazione_generale",
+        "nome_file": "PESM-S01_05_Studio-flickering_Relazione_generale.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "PESM-S01-05-Studio-flickering-Relazione-generale",
+        "data": "09/02/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/467202"
+      },
+      {
+        "titolo": "Ambiti_paesaggio_20k",
+        "nome_file": "PESM-S01_11_Ambiti_paesaggio_20k.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "PESM-S01-11-Ambiti-paesaggio-20k",
+        "data": "09/02/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/467203"
+      },
+      {
+        "titolo": "Aree_percorse_dal_fuoco_impianto",
+        "nome_file": "PESM-S01_12_a_Aree_percorse_dal_fuoco_impianto.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "PESM-S01-12-a-Aree-percorse-dal-fuoco-impianto",
+        "data": "09/02/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/467204"
+      },
+      {
+        "titolo": "Aree_percorse_dal_fuoco_opere-di_connessione",
+        "nome_file": "PESM-S01_12_b_Aree_percorse_dal_fuoco_opere-di_connessione.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "PESM-S01-12-b-Aree-percorse-dal-fuoco-opere-di-connessione",
+        "data": "09/02/2021",
+        "download_url": "https://va.mite.gov.it/File/Documento/467205"
+      }
+    ]
+  }
+}
