@@ -26,7 +26,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from scraper import analizza_tutti
-from compare import genera_riassunto_progetto
+from compare import genera_riassunto_progetto, richiede_invio_email
 from send_email import invia_report
 
 STATE_DIR = Path("state")
@@ -144,7 +144,10 @@ def main():
         if dati_attuali.get("trovato"):
             salva_stato(id_vip, dati_attuali)
 
-    invia_report(risultati_report, DESTINATARIO)
+    if richiede_invio_email(risultati_report):
+        invia_report(risultati_report, DESTINATARIO)
+    else:
+        print("[main] Nessuna variazione o errore rilevato: email non inviata (stato comunque aggiornato).")
 
     if not forza:
         ora_italiana = datetime.now(ZoneInfo("Europe/Rome"))
