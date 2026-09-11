@@ -175,10 +175,28 @@ def _indice_html(risultati: list[dict]) -> str:
     """
 
 
+def _da_mostrare_nel_corpo(r: dict) -> bool:
+    """Nel corpo del report mostriamo solo i progetti con qualcosa da segnalare
+    (variazioni o errore/errore_parziale). 'non_disponibile' resta escluso: e'
+    uno stato neutro, gia' visibile nell'indice con il badge N/D."""
+    return r.get("stato") in ("errore", "errore_parziale") or ha_variazioni(r)
+
+
 def costruisci_html(risultati: list[dict]) -> str:
     data_str = datetime.now().strftime("%d/%m/%Y %H:%M")
     indice = _indice_html(risultati) if len(risultati) > 1 else ""
-    blocchi = "".join(_blocco_progetto(r) for r in risultati)
+
+    risultati_da_mostrare = [r for r in risultati if _da_mostrare_nel_corpo(r)]
+    n_nascosti = len(risultati) - len(risultati_da_mostrare)
+    blocchi = "".join(_blocco_progetto(r) for r in risultati_da_mostrare)
+
+    nota_nascosti = ""
+    if n_nascosti > 0:
+        nota_nascosti = f"""
+        <p style="color:#999;font-size:12px;text-align:center;margin:8px 0 20px 0;">
+          {n_nascosti} progetto/i senza variazioni non mostrato/i qui sotto (vedi indice sopra).
+        </p>
+        """
 
     return f"""
     <html>
@@ -194,6 +212,7 @@ def costruisci_html(risultati: list[dict]) -> str:
         <h2 style="color:{COLORE_PRIMARIO};margin:0 0 4px 0;">Report monitoraggio progetti VIA</h2>
         <p style="color:#777;font-size:13px;margin:0 0 20px 0;">{data_str}</p>
         {indice}
+        {nota_nascosti}
         {blocchi}
       </div>
     </body>
