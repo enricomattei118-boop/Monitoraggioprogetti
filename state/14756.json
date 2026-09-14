@@ -3,14 +3,39 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/1414",
   "nome_progetto": "Perforazione del pozzo esplorativo \"Lince 1\" nell'ambito del permesso di ricerca \"G.R13.AG\"",
-  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM) 14756\nOggetto: Perforazione del pozzo esplorativo \"Lince 1\" nell'ambito del permesso di ricerca \"G.R13.AG\" Tipologia\nData presentazione istanza: 18/03/2026\nResponsabile del procedimento: Orsola Renata Reillo - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: In predisposizione provvedimento",
-  "hash_dettagli": "7b9155b39caa4f3757afed6a2ac95cef995ce4a93250acffa235e25e09537691",
+  "dettagli_procedura": "Codice procedura (ID_VIP/ID_MATTM) 14756\nOggetto: Perforazione del pozzo esplorativo \"Lince 1\" nell'ambito del permesso di ricerca \"G.R13.AG\" Tipologia\nData presentazione istanza: 18/03/2026\nN. Provvedimento di proroga: DM_2026-0000558\nData Provvedimento di proroga: 07/09/2026\nEsito Provvedimento di proroga: Positivo\nResponsabile del procedimento: Orsola Renata Reillo - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: In predisposizione provvedimento",
+  "hash_dettagli": "f6f357202b628db0b280f3e32161022da175cb35dc8bbcb192dd46ac7e6e0aa0",
   "documentazione": {
     "sezioni_disponibili": [
-      "Documentazione tecnica"
+      "Documentazione tecnica",
+      "Provvedimento di proroga"
     ],
     "documenti_di_interesse": [],
     "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Decreto del Ministero dell'Ambiente - Perforazione del pozzo esplorativo \"Lince 1\" nell'ambito del permesso di ricerca \"G.R13.AG\"",
+        "nome_file": "DM_2026-0000558.pdf",
+        "sezione": "Provvedimento di proroga",
+        "codice_elaborato": "DM-2026-0000558",
+        "data": "14/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1430240"
+      },
+      {
+        "titolo": "Allegato al Decreto del Ministero dell'Ambiente - Parere CTVA del 15/06/2026",
+        "nome_file": "par_n_174_ID_VIP_14756_FINALE_PROT.pdf",
+        "sezione": "Provvedimento di proroga",
+        "codice_elaborato": "PRR 174",
+        "data": "14/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1430241"
+      },
+      {
+        "titolo": "Allegato al Decreto del Ministero dell'Ambiente - Nulla osta della Regione Siciliana - Assessorato dei Beni Culturali e dell'Identità Siciliana - Dipartimento dei Beni Culturali e dell'Identità Siciliana - Servizio 3 - Tutela e acquisizione. Pianificazione paesaggistica del 31/07/2026",
+        "nome_file": "MASE_2026-0165445.pdf",
+        "sezione": "Provvedimento di proroga",
+        "codice_elaborato": "NO 28365",
+        "data": "14/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1430242"
+      },
       {
         "titolo": "Relazione sulla non sostanziale variazione delle condizioni ambientali",
         "nome_file": "AMB_ME_01_65-signed.pdf",
