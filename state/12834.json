@@ -10,7 +10,17 @@
       "Documentazione di ottemperanza",
       "Pareri Enti"
     ],
-    "documenti_di_interesse": [],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Parere del MIC - SOPRINTENDENZA ARCHEOLOGIA BELLE ARTI E PAESAGGIO PER LE PROVINCE DI CATANZARO E CROTONE, in data 29/08/2024",
+        "nome_file": "MASE-2024-0157085.pdf",
+        "sezione": "Pareri Enti",
+        "codice_elaborato": "MASE-2024-0157085",
+        "data": "25/09/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/1150758",
+        "sezione_menu": "Pareri Enti"
+      }
+    ],
     "elenco_completo_prima_pagina": [
       {
         "titolo": "Condizione 8_Sopr_signed",
