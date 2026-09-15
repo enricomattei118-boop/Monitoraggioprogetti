@@ -37,6 +37,7 @@ SEZIONI_DA_ALLEGARE = [
     "osservazioni del pubblico inviate oltre i termini",
     "osservazioni del pubblico",
     "pareri/osservazioni enti",
+    "pareri enti",  # variante usata da alcuni progetti al posto di "Pareri/Osservazioni Enti"
     "documentazione integrativa",  # copre le foglie sotto il nodo "Integrazioni (I)" nel menu
 ]
 
