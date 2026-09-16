@@ -9,7 +9,26 @@
     "sezioni_disponibili": [
       "Documentazione di ottemperanza"
     ],
-    "documenti_di_interesse": [],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Allegato alla Nota di Ottemperanza il Parere CTVA",
+        "nome_file": "m_amte_CTVA_REGISTRO_UFFICIALE_I_0008315_31-10-2022.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "PRR 336",
+        "data": "04/08/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/881116",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Nota_ottemperanza_condizione_4",
+        "nome_file": "Nota_ottemperanza_condizione_4_VIA_BioJet_rev0_tot.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "Nota-ottemperanza-condizione-4-VIA",
+        "data": "04/08/2023",
+        "download_url": "https://va.mite.gov.it/File/Documento/881117",
+        "sezione_menu": "Documentazione di ottemperanza"
+      }
+    ],
     "elenco_completo_prima_pagina": [
       {
         "titolo": "Allegato alla Nota di Ottemperanza il Parere CTVA",

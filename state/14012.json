@@ -1942,6 +1942,24 @@
         "sezione_menu": "Pareri/Osservazioni Enti"
       },
       {
+        "titolo": "Richiesta integrazioni dal MiC a proponente",
+        "nome_file": "MASE_2026-0023232.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2026-0023232",
+        "data": "04/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1358754",
+        "sezione_menu": "Richiesta integrazioni della documentazione"
+      },
+      {
+        "titolo": "Richiesta integrazioni da Regione Umbria",
+        "nome_file": "MASE_2025-0227858.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2025-0227858",
+        "data": "21/01/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1344431",
+        "sezione_menu": "Richiesta integrazioni della documentazione"
+      },
+      {
         "titolo": "Integrazioni del 04/08/2026 - 25020CST.PTO.T.12-00",
         "nome_file": "25020CST_PTO_T_12-00.pdf",
         "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",

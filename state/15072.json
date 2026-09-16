@@ -10,7 +10,98 @@
       "Elenchi Elaborati",
       "Documentazione di ottemperanza"
     ],
-    "documenti_di_interesse": [],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Decreto Direttoriale n. 214 del 10/04/2026 - Verifica di ottemperanza prescrizione n. 10 - Acque di falda",
+        "nome_file": "PC10RO_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "031dffaf-da45-4ef4-9a94-95b039609fd3",
+        "data": "29/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1415901",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Decreto Direttoriale n. 214 del 10/04/2026 - Verifica di ottemperanza prescrizione n.01 - Atmosfera",
+        "nome_file": "PC1RO_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "5093157b-5f96-47c5-b580-50170e6f4066",
+        "data": "29/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1415902",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Decreto Direttoriale n.214 del 10/04/2026 Verifica di ottemperanza prescrizione n.2 - Biodiversità avifauna",
+        "nome_file": "PC2RO_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "5dbd3959-d2e3-4a30-9290-b7cf9cf4e295",
+        "data": "29/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1415903",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Decreto Direttoriale n. 214 del 10/04/2026 - Verifica di ottemperanza prescrizione n.03 - Paesaggio",
+        "nome_file": "PC3RO_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "2650e8fc-a9a9-4702-82e9-c88c34d08b15",
+        "data": "29/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1415904",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Verifica di ottemperanza prescrizione n.04 - Rumore e Vibrazioni",
+        "nome_file": "PC4RO_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "d6c8574f-b8ff-4f56-ab00-9f6e47ad1a20",
+        "data": "29/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1415905",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "DM 214 del 10/04/2026 Verifica di ottemperanza prescrizione n.05 - Aspetti progettuali - Cantierizzazione",
+        "nome_file": "PC5RO_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "23230073-73e6-412a-b07c-50c89cc8f6a4",
+        "data": "29/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1415906",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Decreto Direttoriale n. 214 del 10/04/2026 - Verifica di ottemperanza prescrizione n. 6 - Reinterri di materiali all'esterno del perimetro di intervento",
+        "nome_file": "PC6RO_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "72bcc291-443a-4770-a81b-b0b4e689d691",
+        "data": "29/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1415907",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Decreto Direttoriale n. 214 del 10/04/2026 Verifica di ottemperanza prescrizione n.07 - Impatto odorigeno",
+        "nome_file": "PC7RO_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "677128df-b268-498e-92d2-f130e3c4eabc",
+        "data": "29/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1415908",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Decreto Direttoriale n. 214 del 10/04/2026 Verifica di ottemperanza prescrizione n.08 - Scarichi idrici",
+        "nome_file": "PC8RO_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "17426dc6-362d-4f73-ba6d-bf1f6b0fdc3c",
+        "data": "29/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1415909",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Verifica di ottemperanza prescrizione n.09 DD 214 del 10/04/2026",
+        "nome_file": "PC9RO_signed.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "2cd66e2d-b3dc-4c8f-810e-961565d2d28d",
+        "data": "29/07/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1415910",
+        "sezione_menu": "Documentazione di ottemperanza"
+      }
+    ],
     "elenco_completo_prima_pagina": [
       {
         "titolo": "Elenco Elaborati della documentazione tecnica",

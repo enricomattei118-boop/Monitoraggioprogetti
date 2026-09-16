@@ -9,7 +9,53 @@
     "sezioni_disponibili": [
       "Documentazione di ottemperanza"
     ],
-    "documenti_di_interesse": [],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Piano di manutenzione triennale  e computo metrico delle opere di mitigazione vegetale previste nel progetto di risagomatura dell'area posta tra il complesso monumentale di Santa Maria della Giustizia e l'area nuovi serbatoi del Progetto Tempa Rossa",
+        "nome_file": "00_PM_trien_e_comp_metr_opere_a_Verde_area_Utilities.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "00-PM trien e comp metr opere a Verde area Utilities",
+        "data": "26/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/666771",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Allegato A - Decreto VIA/AIA n. 573 del 27 OTT 2011 rilasciato dal Ministero dell'Ambiente e della Tutela del Territorio e del Mare di concerto con il Ministero per i Beni e le Attività Culturali",
+        "nome_file": "01_Allegato_A.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "01-Allegato A",
+        "data": "26/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/666772",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Allegato B - Direzione Generale ABAP del 18/10/2017 - Attestazione di ottemperanza alla prescrizione C.6 del Decreto VIA/AIA n.573 del 27 OTT 2011",
+        "nome_file": "02_Allegato_B.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "02-Allegato B",
+        "data": "26/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/666773",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Allegato C - Decreto n.481 del 25 NOV 2021 rilasciato dal Ministero della Transizione Ecologica",
+        "nome_file": "03_Allegato_C.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "03-Allegato C",
+        "data": "26/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/666774",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Allegato D - Computo Metrico",
+        "nome_file": "04_Allegato_D.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "04-Allegato D",
+        "data": "26/07/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/666775",
+        "sezione_menu": "Documentazione di ottemperanza"
+      }
+    ],
     "elenco_completo_prima_pagina": [
       {
         "titolo": "Piano di manutenzione triennale  e computo metrico delle opere di mitigazione vegetale previste nel progetto di risagomatura dell'area posta tra il complesso monumentale di Santa Maria della Giustizia e l'area nuovi serbatoi del Progetto Tempa Rossa",

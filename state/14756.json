@@ -10,7 +10,35 @@
       "Documentazione tecnica",
       "Provvedimento di proroga"
     ],
-    "documenti_di_interesse": [],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Decreto del Ministero dell'Ambiente - Perforazione del pozzo esplorativo \"Lince 1\" nell'ambito del permesso di ricerca \"G.R13.AG\"",
+        "nome_file": "DM_2026-0000558.pdf",
+        "sezione": "Provvedimento di proroga",
+        "codice_elaborato": "DM-2026-0000558",
+        "data": "14/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1430240",
+        "sezione_menu": "Provvedimento di proroga"
+      },
+      {
+        "titolo": "Allegato al Decreto del Ministero dell'Ambiente - Parere CTVA del 15/06/2026",
+        "nome_file": "par_n_174_ID_VIP_14756_FINALE_PROT.pdf",
+        "sezione": "Provvedimento di proroga",
+        "codice_elaborato": "PRR 174",
+        "data": "14/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1430241",
+        "sezione_menu": "Provvedimento di proroga"
+      },
+      {
+        "titolo": "Allegato al Decreto del Ministero dell'Ambiente - Nulla osta della Regione Siciliana - Assessorato dei Beni Culturali e dell'Identità Siciliana - Dipartimento dei Beni Culturali e dell'Identità Siciliana - Servizio 3 - Tutela e acquisizione. Pianificazione paesaggistica del 31/07/2026",
+        "nome_file": "MASE_2026-0165445.pdf",
+        "sezione": "Provvedimento di proroga",
+        "codice_elaborato": "NO 28365",
+        "data": "14/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1430242",
+        "sezione_menu": "Provvedimento di proroga"
+      }
+    ],
     "elenco_completo_prima_pagina": [
       {
         "titolo": "Decreto del Ministero dell'Ambiente - Perforazione del pozzo esplorativo \"Lince 1\" nell'ambito del permesso di ricerca \"G.R13.AG\"",

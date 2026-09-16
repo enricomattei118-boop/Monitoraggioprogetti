@@ -52,6 +52,24 @@
         "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
       },
       {
+        "titolo": "Richiesta integrazioni CTPNRR-PNIEC a VA",
+        "nome_file": "MASE_2026-0043488.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MASE-2026-0043488",
+        "data": "26/02/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1368934",
+        "sezione_menu": "Richiesta integrazioni della documentazione"
+      },
+      {
+        "titolo": "Richiesta integrazioni MiC",
+        "nome_file": "MiTE_2022-0101956.pdf",
+        "sezione": "Richiesta integrazioni della documentazione",
+        "codice_elaborato": "MiTE-2022-0101956",
+        "data": "22/08/2022",
+        "download_url": "https://va.mite.gov.it/File/Documento/678524",
+        "sezione_menu": "Richiesta integrazioni della documentazione"
+      },
+      {
         "titolo": "Integrazioni del 01/07/2026 - elenco_doc_tecnica_signed",
         "nome_file": "elenco_doc_tecnica_signed.pdf",
         "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",

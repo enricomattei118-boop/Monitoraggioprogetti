@@ -11,7 +11,26 @@
       "Lista di controllo",
       "Comunicazione esito valutazione"
     ],
-    "documenti_di_interesse": [],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Comunicazione VA esito valutazione MASE_2026-0187147",
+        "nome_file": "MASE_2026-0187147.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2026-0187147",
+        "data": "11/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1429443",
+        "sezione_menu": "Comunicazione esito valutazione"
+      },
+      {
+        "titolo": "Allegato alla Comunicazione VA esito valutazione MASE_2026-0187147 - ID_15101-Nota_tecnica",
+        "nome_file": "ID_15101-Nota_tecnica.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "ID-15101-Nota-tecnica",
+        "data": "11/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1429444",
+        "sezione_menu": "Comunicazione esito valutazione"
+      }
+    ],
     "elenco_completo_prima_pagina": [
       {
         "titolo": "Elenco Elaborati della documentazione tecnica",
