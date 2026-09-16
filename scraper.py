@@ -39,6 +39,15 @@ SEZIONI_DA_ALLEGARE = [
     "pareri/osservazioni enti",
     "pareri enti",  # variante usata da alcuni progetti al posto di "Pareri/Osservazioni Enti"
     "documentazione integrativa",  # copre le foglie sotto il nodo "Integrazioni (I)" nel menu
+    "richiesta integrazioni della documentazione",  # richiesta di integrazioni della CTVA
+    "documentazione di ottemperanza",  # riscontri alle condizioni ambientali
+    "parere di verifica di ottemperanza",  # esito della verifica di ottemperanza
+    "decreto via",  # decreto/provvedimento finale
+    "provvedimento di proroga",  # provvedimento di proroga
+    "comunicazione esito valutazione",  # esito della valutazione preliminare
+    "parere",  # pareri CTVIA (attenzione: puo' matchare anche "Pareri/Osservazioni Enti",
+               # gia' incluso sopra, quindi nessun problema di doppioni)
+    "determinazione direttoriale di assoggettabilita",  # decreti di assoggettabilita' a VIA
 ]
 
 DOWNLOAD_DIR = Path("downloads")
