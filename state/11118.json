@@ -15,6 +15,159 @@
     ],
     "documenti_di_interesse": [
       {
+        "titolo": "Relazione di Verifica di Ottemperanza",
+        "nome_file": "VO_BioRaVe_SR.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-All.1",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978037",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Bilancio di materia e calore e PFD",
+        "nome_file": "VO_BioRaVe_All_1.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-All.1-NC",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978038",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Bilancio di materia e calore e PFD",
+        "nome_file": "VO_BioRaVe_All_1_NC.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-All.10",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978039",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Piano di Sicurezza, Coordinamento e Salvaguardia dell'Ambiente - Nuovo Impianto Idrogeno",
+        "nome_file": "VO_BioRaVe_All_2.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-All.11",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978040",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Piano di Emergenza Interno",
+        "nome_file": "VO_BioRaVe_All_3.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-All.2",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978041",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Piano di Emergenza Interno",
+        "nome_file": "VO_BioRaVe_All_3_NC.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-All.3",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978042",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Piano di Emergenza Esterna Rischio Industriale - Polo Industriale di Porto Marghera",
+        "nome_file": "VO_BioRaVe_All_4.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-All.3-NC",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978043",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Operating Instruction Locale - Gestione Rifiuti",
+        "nome_file": "VO_BioRaVe_All_5.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-All.4",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978044",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Operating Instruction Locale - Gestione Rifiuti",
+        "nome_file": "VO_BioRaVe_All_5_NC.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-All.5",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978045",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Operating Instruction Professionale - Pianificazione e gestione degli Eventi Naturali",
+        "nome_file": "VO_BioRaVe_All_6.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-All.5-NC",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978046",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Piano di Emergenza Interno - Allegato 8: Emergenza derivante da fenomeni naturali estremi",
+        "nome_file": "VO_BioRaVe_All_7.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-All.6",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978047",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Piano di Sicurezza, Coordinamento e Salvaguardia dell'Ambiente - Decommissioning impianti e strutture ex APL",
+        "nome_file": "VO_BioRaVe_All_8.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-All.7",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978048",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Lighting level calculation",
+        "nome_file": "VO_BioRaVe_All_9.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-All.8",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978049",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Ripetizione delle simulazioni per l'assetto \"Ante Operam\" con infittimento della maglia di calcolo fino a 25m",
+        "nome_file": "VO_BioRaVe_All_10.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-All.9",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978050",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Riscontro condizione ambientale n. 7 - Progetto \"Upgrading dell'Impianto di Pretrattamento delle cariche biologiche\"",
+        "nome_file": "VO_BioRaVe_All_11.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-SR",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978051",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Lighting System Layout",
+        "nome_file": "VO_BioRaVe_Tav_1.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-Tav.1",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978052",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Ubicazione piezometri attrezzati con data logger e videoispezionati e relative aree di interesse",
+        "nome_file": "VO_BioRaVe_Tav_2.pdf",
+        "sezione": "Documentazione di ottemperanza",
+        "codice_elaborato": "VO-BioRaVe-Tav.2",
+        "data": "15/02/2024",
+        "download_url": "https://va.mite.gov.it/File/Documento/978053",
+        "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
         "titolo": "Integrazioni del 06/08/2025 - Ottemperanza prescrizione n.5",
         "nome_file": "Ottemperanza_prescrizione_n_5.pdf",
         "sezione": "Documentazione integrativa",
