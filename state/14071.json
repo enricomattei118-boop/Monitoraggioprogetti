@@ -20,7 +20,8 @@
       "Pareri/Osservazioni Enti",
       "Richiesta integrazioni della documentazione",
       "Documentazione integrativa/Documentazione integrativa volontaria",
-      "Pareri/Osservazioni Enti (I)"
+      "Pareri/Osservazioni Enti (I)",
+      "Pareri/Osservazioni Enti (II)"
     ],
     "documenti_di_interesse": [
       {
@@ -193,6 +194,15 @@
         "data": "01/04/2026",
         "download_url": "https://va.mite.gov.it/File/Documento/1376845",
         "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Parere della Provincia di Pavia , in data 16/09/2026",
+        "nome_file": "MASE-2026-0191363.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0191363",
+        "data": "17/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1431127",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
       }
     ],
     "elenco_completo_prima_pagina": [
