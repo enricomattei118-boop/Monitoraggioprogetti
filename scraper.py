@@ -60,18 +60,34 @@ def sezione_di_interesse(nome_sezione: str) -> bool:
 
 
 async def cerca_e_apri_progetto(page, id_vip: str) -> dict:
-    """Cerca il codice procedura e sfrutta il redirect automatico alla pagina Info."""
-    await page.goto(SEARCH_URL, wait_until="networkidle")
-    campo = page.locator("input#input-cercaIdVipera")
-    await campo.fill(id_vip)
-    await campo.press("Enter")
+    """Cerca il codice procedura e sfrutta il redirect automatico alla pagina Info.
 
-    try:
-        await page.wait_for_url("**/Oggetti/Info/**", timeout=15000)
-    except Exception:
-        return {"trovato": False, "errore": "Nessun redirect a pagina Info: codice non trovato o pagina cambiata"}
+    Include un retry automatico: se il sito e' momentaneamente lento (es. picco
+    di carico) e non risponde entro il timeout, riprova fino a 3 volte in totale
+    con una breve pausa tra un tentativo e l'altro, prima di dichiarare il
+    progetto non trovato. Questo evita falsi errori dovuti a rallentamenti
+    transitori del portale, distinti da un vero "codice non trovato"."""
+    MAX_TENTATIVI = 3
+    ultimo_errore = None
 
-    return {"trovato": True, "info_url": page.url}
+    for tentativo in range(1, MAX_TENTATIVI + 1):
+        await page.goto(SEARCH_URL, wait_until="networkidle")
+        campo = page.locator("input#input-cercaIdVipera")
+        await campo.fill(id_vip)
+        await campo.press("Enter")
+
+        try:
+            await page.wait_for_url("**/Oggetti/Info/**", timeout=15000)
+            return {"trovato": True, "info_url": page.url}
+        except Exception as e:
+            ultimo_errore = e
+            if tentativo < MAX_TENTATIVI:
+                print(f"[scraper] {id_vip}: tentativo {tentativo}/{MAX_TENTATIVI} fallito "
+                      f"(possibile rallentamento del sito), riprovo tra 5 secondi...")
+                await asyncio.sleep(5)
+
+    print(f"[scraper] {id_vip}: ricerca fallita dopo {MAX_TENTATIVI} tentativi: {ultimo_errore}")
+    return {"trovato": False, "errore": "Nessun redirect a pagina Info: codice non trovato o pagina cambiata"}
 
 
 async def estrai_nome_progetto(page) -> str:
