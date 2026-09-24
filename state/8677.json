@@ -103,6 +103,15 @@
         "sezione_menu": "Documentazione di ottemperanza"
       },
       {
+        "titolo": "Integrazioni del 12/03/2026 - ALLEGATO B",
+        "nome_file": "ALLEGATO_B.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ALLEGATO-B",
+        "data": "24/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1433304",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
         "titolo": "Integrazioni del 12/03/2026 - Riscontro alla nota MIC del 19/02/2026",
         "nome_file": "MASE_2026-0055107.pdf",
         "sezione": "Documentazione integrativa",
@@ -140,6 +149,14 @@
       }
     ],
     "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Integrazioni del 12/03/2026 - ALLEGATO B",
+        "nome_file": "ALLEGATO_B.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "ALLEGATO-B",
+        "data": "24/09/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1433304"
+      },
       {
         "titolo": "Integrazioni del 12/03/2026 - Riscontro alla nota MIC del 19/02/2026",
         "nome_file": "MASE_2026-0055107.pdf",
@@ -211,14 +228,6 @@
         "codice_elaborato": "02-Allegato B",
         "data": "26/07/2022",
         "download_url": "https://va.mite.gov.it/File/Documento/666765"
-      },
-      {
-        "titolo": "Prescrizone c5 Allegato A - Documentazione fotografica del rilievo effettuato con drone del deposito fusti e oli e del complesso monumentale di Santa Maria della Giustizia",
-        "nome_file": "03_Allegato_C.pdf",
-        "sezione": "Documentazione di ottemperanza",
-        "codice_elaborato": "03-Allegato C",
-        "data": "26/07/2022",
-        "download_url": "https://va.mite.gov.it/File/Documento/666766"
       }
     ]
   }
