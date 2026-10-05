@@ -17,9 +17,20 @@
       "Relazione paesaggistica",
       "Valutazione di Impatto Sanitario",
       "Piano di utilizzo dei materiali di scavo",
-      "Immersione in mare di materiale derivante da attività di escavo e da attività di posa in mare di cavi e condotte"
+      "Immersione in mare di materiale derivante da attività di escavo e da attività di posa in mare di cavi e condotte",
+      "Pareri/Osservazioni Enti"
     ],
-    "documenti_di_interesse": [],
+    "documenti_di_interesse": [
+      {
+        "titolo": "Parere del Comune di Ravenna - Area Infrastrutture Civile - Servizio Tutela Ambiente e Territorio in data 2/10/2026",
+        "nome_file": "MASE-2026-0205846.pdf",
+        "sezione": "Pareri/Osservazioni Enti",
+        "codice_elaborato": "MASE-2026-0205846",
+        "data": "05/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1436973",
+        "sezione_menu": "Pareri/Osservazioni Enti"
+      }
+    ],
     "elenco_completo_prima_pagina": [
       {
         "titolo": "Avviso al pubblico del 04/09/2026",
