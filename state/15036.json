@@ -9,7 +9,8 @@
     "sezioni_disponibili": [
       "Elenchi Elaborati",
       "Documentazione di ottemperanza",
-      "Documentazione integrativa volontaria"
+      "Documentazione integrativa volontaria",
+      "Pareri Enti"
     ],
     "documenti_di_interesse": [
       {
@@ -92,6 +93,15 @@
         "data": "05/08/2026",
         "download_url": "https://va.mite.gov.it/File/Documento/1417700",
         "sezione_menu": "Documentazione integrativa volontaria"
+      },
+      {
+        "titolo": "Parere di ARPA Sicilia, in data 02/10/2026",
+        "nome_file": "MASE-2026-0205396.pdf",
+        "sezione": "Pareri Enti",
+        "codice_elaborato": "MASE-2026-0205396",
+        "data": "07/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1437722",
+        "sezione_menu": "Pareri Enti"
       }
     ],
     "elenco_completo_prima_pagina": [

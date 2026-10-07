@@ -8,7 +8,8 @@
   "documentazione": {
     "sezioni_disponibili": [
       "Elenchi Elaborati",
-      "Documentazione di ottemperanza"
+      "Documentazione di ottemperanza",
+      "Pareri Enti"
     ],
     "documenti_di_interesse": [
       {
@@ -73,6 +74,15 @@
         "data": "14/08/2026",
         "download_url": "https://va.mite.gov.it/File/Documento/1420373",
         "sezione_menu": "Documentazione di ottemperanza"
+      },
+      {
+        "titolo": "Parere di ARPA Sicilia, in data 02/10/2026",
+        "nome_file": "MASE-2026-0205396.pdf",
+        "sezione": "Pareri Enti",
+        "codice_elaborato": "MASE-2026-0205396",
+        "data": "07/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1437723",
+        "sezione_menu": "Pareri Enti"
       }
     ],
     "elenco_completo_prima_pagina": [
@@ -139,6 +149,14 @@
         "codice_elaborato": "db0c6eb0-cdc8-402a-b69e-9098ad310deb",
         "data": "14/08/2026",
         "download_url": "https://va.mite.gov.it/File/Documento/1420373"
+      },
+      {
+        "titolo": "Parere di ARPA Sicilia, in data 02/10/2026",
+        "nome_file": "MASE-2026-0205396.pdf",
+        "sezione": "Pareri Enti",
+        "codice_elaborato": "MASE-2026-0205396",
+        "data": "07/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1437723"
       }
     ]
   }
