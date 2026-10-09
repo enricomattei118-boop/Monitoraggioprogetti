@@ -23,7 +23,8 @@
       "Pareri/Osservazioni Enti",
       "Richiesta integrazioni della documentazione",
       "Documentazione integrativa/Documentazione integrativa volontaria",
-      "Osservazioni del Pubblico (I)"
+      "Osservazioni del Pubblico (I)",
+      "Pareri/Osservazioni Enti (I)"
     ],
     "documenti_di_interesse": [
       {
@@ -1177,6 +1178,15 @@
         "data": "31/08/2026",
         "download_url": "https://va.mite.gov.it/File/Documento/1422734",
         "sezione_menu": "Osservazioni del Pubblico (I)"
+      },
+      {
+        "titolo": "Parere di ARPA PUGLIA, in data 09/10/2026",
+        "nome_file": "MASE-2026-0210319.pdf",
+        "sezione": "Pareri/Osservazioni Enti (I)",
+        "codice_elaborato": "MASE-2026-0210319",
+        "data": "09/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1438088",
+        "sezione_menu": "Pareri/Osservazioni Enti (I)"
       }
     ],
     "elenco_completo_prima_pagina": [
