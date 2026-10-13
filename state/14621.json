@@ -10,7 +10,8 @@
       "Documentazione di ottemperanza",
       "Documentazione integrativa",
       "Documentazione integrativa volontaria",
-      "Pareri Enti"
+      "Pareri Enti",
+      "Comunicazione esito valutazione"
     ],
     "documenti_di_interesse": [
       {
@@ -768,6 +769,24 @@
         "data": "31/08/2026",
         "download_url": "https://va.mite.gov.it/File/Documento/1422725",
         "sezione_menu": "Pareri Enti"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione MASE_2026-0209752",
+        "nome_file": "MASE_2026-0209752.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2026-0209752",
+        "data": "13/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1438480",
+        "sezione_menu": "Comunicazione esito valutazione"
+      },
+      {
+        "titolo": "Allegato alla Comunicazione VA esito valutazione MASE_2026-0209752 - Parere_n_138_del_10_09_2026_ID_14621",
+        "nome_file": "Parere_n_138_del_10_09_2026_ID_14621.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "Parere-n-138-del-10-09-2026-ID-14621",
+        "data": "13/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1438481",
+        "sezione_menu": "Comunicazione esito valutazione"
       }
     ],
     "elenco_completo_prima_pagina": [
