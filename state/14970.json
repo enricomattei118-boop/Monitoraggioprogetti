@@ -19,6 +19,7 @@
       "Piano di utilizzo dei materiali di scavo",
       "Immersione in mare di materiale derivante da attività di escavo e da attività di posa in mare di cavi e condotte",
       "Osservazioni del Pubblico",
+      "Osservazioni del Pubblico inviate oltre i termini",
       "Pareri/Osservazioni Enti"
     ],
     "documenti_di_interesse": [
@@ -30,6 +31,15 @@
         "data": "19/10/2026",
         "download_url": "https://va.mite.gov.it/File/Documento/1439593",
         "sezione_menu": "Osservazioni del Pubblico"
+      },
+      {
+        "titolo": "Osservazioni di Greenpeace ETS per il tramite del legale rappresentante Chiara Campione, in data 06/10/2026",
+        "nome_file": "MASE-2026-0207442.pdf",
+        "sezione": "Osservazioni del Pubblico inviate oltre i termini",
+        "codice_elaborato": "MASE-2026-0207442",
+        "data": "19/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1439886",
+        "sezione_menu": "Osservazioni del Pubblico inviate oltre i termini"
       },
       {
         "titolo": "Osservazioni della Capitaneria di porto di Ravenna, in data 30/09/2026",
