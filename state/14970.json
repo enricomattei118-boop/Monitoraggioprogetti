@@ -18,9 +18,19 @@
       "Valutazione di Impatto Sanitario",
       "Piano di utilizzo dei materiali di scavo",
       "Immersione in mare di materiale derivante da attività di escavo e da attività di posa in mare di cavi e condotte",
+      "Osservazioni del Pubblico",
       "Pareri/Osservazioni Enti"
     ],
     "documenti_di_interesse": [
+      {
+        "titolo": "Osservazioni della Signora Rebecca Rovoletto in qualità di legale rappresentante dell'Associazione Recommon ETS, in data 05/10/2026",
+        "nome_file": "MASE-2026-0206829.pdf",
+        "sezione": "Osservazioni del Pubblico",
+        "codice_elaborato": "MASE-2026-0206829",
+        "data": "19/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1439593",
+        "sezione_menu": "Osservazioni del Pubblico"
+      },
       {
         "titolo": "Osservazioni della Capitaneria di porto di Ravenna, in data 30/09/2026",
         "nome_file": "MASE-2026-0203788.pdf",

@@ -168,6 +168,24 @@
         "sezione_menu": "Documentazione di ottemperanza"
       },
       {
+        "titolo": "Integrazioni del 24/09/2026 - Riscontro ad ARPAV prot. partenza n. 73610/26 del 31/08/26 Allegato A2 - Tabulazione COV",
+        "nome_file": "Allegato_A2-Tabulazione_dati_COV-gen2025-mag2026.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "Allegato-A2-Tabulazione-dati-COV-gen2025-mag2026",
+        "data": "19/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1439621",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 24/09/2026 - Riscontro ad ARPAV prot. partenza n. 73610/26 del 31/08/26 Allegato A3 - Tabulazione dati microclima - Riepilogo meteo medie mensili giu25-mag26",
+        "nome_file": "Allegato_A3-Tabulazione_dati_microclima-gen2025-mag2026.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "Allegato-A3-Tabulazione-dati-microclima-gen2025-mag2026",
+        "data": "19/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1439620",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
         "titolo": "Integrazioni del 06/08/2025 - Ottemperanza prescrizione n.5",
         "nome_file": "Ottemperanza_prescrizione_n_5.pdf",
         "sezione": "Documentazione integrativa",
@@ -592,6 +610,22 @@
         "download_url": "https://va.mite.gov.it/File/Documento/978036"
       },
       {
+        "titolo": "Integrazioni del 24/09/2026 - Riscontro ad ARPAV prot. partenza n. 73610/26 del 31/08/26 Allegato A2 - Tabulazione COV",
+        "nome_file": "Allegato_A2-Tabulazione_dati_COV-gen2025-mag2026.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "Allegato-A2-Tabulazione-dati-COV-gen2025-mag2026",
+        "data": "19/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1439621"
+      },
+      {
+        "titolo": "Integrazioni del 24/09/2026 - Riscontro ad ARPAV prot. partenza n. 73610/26 del 31/08/26 Allegato A3 - Tabulazione dati microclima - Riepilogo meteo medie mensili giu25-mag26",
+        "nome_file": "Allegato_A3-Tabulazione_dati_microclima-gen2025-mag2026.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "Allegato-A3-Tabulazione-dati-microclima-gen2025-mag2026",
+        "data": "19/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1439620"
+      },
+      {
         "titolo": "Integrazioni del 06/08/2025 - Ottemperanza prescrizione n.5",
         "nome_file": "Ottemperanza_prescrizione_n_5.pdf",
         "sezione": "Documentazione integrativa",
@@ -646,22 +680,6 @@
         "codice_elaborato": "ELAB. 4",
         "data": "25/03/2025",
         "download_url": "https://va.mite.gov.it/File/Documento/1234036"
-      },
-      {
-        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_05-SHELTER_COMPRESSORI",
-        "nome_file": "ALLEGATO_05-SHELTER_COMPRESSORI.pdf",
-        "sezione": "Documentazione integrativa",
-        "codice_elaborato": "ELAB. 5",
-        "data": "25/03/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1234037"
-      },
-      {
-        "titolo": "integrazioni del 18/03/2025 - ALLEGATO_06-AREA_GENERALE",
-        "nome_file": "ALLEGATO_06-AREA_GENERALE.pdf",
-        "sezione": "Documentazione integrativa",
-        "codice_elaborato": "ELAB. 6",
-        "data": "25/03/2025",
-        "download_url": "https://va.mite.gov.it/File/Documento/1234038"
       }
     ]
   }
