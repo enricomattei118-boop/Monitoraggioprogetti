@@ -22,7 +22,8 @@
       "Documentazione integrativa/Documentazione integrativa volontaria",
       "Osservazioni del Pubblico inviate oltre i termini (I)",
       "Pareri/Osservazioni Enti (I)",
-      "Controdeduzioni (I)"
+      "Controdeduzioni (I)",
+      "Pareri/Osservazioni Enti (II)"
     ],
     "documenti_di_interesse": [
       {
@@ -276,6 +277,15 @@
         "data": "29/07/2026",
         "download_url": "https://va.mite.gov.it/File/Documento/1416032",
         "sezione_menu": "Pareri/Osservazioni Enti (I)"
+      },
+      {
+        "titolo": "Osservazioni dell'Istituto Superiore di Sanità, in data 19/10/2026",
+        "nome_file": "MASE-2026-0216653.pdf",
+        "sezione": "Pareri/Osservazioni Enti (II)",
+        "codice_elaborato": "MASE-2026-0216653",
+        "data": "20/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1440001",
+        "sezione_menu": "Pareri/Osservazioni Enti (II)"
       }
     ],
     "elenco_completo_prima_pagina": [
