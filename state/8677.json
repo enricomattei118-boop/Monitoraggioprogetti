@@ -9,7 +9,8 @@
     "sezioni_disponibili": [
       "Documentazione di ottemperanza",
       "Documentazione integrativa",
-      "Parere di Verifica di ottemperanza"
+      "Parere di Verifica di ottemperanza",
+      "Comunicazione esito valutazione"
     ],
     "documenti_di_interesse": [
       {
@@ -146,6 +147,24 @@
         "data": "27/03/2023",
         "download_url": "https://va.mite.gov.it/File/Documento/806690",
         "sezione_menu": "Parere di Verifica di ottemperanza"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione",
+        "nome_file": "MASE_2026-0220961.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2026-0220961",
+        "data": "27/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1441101",
+        "sezione_menu": "Comunicazione esito valutazione"
+      },
+      {
+        "titolo": "Allegato alla Comunicazione VA esito valutazione - Parere del Ministero della Cultura del 09/10/2026",
+        "nome_file": "MASE_2026-0210835.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2026-0210835",
+        "data": "27/10/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1441102",
+        "sezione_menu": "Comunicazione esito valutazione"
       }
     ],
     "elenco_completo_prima_pagina": [
