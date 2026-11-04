@@ -33,6 +33,24 @@
         "sezione_menu": "Documentazione di ottemperanza"
       },
       {
+        "titolo": "Integrazioni del 13/10/2026 - Relazione intermedia",
+        "nome_file": "Relazione_intermedia_Pietranera.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "Relazione-intermedia-Pietranera",
+        "data": "04/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1443691",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
+        "titolo": "Integrazioni del 13/10/2026 - Progetto di Monitoraggio della fauna nell'impianto agrivoltaico \"Pietranera\" nel comune di Caltagirone (CT)",
+        "nome_file": "25751645_26429_PMA_Pietranera.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "25751645-26429-PMA-Pietranera",
+        "data": "04/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1443690",
+        "sezione_menu": "Documentazione integrativa"
+      },
+      {
         "titolo": "Integrazioni del 24/06/2026 - Elenco Elaborati della documentazione tecnica",
         "nome_file": "ElencoElaborati_20260624_210618.pdf",
         "sezione": "Documentazione integrativa",
@@ -791,6 +809,22 @@
     ],
     "elenco_completo_prima_pagina": [
       {
+        "titolo": "Integrazioni del 13/10/2026 - Relazione intermedia",
+        "nome_file": "Relazione_intermedia_Pietranera.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "Relazione-intermedia-Pietranera",
+        "data": "04/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1443691"
+      },
+      {
+        "titolo": "Integrazioni del 13/10/2026 - Progetto di Monitoraggio della fauna nell'impianto agrivoltaico \"Pietranera\" nel comune di Caltagirone (CT)",
+        "nome_file": "25751645_26429_PMA_Pietranera.pdf",
+        "sezione": "Documentazione integrativa",
+        "codice_elaborato": "25751645-26429-PMA-Pietranera",
+        "data": "04/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1443690"
+      },
+      {
         "titolo": "Integrazioni del 24/06/2026 - Elenco Elaborati della documentazione tecnica",
         "nome_file": "ElencoElaborati_20260624_210618.pdf",
         "sezione": "Documentazione integrativa",
@@ -853,22 +887,6 @@
         "codice_elaborato": "899bdda9-396e-4840-9cfc-94979c9f82c2",
         "data": "02/07/2026",
         "download_url": "https://va.mite.gov.it/File/Documento/1406167"
-      },
-      {
-        "titolo": "Integrazioni del 24/06/2026 - Carta dell'Ordinamento Colturale",
-        "nome_file": "082800BFPA20010-CartadellOrdinamentoColturale-signed.pdf",
-        "sezione": "Documentazione integrativa",
-        "codice_elaborato": "ba2058f8-85b1-4ea6-8238-a9186a1a6f79",
-        "data": "02/07/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1406168"
-      },
-      {
-        "titolo": "Integrazioni del 24/06/2026 - Piano di Manutenzione Opere a Verde",
-        "nome_file": "082800BFPA20015-PianodimanutenzioneOPV-signed.pdf",
-        "sezione": "Documentazione integrativa",
-        "codice_elaborato": "7a7ba628-e62a-491f-bcb8-45994c021755",
-        "data": "02/07/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1406169"
       }
     ]
   }
