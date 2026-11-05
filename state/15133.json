@@ -9,7 +9,8 @@
     "sezioni_disponibili": [
       "Elenchi Elaborati",
       "Documentazione di ottemperanza",
-      "Pareri Enti"
+      "Pareri Enti",
+      "Comunicazione esito valutazione"
     ],
     "documenti_di_interesse": [
       {
@@ -83,6 +84,24 @@
         "data": "07/10/2026",
         "download_url": "https://va.mite.gov.it/File/Documento/1437723",
         "sezione_menu": "Pareri Enti"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione",
+        "nome_file": "MASE_2026-0229565.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2026-0229565",
+        "data": "05/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1444036",
+        "sezione_menu": "Comunicazione esito valutazione"
+      },
+      {
+        "titolo": "Allegato alla Comunicazione VA esito valutazione - parere CTVA del 19/10/2026",
+        "nome_file": "par_1134_ID_VIP_15133_Gela_18_rev_signed-PROT.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "PRR 1134",
+        "data": "05/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1444037",
+        "sezione_menu": "Comunicazione esito valutazione"
       }
     ],
     "elenco_completo_prima_pagina": [
@@ -157,6 +176,14 @@
         "codice_elaborato": "MASE-2026-0205396",
         "data": "07/10/2026",
         "download_url": "https://va.mite.gov.it/File/Documento/1437723"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione",
+        "nome_file": "MASE_2026-0229565.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2026-0229565",
+        "data": "05/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1444036"
       }
     ]
   }
