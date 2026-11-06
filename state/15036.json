@@ -10,7 +10,8 @@
       "Elenchi Elaborati",
       "Documentazione di ottemperanza",
       "Documentazione integrativa volontaria",
-      "Pareri Enti"
+      "Pareri Enti",
+      "Comunicazione esito valutazione"
     ],
     "documenti_di_interesse": [
       {
@@ -102,6 +103,24 @@
         "data": "07/10/2026",
         "download_url": "https://va.mite.gov.it/File/Documento/1437722",
         "sezione_menu": "Pareri Enti"
+      },
+      {
+        "titolo": "Comunicazione VA esito valutazione",
+        "nome_file": "MASE_2026-0229556.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "MASE-2026-0229556",
+        "data": "06/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1444266",
+        "sezione_menu": "Comunicazione esito valutazione"
+      },
+      {
+        "titolo": "Allegato alla Comunicazione VA esito valutazione - parere CTVA del 19/10/2026",
+        "nome_file": "par_1133_VO_15036_Gela_18_rev_con_chiarimenti_signed-PROT.pdf",
+        "sezione": "Comunicazione esito valutazione",
+        "codice_elaborato": "PRR 1133",
+        "data": "06/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1444268",
+        "sezione_menu": "Comunicazione esito valutazione"
       }
     ],
     "elenco_completo_prima_pagina": [
