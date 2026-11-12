@@ -3,7 +3,102 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/12121",
   "nome_progetto": "REALIZZAZIONE DELLE AREE POZZI \"AGRI SUD\" E \"CERRO FALCONE SUD\", POZZO \"CERRO FALCONE 10\" (in area pozzo \"CERRO FALCONE 2\" esistente) E RELATIVE OPERE CONNESSE",
-  "dettagli_procedura": "Codice istanza online VIA100000162\nCodice procedura (ID_VIP/ID_MATTM) 15054\nOggetto: REALIZZAZIONE DELLE AREE POZZI \"AGRI SUD\" E \"CERRO FALCONE SUD\", POZZO \"CERRO FALCONE 10\" (in area pozzo \"CERRO FALCONE 2\" esistente) E RELATIVE OPERE CONNESSE\nData presentazione istanza: 15/07/2026\nData richiesta perfezionamento della documentazione: 09/09/2026\nData ricezione atti di perfezionamento della documentazione: 23/10/2026\nResponsabile del procedimento: Maria Ciuffreda - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Verifica amministrativa",
-  "hash_dettagli": "6b8c37ed7079301e3c22e05003d8f2f02f8e7727dc8bb1fbaff3e94c2609ddd4",
-  "errore": "Link 'Documentazione' non trovato: la procedura e' ancora in fase iniziale (es. 'Verifica amministrativa') e la documentazione non e' stata ancora pubblicata sul sito."
+  "dettagli_procedura": "Codice istanza online VIA100000162\nCodice procedura (ID_VIP/ID_MATTM) 15054\nOggetto: REALIZZAZIONE DELLE AREE POZZI \"AGRI SUD\" E \"CERRO FALCONE SUD\", POZZO \"CERRO FALCONE 10\" (in area pozzo \"CERRO FALCONE 2\" esistente) E RELATIVE OPERE CONNESSE\nData presentazione istanza: 15/07/2026\nData richiesta perfezionamento della documentazione: 09/09/2026\nData ricezione atti di perfezionamento della documentazione: 23/10/2026\nData avvio consultazione pubblica: 12/11/2026\nTermine presentazione Osservazioni del Pubblico: 11/01/2027\nResponsabile del procedimento: Maria Ciuffreda - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Istruttoria tecnica CTVIA",
+  "hash_dettagli": "706ada26bfb39b74b5b8ec7614c74667247932181776a1ac80d1ac8449b686d8",
+  "documentazione": {
+    "sezioni_disponibili": [
+      "Avviso al Pubblico",
+      "Elenchi Elaborati",
+      "Elaborati di Progetto",
+      "Documentazione generale",
+      "Relazione di incidenza",
+      "Progetto di monitoraggio ambientale",
+      "Sintesi non Tecnica",
+      "Relazione paesaggistica",
+      "Piano di utilizzo dei materiali di scavo"
+    ],
+    "documenti_di_interesse": [],
+    "elenco_completo_prima_pagina": [
+      {
+        "titolo": "Avviso al pubblico del 12/11/2026",
+        "nome_file": "AvvisoalPubblico.pdf",
+        "sezione": "Avviso al Pubblico",
+        "codice_elaborato": "MASE-2026-0235248",
+        "data": "12/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1445048"
+      },
+      {
+        "titolo": "Realizzazione delle aree pozzi Agri sud e Cerro Falcone sud, pozzo CF10 (in area pozzo CF2 esistente) e relative opere connesse - STUDIO DI IMPATTO AMBIENTALE",
+        "nome_file": "AMB_ME_01_66-SIA-signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "6500928f-b45c-41a0-a0ab-061300ecdc19",
+        "data": "12/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1444999"
+      },
+      {
+        "titolo": "RELAZIONE GEOLOGICA",
+        "nome_file": "AMB_ME_06_499-RelazioneGeologica-signed-signed-signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "0c494e65-cae4-4806-873c-383a5ff38530",
+        "data": "12/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1445000"
+      },
+      {
+        "titolo": "Valutazione previsionale di impatto acustico",
+        "nome_file": "AMB_ME_06_501-VIAC_signed-signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "94cc31c6-b4cc-45fd-84ab-292b933292db",
+        "data": "12/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1445001"
+      },
+      {
+        "titolo": "STUDIO DELLE EMISSIONI POLVERULENTE",
+        "nome_file": "AMB_ME_06_502-Studio_Emissioni_Polveri-signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "e3984bef-4cb8-4d20-be14-088675e1e3fd",
+        "data": "12/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1445002"
+      },
+      {
+        "titolo": "INQUADRAMENTO SU IGM",
+        "nome_file": "AMB_ME_06_507-IGM-signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "ae015089-0ed0-437e-a0af-401b398dba1f",
+        "data": "12/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1445003"
+      },
+      {
+        "titolo": "INQUADRAMENTO SU CTR",
+        "nome_file": "AMB_ME_06_508-CTR-signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "02021238-8afa-4bb0-b41d-5262216c605f",
+        "data": "12/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1445004"
+      },
+      {
+        "titolo": "INQUADRAMENTO SU ORTOFOTO",
+        "nome_file": "AMB_ME_06_509-Ortofoto-signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "caabc2f3-63f0-4705-a0fa-1eabfdcf8bfe",
+        "data": "12/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1445005"
+      },
+      {
+        "titolo": "INQUADRAMENTO SU CATASTALE",
+        "nome_file": "AMB_ME_06_510-Catastale-signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "3380b62c-75f4-47e6-81eb-9c2f30119aa5",
+        "data": "12/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1445006"
+      },
+      {
+        "titolo": "PPR - Beni Paesaggistici Art. 136",
+        "nome_file": "AMB_ME_06_511-Beni_paesaggistici_136-signed.pdf",
+        "sezione": "Documentazione generale",
+        "codice_elaborato": "adce2cdf-490a-49a3-96e7-a60739db1aac",
+        "data": "12/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1445007"
+      }
+    ]
+  }
 }
