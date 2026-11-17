@@ -3,8 +3,8 @@
   "trovato": true,
   "info_url": "https://va.mite.gov.it/it-IT/Oggetti/Info/11767",
   "nome_progetto": "Bioraffineria e impianto di riciclo materie plastiche HOOP di Priolo Gargallo (SR).",
-  "dettagli_procedura": "Codice istanza online VIAVIA100000101\nCodice procedura (ID_VIP/ID_MATTM) 13994\nOggetto: Bioraffineria e impianto di riciclo materie plastiche HOOP di Priolo Gargallo (SR).\nData presentazione istanza: 30/05/2025\nData richiesta perfezionamento della documentazione: 24/06/2025\nData ricezione atti di perfezionamento della documentazione: 01/10/2025\nData avvio consultazione pubblica: 06/10/2025\nTermine presentazione Osservazioni del Pubblico: 05/11/2025\nData comunicazione avvio nuova consultazione pubblica: 16/06/2026\nTermine presentazione Osservazioni del Pubblico su ripubblicazione : 01/07/2026\nData II ripubblicazione: 30/09/2026\nTermine presentazione Osservazioni del Pubblico - II ripubblicazione: 15/10/2026\nResponsabile del procedimento: Maria Ciuffreda - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Istruttoria tecnica CTPNRR-PNIEC",
-  "hash_dettagli": "6f24d0691a64c24c0d5d899d12d777cc296ce2f522a848866e3106d1f74e3d52",
+  "dettagli_procedura": "Codice istanza online VIAVIA100000101\nCodice procedura (ID_VIP/ID_MATTM) 13994\nOggetto: Bioraffineria e impianto di riciclo materie plastiche HOOP di Priolo Gargallo (SR).\nData presentazione istanza: 30/05/2025\nData richiesta perfezionamento della documentazione: 24/06/2025\nData ricezione atti di perfezionamento della documentazione: 01/10/2025\nData avvio consultazione pubblica: 06/10/2025\nTermine presentazione Osservazioni del Pubblico: 05/11/2025\nData comunicazione avvio nuova consultazione pubblica: 16/06/2026\nTermine presentazione Osservazioni del Pubblico su ripubblicazione : 01/07/2026\nData II ripubblicazione: 30/09/2026\nTermine presentazione Osservazioni del Pubblico - II ripubblicazione: 15/10/2026\nData III ripubblicazione: 17/11/2026\nTermine presentazione Osservazioni del Pubblico - III ripubblicazione: 02/12/2026\nResponsabile del procedimento: Maria Ciuffreda - tel. 0657225071 - 0657225070 - va-5@mase.gov.it\nStato procedura: Istruttoria tecnica CTPNRR-PNIEC",
+  "hash_dettagli": "5fde6d9451886188f43fc07d573e02afa57257603aa757992e455663b67305c8",
   "documentazione": {
     "sezioni_disponibili": [
       "Avviso al Pubblico",
@@ -81,183 +81,57 @@
         "sezione_menu": "Richiesta integrazioni della documentazione"
       },
       {
-        "titolo": "Integrazioni del 14/09/2026 - Procedimento di valutazione di impatto sanitario per l'opera \"Bioraffineria e impianto di riciclo materie plastiche HOOP® di Versalis Priolo\"",
-        "nome_file": "Allegato12-VIS_All2_20260130prot.3826_StabilimentoversalisdiPriolo-richiestariscontrovalutazioneprogettoBio-HOOP.pdf",
+        "titolo": "Integrazioni del 11/11/2026 - Allegato 15 - Riscontro alle prescrizioni componente acqua da P1 a P10",
+        "nome_file": "Allegato15-RiscontroalleprescrizionicomponenteacquadaP1aP10.pdf",
         "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "63964e32-210e-4a2d-9804-1a79796915cf",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435503",
+        "codice_elaborato": "1b4ae664-8e73-4ff1-ad73-dcb9287670e3",
+        "data": "17/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1448272",
         "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
       },
       {
-        "titolo": "Integrazioni del 14/09/2026 - PIANO DI MONITORAGGIO AMBIENTALE (ALLEGATO 4 alla VIS, già Capitolo 6 dello SIA)",
-        "nome_file": "Allegato4-AggiornamentoPianodiMonitoraggioAmbientale_signed.pdf",
+        "titolo": "Integrazioni del 11/11/2026 - PIANO DI MONITORAGGIO AMBIENTALE (ALLEGATO 4 alla VIS, già Capitolo 6 dello SIA)",
+        "nome_file": "Allegato4-AggiornamentoPianodiMonitoraggioAmbientale_revNOV26_signed.pdf",
         "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "f296244a-6efc-4853-848c-19327a6c4a10",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435504",
+        "codice_elaborato": "9c9084b1-dfb8-4438-a154-6fb3352b0e54",
+        "data": "17/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1448273",
         "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
       },
       {
-        "titolo": "Integrazioni del 14/09/2026 - STUDIO MODELLISTICO RICADUTE IN ATMOSFERA (ALLEGATO 5 alla VIS, già ALLEGATO 2 al SIA)",
-        "nome_file": "Allegato5-AggiornamentodelloStudiodiQualitadell_Aria_signed.pdf",
+        "titolo": "Integrazioni del 11/11/2026 - MAPPE DI ISOCONCENTRAZIONE (Annesso 1)",
+        "nome_file": "Allegato5_Annesso1_Mappediisoconcentrazione_signed.pdf",
         "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "76b084eb-1805-4e05-a250-10b65ba1ef52",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435505",
+        "codice_elaborato": "63553ae0-381b-4379-ae04-bade1d335e75",
+        "data": "17/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1448274",
         "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
       },
       {
-        "titolo": "Integrazioni del 14/09/2026 - MAPPE DI ISOCONCENTRAZIONE (Annesso 1)",
-        "nome_file": "Allegato5-Annesso1_Mappediisoconcentrazione_signed.pdf",
+        "titolo": "Integrazioni del 11/11/2026 - STUDIO MODELLISTICO RICADUTE IN ATMOSFERA (ALLEGATO 5 alla VIS, già ALLEGATO 2 al SIA)",
+        "nome_file": "Allegato5-AggiornamentodelloStudiodiQualitadell_Aria_revNOV26_signed.pdf",
         "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "ac7fca29-057b-4af5-8f7b-e2b1f53f1bf7",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435506",
+        "codice_elaborato": "81c59a6e-fc84-4e34-9ef3-72c8b61899fa",
+        "data": "17/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1448275",
         "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
       },
       {
-        "titolo": "Integrazioni del 14/09/2026 - Comunicazioni PEC - Integrazione VIA",
-        "nome_file": "StabilimentoVersalisdiPriolo-ComunicazioniPEC_VIAVIA100000101_IntegrazioneVIS_Allegati.pdf",
+        "titolo": "Integrazioni del 11/11/2026 - Valutazione di Impatto Sanitario Bioraffineria e impianto di riciclo materie plastiche HOOP® di Priolo",
+        "nome_file": "ValutazionediImpattoSanitarioBioraffineria_Hoop_rev.3.pdf",
         "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "01d00295-b89f-409f-b60f-fdd5f0e1675c",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435507",
+        "codice_elaborato": "0882e091-4b34-421a-9d32-91a2583537a9",
+        "data": "17/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1448276",
         "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
       },
       {
-        "titolo": "Integrazioni del 14/09/2026 - Valutazione di Impatto Sanitario Bioraffineria e impianto di riciclo materie plastiche HOOP® di Priolo",
-        "nome_file": "ValutazionediImpattoSanitarioBioraffineria_Hoop_rev.2.pdf",
+        "titolo": "Integrazioni del 11/11/2026 - Elenco Elaborati della documentazione tecnica",
+        "nome_file": "ElencoElaborati_20261111_201728.pdf",
         "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "9eaaac64-e417-445d-b6e6-5ea7715063af",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435508",
-        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
-      },
-      {
-        "titolo": "Integrazioni del 14/09/2026 - Elenco Elaborati della documentazione tecnica",
-        "nome_file": "ElencoElaborati_20260914_190902.pdf",
-        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "88ce87ab-ff65-4f58-8ea9-7882eb46c893",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435509",
-        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
-      },
-      {
-        "titolo": "Integrazioni del 14/09/2026 - Studio previsionale acustico (Allegato 3)",
-        "nome_file": "Annesso1Valutazionediimpattoacusticoaggiornata_All03_StudioImpattoAcustico_rev2.pdf",
-        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "65ddd07c-bd9b-4403-a033-35e35597cf2a",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435489",
-        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
-      },
-      {
-        "titolo": "Integrazioni del 14/09/2026 - PIANO DI MONITORAGGIO AMBIENTALE (ALLEGATO 4 alla VIS, già Capitolo 6 dello SIA)",
-        "nome_file": "Annesso2AggiornamentodelPianodiMonitoraggioAmbientale_Rev.03.pdf",
-        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "8579189f-9833-4c76-be44-63125e9a732e",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435490",
-        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
-      },
-      {
-        "titolo": "Integrazioni del 14/09/2026 - Piano Preliminare di Utilizzo delle Terre e Rocce da Scavo",
-        "nome_file": "Annesso3Pianopreliminarediutilizzoaggiornato_Priolo_PianoPreliminarediUtilizzoTRS_00__FINALE_rev.01.pdf",
-        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "5b12d74a-c197-4b64-8c63-3b166ece22c1",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435491",
-        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
-      },
-      {
-        "titolo": "Integrazioni del 14/09/2026 - Report indagini nuova bioraffineria aree etilene-SG11",
-        "nome_file": "Annesso4aRelazionegeognosticaintegrativa_rev.01.pdf",
-        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "e997f810-070c-4452-bc8e-9f29053412bc",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435492",
-        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
-      },
-      {
-        "titolo": "Integrazioni del 14/09/2026 - RELAZIONE GEOLOGICA - PRIOLO",
-        "nome_file": "Annesso4bReportinterpretativoindaginegeotecnica.pdf",
-        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "7f93dbec-aea5-4471-beba-69f145ccc321",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435493",
-        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
-      },
-      {
-        "titolo": "Integrazioni del 14/09/2026 - ALLEGATO 1 - CARTA GEOLOGICA",
-        "nome_file": "Annesso4bReportinterpretativoindaginegeotecnica_Att1.pdf",
-        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "18af8eed-da9a-4e65-a29c-0c15ce33138a",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435494",
-        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
-      },
-      {
-        "titolo": "Integrazioni del 14/09/2026 - ALLEGATO 2 - SEZIONI GEOLOGICHE - Scala 1:5.000/500",
-        "nome_file": "Annesso4bReportinterpretativoindaginegeotecnica_Att2.pdf",
-        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "feb00d66-96eb-4708-be95-38135938bb0b",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435495",
-        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
-      },
-      {
-        "titolo": "Integrazioni del 14/09/2026 - ALLEGATO 3 - CARTA IDROGEOLOGICA",
-        "nome_file": "Annesso4bReportinterpretativoindaginegeotecnica_Att3.pdf",
-        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "d9721079-e166-4c28-9729-1c3eccf1b2ab",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435496",
-        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
-      },
-      {
-        "titolo": "Integrazioni del 14/09/2026 - ALLEGATO 4 - SEZIONI IDROGEOLOGICHE",
-        "nome_file": "Annesso4bReportinterpretativoindaginegeotecnica_Att4.pdf",
-        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "d4c03bf3-d881-4136-a0bd-422dba5f4ea8",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435497",
-        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
-      },
-      {
-        "titolo": "Integrazioni del 14/09/2026 - Esito verifica suscettibilità a liquefazione in area Serbatoi SG11",
-        "nome_file": "Annesso4bReportinterpretativoindaginegeotecnica_Att5.pdf",
-        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "32ea91a7-48ab-47d9-9e31-3c102bcff047",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435498",
-        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
-      },
-      {
-        "titolo": "Integrazioni del 14/09/2026 - Nuova indagine geotecnica - Rapporto interpretativo",
-        "nome_file": "Annesso4cRelazionegeologica.pdf",
-        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "edd0348a-6132-43b3-af18-3edcfc77b236",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435499",
-        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
-      },
-      {
-        "titolo": "Integrazioni del 14/09/2026 - Integrazioni Volontarie allo Studio di Impatto Ambientale",
-        "nome_file": "IntegrazionivolontarieSIA_finale.pdf",
-        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "0cec02c2-7e88-40d6-9aa4-11f018a1bbf0",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435500",
-        "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
-      },
-      {
-        "titolo": "Integrazioni del 14/09/2026 - Elenco Elaborati della documentazione tecnica",
-        "nome_file": "ElencoElaborati_20260914_191052.pdf",
-        "sezione": "Documentazione integrativa/Documentazione integrativa volontaria",
-        "codice_elaborato": "f10197d1-d59c-40e6-b806-f2541de04c02",
-        "data": "30/09/2026",
-        "download_url": "https://va.mite.gov.it/File/Documento/1435501",
+        "codice_elaborato": "2292813c-50fa-464c-aee8-c8a286dfcf60",
+        "data": "17/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1448277",
         "sezione_menu": "Documentazione integrativa/Documentazione integrativa volontaria"
       },
       {
