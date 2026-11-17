@@ -23,7 +23,8 @@
       "Osservazioni del Pubblico inviate oltre i termini (I)",
       "Pareri/Osservazioni Enti (I)",
       "Controdeduzioni (I)",
-      "Pareri/Osservazioni Enti (II)"
+      "Pareri/Osservazioni Enti (II)",
+      "Pareri/Osservazioni Enti (III)"
     ],
     "documenti_di_interesse": [
       {
@@ -160,6 +161,15 @@
         "data": "20/10/2026",
         "download_url": "https://va.mite.gov.it/File/Documento/1440001",
         "sezione_menu": "Pareri/Osservazioni Enti (II)"
+      },
+      {
+        "titolo": "Parere dell'Istituto Superiore di Sanità - Dipartimento Ambiente e Salute in data 16/11/2026",
+        "nome_file": "MASE-2026-0237395.pdf",
+        "sezione": "Pareri/Osservazioni Enti (III)",
+        "codice_elaborato": "MASE-2026-0237395",
+        "data": "17/11/2026",
+        "download_url": "https://va.mite.gov.it/File/Documento/1448388",
+        "sezione_menu": "Pareri/Osservazioni Enti (III)"
       }
     ],
     "elenco_completo_prima_pagina": [
